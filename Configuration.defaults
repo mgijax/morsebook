@@ -1,0 +1,35 @@
+########################################################################
+#        Sample cookbook Configuration File                            #
+########################################################################
+
+# Path(s) to external library files.  Multiple directories may be
+# included by separating them with colons.  Mirror sites should direct this
+# to your mgi/lib/ directory.
+LIBDIRS     /usr/local/mgi/live/lib/python/
+
+# Path to compiled python configuration file.
+# Example-> /usr/local/mgi/live/lib/python/Configuration.pyc 
+CONFIGPATH  /usr/local/mgi/live/lib/python/Configuration.pyc
+
+# Path to the python executable
+# Example-> /usr/local/bin/python
+PYTHONPATH  /usr/local/bin/python
+
+# full URL to the associated MGI Web Interface installation
+WI_URL          http://www.informatics.jax.org/
+
+# full URL to this MGI Home installation
+MGIHOME_URL     http://www.informatics.jax.org/mgihome/
+
+############################################################################
+# The following parameters are used in the gen_include script 
+############################################################################
+MGI_PEOPLE      ${MGIHOME_URL}other/mgi_people.shtml
+
+MGI_SUPPORT     ${MGIHOME_URL}support/tjl_inbox.shtml
+
+MGI_ACC         ${WI_URL}searches/accession_report.cgi?id=
+
+ELSEVIER        http://www.elsevier.com
+
+PUBMED          http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
