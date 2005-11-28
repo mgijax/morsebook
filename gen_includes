@@ -25,11 +25,13 @@ def stringToFile (s, filename):
 ############################################################################
 
 def main ():
-    stringToFile (config['MGI_PEOPLE'],     './include/mgi_people.html')
-    stringToFile (config['MGI_SUPPORT'],    './include/mgi_support.html')
-    stringToFile (config['MGI_ACC'],        './include/mgi_acc.html')
-    stringToFile (config['PUBMED'],         './include/url_pubmed.html')
-    stringToFile (config['ELSEVIER'],       './include/url_elsevier.html')
+    stringToFile (config['MGI_PEOPLE'],        './include/mgi_people.html')
+    stringToFile (config['MGI_SUPPORT'],       './include/mgi_support.html')
+    stringToFile (config['MGI_ACC'],           './include/mgi_acc.html')
+    stringToFile (config['MGI_GLOSSARY'],      './include/mgi_glossary.html')
+    stringToFile (config['MGI_GLOSSARYTERM'],  './include/mgi_glossaryterm.html')
+    stringToFile (config['PUBMED'],            './include/url_pubmed.html')
+    stringToFile (config['ELSEVIER'],          './include/url_elsevier.html')
     return
 
 if __name__ == '__main__':
