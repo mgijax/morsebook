@@ -15,14 +15,17 @@ CONFIGPATH  /usr/local/mgi/live/lib/python/Configuration.pyc
 # Example-> /usr/local/bin/python
 PYTHONPATH  /usr/local/bin/python
 
+# Base URL To MGI
+BASE_URL http://www.informatics.jax.org/
+
 # full URL to the associated MGI Web Interface installation
-WI_URL          http://www.informatics.jax.org/
+WI_URL          ${BASE_URL}
 
 # full URL to this MGI Home installation
-MGIHOME_URL     http://www.informatics.jax.org/mgihome/
+MGIHOME_URL     ${BASE_URL}mgihome/
 
 # full URL to the associated MGI Web Interface installation
-JAVAWI_URL      http://www.informatics.jax.org/javawi2/servlet/
+JAVAWI_URL      ${BASE_URL}javawi2/servlet/
 /
 
 ############################################################################
