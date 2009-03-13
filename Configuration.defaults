@@ -26,7 +26,6 @@ MGIHOME_URL     ${BASE_URL}mgihome/
 
 # full URL to the associated MGI Web Interface installation
 JAVAWI_URL      ${BASE_URL}javawi2/servlet/
-/
 
 ############################################################################
 # The following parameters are used in the gen_include script 
