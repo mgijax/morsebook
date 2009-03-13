@@ -55,6 +55,7 @@ mkdir include
 gen_includes
 
 ###--- Create include links and update permissions ---------------###
+cd www
 
 for name in `ls`
 do
@@ -70,6 +71,8 @@ do
         fi
     fi
 done
+
+cd ..
 
 chmod -f 750 *
 chgrp -f www *
