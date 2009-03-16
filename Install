@@ -55,6 +55,11 @@ mkdir include
 gen_includes
 
 ###--- Create include links and update permissions ---------------###
+cd www
+
+ln -s ../include/ include
+chmod 750 *
+chgrp www *
 
 for name in `ls`
 do
@@ -62,7 +67,7 @@ do
         if [ $name != include ]; then
             if [ $name != CVS ]; then
                 cd $name
-                ln -s ../include/ include
+                ln -s ../../include/ include
                 chmod 750 *
                 chgrp www *
                 cd $TOP
@@ -70,6 +75,8 @@ do
         fi
     fi
 done
+
+cd ..
 
 chmod -f 750 *
 chgrp -f www *
