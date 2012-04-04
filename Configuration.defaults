@@ -38,7 +38,7 @@ MGI_PEOPLE         ${MGIHOME_URL}other/mgi_people.shtml
 MGI_SUPPORT        ${MGIHOME_URL}support/mgi_inbox.shtml
 
 # To the MGI accession search
-MGI_ACC            ${WI_URL}searches/accession_report.cgi?id=
+MGI_ACC            ${MGI}accession/
 
 # MGI glossary list of terms
 MGI_GLOSSARY       ${JAVAWI_URL}WIFetch?page=glossaryIndex&print=no
