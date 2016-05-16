@@ -31,7 +31,7 @@ do
         CONFIGPATH)
             CONFIGPATH=$value;;
         PYTHONPATH)
-            PYTHONPATH=$value;;
+            python_path=$value;;
     esac
 done
 exec 0<&4
@@ -45,7 +45,7 @@ ln -s $CONFIGPATH Configuration.pyc
 if [ -h python ]; then
     rm python
 fi
-ln -s $PYTHONPATH python
+ln -s $python_path python
 
 ###--- Untar the book files --------------------------------------###
 tar xvfp morsebook.tar
