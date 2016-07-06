@@ -24,9 +24,6 @@ WI_URL          ${BASE_URL}
 # full URL to this MGI Home installation
 MGIHOME_URL     ${BASE_URL}mgihome/
 
-# full URL to the associated MGI Web Interface installation
-JAVAWI_URL      ${BASE_URL}javawi2/servlet/
-
 ############################################################################
 # The following parameters are used in the gen_include script 
 ############################################################################
@@ -41,11 +38,10 @@ MGI_SUPPORT        ${MGIHOME_URL}support/mgi_inbox.shtml
 MGI_ACC            ${BASE_URL}accession/
 
 # MGI glossary list of terms
-MGI_GLOSSARY       ${JAVAWI_URL}WIFetch?page=glossaryIndex&print=no
+MGI_GLOSSARY       ${FEWI_URL}glossary
 
-# MGI glossary term; term to to placed at end, and must correspond to
-# the key value of the glossary.rcd file; see javawi.wiconfig for location
-MGI_GLOSSARYTERM   ${JAVAWI_URL}WIFetch?page=glossaryTerm&key=
+# MGI glossary term; term to to placed at end
+MGI_GLOSSARYTERM   ${MGI_GLOSSARY}/
 
 ELSEVIER           http://www.elsevier.com
 
