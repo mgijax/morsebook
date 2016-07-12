@@ -38,7 +38,7 @@ MGI_SUPPORT        ${MGIHOME_URL}support/mgi_inbox.shtml
 MGI_ACC            ${BASE_URL}accession/
 
 # MGI glossary list of terms
-MGI_GLOSSARY       ${FEWI_URL}glossary
+MGI_GLOSSARY       ${BASE_URL}glossary
 
 # MGI glossary term; term to to placed at end
 MGI_GLOSSARYTERM   ${MGI_GLOSSARY}/
