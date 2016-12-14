@@ -45,4 +45,4 @@ MGI_GLOSSARYTERM   ${MGI_GLOSSARY}/
 
 ELSEVIER           http://www.elsevier.com
 
-PUBMED   http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
+PUBMED   https://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
