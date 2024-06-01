@@ -11,9 +11,6 @@ LIBDIRS     /usr/local/mgi/live/lib/python/
 # Example-> /usr/local/mgi/live/lib/python/Configuration.pyc 
 CONFIGPATH  /usr/local/mgi/live/lib/python/Configuration.pyc
 
-# Path to the python executable
-PYTHONPATH  /opt/python3.7/bin/python3
-
 # Base URL To MGI
 BASE_URL http://www.informatics.jax.org/
 

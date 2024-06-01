@@ -5,6 +5,18 @@
 # Assumptions: that this script is run from the directory which contains it
 #   (the morsebook installation directory)
 
+#
+#  If the MGICONFIG environment variable does not have a local override,
+#  use the default "live" settings.
+#
+if [ "${MGICONFIG}" = "" ]
+then
+    MGICONFIG=/usr/local/mgi/live/mgiconfig
+    export MGICONFIG
+fi
+
+. ${MGICONFIG}/master.config.sh
+
 ###--- Global Variables ---###
 
 TOP=`pwd`
@@ -30,8 +42,6 @@ do
             LIBDIRS=$value;;
         CONFIGPATH)
             CONFIGPATH=$value;;
-        PYTHONPATH)
-            python_path=$value;;
     esac
 done
 exec 0<&4
@@ -45,7 +55,7 @@ ln -s $CONFIGPATH Configuration.pyc
 if [ -h python ]; then
     rm python
 fi
-ln -s $python_path python
+ln -s $PYTHON python
 
 ###--- Untar the book files --------------------------------------###
 tar xvfp morsebook.tar
