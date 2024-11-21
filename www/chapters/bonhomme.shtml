@@ -1,0 +1,610 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="chapman.shtml">Previous</A> <A HREF="miller.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 44 -->
+
+<H2>The Extent of Allelic Diversity Underlying Electrophoretic Protein Variation in the House Mouse<SUP>
+<A HREF="#note1">1</A></SUP></H2>
+
+<H3>Francois Bonhomme<SUP>
+<A HREF="#note2">2</A></SUP><BR>
+Robert K. Selander<BR><BR>
+
+Department of Biology<BR>
+University of Rochester<BR>
+Rochester, New York</H3>
+
+<P>Although technological developments may soon make it feasible to use amino acid and nucleotide sequences in measuring 
+genic diversity in individuals and populations, thus far the most practical and productive model has involved the indirect 
+assessment of variation in protein structure by the use of electrophoresis -- the allozyme technique introduced to population 
+genetics by J.L. Hubby, R.C. Lewontin, and H. Harris in 1966. Early demonstrations of large amounts of polymorphism and 
+heterozygosity at structural gene loci in fruit flies, house mice, and humans led to several major developments in population 
+genetics, including a revision of concepts of genetic load and a revival of interest in genetic drift and the possibility of 
+nonselective modification of gene pools (concepts, data, and literature summarized in references 
+<A HREF="#ref44-1">1</A>, 
+<A HREF="#ref44-2">2</A>, 
+<A HREF="#ref44-3">3</A>, 
+<A HREF="#ref44-4">4</A>, 
+<A HREF="#ref44-5">5</A>). As more species were studied, it became apparent that estimates of genic heterozygosity for <I>Drosophila</I> 
+and other invertebrates are, on the average, twice as large as those for mammals and other vertebrates (
+<A HREF="#ref44-6">6</A>). Ecological correlates of this difference were suggested by Selander and Kaufman (
+<A HREF="#ref44-7">7</A>) and Gillespie (
+<A HREF="#ref44-8">8</A>), whereas Nei (
+<A HREF="#ref44-4">4</A>) and Soul&#233; (
+<A HREF="#ref44-9">9</A>) attributed it to an average difference in species number. Another possibility (which has been examined in 
+the work reported here) is that electrophoretically derived measures of heterozygosity provide a misleading picture, mammals and 
+some other vertebrates only <I>appearing</I> to be less variable than invertebrates because in homeotherms there are greater 
+selective constraints on amino acid substitutions affecting the net electrostatic charge of proteins.
+
+<A NAME="heterozygosity"></A>
+<P>The house mouse, <I>Mus musculus</I>, is a "typical" vertebrate in respect to the amount of electrophoretically demonstrable genic 
+variation carried by natural populations. Estimates of mean individual heterozygosity over 41 loci for different populations vary 
+from 6% to 11%, with an average of 8.0% (
+<A HREF="#ref44-10">10</A>, 
+<A HREF="#ref44-11">11</A>).
+
+<A NAME="electromorph"></A><A NAME="equilibrium"></A>
+<P>Increasingly in recent years it has been realized that, because electromorphs may be a special class of variants (
+<A HREF="#ref44-12">12</A>, 
+<A HREF="#ref44-13">13</A>), our estimates of genic variation may be heavily biased and, hence, unreliable. Even more importantly, recent 
+considerations of various integer-step or "ladder" models postulating that alleles at structural gene loci are clustered in a 
+generally small number of net-charge classes (
+<A HREF="#ref44-14">14</A>) have made it clear that there can be large amounts of allelic diversity underlying individual electromorphs, 
+and that the extent of this diversity may depend on factors other than the proportion of amino acid substitutions that affects the net charge of proteins (
+<A HREF="#ref44-15">15</A>). Even the magnitude of the "hidden" fraction of allelic variation remains unknown (
+<A HREF="#ref44-16">16</A>), yet knowledge of the actual numbers and frequencies of alleles in populations is crucial to further advances 
+in the field of molecular population genetics (
+<A HREF="#ref44-17">17</A>). Attempts to test the neutral theory and its recent derivatives, the mutation-equilibrium theory (
+<A HREF="#ref44-18">18</A>, 
+<A HREF="#ref44-19">19</A>) of molecular evolution, have failed largely because the available data pertain to electromorphs rather than 
+actual alleles. For example, it has been argued that the neutral theory cannot account for geographic uniformity of molecular 
+polymorphisms, combined with relatively small numbers of "alleles" (= electromorphs) in species of <I>Drosophila</I> and some 
+other organisms. If migration sufficient to account for the uniformity is invoked (
+<A HREF="#ref44-20">20</A>, 
+<A HREF="#ref44-21">21</A>), effective population size is inflated and large numbers of alleles are expected (
+<A HREF="#ref44-22">22</A>). But what if electromorphs represent highly heterogeneous charge classes of alleles convergently evolving in 
+different populations? Again, Milkman's (
+<A HREF="#ref44-23">23</A>) report of a small effective "allele" (= electromorph) number at each of five loci in <I>Escherichia coli</I> 
+would seem to be incompatible with a theory of neutrality, but the results are not contrary to predictions of the mutation-equilibrium 
+model, which, even for large populations, postulates the generation of a relatively small number of allelically heterogeneous electromorphs.
+
+<P>To detect structural variants of proteins of similar electrophoretic mobility, additional means of analysis, assessing physicochemical 
+properties other than net charge, must be employed. By varying gel concentration and pH and applying a heat-stability test, Singh <I>et al.</I> (
+<A HREF="#ref44-17">17</A>) revealed a total of 37 allelic classes of xanthine dehydrogenase in 146 genomes of <I>Drosophila pseudoobscura</I>, where only six had 
+previously been recognized in the species. (This may be an exceptionally polymorphic locus, as these authors note.) The major effect of varying 
+gel concentration was to enhance the resolution of bands, so that small differences in mobility were increased.
+
+<P>The success of Singh <I>et al.</I> (
+<A HREF="#ref44-17">17</A>), Coyne (
+<A HREF="#ref44-24">24</A>), and others in revealing "hidden" variability in several enzymes in <I>Drosophila</I> by modifying electrophoretic conditions 
+immediately raises the question: Are there equivalent amounts of this type of "hidden" variation as yet undetected in the house mouse? We think not. 
+House mouse proteins already have been electrophoresed in many laboratories on both acrylamide and starch gels under a wide variety of conditions, 
+including gel concentration and pH. For example, we have employed nine buffer types in screening enzymes and other proteins in our laboratory.
+
+<P>Although the recent work on <I>Drosophila</I> has demonstrated the existence of "hidden" variability at several loci, we as yet have no knowledge 
+for any organism of the full extent of allelic heterogeneity of electromorphs. What is needed is a method of determining the actual number of alleles 
+per locus over a randomly selected set of loci. In our recent work on electrophoretic mobility and thermostability of proteins in the house mouse (
+<A HREF="#ref44-25">25</A>), we have employed an experimental approach that potentially can yield reliable estimates of the total allelic diversity at structural 
+gene loci. The results of this work are summarized here.
+
+<P><CENTER>MATERIALS AND METHODS</CENTER>
+
+<P><U>Strains of Mice</U>. Our analysis was based on adults of 39 laboratory strains: A/He, Au/Ss, AKR, BALB/c, BDP, BUB/Bn, CBA, C3H/He, C57BL/10, 
+C57BL/Ha, C57BR/cd, C58-waved, CE, DBA/2, DBA/LiHa, DE, DN, HRS, ICR/Ha, I/St, JB, LP, MA/My, NZB/BlN, P, PL, RF, RIII/2, SEC/Re, SJL, SM/J, ST/b, SWR, 
+YBR, Yebt, 129, CALIF, MOR, ALBU. All but three of the strains were fully inbred and, hence, monogenic; MOR and ALBU were only partially inbred; CALIF 
+is a heterogeneous group of hybrids between a wild stock of <I>M. musculus</I> from California and <I>M. m. castaneus</I> from Asia. Additionally, eight 
+individuals each of <I>M. m. castaneus</I> and <I>M. m. molossinus</I> were used in analyzing esterases, PGI, and non-enzymatic proteins.
+
+<P><U>Tissue Extracts.</U> Samples of plasma, hemolysate, and aqueous extracts of kidney and liver were prepared according to methods described by Selander <I>et al.</I> (
+<A HREF="#ref44-26">26</A>).
+
+<P><U>Treatment with Thiol Reagents</U>. Twenty inbred strains were screened for variation in the effects of p-chloromercuribenzene sulfonate, 
+cystamine, maleate, oxidized glutathione, and N-ethylmaleimide on the electrophoretic mobilities of 33 enzymes and other proteins. Reagent solutions 
+of 10<SUP>-2</SUP>M concentration in a phosphate buffer, pH 6.0, were mixed in equal volume with plasma, hemolysate, or tissue extract and incubated 
+at 37&#176;C for 30 min before electrophoresis.
+
+<P><U>Heat Denaturation</U>. Prior to electrophoresis, aliquots (30-65 microliters) of plasma, hemolysate, kidney extract, and liver extract, in 5 ml 
+corked glass culture-tubes were heated for 20 min in a waterbath at temperatures ranging in 3&#176;C steps from 44&#176;C to 65&#176;C.
+
+<P><U>Electrophoresis and Protein Staining</U>. The procedures (including starch-gel types and stain recipes) were similar to those of Selander <I>et al.</I> (
+<A HREF="#ref44-26">26</A>). Details concerning the six gel-buffer systems used and other aspects of technique are given by Bonhomme and Selander (
+<A HREF="#ref44-25">25</A>).
+
+<A NAME="hbb"></A>
+<P>The 18 proteins (14 enzymes and 4 non-enzymatic proteins), together with the corresponding tissue extracts used in this survey (Tables 
+<A HREF="#ref44-1">1</A> and 
+<A HREF="#ref44-2">2</A>), were glutamic oxaloaacetic transaminase-2 (
+GOT-2), liver extract; phosphoglucose isomerase (
+PGI), hemolysate; malate dehydrogenase-1 (
+MDH-1), kidney; lactate dehydrogenase-A and -B (
+LDH-1 and 
+LDH-2), kidney; 6-phosphoguconate dehydrogenase (
+G-6PDH), hemolysate; phosphoglucomutase-1 and -2 (
+PGM-1 and 
+PGM-2), hemolysate and liver; esterase-A (
+EST-A), hemolysate; esterase-1 (
+EST-1), plasma; esterase-2 (
+EST-2), plasma; esterase-3 (
+EST3), hemolysate; esterase-D (
+EST-D), plasma; albumin (
+ALB), plasma; protein-A (
+PROTEIN-A), plasma; protein-2 (
+PROTEIN-2), hemolysate; and hemoglobin (
+HBB), hemolysate.
+
+<P>Work on nine other proteins examined in preliminary studies was discontinued because the results could not be precisely replicated: two peptidases (in hemolysate); malate dehydrogenase-2 (
+MDH-2), kidney; &alpha;-glycerophosphate dehydrogenase (
+&alpha;GPDH), liver; sorbitol dehydrogenase (
+SDH), liver; alcohol dehydrogenase (
+ADH), liver; malic enzyme (
+ME), kidney; isocitrate dehydrogenase-1 (
+IDH-1), kidney; and glutamic oxaloacetic transaminase-1 (
+GOT-1), liver.
+
+<P><U>Procedure</U>. Two surveys were made, each involving extracts from one mouse of each strain. Some 9,000 aliquots were 
+electrophoresed on 450 gels in the course of the study.
+
+<P><CENTER>RESULTS</CENTER>
+
+<A NAME="hidden"></A>
+<P><CENTER>Treatment with Thiol Reagents</CENTER>
+
+<P>A method for detecting certain amino acid substitutions leading to the acquisition or loss of cysteine residues was developed by Hopkinson and Harris (
+<A HREF="#ref44-27">27</A>) for use in screening human populations for "silent" ("hidden") variants of peptidase and other enzymes in hemolysates. Allozymes differing 
+in number of free reactive sulfhydryl (-SH) groups can be distinguished electrophoretically following treatment with thiol reagents. With each reagent, the 
+reaction product exhibits a characteristic electrophoretic mobility that is either the same as the untreated enzyme or faster or slower, depending on whether 
+the added moiety is neutral, acidic, or basic.
+
+<P>The electrophoretic mobility of 16 of the 33 proteins tested in the house mouse (including 
+PGI, ALB, LDH-1, ME, IDH-1, GOT-1, and MPI) was modified in the "direction" and to the extent predicted by knowledge of the charge characteristics of 
+the various reagents, and that of 17 of the proteins was unaffected. But for none of the proteins was there evidence of interstrain heterogeneity. Some 
+enzymes (<I>e.g.</I>, LDH, ME, and IDH) were inhibited by PCMB and/or by one or more other reagents, but, again, there was no interstrain heterogeneity 
+in the reaction.
+
+<A NAME="thermostability"></A>
+<P><CENTER>Heterogeneity in Thermostability of Electromorphs</CENTER>
+
+<P>No interstrain heterogeneity was detected in the thermostability of the electromorphs of any of the four non-enzymatic proteins studied (
+<a href="javascript:windowt441 = window.open('../tables/table44-1.shtml', 'windowt441', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt441.focus()">Table 1</A>), 
+and the electromorphs themselves did not differ in thermostability.
+
+<P>The 14 enzymes analyzed are represented in the 39 strains of mice by a total of 27 electromorphs. As shown in 
+<a href="javascript:windowt441 = window.open('../tables/table44-1.shtml', 'windowt441', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt441.focus()">Table 1</A>, 
+for nine of the enzymes heat treatment revealed no heterogeneity within or between electromorphs. Thus, for example, the 
+thermostability profiles of strains homozygous for either fast- or low-migrating electromorphs (allozymes) of GOT-2 were indistinguishable, and, similarly, 
+the two electromorphs could not be distinguished.
+
+<P>But in the case of five esterases (
+<a href="javascript:windowt442 = window.open('../tables/table44-2.shtml', 'windowt442', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt442.focus()">Table 2</A>), 
+the heat-denaturation technique revealed differences between electromorphs, and at four of these loci (EST-A, EST-1, EST-2 and EST-D), 
+interstrain heterogeneity within electromorphs was detected. For example, at the electrophoretically monomorphic EST-A locus, most strains have an allele 
+encoding a heat-resistant form of the enzyme (100R), which retains full activity at 50&#176;C, but only a trace at 56&#176;C. But the strains AKR and SJL have 
+a heat-sensitive form of the protein that denatures between 44&#176; and 50&#176;C. Progeny tests demonstrated a simple co-dominant Mendelian segregation of the 
+100R and 100S alleles at the EST-A locus; and we have determined that both alleles (100R and 100S) are segregating in <I>M. m. castaneus</I>. The total number of 
+new alleles detected in our survey was four, one each at four of the esterase loci.
+
+<P>Major changes in configuration of albumin and the other non-enzymatic proteins probably must occur on heating before we are able to detect decreases in 
+concentration of the proteins at their normal positions on gels. But even minor changes in the tertiary (or quaternary) structure of an enzyme might lessen 
+or eliminate its activity. Hence, the power of the heat-denaturation technique to detect heterogeneity among polypeptides undoubtedly is much greater for enzymes 
+than for other proteins. In the following analysis and discussion, we will consider only the data derived from our studies of the 14 enzymes.
+
+<P><CENTER>Estimating Total Genic Diversity</CENTER>
+
+<P>The total number of allelic classes detected in our survey of 14 enzyme loci was 31, which may not be considered as 27 electromorphs = 4 thermomorphs not 
+detected by electrophoresis, or as 20 thermomorphs + 11 electromorphs not detected by heat-denaturation (
+<a href="javascript:windowt443 = window.open('../tables/table44-3.shtml', 'windowt443', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt443.focus()">Table 3</A>).
+
+<P>We will call <U>allopeptides</U> the distinctive polypeptides encoded by a structural gene locus; and the number of these is equivalent to the number of 
+alleles segregating at a locus. <U>Allomorphs</U> are defined as sets of one or more allopeptides having the same properties in regard to the techniques of 
+detection employed. Since an invariable locus is nevertheless represented by one polypeptide, a relevant measure of total variability is the number of allopeptides 
+minus one; and the comparable measure of the variation revealed by a technique or several techniques is the number of allomorphs detected minus one.
+
+<P>For purposes of computation, let <I>X</I> = the (unknown) actual (total) number of allopeptides (or alleles) at <I>L</I> loci assayed, which in the present 
+case is 14; <I>A</I> = the number of allomorphs demonstrated by joint application of electrophoresis and heat-denaturation and heat-denaturation = 31; <I>E<SUB>v</SUB></I> = 
+the number of electromorph variants, which is <I>E</I> - <I>L</I> = 27 - 14 = 13; <I>T<SUB>v</SUB></I> = the number of thermomorph variants, which is <I>T</I> - <I>L</I> = 
+20 - 14 = 6; <I>J<SUB>v</SUB></I> = the number of allomorph variants detected by joint application of the two techniques, which is <I>A</I> - <I>L</I> = 31 - 14 = 17; 
+and <I>U</I> = the (unknown) actual number of undetected allopeptide variants.
+
+<P>If the two techniques employed are orthogonal, such that the probability of an allopeptide variant being recognized electrophoretically is independent of the 
+probability of its being detected by heat-denaturation, it can be shown that
+ 
+<P>&nbsp;&nbsp;&nbsp;<I>U</I> = (<I>J<SUB>v</SUB></I> - <I>E<SUB>v</SUB></I>) (<I>J<SUB>v</SUB></I> - <I>T<SUB>v</SUB></I>)/(<I>J<SUB>v</SUB></I> - 
+(<I>J<SUB>v</SUB></I> - <I>E<SUB>v</SUB></I>) - (<I>J<SUB>v</SUB></I> - <I>T<SUB>v</SUB></I>))
+
+<P>&nbsp;&nbsp;&nbsp;<I>U</I> = (17- 13) (17-6)/(17 - (17-13) - (17 - 6)) = 44/2 = 22
+
+<P>Then, the estimated actual number of allopeptide variants, <I>V</I> = <I>J<SUB>v</SUB></I> + <I>U</I> = 17 + 22 = 39. And the estimated actual number of 
+allopeptides or alleles at the 14 loci, <I>X</I> = <I>V</I> + <I>L</I> = 39 + 14 = 53 (or <I>X</I> = <I>A</I> + <I>U</I> = 31 + 22 = 53). Hence, the estimated mean 
+number of alleles per locus is <I>X</I>/<I>L</I> = 53/14 = 3.8, which compares with 1.9 electromorphs per locus; 1.4 thermomorphs per locus; and 2.2 allomorphs per locus.
+
+<P>The power of electrophoresis to detect variants is <I>E<SUB>v</SUB></I>/<I>V</I> = 13/39 = 0.33, and that of heat-denaturation is <I>T<SUB>v</SUB></I>/<I>V</I> = 
+6/39 = 0.15. Jointly applied, the power of the two techniques is <I>J<SUB>v</SUB></I>/<I>V</I> = 17/39 = 0.44. Of the estimated 53 alleles at the 14 enzyme 
+loci assayed, approximately 50% (<I>E</I>/<I>X</I> = 27/53) were detected by electrophoresis, 38% by heat-denaturation, and 58% by joint application of the 
+techniques. The undetected proportion was 42%.
+
+<A NAME="musculus"></A>
+<P><CENTER>DISCUSSION</CENTER>
+
+<P>A significant finding from our research on the house mouse is that the heat-denaturation technique we have used apparently is rather efficient at 
+differentiating proteins with amino acid differences at the level that characterizes electromorphs. (Whether or not this level is at or near the single 
+substitution is another problem.) In half the pairwise comparisons of electromorphs, a thermostability difference was detected. The generally low level of 
+demonstrable heterogeneity among the 27 electromorphs at 14 enzyme loci over 39 strains of the house mouse is important, since it immediately suggests 
+that there cannot be large amounts of hidden variation at most of the loci examined. Our findings, when compared with those for XDH, ODH, and EST-5 in 
+<I>Drosophila</I> (
+<A HREF="#ref44-17">17</A>, 
+<A HREF="#ref44-24">24</A>, 
+<A HREF="#ref44-28">28</A>) suggest that the differences in effective number of alleles and heterozygosity between <I>Mus</I> and <I>Drosophila</I> are greater than 
+those indicated by electrophoretically derived estimates.
+
+<A NAME="brevirostris"></A><A NAME="castaneus"></A><A NAME="domesticus"></A><A NAME="molossinus"></A><A NAME="musculus"></A>
+<P>The value of our approach and results depends on the validity of several underlying assumptions. First, we have assumed that the 39 laboratory strains and a 
+small number of individuals of the subspecies <I>M. m. castaneus</I> and <I>M. m. molossinus</I> represent the species <I>Mus musculus</I> as a whole insofar 
+as the common alleles at the 14 enzyme loci studied are concerned. One could argue that this is a safe assumption because most of the high- and 
+moderate-frequency, widespread electromorphs occurring in wild populations also are represented in the group of domestic strains used in our study (
+<A HREF="#ref44-29">29</A>, 
+<A HREF="#ref44-30">30</A>, 
+<A HREF="#ref44-31">31</A>, 
+<A HREF="#ref44-32">32</A>). But we cannot determine precisely how many genomes from wild populations are represented in the 39 strains, although the number 
+probably is between 10 and 20. Laboratory strains were derived from wild populations in Europe and the United States and are a mixture of the subspecies 
+<I>M. m. domesticus</I>, <I>M. m. brevirostris</I>, and <I>M. m. musculus</I>, but their origins cannot now be sorted out. To increase the representation 
+of the species, we included individuals of <I>M. m. castaneus</I> and <I>M. m. molossinus</I> and the CALIF strain.
+
+<P>Second, we have assumed that charge-changing amino acid substitutions are a representative subset of substitutions with regard to their effect on 
+thermostability. At present, we have no evidence bearing on this problem. If in fact thermostability differences are likely to be associated with 
+charge-changing substitutions, we have erred in underestimating the mean number of alleles per locus. But even if the techniques are not strictly 
+independent, our experimental approach can yield valuable insight into the problem of the amount of "hidden" variability in populations by providing 
+information on the relative amounts of heterogeneity within and between electromorphs. Moreover, studies of a variety of organisms will provide a test 
+of the predictions of Nei and Chakraborty (
+<A HREF="#ref44-15">15</A>) regarding the amounts of allelic diversity underlying electromorphs that would be expected according to the neutral and the 
+mutation-equilibrium theories of molecular polymorphism.
+
+<P>On the theory that electromorphs are allelically heterogeneous charge classes that can convergently evolve in populations, several models of 
+step-wise integer production of electromorphs recently have been investigated (
+<A HREF="#ref44-14">14</A>, 
+<A HREF="#ref44-33">33</A>, 
+<A HREF="#ref44-34">34</A>, 
+<A HREF="#ref44-35">35</A>). In these models, mean selection coefficients may be equal over electromorphs or may increase with increasing distance of an 
+electromorph from that of the "type allele." But in any event, it is proposed that polymorphism can be maintained in populations by a balance between 
+mutation to slightly deleterious alleles (whose products are manifested as electromorphs at integer states on gels) and selection against the mutants. 
+Provisions of the models are that the product of the effective population size and the mutation rate is large and that the selection coefficient is 
+larger than the mutation rate. Under these conditions, there will be in large populations a build-up of silent heterogeneity underlying electromorphic 
+variation.
+
+<P>Nei and Chakraborty (
+<A HREF="#ref44-15">15</A>, 
+<A HREF="#ref44-36">36</A>, 
+<A HREF="#ref44-37">37</A>) have pointed out that the prevalent notion that electrophoresis detects some fixed proportion (<I>e.g.</I>, 1/4) of variant polypeptides 
+is erroneous. Rather, the proportion of alleles detectable by electrophoresis depends on population size. Using the infinite allele model of Kimura and Crow (
+<A HREF="#ref44-38">38</A>) to obtain the expected number of alleles at the codon level (neglecting selection), Ewens' (
+<A HREF="#ref44-39">39</A>) formula for the expected number of alleles in a sample of <I>s</I> genes at equilibrium, and Kimura and Ohta's (
+<A HREF="#ref44-41">41</A>) formula for the expected number of electromorphs per locus, they have calculated the proportion of alleles undetectable by electrophoresis for various values of 
+<I>L</I> = <I>N<SUB>e</SUB>v</I> (where <I>N<SUB>e</SUB></I> is the effective population size and <I>v</I> the mutation rate at the codon level) and sample 
+sizes (<I>s</I>). If <I>L</I> is smaller than 0.01, the ratio of numbers of silent alleles to electromorphs is very small (<I>e.g.</I>, 1.2 alleles per 1.1 
+electromorphs in samples of 200), but if <I>L</I> is large (<I>e.g.</I>, 4.0), the expected number of silent alleles per electromorph in samples of 200 is 8 
+(42 alleles at the codon level and 5 electromorphs). In general, they argue that <I>L</I> may actually be less than 1, since, as they note, the average 
+heterozygosity for electromorphs is 0.3 or less in all bisexual organisms thus far studied.
+
+<P>The model is simplistic, but it has the advantage of making specific predictions that can be tested, even if we cannot determine the absolute values of 
+<I>N<SUB>e</SUB></I> for different organisms. The proportion of hidden genetic variability relative to total variability or to that detectable 
+electrophoretically should be large in species with large numbers; whereas in species with small numbers, most of the variability should be detectable 
+electrophoretically. Where there is little or no hidden variability, adjacent electromorphs will differ at little more than one amino acid, on the average.
+
+<P>Chakraborty and Nei (
+<A HREF="#ref44-36">36</A>) have estimated the probability distributions of the number of codon differences between two identical electromorphs and between two 
+electromorphs with a one-step difference in charge (<I>M</I> = <I>4N<SUB>e</SUB>v</I>, and <I>c</I> is assumed to be 1/4). If <I>M</I> = <I>4N<SUB>e</SUB>v</I> 
+is 0.1, 87% of electromorphs will differ at one codon only; and there will be essentially no heterogeneity within electromorphs (there will be almost no 
+hidden variation). As <I>M</I> increases (<I>e.g.</I>, as <I>N<SUB>e</SUB></I> increases) to 10, the ratio of codon difference within electromorphs to 
+those between electromorphs approaches 1, and the average number (and the variance) of codon differences increases to about 5. At <I>M</I> = 10, only 
+16% of one-step electromorphs differ in a single codon, and only 22% of identical electromorphs have identical codon structure.
+
+<P>According to Nei and Chakraborty's (
+<A HREF="#ref44-36">36</A>) model, in a sample of 40 genes, a ratio of 3.7 alleles at the codon level to 1.7 electromorphs per locus is expected when <I>L</I> = 0.2. 
+If, for example, the mutation rate is 10<SUP>-8</SUP>, <I>N<SUB>e</SUB></I> would be 5 x 10<SUP>6</SUP>. Since the mean numbers of alleles and electromorphs 
+per locus estimated for the house mouse (3.8 alleles/1.9 electromorphs) are similar to those in the example, the question arises: Can the effective number for 
+this species be as small as 5 x 10<SUP>6</SUP>? In other words, is it a reasonable possibility that the house mouse, notwithstanding its present worldwide 
+distribution, is, from an evolutionary standpoint, a relatively small species? We think so for the following reasons: 1) The present worldwide distribution 
+and very large population size of <I>Mus musculus</I> were achieved in historical times; and prior to the Neolithic period (&#152;4,000 B.P.), the subspecies 
+which now occupy Europe, the Western Hemisphere, Australia, and other areas of the world were confined tot he Middle East (see a review in reference 
+<A HREF="#ref44-40">40</A>). Since the effective size of a population is approximately the harmonic mean of numbers of breeding individuals over generations, the 
+relatively recent expansion in size will have had very little effect on the effective species number. 2) Because subdivision of <I>Mus musculus</I> is 
+extensive at several levels from the local breeding unit to the subspecies, <I>N<SUB>e</SUB></I> probably is not to be equated with the full species number 
+(see discussion in reference 
+<A HREF="#ref44-9">9</A>). Soul&#233; (
+<A HREF="#ref44-9">9</A>) suggests that <I>N<SUB>e</SUB></I> for <I>Mus musculus</I> is &#152;10<SUP>7</SUP> and for some other mammals from 10<SUP>4</SUP> to 10<SUP>6</SUP>. 
+Compared with some widely distributed species of <I>Drosophila</I> and other small invertebrates, the effective species number of the house mouse, and of 
+vertebrates in general, undoubtedly is several orders of magnitude smaller.
+
+<P>In sum, to a first approximation, our results seem compatible with predictions of the Nei-Chakraborty theory. For the house mouse, we estimate that, on 
+the average, there are only 3.8 alleles per structural gene locus, and that half the existing allelic variation is detectable electrophoretically. Further 
+testing of the theory, involving comparable studies of organisms having very large species numbers, such as <I>Drosophila pseudoobscura</I> and 
+<I>Escherichia coli</I>, presently are in progress in our laboratory.
+
+<P><CENTER>SUMMARY</CENTER>
+
+<P>In a survey of variation in both electrophoretic mobility and thermostability of 14 enzymes in 39 laboratory strains of the house mouse (<I>Mus musculus</I>), 
+27 electromorphs and 20 thermomorphs were identified. Heat-denaturation detected 4 variants within electromorphs, and electrophoresis detected 11 variants within 
+thermomorphs. The total number of distinctive polypeptides (allomorphs) distinguished by joint application of the techniques was 31. From these data, and on the 
+assumption that heat-denaturation and electrophoresis are independent, orthogonal methods of detecting variation, it is estimated that the actual total number 
+of alleles at the 14 enzyme loci is 53, or an average of 3.8 per locus (2.0 per electromorph). Electrophoresis apparently detects one-third of variant polypeptides, 
+thus revealing about 50% of the alleles at structural gene loci in the house mouse. To a first approximation, the results of this analysis are consistent with 
+predictions of the Nei-Chakraborty theory regarding the degree of allelic heterogeneity of electromorphs as a function of the species number.
+
+<P>No heterogeneity within or between electromorphs of four non-enzymatic proteins was detected by the heat-denaturation technique. And for 33 enzymes and 
+other proteins, treatment with various thiol reagents failed to reveal heterogeneity among 16 strains of mice tested.
+
+<HR>
+
+<P><A NAME="note1"></A><SUP>1</SUP>Research supported by NIH Grant 2RO1 GM-22126.
+
+<P><A NAME="note2"></A><SUP>2</SUP>Present address: Laboratoire d'Electrophor&#233;se du C.E.R.E.M., Universit&#233; des 
+Sciences et Techniques du Languedoc, Montpelier, France.
+<HR>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref44-1"></A>
+<P>1. Kimura, M., and Ohta, T. (1971). <I>Theoretical Aspects of Population Genetics</I>. Princeton University Press, Princeton, N.J.
+
+<A NAME="ref44-2"></A>
+<P>2. Le Cam, L.M., Neyman, J., and Scott, E.L. (eds.) (1972). Proc. Sixth Berkeley Symp. Math. Stat. Prob., vol. V. University of California Press, Berkeley.
+
+<A NAME="ref44-3"></A>
+<P>3. Lewontin, R.C. (1974). <I>The Genetic Basis of Evolutionary Change</I>. Columbia University Press, New York.
+
+<A NAME="ref44-4"></A>
+<P>4. Nei, M. (1975). <I>Molecular Population Genetics and Evolution</I>. North-Holland, Amsterdam.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->PMID: 1228006" target="_blank">PubMed</A></I>.
+<!-- PMID: 1228006 -->
+
+<A NAME="ref44-5"></A>
+<P>5. Ayala, F.J. (ed.) (1976). <I>Molecular Evolution</I>. Sinauer, Sunderland, Mass.
+
+<A NAME="ref44-6"></A>
+<P>6. Selander, R.K. (1976). In <I>Molecular Evolution</I> (F.J. Ayala, ed.), p. 21. Sinauer, Sunderland, Mass.
+
+<A NAME="ref44-7"></A>
+<P>7. Selander, R.K., and Kaufman, D.W. (1973). Proc. Natl. Acad. Sci. <B>70</B>: 1875.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4515944" target="_blank">PubMed</A></I>.
+<!-- PMID: 4515944 -->
+
+<A NAME="ref44-8"></A>
+<P>8. Gillespie, J. (1974). Amer. Natur. <B>108</B>: 831.
+
+<A NAME="ref44-9"></A>
+<P>9. Soul&#233;, M. (1976). In <I>Molecular Evolution</I> (F.J. Ayala, ed.), p. 60. Sinauer, Sunderland, Mass.
+
+<A NAME="ref44-10"></A>
+<P>10. Selander, R.K., Hunt, W.G., and Yang, S.Y. (1969). Evolution <B>23</B>: 379.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:63027" target="_blank">MGI</A></I>.
+<!-- MGI:63027 -->
+
+<A NAME="ref44-11"></A>
+<P>11. Selander, R.K., and Yang, S.Y. (1969). Genetics <B>63</B>: 653.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5399253" target="_blank">PubMed</A></I>.
+<!-- PMID: 5399253 -->
+
+<A NAME="ref44-12"></A>
+<P>12. Markert, C.L. (1968). Ann. N.Y. Acad. Sci. <B>151</B>: 14.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5251866" target="_blank">PubMed</A></I>.
+<!-- PMID: 5251866 -->
+
+<A NAME="ref44-13"></A>
+<P>13. Kimura, M. (1971). Theoret. Pop. Biol. <B>2</B>: 174.
+
+<A NAME="ref44-14"></A>
+<P>14. Ohta, T., and Kimura, M. (1973). Genet. Res. <B>22</B>: 201.
+
+<A NAME="ref44-15"></A>
+<P>15. Nei, M., and Chakraborty, R. (1976). J. Mol. Evol. <B>8</B>: 381.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1011266" target="_blank">PubMed</A></I>.
+<!-- PMID: 1011266 -->
+
+<A NAME="ref44-16"></A>
+<P>16. Johnson, G.B. (1976). Genetics <B>83</B>: 149.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1269917" target="_blank">PubMed</A></I>.
+<!-- PMID: 1269917 -->
+
+<A NAME="ref44-17"></A>
+<P>17. Singh, R.S., Lewonton, R.C., and Felton, A.A. (1976). Genetics <B>84</B>: 609.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1001881" target="_blank">PubMed</A></I>.
+<!-- PMID: 1001881 -->
+
+<A NAME="ref44-18"></A>
+<P>18. Ohta, T. (1974). Nature <B>252</B>: 351.
+
+<A NAME="ref44-19"></A>
+<P>19. Ohta, T. (1976). Theoret. Pop. Biol. <B>10</B>: 254.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1013905" target="_blank">PubMed</A></I>.
+<!-- PMID: 1013905 -->
+
+<A NAME="ref44-20"></A>
+<P>20. Kimura, M., and Maruyama, T. (1971). Genet. Res. <B>18</B>: 125.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5159222" target="_blank">PubMed</A></I>.
+<!-- PMID: 5159222 -->
+
+<A NAME="ref44-21"></A>
+<P>21. Maruyama, T., and Kimura, M. (1974). Nature <B>249</B>: 30.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4833230" target="_blank">PubMed</A></I>.
+<!-- PMID: 4833230 -->
+
+<A NAME="ref44-22"></A>
+<P>22. Ayala, F.J. (1972). In <I>Proc. Sixth Berkeley Symp. Math. Stat. Prob.</I> Vol. V. (L.M. Lecam, J. Neyman, E.L. Scott, eds.), 
+p. 211. University of California Press, Berkeley.
+
+<A NAME="ref44-23"></A>
+<P>23. Milkman, R. (1975). <I>Isozymes</I> Vol. IV, p. 273. Academic Press, New York.
+
+<A NAME="ref44-24"></A>
+<P>24. Coyne, J. (1976). Genetics <B>84</B>: 593.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1001880" target="_blank">PubMed</A></I>.
+<!-- PMID: 1001880 -->
+
+<A NAME="ref44-25"></A>
+<P>25. Bonhomme, F., and Selander, R.K. (1978). Biochem. Genet. <B>16</B>:287.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54499" target="_blank">MGI</A></I>.
+<!-- MGI:54499 -->
+
+<A NAME="ref44-26"></A>
+<P>26. Selander, R.K., Smith, M.H., Yang, S.Y., Johson, W.E., and Gentry, J.B. (1971). Stud Genet. <B>6</B> (Univ. Texas Publ. 7103): 49.
+
+<A NAME="ref44-27"></A>
+<P>27. Hopkinson, D.A., and Harris, H. (1969). Ann. Hum. Genet. <B>33</B>: 81.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5821321" target="_blank">PubMed</A></I>.
+<!-- PMID: 5821321 -->
+
+<A NAME="ref44-28"></A>
+<P>28. McDowell, R.E., and Prakash, S. (1976). Proc. Natl. Acad. Sci. <B>73</B>: 4150.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1069304" target="_blank">PubMed</A></I>.
+<!-- PMID: 1069304 -->
+
+<A NAME="ref44-29"></A>
+<P>29. Roderick, T.H., Ruddle, F. H., Chapman, V.M., and Shows, T.B. (1971). Biochem. Genet. <B>5</B>: 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5520794" target="_blank">PubMed</A></I>.
+<!-- PMID: 5520794 -->
+
+<A NAME="ref44-30"></A>
+<P>30. Taylor, B.A. (1972). J. Hered. <B>63</B>: 83.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:72037" target="_blank">MGI</A></I>.
+<!-- MGI:72037 -->
+
+<A NAME="ref44-31"></A>
+<P>31. Wheeler, L.L., and Selander, R.K. (1972). Stud. Genet. <B>7</B> (Univ. Texas Publ. 7213): 269.
+
+<A NAME="ref44-32"></A>
+<P>32. Nichols, E.A., and Ruddle, F.H. (1973). J. Histochem. Cytochem. <B>21</B>: 1066.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71385" target="_blank">MGI</A></I>.
+<!-- MGI:71385 -->
+
+<A NAME="ref44-33"></A>
+<P>33. King, J.L. (1974). Genetics <B>76</B>: 607.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4833579" target="_blank">PubMed</A></I>.
+<!-- PMID: 4833579 -->
+
+<A NAME="ref44-34"></A>
+<P>34. Ohta, T., and Kimura, M. (1975). Amer. Natur. <B>109</B>: 137.
+
+<A NAME="ref44-35"></A>
+<P>35. King, J.L., and Ohta, T. (1975). Genetics <B>79</B>: 681.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1132686" target="_blank">PubMed</A></I>.
+<!-- PMID: 1132686 -->
+
+<A NAME="ref44-36"></A>
+<P>36. Chakraborty, R. and Nei, M. (1976). Genetics <B>84</B>: 385.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1001874" target="_blank">PubMed</A></I>.
+<!-- PMID: 1001874 -->
+
+<A NAME="ref44-37"></A>
+<P>37. Chakraborty, R. (1977). J. Mol. Evol. <B>9</B>: 313.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->894733" target="_blank">PubMed</A></I>.
+<!-- PMID: 894733 -->
+
+<A NAME="ref44-38"></A>
+<P>38. Kimura, M., and Crow, J.F. (1964). Genetics <B>49</B>: 725.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14156929" target="_blank">PubMed</A></I>.
+<!-- PMID: 14156929 -->
+
+<A NAME="ref44-39"></A>
+<P>39. Ewens, W.J. (1972). Theoret. Pop. Biol. <B>3</B>: 87.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4667078" target="_blank">PubMed</A></I>.
+<!-- PMID: 4667078 -->
+
+<A NAME="ref44-40"></A>
+<P>40. Hunt, W.G., and Selander, R.K. (1973). Heredity <B>31</B>: 11.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4518497" target="_blank">PubMed</A></I>.
+<!-- PMID: 4518497 -->
+
+<A NAME="ref44-41"></A>
+<P>41. Kimura, M., and Ohta, T. (1975). Proc. Natl. Acad. Sci. <B>72</B>: 2761.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1058491" target="_blank">PubMed</A></I>.
+<!-- PMID: 1058491 -->
+
+
+
+<DIV Align="center"><H4> <A HREF="chapman.shtml">Previous</A> <A HREF="miller.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

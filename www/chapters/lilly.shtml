@@ -1,0 +1,352 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="paigen.shtml">Previous</A> <A HREF="rowe.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 19 -->
+
+<H2>Genetic Regulation of Type C Viruses in Mouse Leukemia</H2>
+
+<H3>Frank Lilly<BR><BR>
+
+Department of Genetics<BR>
+Albert Einstein College of Medicine<BR>
+New York, New York</H3>
+
+<P>Leukemia is a disease which occurs spontaneously among mice of most -- perhaps all -- laboratory strains, 
+with an incidence considerably in excess of that seen in humans. Aside from the curious and exceedingly useful 
+strains (<I>e.g.</I>, AKR and C58) which show a near 100% incidence of the disease by one year of age, mice of 
+most other strains, if observed throughout their life spans, show an incidence of at least a few percent, 
+occurring usually well after one year of age. The bulk of these leukemias are lymphatic, frequently T-cell 
+leukemias or lymphomas, although a few strains show a significant incidence of other types, such as 
+Hodgkin's-like disease of SJL mice.
+
+<P>In addition to spontaneously occurring leukemia, the disease may be readily induced in mice by leukemogenic 
+viruses of the C-type, RNA oncovirus family and by treatment with x-rays and chemical carcinogens of several 
+different types. Susceptibility to the induction of the disease varies widely among mice of different inbred 
+strains, however, and high susceptibility to one inducing agent is not necessarily accompanied by a similar 
+level of susceptibility to another agent.
+
+<P>A considerable body of evidence points to the involvement of endogenous murine leukemia virus (MuLVs) in the 
+leukemias occurring in the high-incidence strains. It is less certain, however, that the same process is 
+necessarily involved in all cases of spontaneous or induced leukemia occurring in low-incidence strains. 
+As with cancer in general, mouse leukemia may well represent a cellular phenotype which may be attained by 
+several different pathways, some associated with viruses and some not. In any case, viral leukemias in mice 
+are of special interest because the pathways followed in their genesis seem likely to be the first or among 
+the first such pathways to be elucidated. Nevertheless, our present understanding of the details of viral 
+leukemogenesis is fragmentary at best.
+
+<P>Genetic analyses of strain differences in the occurrence of spontaneous or induced leukemias in mice have 
+indicated some of the major subdivisions of the pathways in viral leukemogenesis (
+<A HREF="#ref19-1">1</A>). A number of single genes have been identified which are polymorphic in the laboratory mouse 
+and which govern events and/or conditions that appear to be favorable to the course of the disease. Specifically, 
+three broad categories of genes have been revealed: (a) chromosomally located viral genomes, either complete or 
+defective, representing at least two different varieties of murine leukemia viruses (MuLV) which are transmitted 
+vertically as Mendelian traits; (b) genes which govern the expression of MuLV genomes by, for example, influencing 
+the horizontal spread between nearby cells of the viral infection; and (c) genes which influence the capacity of 
+the host to respond immunologically to virus-infected and/or transformed cells.
+
+<A NAME="structural"></A>
+<P><U>Inherited Viral Genomes</U>. Different classes of nondefective MuLVs share a common mechanism of replication (
+<A HREF="#ref19-2">2</A>). They depend on their endogenous RNA-dependent DNA polymerases (reverse transcriptases) for the 
+formation of a DNA copy of the viral RNA immediately following penetration of the host cell and uncoating; this 
+DNA copy is inserted into a chromosomal location and serves as the source of viral information for all succeeding 
+events in the replication cycle. If this chromosomal insertion occurs in a somatic cell, then the viral genome will 
+be transmitted to all its daughter cells, but other cells of the individual can become similarly infected only by 
+means of a new infectious event mediated by a mature virus particle produced by the original infected cell. If, 
+however, the chromosomal insertion occurs in a germline cell, then it may be transmitted to an individual of the 
+next generation. In this case the viral genome will be present in all cells of the individual and will be transmitted 
+by it to future generations as a Mendelian character.
+
+<P>Mice infected with MuLV of exogenous origin do not routinely transmit their infection in this manner, suggesting 
+that germline cells are protected by special mechanisms from infection with these viruses. But Mendelian transmission 
+by mice infected <I>in vitro</I> as early embryos has been demonstrated (
+<A HREF="#ref19-3">3</A>).
+
+<P>Mice of the inbred AKR strain show high levels of <i>ecotropic</i> MuLV, infectious for murine cells but noninfectious 
+in cells of most other species from soon after birth (
+<A HREF="#ref19-4">4</A>). Studies by Rowe and his collaborators (
+<A HREF="#ref19-5">5</A>) have indicated that this virus derives from MuLV genomes situated at two different chromosomal sites -- 
+one of which is very precisely mapped with respect to closely linked markers. That these genes, designated 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95328" target="_blank"><I>Akv-2</I></A>, 
+do in fact consist of viral genomes, rather than regulators of viral genomes located elsewhere, 
+has been proven by experiments showing that nucleic acid sequences specific to this particular MuLV map uniquely at these two chromosomal sites in AKR mice (
+<A HREF="#ref19-6">6</A>).
+
+<A NAME="xenotropic"></A>
+<P>Ecotropic MuLV genomes are present chromosomally in mice of strains other than AKR as well, both high- and low-leukemic. 
+From what is presently known of their chromosomal locations, it appears that the sites of insertion of these viral genomes are rarely, 
+if ever, the same in unrelated mouse strains. This observation clearly implies that possible insertion sites may be very 
+numerous in the host DNA, although they may not all be of equally ready access for the proviral DNA. In a parallel manner, 
+it is clear that xenotropic MuLVs, closely related to ecotropic MuLVs but showing a markedly different host range pattern, are 
+also present in the genomes of most if not all mouse strains (
+<A HREF="#ref19-7">7</A>), again showing different strain-specific integration sites into the host chromosomal DNA.
+
+<P><U>Control of Virus Expression</U>. Studies in crosses of high-leukemic AKR mice with mice of low-leukemic strains indicate 
+that the introduction of genes capable of suppressing the expression of endogenous MuLV genomes results in suppression of the 
+high-leukemic phenotype. Apparently it is not sufficient that the viral genome be present in a mouse for leukemia to occur; 
+it must also be expressed in the form of infectious viral particles.
+
+<A NAME="Fv-1"></A>
+<P>The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> 
+gene is the best studied example of a gene which suppresses MuLV expression and also leukemogenesis. The 
+<I>Fv-1<SUP>b</SUP></I> allele, present in BALB/c and other inbred strains, possesses the dominant property of suppressing the 
+replication of certain MuLVs, including the ecotropic MuLV of AKR mice, in the tissues of young mice (
+<A HREF="#ref19-8">8</A>), and as a consequence the pattern of segregation of this gene in AKR x BALB/c crosses coincides closely 
+with the pattern of leukemia suppression (
+<A HREF="#ref19-9">9</A>). The molecular events associated with this virus suppression are not yet elucidated, but it is clear that 
+restriction of cell-to-cell spread of virus from rare spontaneously producing cells is the basis of the low-MuLV phenotype associated with the 
+<I>Fv-1<SUP>b</SUP></I> allele in these crosses (
+<A HREF="#ref19-10">10</A>).
+
+<P>Recent studies by Allen Mayer in my laboratory have indicated that another allele at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> 
+locus, that present in the RF strain, also suppresses leukemia in crosses with AKR mice, but it does so without showing 
+the severe suppressive effect of 
+<I>Fv-1<SUP>b</SUP></I> on ecotropic MuLV expression. Rather, this allele exerts its suppressive 
+effect on the xenotropic MuLV which is detected in AKR mice at around six months of age. Thus suppression of either ecotropic <I>or</I> 
+xenotropic MuLV expression appears sufficient to suppress leukemogenesis, a finding that lends support to the current idea that the 
+occurrence of the disease results from a collaborative effort on the part of both types of MuLV (
+<A HREF="#ref19-11">11</A>).
+
+<P><U>Control of Tumor Cell Outgrowth</U>. Following virus replication and spread, one or more cells of the thymic lymphoid series may 
+be transformed, acquiring malignant growth potential. Failure of the host to suppress the outgrowth of such cells then results in clinically 
+recognizable disease and death. Suppression of tumor growth appears to result from an immunologic response to virus-induced, tumor-specific 
+antigens expressed on the surfaces of leukemia cells. The occurrence of this immune response is strongly influenced by the host's genotype at the complex 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region (
+<A HREF="#ref19-12">12</A>) of chromosome 17.
+
+<A NAME="X"></A><A NAME="humoral"></A>
+<P>The <I>I</I> subregion of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex includes the determinants of immune response genes, which markedly influence the 
+capacity of mice to respond to specific antigenic determinants (
+<A HREF="#ref19-13">13</A>). Thus it is readily conceivable that certain tumor antigens might induce strong responses leading to tumor 
+rejection in some hosts but only weak responses with little effect on tumor growth in others. Such a system is exemplified by the X.1 antigen 
+of x-ray-induced leukemias of BALB/c mice (
+<A HREF="#ref19-14">14</A>). Hosts bearing the <I>I</I> region of the 
+<I>H-2<SUP>b</SUP></I> haplotype responds strongly to X.1, whereas hosts possessing only the 
+<I>H-2<SUP>d</SUP></I> or 
+<I>H-2<SUP>k</SUP></I> haplotypes are nonresponders with little capacity to reject X.1-positive tumor cells.
+
+<A NAME="cell-mediated"></A>
+<P>Recent evidence suggests another different mechanism whereby the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+type of the host may influence rejection of 
+virus-induced tumor cells. Cytolytic T lymphocytes specific for viral antigens show a marked preference <I>in vitro</I> for 
+target cells of the same 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+type as that of the tumor cell which induced the response (
+<A HREF="#ref19-15">15</A>). It appears that this 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+restriction phenomenon is attributable to the fact that the antigen 
+recognized consists of a viral molecule complexed on the cell surface with a molecule governed by the <I>K</I> or <I>D</I> loci of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region (
+<A HREF="#ref19-16">16</A>). Not all products of the polymorphic <I>K</I> and <I>D</I> loci show the capacity to form an appropriate complex 
+with viral molecules, and mice possessing only non-complexing <I>K</I> and <I>D</I> molecules do not exhibit a cytotoxic T cell response 
+to their leukemia cells because the cells lack the proper antigenicity.
+
+<A NAME="leukemia_induction"></A>
+<P>The genetic evidence summarized above makes a strong case for the involvement of C-type viruses in the leukemias occurring 
+spontaneously in AKR mice, adding thereby further weight to the observations of Gross (
+<A HREF="#ref19-17">17</A>) that the disease is transferable under certain conditions with cell-free extracts. Comparable viruses have 
+also been isolated from leukemias induced with x-irradiation or with hydrocarbon carcinogens, suggesting that induction of 
+endogenous virus expression was also the critical factor in these leukemias (
+<A HREF="#ref19-18">18</A>, 
+<A HREF="#ref19-19">19</A>).
+
+<A NAME="Ah"></A>
+<P>It has long been known that skin painting of mice of some strains with the carcinogen, 3-methylcholanthrene (MCA), results in a 
+high incidence of lymphatic leukemia. Recent findings indicate that this response is specific for mice homozygous for the recessive 
+<I>Ah<SUP>d</SUP></I> allele (
+<A HREF="#ref19-20">20</A>). Mice possessing a dominant 
+<I>Ah<SUP>b</SUP></I> allele, and who therefore respond to the treatment by augmented production of the inducible enzyme, aryl hydrocarbon 
+hydroxylase, show a strong skin tumor response rather than leukemia. In this case it is clear that the 
+<I>Ah<SUP>d</SUP></I> genotype of the mice does not cause the leukemia but merely represents a prerequisite for its occurrence in response to MCA. 
+It is quite possible that the detailed mechanism of this response involves endogenous MuLV as an intermediate, and if so the marked influence of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105043" target="_blank"><I>Ah</I></A> 
+locus on this disease amply suggests the complexity of the interactions between the host, the virus, and the environment in the genesis of 
+leukemia. The study of genetic factors in mouse leukemia has contributed enormously to our understanding of the disease, but it is clear 
+that we have merely scratched the surface of this complex problem.
+
+<CENTER>REFERENCES</CENTER>
+
+<A NAME="ref19-1"></A>
+<P>1. Steeves, R.A., and Lilly, F. (1977). Ann. Rev. Genet. <B>11</B>: 277.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54390" target="_blank">MGI</A></I>.
+<!-- MGI:54390 -->
+
+<A NAME="ref19-2"></A>
+<P>2. Tooze, J. (1973). "The Molecular Biology of Tumor Viruses." Cold Spring Harbor Laboratory, Cold Spring Harbor.
+
+<A NAME="ref19-3"></A>
+<P>3. Jaenisch, R. (1976). Proc. Natl. Acad. Sci. USA <B>73</B>: 1260.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1063407" target="_blank">PubMed</A></I>.
+<!-- PMID: 1063407 -->
+
+<A NAME="ref19-4"></A>
+<P>4. Rowe, W.P., and Pincus, T. (1972). J. Exp. Med. <B>135</B>: 429.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4334098" target="_blank">PubMed</A></I>.
+<!-- PMID: 4334098 -->
+
+<A NAME="ref19-5"></A>
+<P>5. Rowe, W.P. (1972). J. Exp. Med. <B>136</B>: 1272.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4343244" target="_blank">PubMed</A></I>.
+<!-- PMID: 4343244 -->
+
+<A NAME="ref19-6"></A>
+<P>6. Chattopadhyay, S.K., Rowe, W.P., Teich, N.M., and Lowry, D.R. (1975). Proc. Natl. Acad. Sci. USA <B>72</B>: 906.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54014" target="_blank">MGI</A></I>.
+<!-- MGI:54014 -->
+
+<A NAME="ref19-7"></A>
+<P>7. Kozak, C., and Rowe, W.P. (1978). Science <B>199</B>: 1448.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->204014" target="_blank">PubMed</A></I>.
+<!-- PMID: 204014 -->
+
+<A NAME="ref19-8"></A>
+<P>8. Rowe, W.P., and Hartley, J.W. (1972). J. Exp. Med. <B>136</B>: 1286.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53783" target="_blank">MGI</A></I>.
+<!-- MGI:53783 -->
+
+<A NAME="ref19-9"></A>
+<P>9. Lilly, F., Duran-Reynals, M.L., and Rowe, W.P. (1975). J. Exp. Med. <B>141</B>: 882.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->165256" target="_blank">PubMed</A></I>.
+<!-- PMID: 165256 -->
+
+<A NAME="ref19-10"></A>
+<P>10. Rowe, W.P. (1973). Cancer Res. <B>33</B>: 3061.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53871" target="_blank">MGI</A></I>.
+<!-- MGI:53871 -->
+
+<A NAME="ref19-11"></A>
+<P>11. Hartley, J.W., Wolford, N.K., Old, L.J., and Rowe, W.P. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 789.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:74575" target="_blank">MGI</A></I>.
+<!-- MGI:74575 -->
+
+<A NAME="ref19-12"></A>
+<P>12. McDevitt, H.O., and Benacerraf, B. (1969). Adv. Immunol. <B>11</B>: 31.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4908392" target="_blank">PubMed</A></I>.
+<!-- PMID: 4908392 -->
+
+<A NAME="ref19-13"></A>
+<P>13. Klein, J. (1975). "Biology of the Mouse Histocompatibility-2 Complex." Springer-Verlag, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78369" target="_blank">MGI</A></I>.
+<!-- MGI:78369 -->
+
+<A NAME="ref19-14"></A>
+<P>14. Sato, H., Boyse, E.A., Aoki, T., Iritani, C., and Old, L.J. (1973). J. Exp. Med. <B>138</B>: 593.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4727915" target="_blank">PubMed</A></I>.
+<!-- PMID: 4727915 -->
+
+<A NAME="ref19-15"></A>
+<P>15. Doherty, P.C., and Zinkernagel, R.M. (1975). J. Exp. Med. <B>141</B>: 502.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->123002" target="_blank">PubMed</A></I>.
+<!-- PMID: 123002 -->
+
+<A NAME="ref19-16"></A>
+<P>16. Blank, K.J., and Lilly, F. (1977). Nature (London) <B>269</B>: 808.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->73137" target="_blank">PubMed</A></I>.
+<!-- PMID: 73137 -->
+
+<A NAME="ref19-17"></A>
+<P>17. Gross, L. (1978). Cancer Res. <B>38</B>: 485.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->203382" target="_blank">PubMed</A></I>.
+<!-- PMID: 203382 -->
+
+<A NAME="ref19-18"></A>
+<P>18. Lieberman, M., and Kaplan, H.S. (1959). Science <B>130</B>: 387.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13675761" target="_blank">PubMed</A></I>.
+<!-- PMID: 13675761 -->
+
+<A NAME="ref19-19"></A>
+<P>19. Ball, J.K., and McCarter, J.A. (1971). J. Natl. Cancer Inst. <B>46</B>: 751.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4324812" target="_blank">PubMed</A></I>.
+<!-- PMID: 4324812 -->
+
+<A NAME="ref19-20"></A>
+<P>20. Duran-Reynals, M.L., Lilly, F., Bosch, A., and Blank, K.J. (1978). J. Exp. Med. <B>147</B>: 459.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->624906" target="_blank">PubMed</A></I>.
+<!-- PMID: 624906 -->
+
+<DIV Align="center"><H4> <A HREF="paigen.shtml">Previous</A> <A HREF="rowe.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

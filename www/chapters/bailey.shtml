@@ -1,0 +1,422 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="keeler.shtml">Previous</A> <A HREF="hoffman.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 15 -->
+
+<H2>Sources of Subline Divergence and their Relative Importance for Sublines of Six Major Inbred Strains of Mice
+<SUP><A HREF="#note1">1</A></SUP></H2>
+
+<H3>Donald W. Bailey<BR><BR>
+
+The Jackson Laboratory<BR>
+Bar Harbor, Maine</H3>
+
+<P>A number of genetic differences among sublines of various highly inbred strains of mice have been reported (
+<A HREF="#ref15-1">1</A>, 
+<A HREF="#ref15-2">2</A>, 
+<A HREF="#ref15-3">3</A>, 
+<A HREF="#ref15-4">4</A>, 
+<A HREF="#ref15-5">5</A>, 
+<A HREF="#ref15-6">6</A>, 
+<A HREF="#ref15-7">7</A>, 
+<A HREF="#ref15-8">8</A>, 
+<A HREF="#ref15-9">9</A>). Such differences should come as no surprise, for they were predicted by the early geneticists. Nevertheless, with 
+the number of sublines increasing, especially through development of new congenic lines and specific-pathogen-free colonies, the number of 
+encounters with subline differences will be growing and their vitiating effects on research no doubt will be frequently felt.
+
+<P>Subline differences arise by the gradual differential fixation of genes at loci that were heterozygous from three possible causes: 
+1) contamination from outcrossing, 2) incomplete inbreeding, and 3) mutation. In this paper we shall consider the relative importance of 
+these three sources of subline differences, and we shall see how existing sublines of six major inbred strains of mice may be expected 
+to have diverged due to these sources.
+
+<P><CENTER>Contamination</CENTER>
+
+<P>Genetic contamination often will become obvious if a full-sib mating system is strictly adhered to, for the presence of new 
+recessive as well as dominant coat color genes will soon make themselves evident. However, in a strain in which inbreeding has been 
+relaxed, the presence of contaminating genes may not be so apparent. (This points out one of the hazards of not maintaining a strict 
+mating regimen.) The number of contaminant genes that eventually contribute to fixed gene differences between subsequently derived 
+inbred sublines will be inversely proportional to the effective number of breeders maintained during the generations of random mating 
+between the time of the outcross and the resumption of inbreeding.
+
+<P>Contamination can be identified quite effectively by routine skin graft exchanges or allozyme typing for genetic quality control. 
+Moreover, contamination can be identified as the likely source of subline divergence if the number of gene differences is significantly 
+greater than that possible either from mutation or from residual heterozygosity, or if the new allelic differences specifically match 
+those of the suspected contaminating strain. Contamination may indeed be the source of most existing major subline differences, but 
+because it is based on human error we shall not consider it further here.
+
+<P><CENTER>Residual Heterozygosity</CENTER>
+
+<P>For present considerations, we define residual heterozygosity as that proportion of loci with genotypic mating combinations that 
+are not yet in the genetically fixed state (both parents homozygous for the same allele) at a specified generation of inbreeding. 
+This definition is more inclusive and more appropriate for the present purpose than the commonly used definition, namely, that proportion 
+of individuals at a given generation of inbreeding that are still heterozygous at a specified locus (
+<A HREF="#ref15-10">10</A>).
+
+<P>Fisher (
+<A HREF="#ref15-11">11</A>), using the concept of "junctions" and the generation matrix method, was able to estimate the number and 
+lengths of heterogenic tracts (chromosomal segments that are still of heterozygous origin and thus potential carriers of residual 
+heterozygosity) at specified generations of inbreeding. From these estimates he was also able to calculate the probability of no 
+heterogenic tract remaining (complete genetic fixation, barring mutation) after progressive amounts of inbreeding (
+<a href="javascript:windowf151 = window.open('../figures/figure15-1.shtml', 'windowf151', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf151.focus()">Figure 1</A>). 
+We have used Fisher's method with the chromosome number of 20 and an estimated mouse genome length of 1500 cM (
+<A HREF="#ref15-12">12</A>); Fisher had used the estimate of 2500 cM. From the curve in 
+<a href="javascript:windowf151 = window.open('../figures/figure15-1.shtml', 'windowf151', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf151.focus()">Figure 1</A>, 
+we see that the probability of being completely free of heterogenic tracts does not attain even the 0.5 level 
+until F36 nor the 0.99 level until F60. Purity is not that easily attained.
+
+<P>The probability of complete purity takes into account only the heterogeneity of the genomes of the original pair of mice but no 
+subsequently arising mutations. The question that more realistically should be asked is: At what generation does residual heterozygosity 
+become no more important than mutation as a source of subline differentiation? We can answer this question by comparing the numbers of 
+fixed gene differences arising from the two sources.
+
+<P>By Fisher's method we can estimate the number and lengths of heterogenic tracts after a specified number of generations of full-sib 
+mating as in columns 2 and 3 of 
+<a href="javascript:windowt151 = window.open('../tables/table15-1.shtml', 'windowt151', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt151.focus()">Table 1</A>. 
+Then, if the number of structural genes in the mouse genome is 30,000 (
+<A HREF="#ref15-12">12</A>), the proportionate number of structural genes in the heterogenic tracts after different amounts of inbreeding can be 
+estimated as in column 5 of 
+<a href="javascript:windowt151 = window.open('../tables/table15-1.shtml', 'windowt151', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt151.focus()">Table 1</A>. 
+If only 35% of these loci were heterozygous at the time of the strain's origin (
+<A HREF="#ref15-13">13</A>) and 43% of these in turn contribute to subline differences (as based on proportions of the genotypic mating 
+combinations and the probabilities of the alleles in these combinations becoming differentially fixed in two sublines), then the number 
+of fixed gene differences between two sublines that branched at a given generation of inbreeding and continually maintained by full-sib 
+mating for at least 20 more generations can be estimated as in column 6 of 
+<a href="javascript:windowt151 = window.open('../tables/table15-1.shtml', 'windowt151', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt151.focus()">Table 1</A>. 
+[The estimates in column 4 can be calculated directly from the generation matrix without regard to chromosome 
+number or genome length. In these calculations and all others in this paper, the effects of selection are ignored.]
+
+<P>The estimated 35% heterozygosity that we have employed is derived from observations on electrophoretic variants of enzymes and soluble proteins in <I>Mus musculus</I> (
+<A HREF="#ref15-13">13</A>). On one hand, it can be argued that heterozygosity may not yet have been as high as this in the fanciers' mouse populations from which 
+the strains of laboratory mice arose, because the effective breeding population from time to time was probably quite small. On the other hand, many fanciers 
+although maintaining small populations probably continually exchanged breeders and occasionally introduced variant mice from wild populations of different 
+subspecies and in this way probably would have maintained much of the original genetic heterogeneity. However, even if the heterozygosity were reduced, the 
+estimate of 35% seems within reason and perhaps still on the conservative side considering the arguments Lewontin (
+<A HREF="#ref15-14">14</A>) gives for such estimates being too low.
+
+<P><CENTER>Mutation</CENTER>
+
+<P>The expected number of differentially fixed genes (<I>n</I>) arising from new mutation is expressed by the equation:
+
+<P><I>n</I> = (G<SUB>1</SUB> + G<SUB>2</SUB> - 7) &#956;,
+
+<P>where G<SUB>1</SUB> and G<SUB>2</SUB> are the number of generations that sublines 1 and 2, respectively, have been inbred since branching, &#956; 
+is the mutation frequency per gamete per specified block of loci, and the number 7 corrects for the effect of mutations of recent generations having not 
+yet been fixed. If one wishes to include unfixed loci, instead of subtracting 7 in the above equation, subtract 4 for recessives, and add 20 for dominants. 
+The subject is treated in more detail in a recent paper (
+<A HREF="#ref15-9">9</A>).
+
+<P>If there are 30,000 structural genes (
+<A HREF="#ref15-12">12</A>) and the average mutation frequency per gamete per locus is 10<SUP>-5</SUP>, then the mutation rate for all structural genes would be 
+about 0.3 per gamete, and the number eventually becoming differentially fixed in two sublines would be:
+
+<P>(G<SUB>1</SUB> + G<SUB>2</SUB> - 7) (0.3).
+
+<P>Mutation rate as used here is not a true mutation rate but rather a practicable one that results from a confounding of the probabilities of origination, 
+viability, observability, and reproducibility of the mutant.
+
+<P>The value 10<SUP>-5</SUP> is generally used as a rough estimate of spontaneous mutation rate in mammals. However, published estimates of mutation rate in mice 
+vary greatly and often are lower than 10<SUP>-5</SUP> (
+<A HREF="#ref15-15">15</A>). Still it seems reasonable to round off the estimate to this higher value for the present considerations. Most mutation rates in mice are 
+based on loci that determine visible traits such as coat color. The number of viable mutations that actually occur at these loci is probably much greater, because 
+surely not all mutations result in observable phenotypic changes. On the other hand, it can be argued that it is the observable changes that we are truly concerned 
+about in subline divergence because these are what affect experiments, so why consider undetected mutations? However, as experiments deal more and more with traits 
+at the molecular level of gene expression, more mutations with subtle effects will become evident and the apparent rate will rise. Thus, with our present state of 
+knowledge, the rate we have chosen seems reasonable and may indeed prove to be too low.
+
+<P><CENTER>A Comparison of Sources</CENTER>
+
+<P>From the equation of <I>n</I> and from values in column 6 of 
+<a href="javascript:windowt151 = window.open('../tables/table15-1.shtml', 'windowt151', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt151.focus()">Table 1</A>, 
+we have constructed 
+<a href="javascript:windowf152 = window.open('../figures/figure15-2.shtml', 'windowf152', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf152.focus()">Figure 2</A> 
+to show the contributions of residual heterozygosity and mutation to subline divergence. The expected number of genes differentially fixed between two sublines, each 
+inbred for 154 generations (an arbitrarily chosen number), is shown in relation to the generation at which branching occurred. Curve A shows the contribution from new 
+mutations alone, while curve B shows the contribution of residual heterozygosity in addition to that of mutation. As an example, two sublines branching at generation F20, 
+and both continuing under full sib mating for 134 additional generations to F154, will differ at 117 loci due to residual heterozygosity that was present at the time of branching (
+<a href="javascript:windowt151 = window.open('../tables/table15-1.shtml', 'windowt151', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt151.focus()">Table 1</A>) 
+and will differ at [2(154-20)-7](0.3) = 78 more loci due to mutations, most of which have occurred since branching, for a total of 195 loci with fixed gene differences.
+
+<P>The chance of any particular researcher encountering a genetic difference between sublines depends of course on the number of genes that determine the trait 
+that he is studying. For example, if there are 330 histocompatibility (H) genes in the mouse, then the expected number of H-gene differences between two sublines 
+would be 330/30,000 = 0.01 of that indicated in 
+<a href="javascript:windowf152 = window.open('../figures/figure15-2.shtml', 'windowf152', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf152.focus()">Figure 2</A>. 
+In the example given above, two sublines inbred for 154 generations but having branched at generation 20 would be expected to differ at (0.01)(195) = 2 H loci. One of these 
+differences would have originated by mutation.
+
+<P>The above estimate of 330 H loci is an average of estimates obtained by three different approaches: 1) the mutation rate of the block of H loci averaged from 
+studies conducted at two different laboratories is 5 x 10<SUP>-3</SUP> (
+<A HREF="#ref15-8">8</A>). If we assume the mutation rate per H locus is the same as that for other loci, <I>i.e.</I>, 10<SUP>-5</SUP> (
+<A HREF="#ref15-15">15</A>), then 3 x 10<SUP>-3</SUP>/10<SUP>-5</SUP> = 300 H loci. 2) One corollary of Snell's laws of transplantation is that mutations showing a loss 
+of antigen can only be detected at heterozygous loci (in the present case, these would be those loci at which the parental strains, C57BL/6By and BALB/cBy, of 
+the F<SUB>1</SUB> mice being assayed for mutations carry different alleles). So the number of loss-type mutations out of the total number found should be proportionate 
+to the number of H loci by which the two parental strains differ out of the total number of all H loci in the species. This argument has been set forth in more detail (
+<A HREF="#ref15-17">17</A>), where the estimate obtained was 430 H loci. 3) An individual wild mouse has been estimated to be heterozygous on the average at about 11% of its loci (
+<A HREF="#ref15-13">13</A>). Since the BALB/cBy and C57BL/6By strains have been estimated to differ at 29 or more H loci (
+<A HREF="#ref15-18">18</A>), and since each inbred strain theoretically is genetically equivalent to a single gamete drawn at random from a wild population, then the F<SUB>1</SUB> 
+derived from these two strains would be equivalent to a representative individual from a wild population, and because it is heterozygous at 29 or more H loci the number 
+of H loci in the species would be estimated at (100/11)(29) = 264.
+
+<P>We have constructed an equivalence curve in 
+<a href="javascript:windowf153 = window.open('../figures/figure15-3.shtml', 'windowf153', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf153.focus()">Figure 3</A> 
+so that we can compare the relative importance of the two sources of subline divergence. Points in the area above and to the right of the curve indicate mutation to be 
+the most important contributor, and below and to the left, residual heterozygosity to be the more important contributor. As an example, if the nomenclature committee were to 
+recommend (as discussed later) that each subline that branched prior to F24 should be given a distinctive symbol, then to be reasonable, the committee should also recommend, 
+that a subline inbred for 200/2 = 100 generations after branching also should be given a distinctive symbol after branching. We assume here that any subline to which this one 
+is compared will also be inbred 100 generations after branching so that G<SUB>1</SUB> + G<SUB>2</SUB> = 200.
+
+<P><CENTER>Minimally Attainable Genetic Uniformity</CENTER>
+
+<P>Sublines will differ not only by <U>fixed</U> mutations but also by <U>unfixed</U> mutations arising in recent generations and not yet having had a chance to become 
+fixed by inbreeding. The number of unfixed gene differences between two hypothetical sublines is estimated at about 27 &#956; (
+<A HREF="#ref15-9">9</A>), and if &#956; = 0.3, then (27)(0.3) = 8. On  the average, four of these will be segregating in each subline, and because they are segregating, 
+only about 60% of the mice in each subline will be carrying any one of the four mutant genes. For perspective, it would take, on the average, 40 generations of 
+full-sib mating before the number of unfixed genes from residual heterozygosity would equal the number (four) from mutation and 10 additional generations before 
+<U>only</U> the unfixed genes from mutation would be of consequence.
+
+<P>These unfixed gene differences from mutation become the limit of attainable genetic uniformity within a subline, outside of the routine screening of individuals. 
+We can continually assay for fixed-gene differences between sublines, as discussed below in regard to maintaining parallel lines to assure that no differences exist 
+in the trait of interest, but unfixed gene differences are always potentially present and may be found between members of the same subline. However, the probability 
+that any of these mutations will be affecting the trait of interest depends on what proportion of the genome affects that trait and in most cases this will be extremely small.
+
+<P><CENTER>Importance to Sublines of Existing Strains</CENTER>
+
+<P>These calculations can be used to evaluate the differences expected between sublines in various existing inbred strains of mice. To do this we have constructed pedigree charts in Figures 
+<a href="javascript:windowf154a = window.open('../figures/figure15-4A.shtml', 'windowf154a', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154a.focus()">4A</A>, 
+<a href="javascript:windowf154b = window.open('../figures/figure15-4B.shtml', 'windowf154b', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154b.focus()">4B</A>, 
+<a href="javascript:windowf154c = window.open('../figures/figure15-4C.shtml', 'windowf154c', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154c.focus()">4C</A>, 
+<a href="javascript:windowf154d = window.open('../figures/figure15-4D.shtml', 'windowf154d', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154d.focus()">4D</A>, 
+<a href="javascript:windowf154e = window.open('../figures/figure15-4E.shtml', 'windowf154e', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154e.focus()">4E</A>, and 
+<a href="javascript:windowf154f = window.open('../figures/figure15-4F.shtml', 'windowf154f', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154f.focus()">4F</A> 
+of six major strains based on information gleaned from past issues of <I>Mouse News Letter</I> and from its companion issue, <I>Inbred Strains of Mice</I>. 
+We have used the recorded year of branching instead of the inbreeding generation of branching, because often only the year was given in the entries and generation counts 
+were begun anew in each laboratory. We have found the number of generations progressed each year to vary among laboratories, but it averages close to 2.5, the value we 
+have used in interpreting these charts.
+
+<P>We have then placed the graph of curve B in 
+<a href="javascript:windowf152 = window.open('../figures/figure15-2.shtml', 'windowf152', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf152.focus()">Figure 2</A> 
+(contribution of both residual heterozygosity and mutation) adjacent to each chart so that differences between sublines can be estimated directly from the point of the branching. 
+The graph adjacent to the DBA chart (
+<a href="javascript:windowf154f = window.open('../figures/figure15-4F.shtml', 'windowf154f', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154f.focus()">Figure 4F</A>) 
+includes a roughly estimated effect of the reported intercrossing of two sublines in 1929. The C57BL/Ks subline in 
+<a href="javascript:windowf154e = window.open('../figures/figure15-4E.shtml', 'windowf154e', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154e.focus()">Figure 4E</A> 
+probably is a product of genetic contamination, a conclusion reached because that subline differs from other C57BL/6 sublines at all loci in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex as well as at least three other histocompatibility loci (
+<A HREF="#ref15-19">19</A>).
+
+<P>The branching in most cases is likely to have occurred even earlier than that indicated in the chart, perhaps three to five generations earlier, because the sender 
+may not always have taken into consideration the branches in his own colony when selecting breeding pairs for shipment.
+
+<P>It will be seen in Figures 
+<a href="javascript:windowf154a = window.open('../figures/figure15-4A.shtml', 'windowf154a', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154a.focus()">4A</A>, 
+<a href="javascript:windowf154b = window.open('../figures/figure15-4B.shtml', 'windowf154b', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154b.focus()">4B</A>, 
+<a href="javascript:windowf154c = window.open('../figures/figure15-4C.shtml', 'windowf154c', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154c.focus()">4C</A>, 
+<a href="javascript:windowf154d = window.open('../figures/figure15-4D.shtml', 'windowf154d', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154d.focus()">4D</A>, 
+<a href="javascript:windowf154e = window.open('../figures/figure15-4E.shtml', 'windowf154e', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154e.focus()">4E</A>, and 
+<a href="javascript:windowf154f = window.open('../figures/figure15-4F.shtml', 'windowf154f', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf154f.focus()">4F</A> 
+that a number of early branching sublines will probably be found to differ at many loci due to both residual heterozygosity from the early branching and 
+to mutation through many generations of separate maintenance. There is especially early branching of sublines in the C57 and A strains.
+
+<P><CENTER>Ways of Controlling Divergence</CENTER>
+
+<P>The problem of subline divergence can be kept under control by several procedures, some more immediately practical than others.
+
+<P>1) Divergence can be avoided by restocking from a common source colony, but this would have to be done by all relevant laboratories. Historically this is a practice 
+not easily established.
+
+<P>2) Divergence can also be slowed down by placing embryos of each strain in frozen storage (
+<A HREF="#ref15-20">20</A>), and restocking the experimental colony from time to time from the frozen source. This could be a common international frozen source from which all 
+laboratories restocked their colonies.
+
+<P>3) Divergence can be detected as it occurs by the investigator maintaining two parallel lines of each strain in his colony (Mobraaten, personal communication). Mice 
+from the two lines can be compared in all pertinent experiments.
+
+<A NAME="nomenclature"></A>
+<P>4) The research worker could be alerted to potentially large differences between sublines by a revised nomenclature system. A current nomenclature rule (
+<A HREF="#ref15-21">21</A>) allows sublines arising in any generation after F8 to bear the same strain name. It would help the research worker considerably if such sublines 
+arising before, say, F24 be given distinctive symbols. In the same vein, it would be helpful for any subline, as well as its branches (sub-sublines), that has been 
+separately maintained for 100 generations or more (see 
+<a href="javascript:windowf153 = window.open('../figures/figure15-3.shtml', 'windowf153', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf153.focus()">Figure 3</A>) 
+also to be given a distinctive symbol.
+
+<P>5) The latter procedure unfortunately would have to await the action of an international committee. In the meantime, each experimenter can and should publish a key 
+reference (<I>e.g.</I>, in <I>Mouse News Letter</I>) which provides the full ancestral information on his sublines for others to evaluate relationships of their sublines 
+with his and which he should always cite in his pertinent papers.
+
+<HR>
+
+<A NAME="note1"></A>
+<P><SUP>1</SUP>This work was supported by NIH Research Grants No. GM22878 from the National Institute of General Medical Sciences and No. AI13130 
+from the National Institute of Allergy and Infectious Diseases.
+
+<HR>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref15-1"></A>
+<P>1. Acton, R.T., Blankenhorn, E.P., Douglas, T.C., Owen, R.X., Hilgers, J., Hoffman, H.A., and Boyse, E.A. (1973). Nature New Biol. <B>245</B>: 8.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53847" target="_blank">MGI</A></I>.
+<!-- MGI:53847 -->
+
+<A NAME="ref15-2"></A>
+<P>2. Ciaranello, R.D., Lipsky, A., and Axelrod, J. (1974). Proc. Natl. Acad. Sci. <B>71</B>: 3006.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53961" target="_blank">MGI</A></I>.
+<!-- MGI:53961 -->
+
+<A NAME="ref15-3"></A>
+<P>3. Glode, L.M., and Rosenstreich, D.L. (1976) J. Immunol. <B>117</B>: 2061.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54201" target="_blank">MGI</A></I>.
+<!-- MGI:54201 -->
+
+<A NAME="ref15-4"></A>
+<P>4. Maurer, P.M., Merryman, C.F., and Jones, J. (1974). Immunogenetics <B>1</B>: 398.
+
+<A NAME="ref15-5"></A>
+<P>5. Olsson, M., Lindahl, G., and Ruoslaht, E. (1977). J. Exp. Med. <B>145</B>: 819.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54280" target="_blank">MGI</A></I>.
+<!-- MGI:54280 -->
+
+<A NAME="ref15-6"></A>
+<P>6. Rechicigl, R., Jr., and Heston, W.E. (1963). J. Natl. Cancer Inst. <B>30</B>: 855.
+
+<A NAME="ref15-7"></A>
+<P>7. Taniguchi, M., Tada, T., and Tokuhisa, T. (1976). J. Exp. Med. <B>144</B>: 20.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1084403" target="_blank">PubMed</A></I>.
+<!-- PMID: 1084403 -->
+
+<A NAME="ref15-8"></A>
+<P>8. Bailey, D.W. (1976). In <I>Basic Aspects of Freeze Preservation of Mouse Strains</I> (O. Muhlbock, ed.), p. 67. Gustav-Fisher Verlag, Stuttgart.
+
+<A NAME="ref15-9"></A>
+<P>9. Bailey, D.W. (1977). Ciba Found. Symp. <B>52</B>: 291.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->244399" target="_blank">PubMed</A></I>.
+<!-- PMID: 244399 -->
+
+<A NAME="ref15-10"></A>
+<P>10. Wright, S. (1921). Genetics <B>6</B>: 167.
+
+<A NAME="ref15-11"></A>
+<P>11. Fisher, R.A. (1949). <I>The Theory of Inbreeding.</I> Oliver and Boyd, Edinburgh.
+
+<A NAME="ref15-12"></A>
+<P>12. McKusick, V.A., and Ruddle, F.H. (1977). (Footnote 12) Science <B>196</B>: 390.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->850784" target="_blank">PubMed</A></I>.
+<!-- PMID: 850784 -->
+
+<A NAME="ref15-13"></A>
+<P>13. Selander, R.K., and Yang, S.Y. (1969). Genetics <B>63</B>: 653.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5399253" target="_blank">PubMed</A></I>.
+<!-- PMID: 5399253 -->
+
+<A NAME="ref15-14"></A>
+<P>14. Lewontin, R.C. (1973). Ann. Rev. Genet. <B>7</B>: 1.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4593304" target="_blank">PubMed</A></I>.
+<!-- PMID: 4593304 -->
+
+<A NAME="ref15-15"></A>
+<P>15. Schlager, G., and Dickie, M.M. (1967). Genetics <B>57</B>: 319.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:75001" target="_blank">MGI</A></I>.
+<!-- MGI:75001 -->
+
+<A NAME="ref15-16"></A>
+<P>16. Mukai, T., Chigusa, S.I., Mettler, L.E., and Crow, J.F. (1972). Genetics <B>72</B>: 335.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4630587" target="_blank">PubMed</A></I>.
+<!-- PMID: 4630587 -->
+
+<A NAME="ref15-17"></A>
+<P>17. Bailey, D.W. (1968). In <I>Advance in Transplantation</I> (J. Dausset, J. Hamberger, and G. Mathe, eds.), p. 317. Munksgaard, Copenhagen.
+
+<A NAME="ref15-18"></A>
+<P>18. Bailey, D.W., and Mobraaten, L.E. (1969). Transplantation <B>7</B>: 394.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4890906" target="_blank">PubMed</A></I>.
+<!-- PMID: 4890906 -->
+
+<A NAME="ref15-19"></A>
+<P>19. Graff, R.J. (1970). Transplant. Proc. <B>2</B>: 15.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53715" target="_blank">MGI</A></I>.
+<!-- MGI:53715 -->
+
+<A NAME="ref15-20"></A>
+<P>20. Whittingham, D.G. (1976). In <I>Basic Aspects of Freeze Preservation of Mouse Strains</I> (O. Muhlbock, ed.), p. 45. G&#252;stav-Fisher Verlag, Stuttgart.
+
+<A NAME="ref15-21"></A>
+<P>21. Staats, J. (1976). Cancer Res. <B>36</B>: 4333.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54208" target="_blank">MGI</A></I>.
+<!-- MGI:54208 -->
+
+<DIV Align="center"><H4> <A HREF="keeler.shtml">Previous</A> <A HREF="hoffman.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

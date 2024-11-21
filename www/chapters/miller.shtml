@@ -1,0 +1,524 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="bonhomme.shtml">Previous</A> <A HREF="bennett.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 45 -->
+
+<H2>Cytogenetics</H2>
+
+<H3>Orlando J. Miller<BR>
+Dorothy A. Miller<BR><BR>
+
+Departments of Human Genetics and Development and Obstetrics and Gynecology<BR>
+College of Physicians and Surgeons<BR>
+Columbia University<BR>
+New York, New York</H3>
+
+<P>Mouse chromosomes can be examined by three types of staining methods. The classical approach, in which the entire chromosome is more 
+or less uniformly stained by orcein, Giemsa or Feulgen, can be used to determine the number of chromosomes (2n = 40 in <I>Mus musculus</I>), 
+the position of the centromere (at one end of each <I>musculus</I> chromosome), and the presence and position of secondary constrictions. 
+This approach has been largely replaced by the general banding methods (Q, G and R), which can be used for the same purposes but also 
+produce a consistent pattern of light and dark bands along the length of each chromosome. The banding pattern is different for each mouse 
+chromosome and thus permits its accurate identification (
+<A HREF="#ref45-1">1</A>, 
+<A HREF="#ref45-2">2</A>). In addition, special banding methods can be used to observe particular regions of chromosomes, such as the centromeric 
+heterochromatin or nucleolus organizer regions. The special methods are most effective when combined with a general banding method by which 
+the chromosomes are identified. Each of these three types of staining has been used to demonstrate differences between species or strains 
+of <I>Mus</I> (
+<a href="javascript:windowt451 = window.open('../tables/table45-1.shtml', 'windowt451', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt451.focus()">Table 1</A>).
+
+<A NAME="Gbanding"></A><A NAME="Qbanding"></A>
+<P>The general banding techniques are, and will remain for the foreseeable future, the most powerful tools in cytogenetic analysis. 
+The first of these methods to be discovered was quinacrine fluorescence (Q-) banding (
+<A HREF="#ref45-3">3</A>), but the same banding patterns are revealed by Giemsa staining after treatment with trypsin (G-banding). Based on 
+the general banding patterns, a standard karyotype of the mouse has been adopted (
+<A HREF="#ref45-2">2</A>) and a nomenclature for individual bands proposed (
+<A HREF="#ref45-4">4</A>). 
+<a href="javascript:windowf451 = window.open('../figures/figure45-1.shtml', 'windowf451', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf451.focus()">Figure 1</A> 
+shows a karyotype of <I>Mus musculus</I> stained with quinacrine. The intensity of fluorescence varies along 
+the length of each chromosome, producing a banding pattern that is consistent and highly characteristic for each chromosome, and which 
+remains unaltered if a segment of chromosome is transferred to a different location. There are no Q-brilliant regions in <I>musculus</I>. 
+Some of the chromosomes in the cell shown in 
+<a href="javascript:windowf451 = window.open('../figures/figure45-1.shtml', 'windowf451', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf451.focus()">Figure 1</A> 
+have a secondary constriction, which probably represents the nucleolus organizer region. More specific 
+stains for this region are discussed below.
+
+<P>The ability to identify each mouse chromosome has been utilized in a number of ways, The Q-banding technique was used to identify 
+the chromosomes in a series of translocations involving known linkage groups, making possible the assignment of each linkage group to 
+a specific chromosome, as well as the location of the centromeric end of linkage groups (
+<A HREF="#ref45-1">1</A>, 
+<A HREF="#ref45-5">5</A>, 
+<A HREF="#ref45-6">6</A>). Q- and G-banding were used to determine where the albino locus is located on chromosome 7 by locating a band that was 
+deleted in the <I>C<SUP>25H</SUP></I> deletion, which is about 6 cM long (
+<A HREF="#ref45-7">7</A>). Methods are being developed to study the chromosomes of prometaphase cells, which have a greater number of bands (
+<A HREF="#ref45-8">8</A>); these would make possible the recognition of deletions even smaller than the <I>C<SUP>25H</SUP></I>. G-banding techniques 
+have been used to identify the presence of specific chromosome changes in malignancies, for example, the association of trisomy 15 with 
+leukemia in the AKR mouse (
+<A HREF="#ref45-9">9</A>).
+
+<A NAME="wildQ"></A>
+<P>
+<a href="javascript:windowf452 = window.open('../figures/figure45-2.shtml', 'windowf452', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf452.focus()">Figure 2</A> 
+is a karyotype of <I>Mus cervicolor</I> (
+<A HREF="#ref45-10">10</A>). The banding patterns of the chromosomes of <I>musculus</I> and <I>cervicolor</I> are the same except for one striking 
+difference: each <I>cervicolor</I> chromosome has a brilliant fluorescent centromeric region separated from the remainder of the chromosome 
+by a dull region. This difference reflects an evolutionary change in the satellite DNA (
+<A HREF="#ref45-11">11</A>, 
+<A HREF="#ref45-12">12</A>), which is concentrated in this region of a mouse chromosomes. <I>Musculus</I> has a single satellite DNA that is dully 
+stained by quinacrine; <I>cervicolor</I> has two satellite DNAs that have different molecular properties and stain differently, one being 
+Q-brilliant and the other Q-dull. As shown in 
+<a href="javascript:windowf452 = window.open('../figures/figure45-2.shtml', 'windowf452', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf452.focus()">Figure 2</A>, 
+these satellite DNAs are located in adjacent regions near the centromere.
+
+<P>If we assume that there are 30,000 genes in the mouse, the average chromosome would have about 1,500 genes; however, it has enough DNA 
+to code for 50 to 100 times that many genes. Much of this DNA may be the transcribed spacers coding for heterogeneous nuclear RNA that is 
+degraded in RNA processing. More may be nontranscribed spacer regions, which can be quite heterogeneous (
+<A HREF="#ref45-13">13</A>) and may be clustered. There is some evidence that the Q-bright or G-dark bands consist primarily of such DNA, with the 
+genes concentrated in the bands that are dully stained by these methods (the reverse or R-bands). as methods of DNA sequencing and analysis 
+are improved, variations in nontranscribed DNA may provide major sources of information about differences between mouse sublines.
+
+<A NAME="wild"></A>
+<P>All species of <I>Mus</I> examined thus far have the same general chromosome banding patterns (
+<A HREF="#ref45-10">10</A>, 
+<A HREF="#ref45-14">14</A>, 
+<A HREF="#ref45-15">15</A>, 
+<A HREF="#ref45-16">16</A>) (
+<a href="javascript:windowf453 = window.open('../figures/figure45-3.shtml', 'windowf453', 'width=650,height=1000,resizable=yes,scrollbars=yes'); windowf453.focus()">Figure 3</A>). 
+This is not unexpected for the closely related subspecies <I>Mus musculus musculus</I> and <I>M. musculus molossinus</I>, 
+but it is surprising that the chromosomes of <I>M. cervicolor</I>, <I>M. caroli</I>, <I>M. cookii</I>, <I>M. booduga fulvidentris</I>, and 
+<I>M. dunni</I> show no sign of inversions, reciprocal translocations, or centric fusion translocations. Inversions have been specifically looked 
+for in wild mice that are fairly closely related to <I>musculus</I>, but none have been found (T.H. Roderick, personal communication). Although 
+the unbanded Giemsa-stained karyotype of <I>M. dunni</I> (
+<a href="javascript:windowf454 = window.open('../figures/figure45-4.shtml', 'windowf454', 'width=650,height=1000,resizable=yes,scrollbars=yes'); windowf454.focus()">Figure 4</A>) 
+clearly differs from that of <I>M. musculus</I> in having short arms on virtually every autosome, as well as a 
+metacentric X and a very large Y, G- and C-banding have shown that the differences are entirely due to the presence of short arms composed 
+of constitutive heterochromatin, with no detectable change in the banding pattern of any chromosome's long arm (
+<A HREF="#ref45-16">16</A>). This is an important observation because differences of this magnitude observed in the pre-banding era were usually 
+interpreted as the result of inversions or translocations.
+
+<A NAME="robertsonian"></A>
+<P>The translocations that have been observed in wild mice, as well as those that have occurred spontaneously in laboratory stocks, have all 
+been of the centric fusion type (
+<A HREF="#ref45-6">6</A>, 
+<A HREF="#ref45-17">17</A>, 
+<A HREF="#ref45-18">18</A>, 
+<A HREF="#ref45-19">19</A>). The tobacco mouse, <I>Mus poschiavinus</I>, has 2n = 26 chromosomes, including seven pairs of biarmed chromosomes (
+<A HREF="#ref45-17">17</A>). These have been identified by their Q-banding pattern (
+<a href="javascript:windowf455 = window.open('../figures/figure45-5.shtml', 'windowf455', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf455.focus()">Figure 5</A>) 
+and in this case, too, the patterns are identical to those of <I>musculus</I> chromosomes, showing that the biarmed 
+chromosomes were produced by centric fusion. Multiple centric fusion chromosomes have been found in homozygous form in mice from several 
+mountain valleys in Italy and Switzerland (
+<A HREF="#ref45-17">17</A>, 
+<A HREF="#ref45-18">18</A>, 
+<A HREF="#ref45-19">19</A>). Comparison of the various populations indicates that, in general, different chromosomes are represented in the fusion 
+chromosomes of mice from different locations. 
+<a href="javascript:windowf456 = window.open('../figures/figure45-6.shtml', 'windowf456', 'width=800,height=500,resizable=yes,scrollbars=yes'); windowf456.focus()">Figure 6</A> 
+shows pairing of meiotic chromosomes in an F1 between a mouse of the T Rov 1-6 stock (caught near Roverdo in the 
+Cal Mesolcina) and <I>poschiavinus</I> (caught in the Valle di Poschiavo about 75 miles away). Only one of the fusion chromosomes is identical 
+in the two stocks of mice, and virtually every chromosome is included in one or another of the 13 biarmed chromosomes.
+
+<A NAME="Cbanding"></A>
+<P>C-banding involves a rather nonspecific type of staining reaction: treating chromosome preparations with alkali and then staining with Giemsa. 
+The C-band method stains only the centromeric heterochromatin, and a general banding technique must be used on the same cells in order to identify 
+the chromosome. When this is done, differences are seen between wild mice and laboratory strains (
+<A HREF="#ref45-20">20</A>) and between even closely related sublines. C57L/J and C57BL/J, for example, differ markedly in the amount of C-band material 
+on five different pairs of chromosomes, and 129 and AKR differ in the amount on four pairs of chromosomes (
+<A HREF="#ref45-21">21</A>). In the inbred lines examined thus far, eight chromosomes have been shown to have such variants (
+<A HREF="#ref45-22">22</A>) and if we add those found in <I>molossinus</I> virtually every chromosome has a C-band variant. In an F1 between one 
+<I>molossinus</I> strain and C57BL/6J, differences were observed between eight pairs of homologs (
+<A HREF="#ref45-14">14</A>) (
+<a href="javascript:windowf457 = window.open('../figures/figure45-7.shtml', 'windowf457', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf457.focus()">Figure 7</A>). 
+Since these variants are at the centromeric end of the chromosome, they provide useful markers in monitoring stocks 
+for changes in this region. C-banding also facilitates meiotic analysis because the position of each centromere can be located; this is 
+particularly useful in analyzing reciprocal translocations (
+<A HREF="#ref45-23">23</A>). 
+<a href="javascript:windowf458 = window.open('../figures/figure45-8.shtml', 'windowf458', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf458.focus()">Figure 8</A> 
+shows that gross differences in the amount of C-band material on homologous chromosomes in a <I>musculus</I> x 
+<I>molossinus</I> F1 did not interfere with meiotic pairing (
+<A HREF="#ref45-14">14</A>).
+
+<P>The C-band regions of <I>musculus</I> can also be stained using Hoechst 33258 (
+<A HREF="#ref45-24">24</A>). Hsu <I>et al.</I> (
+<A HREF="#ref45-15">15</A>) have reported that Hoechst 33258 produces bright fluorescence in the C-band regions of <I>musculus</I> and <I>molossinus</I> 
+chromosomes but not in those of other species of <I>Mus</I>. Changes in satellite DNA could be responsible for this, since Hoechst 33258 shows 
+enhanced fluorescence when bound to some AT-rich DNA sequences, such as those known to be present in <I>musculus</I> satellite DNA.
+
+<P>Greater specificity in detecting classes of repetitive DNA can be obtained by using antibodies to specific DNA bases, <I>e.g.</I>, anti-5-mythycytidine. 
+These antibodies react only with single-stranded DNA so that, by using selective methods of denaturation of DNA in conjunction with specific antibodies, 
+one can visualize specific classes of repetitive DNA sequences n mouse chromosomes (
+<A HREF="#ref45-14">14</A>, 
+<A HREF="#ref45-25">25</A>, 
+<A HREF="#ref45-26">26</A>). In <I>musculus</I>, satellite DNA contains much more 5-methylcytosine than does main band DNA (
+<A HREF="#ref45-27">27</A>). When chromosomes are UV-irradiated, the major effect is the production of thymine dimers, which creates single-stranded 
+regions primarily in AT-rich regions such as satellite DNA. One observes intense binding of anti-5-methylcytidine tot he satellite DNA because 
+it is both methylated and single stranded under these conditions (
+<a href="javascript:windowf459 = window.open('../figures/figure45-9.shtml', 'windowf459', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf459.focus()">Figure 9</A>). 
+However, little binding of the antibody occurs in main band DNA because in this case the 5-methylcytosine is located 
+in GC-rich sequences which remain double stranded (
+<A HREF="#ref45-26">26</A>). We have not yet applied this method to mouse species other than <I>musculus</I>; it might detect changes in nucleotide sequences 
+in satellite DNA and permit distinctions other banding techniques do not allow.
+
+<A NAME="silver"></A>
+<P>Another method that has been used to distinguish between strains of <I>musculus</I> is silver staining of nucleolus organizer regions (NORs) (
+<A HREF="#ref45-28">28</A>) which identifies sites of active 18S and 28S ribosomal RNA (rRNA) genes. For example, Ag-stained NORs are present on numbers 12, 
+15, and 18 in both BALB/cJ and C57BL/6J, but, of the two strains, only BALB/cJ has NOR staining on chromosome 16 and only C57BL/6J has an NOR on number 19 (
+<A HREF="#ref45-29">29</A>, 
+<A HREF="#ref45-30">30</A>). 
+<a href="javascript:windowf4510 = window.open('../figures/figure45-10.shtml', 'windowf4510', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf4510.focus()">Figure 10</A> 
+shows that NORs are present on most of the same chromosomes in <I>Mus musculus molossinus</I>. In this animal there are NORs 
+on chromosomes 12, 16, 17, 18, and 19 and it is clear that the presence of an NOR is unrelated to the presence or absence of C-band material (
+<A HREF="#ref45-30">30</A>). In other strains of mice <I>in situ</I> hybridization with radioactively labeled rRNA has been used to show that rDNA is present 
+on five of the same pairs of chromosomes (all but number 17) (
+<A HREF="#ref45-31">31</A>, 
+<A HREF="#ref45-32">32</A>). The finding that number 17 can be included in the list is of interest because the rDNA cluster must be located relatively close 
+to the H2 major histocompatibility locus.
+
+<A HREF="break"></A>
+<P>Mouse-human somatic cell hybrids are important tools in current genetic studies. Mouse-human hybrids have been used to demonstrate that silver stain 
+detects active, but not inactive, rRNA gene clusters. Hybrids that have lost human chromosomes have only mouse NORs silver stained and produce only mouse 
+rRNA, even though the human NOR chromosomes are still present (
+<A HREF="#ref45-33">33</A>, 
+<A HREF="#ref45-34">34</A>). Conversely, hybrids that have selectively lost mouse chromosomes have only human NORs silver stained and only human rRNA is synthesized, 
+even though the mouse NOR chromosomes are still present (
+<A HREF="#ref45-29">29</A>, 
+<A HREF="#ref45-34">34</A>). Mouse-human hybrids have also provided a powerful tool for mapping the human genome. In just eight years the number of genes assigned 
+to human autosomes has grown from one to nearly 150 (
+<A HREF="#ref45-35">35</A>), most of them assigned using somatic cell genetic analysis of interspecific hybrids. The same methods that have proved so useful for 
+mapping the human genome are now being applied to the mouse, and the human is on the way to becoming an excellent model system for those interested in mouse 
+genetics. Chinese hamster-mouse hybrids usually lose mouse chromosomes (
+<a href="javascript:windowf4511 = window.open('../figures/figure45-11.shtml', 'windowf4511', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf4511.focus()">Figure 11</A>), 
+and by correlating the presence of a mouse isozyme, antigen or other genetic marker with the presence of a particular mouse 
+chromosome one can assign the relevant gene to its chromosome (
+<A HREF="#ref45-36">36</A>). More than a dozen biochemical markers have been assigned to mouse chromosomes in this way, and hundreds more can be. a method has also 
+been worked out by which one can determine the linear order of linked genes using somatic cell hybrids (
+<A HREF="#ref45-37">37</A>). Prior to hybridization, the cells of the parent species to be mapped are heavily irradiated to produce chromosome breaks. The closer together 
+two linked genes are, the higher the dose of radiation required to produce a break between them with loss of the fragment that lacks a centromere. Thus, by 
+correlating the dose of radiation with the frequency of separation of linked loci, one can determine both linear order and relative distances between genes 
+on each chromosome. Finally, using the ability to distinguish homologous chromosomes, mouse-mouse somatic cell hybrids have been used to map both structural 
+and regulatory genes to mouse chromosomes (
+<A HREF="#ref45-38">38</A>, 
+<A HREF="#ref45-39">39</A>).
+
+<P>A special banding method, Giemsa staining at pH 11 (G11), has proved particularly useful in the analysis of interspecific hybrid cells because mouse 
+chromosomes stain strongly, except at the centromere, whereas primate chromosomes generally stain faintly (
+<A HREF="#ref45-40">40</A>). This has made it possible to identify translocations between entire chromosomes of two species, as well as of much shorter segments 
+of chromosome. Furthermore, feeding isolated chromosomes to cells in culture leads to incorporation of very short segments of genetic material, sometimes 
+only long enough to contain two closely linked genes, <I>e.g.</I>, those coding for thymidine kinase and galactokinase in both human (
+<A HREF="#ref45-41">41</A>) and mouse (
+<A HREF="#ref45-42">42</A>, 
+<A HREF="#ref45-43">43</A>) genomes. The ability to produce viable cells in culture whose chromosomes can contain DNA of two species may be relevant to geneticists 
+who work with whole animals. The work of Mintz and her collaborators (
+<A HREF="#ref45-44">44</A>) indicates that it is possible to make chimeric mice using, as one parent, <I>in vitro</I> cultured teratocarcinoma cells. When the 
+teratocarcinoma cells were mutagenized and a mutant (HPRT<SUP>-</SUP>) subline selected <I>in vitro</I>, mice containing some HPRT<SUP>-</SUP> cells were produced (
+<A HREF="#ref45-41">41</A>). If such HPRT<SUP>-</SUP> teratocarcinoma cells were converted to wild type (HPRT<SUP>+</SUP>) with DNA of a different species, 
+it might be possible to produce mouse chimeras that contained blocks of genes from a species other than <I>Mus</I>: chimeras in the real sense! One can 
+even imagine, for example, putting the human HLA major histocompatibility complex on a mouse background, or carrying out similar manipulations affecting 
+the mouse genome in a profound way by artificial introgression of alien genetic material.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref45-1"></A>
+<P>1. Miller, O.J., Miller, D.A., Kouri, R.E., Allderdice, P.W., Dev, V.G., Grewal, M.S., and Hutton, J.J. (1971). Proc. Natl. Acad. Sci. USA <B>68</B>: 1530.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71714" target="_blank">MGI</A></I>.
+<!-- MGI:71714 -->
+
+<A NAME="ref45-2"></A>
+<P>2. Committee on Standardized Genetic Nomenclature for Mice. (1972). J. Hered. <B>63</B>: 69.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71290" target="_blank">MGI</A></I>.
+<!-- MGI:71290 -->
+
+<A NAME="ref45-3"></A>
+<P>3. Caspersson, T., Farber, S., Foley, G.E., Kudynowski, J., Modest, E.J., Simonssen, E., Wagh, U., and Zech, L. (1968). Exp. Cell Res. <B>49</B>: 219.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5640698" target="_blank">PubMed</A></I>.
+<!-- PMID: 5640698 -->
+
+<A NAME="ref45-4"></A>
+<P>4. Nesbitt, M.N., and Francke, U. (1973). Chromosoma <B>41</B>: 145.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71343" target="_blank">MGI</A></I>.
+<!-- MGI:71343 -->
+
+<A NAME="ref45-5"></A>
+<P>5. Miller, D.A., Kouri, R.E., Dev, V.G., Grewal, M.S., Hutton, J.J., and Miller, O.J. (1971). Proc Natl. Acad. Sci USA <B>68</B>: 2699.
+
+<A NAME="ref45-6"></A>
+<P>6. Miller, O.J., and Miller, D.A. (1975). Ann. Rev. Genet. <B>9</B>: 285.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->55096" target="_blank">PubMed</A></I>.
+<!-- PMID: 55096 -->
+
+<A NAME="ref45-7"></A>
+<P>7. Miller, D.A., Dev, V.G., Tantravahi, R., Miller, O.J., Schiffman, M.B., Yates, R.A., And Gluecksohn-Waelsch, S. (1974). Genetics <B>78</B>: 905.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53998" target="_blank">MGI</A></I>.
+<!-- MGI:53998 -->
+
+<A NAME="ref45-8"></A>
+<P>8. Yunis, J.J. (1976) Science <B>191</B>: 1268.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1257746" target="_blank">PubMed</A></I>.
+<!-- PMID: 1257746 -->
+
+<A NAME="ref45-9"></A>
+<P>9. Dofuku, R., Biedler, J.L., Spengler, B.A., and Old, L.J. (1975). Proc. Natl. Acad. Sci. USA <B>72</B>: 1515.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1055422" target="_blank">PubMed</A></I>.
+<!-- PMID: 1055422 -->
+
+<A NAME="ref45-10"></A>
+<P>10. Dev, V.G., Miller, D.A., Miller, O.J., Marshall, J.T., Jr., and Hsu, T.C. (1973). Exp. Cell Res. <B>79</B>: 475.
+
+<A NAME="ref45-11"></A>
+<P>11. Sutton, W.D., and McCallum, M. (1972). J. Mol. Biol. <B>71</B>: 633.
+
+<A NAME="ref45-12"></A>
+<P>12. Rice, N.R., and Straus, N.A. (1973). Proc. Natl. Acad. Sci. USA <B>70</B>: 3546.
+
+<A NAME="ref45-13"></A>
+<P>13. Arnheim, N., and Southern, E.M. (1977) Cell <B>11</B>: 363.
+
+<A NAME="ref45-14"></A>
+<P>14. Dev, V.G., Miller, D.A., Tantravahi, R., Schreck, R.R., Roderick, T.H., Erlanger, B.F., and Miller, O.J. (1975). Chromosoma <B>53</B>: 335.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4131369" target="_blank">PubMed</A></I>.
+<!-- PMID: 4131369 -->
+
+<A NAME="ref45-15"></A>
+<P>15. Hsu, T.C., Markvong, A., and Marshall, J.T. (1978). Cytogenet. Cell Genet. <B>20</B>: 304.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->648184" target="_blank">PubMed</A></I>.
+<!-- PMID: 648184 -->
+
+<A NAME="ref45-16"></A>
+<P>16. Markvong, A., Marshall, J.T., Pathak, S., and Hsu, T.C. (1975). Cytogenet. Cell Genet. <B>14</B>: 116.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1149492" target="_blank">PubMed</A></I>.
+<!-- PMID: 1149492 -->
+
+<A NAME="ref45-17"></A>
+<P>17. Gropp, A., Winkling, H., Zech, L., and Muller, H. (1972). Chromosoma <B>39</B>: 265.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:70891" target="_blank">MGI</A></I>.
+<!-- MGI:70891 -->
+
+<A NAME="ref45-18"></A>
+<P>18. Capanna, E., Gropp, A., Winkling, H., Noack, G., and Civitelli, M.-V. (1976). Chromosoma <B>58</B>: 341.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->GI:70886" target="_blank">MGI</A></I>.
+<!-- MGI:70886 -->
+
+<A NAME="ref45-19"></A>
+<P>19. Lehmann, E.V., and Radbruch, A. (1977). Experientia <B>33</B>: 1025.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71705" target="_blank">MGI</A></I>.
+<!-- MGI:71705 -->
+
+<A NAME="ref45-20"></A>
+<P>20. Forejt, J. (1973). Chromosoma <B>43</B>: 187.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4126908" target="_blank">PubMed</A></I>.
+<!-- PMID: 4126908 -->
+
+<A NAME="ref45-21"></A>
+<P>21. Dev, V.G., Miller, D.A., and Miller, O.J. (1973). Genetics <B>75</B>: 663.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4778788" target="_blank">PubMed</A></I>.
+<!-- PMID: 4778788 -->
+
+<A NAME="ref45-22"></A>
+<P>22. Miller, D.A., Tantravahi, R., Dev, V.G., and Miller, O.J. (1976). Genetics <B>84</B>: 67.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->992364" target="_blank">PubMed</A></I>.
+<!-- PMID: 992364 -->
+
+<A NAME="ref45-23"></A>
+<P>23. Allderdice, P.W., Dev, V.G., Miller, D.A., Jagiello, G.M., and Miller, O.J. (1973). Chromosoma <B>41</B>: 103.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->PMID: 4692203" target="_blank">PubMed</A></I>.
+<!-- PMID: 4692203 -->
+
+<A NAME="ref45-24"></A>
+<P>24. Natarajan, A.T., and Gropp, A. (1972). Exp. Cell Res. <B>74</B>: 245.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4609195" target="_blank">PubMed</A></I>.
+<!-- PMID: 4609195 -->
+
+<A NAME="ref45-25"></A>
+<P>25. Miller, O.J., Schnedl, W., Allen, J., and Erlanger, B.F. (1974). Nature <B>251</B>: 636.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4609195" target="_blank">PubMed</A></I>.
+<!-- PMID: 4609195 -->
+
+<A NAME="ref45-26"></A>
+<P>26. Schreck, R.R., Dev, V.G., Erlanger, B.F., and Miller, O.J. (1977). Chromosoma <B>62</B>: 337.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->891352" target="_blank">PubMed</A></I>.
+<!-- PMID: 891352 -->
+
+<A NAME="ref45-27"></A>
+<P>27. Salomon, R., and Kaye, A.M. (1970). Biochim. Biophys. Acta <B>204</B>: 340.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4315012" target="_blank">PubMed</A></I>.
+<!-- PMID: 4315012 -->
+
+<A NAME="ref45-28"></A>
+<P>28. Goodpasture, C., and Bloom, S.E. (1975). Chromosoma <B>53</B>: 37.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->53131" target="_blank">PubMed</A></I>.
+<!-- PMID: 53131 -->
+
+<A NAME="ref45-29"></A>
+<P>29. Miller, O.J., Miller, D.A., Dev, V.G., Tantravahi, R., and Croce, C.M. (1976). Proc. Natl. Acad. Sci. USA <B>73</B>: 4531.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1070003" target="_blank">PubMed</A></I>.
+<!-- PMID: 1070003 -->
+
+<A NAME="ref45-30"></A>
+<P>30. Dev, V.G., Tantravahi, R., Miller, D.A., and Miller, O.J. (1977). Genetics <B>86</B>: 389.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54319" target="_blank">MGI</A></I>.
+<!-- MGI:54319 -->
+
+<A NAME="ref45-31"></A>
+<P>31. Henderson, A.S., Eicher, E.M., Yu, M.T., and Atwood, K.C. (1974). Chromosoma <B>49</B>: 155.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53988" target="_blank">MGI</A></I>.
+<!-- MGI:53988 -->
+
+<A NAME="ref45-32"></A>
+<P>32. Elsevier, S.M., and Ruddle, F.H. (1975). Chromosoma <B>52</B>: 219.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54051" target="_blank">MGI</A></I>.
+<!-- MGI:54051 -->
+
+<A NAME="ref45-33"></A>
+<P>33. Miller, D.A., Dev, V.G., Tantravahi, R., and Miller, O.J. (1976). Exp. Cell Res. <B>101</B>: 235.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->61125" target="_blank">PubMed</A></I>.
+<!-- PMID: 61125 -->
+
+<A NAME="ref45-34"></A>
+<P>34. Croce, C.M., Talavera, A., Basilico, C., and Miller, O.J. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 694.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->265531" target="_blank">PubMed</A></I>.
+<!-- PMID: 265531 -->
+
+<A NAME="ref45-35"></A>
+<P>35. McKusick, V.A., and Ruddle, F.H. (1977). Science <B>196</B>: 390.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->850784" target="_blank">PubMed</A></I>.
+<!-- PMID: 850784 -->
+
+<A NAME="ref45-36"></A>
+<P>36. Franke, U., Lalley, P.A., Moss, W., Ivy, J., and Minna, J.D. (1977). Cytogenet. Cell Genet. <B>19</B>: 57.
+
+<A NAME="ref45-37"></A>
+<P>37. Goss, S., and Harris, H. (1977). J. Cell Sci. <B>25</B>: 17.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->561093" target="_blank">PubMed</A></I>.
+<!-- PMID: 561093 -->
+
+<A NAME="ref45-38"></A>
+<P>38. Hashmi, S., and Miller, O.J. (1976). Cytogenet. Cell Genet. <B>17</B>: 35.
+
+<A NAME="ref45-39"></A>
+<P>39. Benoff, S., and Skoultchi, A.I. (1977). Cell <B>12</B>: 263.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->561665" target="_blank">PubMed</A></I>.
+<!-- PMID: 561665 -->
+
+<A NAME="ref45-40"></A>
+<P>40. Friend, K.K., Dorman, B.P., Kucherlapati, R.S., and Ruddle, F.H. (1976). Exp. Cell Res. <B>99</B>: 31.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->57063" target="_blank">PubMed</A></I>.
+<!-- PMID: 57063 -->
+
+<A NAME="ref45-41"></A>
+<P>41. Willecke, K., Lange, R., Kruger, A., and Reber, T. (1976). Proc. Natl. Acad. Sci. USA <B>73</B>: 1274.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->177984" target="_blank">PubMed</A></I>.
+<!-- PMID: 177984 -->
+
+<A NAME="ref45-42"></A>
+<P>42. McBreen, P., Orkwiszewski, K.G., Chern, C.J., Mellman, W.J., and Croce, C.M. (1977). Cytogenet. Cell Genet. <B>19</B>: 7.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54334" target="_blank">MGI</A></I>.
+<!-- MGI:54334 -->
+
+<A NAME="ref45-43"></A>
+<P>43. Kozak, C.A., and Ruddle, F.H. (1977). Somatic Cell Genet. <B>3</B>: 121.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54423" target="_blank">MGI</A></I>.
+<!-- MGI:54423 -->
+
+<A NAME="ref45-44"></A>
+<P>44. Dewey, M.J., Martin, D.W., Jr., Martin, G.R., and Mintz, B. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 5564.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->271982" target="_blank">PubMed</A></I>.
+<!-- PMID: 271982 -->
+
+
+<DIV Align="center"><H4> <A HREF="bonhomme.shtml">Previous</A> <A HREF="bennett.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

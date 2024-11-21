@@ -1,0 +1,765 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="miller.shtml">Previous</A> <A HREF="ivanyi1.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 46 -->
+
+<H2>Population Genetics of T/t Complex Mutations</H2>
+
+<H3>Dorothea Bennett<BR><BR>
+Laboratory for Developmental Genetics<BR>
+Sloan Kettering Institute for Cancer Research<BR>
+New York, New York</H3>
+
+<P>Mutations at the <I>T/t</I> complex in the mouse have been under study now for just over 50 years, and have proved 
+valuable tools for analyzing such diverse situations as embryogenesis, spermatogenesis, and population dynamics in wild mice.
+
+<P>The first mutation at this region of chromosome 17 was reported in 1927 by Dobrovolskaia-Zavadskaia (
+<A HREF="#ref46-1">1</A>). She described a dominant gene, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> 
+that resulted in heterozygotes that were short-tailed, and homozygotes that died during prenatal development. Subsequent breeding of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A>-bearing 
+mice to apparently normal animals that were (significantly for the rest of this story) in at least one case derived from wild-caught 
+mice revealed the presence of recessive (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105076" target="_blank"><I>t</I></A>) 
+mutations. These genetic variants interacted with the dominant 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> 
+to produce a new phenotype, complete taillessness (
+<A HREF="#ref46-2">2</A>). These first recessive mutations detected were also lethal when homozygous and behaved as genetic alleles to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A>; 
+thus tailless lines of the same ancestry bred as balanced lethal systems:<BR>
+<CENTER>
+<TABLE>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>T/t</I></TD>
+<TD ALIGN=CENTER>x</TD>
+<TD ALIGN=CENTER><I>T/t</I></TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&#124;<BR>&#124;<BR>V</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER><I>T/T</I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>T/t</I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>t/t</I></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>(dead as<BR>embryos)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>tailless</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>(dead as<BR>embryos)</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+<P>L.C. Dunn and his colleagues at Columbia took up the study of the <I>T/t</I> system in the 1930s and soon showed that these mutations 
+differed from conventional genes in a number of properties that are outlined below.
+
+<A NAME="pseudoallele"></A><A NAME="complementation"></A>
+<P><CENTER>A "Pseudoallelic" System</CENTER>
+
+<P>The genetic analysis of the first tailless stocks studied showed that lethal 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105076" target="_blank"><I>t</I></A>-factors 
+of independent origin could differ from one another sufficiently to show a degree of genetic complementation. The test for this was 
+simple and straightforward; matings of tailless mice from different lines did not behave as balanced lethal crosses, but rather produced 
+two classes of offspring as diagrammed below for the original cross that defined this phenomenon (
+<A HREF="#ref46-3">3</A>).
+
+<CENTER>
+<TABLE>
+
+<TR>
+<TD ALIGN=CENTER>line A (<I>T/t<SUP>0</SUP></I>)</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>x</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>line 29 (<I>T/t<SUP>1</SUP></I>)</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&#124;<BR>&#124;<BR>V</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER><I>T/T</I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>T/t<SUP>0</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>T/t<SUP>1</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER><I>t<SUP>0</SUP>/t<SUP>1</SUP></I></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>(dead as<BR>embryos)</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=TOP COLSPAN=3>tailless</TD>
+<TD>&nbsp;</TD>
+<TD>viable<BR>normal-tailed</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<P>Complementation is generally not perfect, and <I>t<SUP>x</SUP>/t<SUP>y</SUP></I> compounds are often both morphologically abnormal and subviable. At the 
+present writing, we have studied more than 50 recessive lethal <I>t</I>-mutations of independent origin. By complementation analysis we found them to fall 
+into six complementation groups as follows:
+
+
+<P><TABLE CELLPADDING=5>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856730" target="_blank"><I>t<SUP>0</SUP></I></A></TD>
+<TD>(
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856731" target="_blank"><I>t<SUP>1</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856562" target="_blank"><I>t<SUP>6</SUP></I></A>, 
+<I>t<SUP>30</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2665556" target="_blank"><I>t<SUP>w4</SUP></I></A>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2664964" target="_blank"><I>t<SUP>9</SUP></I></A></TD>
+<TD>(
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856561" target="_blank"><I>t<SUP>4</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1857112" target="_blank"><I>t<SUP>w18</SUP></I></A>, 
+<I>t<SUP>w30</SUP></I>, 
+<I>t<SUP>w52</SUP></I>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856568" target="_blank"><I>t<SUP>12</SUP></I></A></TD>
+<TD>(
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856722" target="_blank"><I>t<SUP>w32</SUP></I></A>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856566" target="_blank"><I>t<SUP>w1</SUP></I></A></TD>
+<TD>(
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2665549" target="_blank"><I>t<SUP>w3</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856568" target="_blank"><I>t<SUP>w12</SUP></I></A>, 
+<I>t<SUP>w20</SUP></I>, 
+<I>t<SUP>w21</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856723" target="_blank"><I>t<SUP>w71</SUP></I></A>, 
+<I>t<SUP>w72</SUP></I>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856570" target="_blank"><I>t<SUP>w5</SUP></I></A></TD>
+<TD>(
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856720" target="_blank"><I>t<SUP>w6</SUP></I></A>, 
+<I>t<SUP>w10</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2667894" target="_blank"><I>t<SUP>w11</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2670560" target="_blank"><I>t<SUP>w13</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2670562" target="_blank"><I>t<SUP>w14</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2670591" target="_blank"><I>t<SUP>w15</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2670582" target="_blank"><I>t<SUP>w16</SUP></I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2670594" target="_blank"><I>t<SUP>w17</SUP></I></A>, 
+<I>t<SUP>w38</SUP></I>, 
+<I>t<SUP>w39</SUP></I>, 
+<I>t<SUP>w41</SUP></I>, 
+<I>t<SUP>w46</SUP></I>, 
+<I>t<SUP>w47</SUP></I>, 
+<I>t<SUP>74</SUP></I>, 
+<I>t<SUP>w75</SUP></I>, 
+<I>t<SUP>w80</SUP></I>, 
+<I>t<SUP>w81</SUP></I>, 
+<I>t<SUP>w93</SUP></I>, 
+<I>t<SUP>w94</SUP></I>, 
+<I>t<SUP>w97</SUP></I>)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856571" target="_blank"><I>t<SUP>w73</SUP></I></A></TD>
+<TD></TD>
+</TR>
+
+</TABLE>
+Each complementation group has furthermore been shown to produce sharply different effects and to act at different times during embryonic development (
+<A HREF="#ref46-4">reference 4</A> for review). These observations suggest that although <I>t</I>-mutations have some of the attributes of genetic alleles, they 
+cannot be considered true alleles, but rather fall into the category (defined only by our ignorance of their real relationships or structure) called "pseudoalleles." 
+Complicating the issue further are a group of semilethal <I>t</I>-factors (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856569" target="_blank"><I>t<SUP>w2</SUP></I></A>, 
+<I>t<SUP>w8</SUP></I>, <I>t<SUP>w36</SUP></I>, <I>t<SUP>w49</SUP></I>, <I>t<SUP>w101</SUP></I>, <I>t<SUP>w102</SUP></I>) 
+which have many of the attributes (see below) of lethal <I>t</I>-mutations, but cannot be defined by complementation 
+analysis, because the homozygous <I>t<SUP>SL</SUP></I>/<I>t<SUP>SL</SUP></I> genotype is in any case potentially viable, although viability ranges from 50% to as 
+low as 2%, depending on the specific semilethal factor.
+
+<P><CENTER>Transmission Ratio and Sterility Effects in Males</CENTER>
+
+<P>One of the most remarkable effects of <I>t</I>-mutations is an abrogation of Mendel's rules in males. This departure from conventional genetics became obvious early 
+in the study of the <I>T/t</I> complex, when animals of the genotype <I>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856730" target="_blank">t<SUP>0</SUP></A></I> 
+were outcrossed to normal (+/+) mates. Tailless females produced the expected 
+proportions of 50% short-tailed (<I>T/+</I>) and 50% normal tailed (<I>T<SUP>0</SUP>/+</I>) offspring, but tailless males transmitted <I>T<SUP>0</SUP></I> to a surprisingly 
+high degree; about 80% of the offspring were normal tailed. Tests of <I>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856730" target="_blank">t<SUP>0</SUP></A>/+</I> males mated to <I>T/t</I> females showed that the effect, called transmission 
+ratio distortion, was directly attributable to the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856730" target="_blank"><I>t<SUP>0</SUP></I></A> 
+factor, not to any interaction with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> (
+<A HREF="#ref46-3">3</A>). All evidence since that time has continued to demonstrate that transmission ratio distortion is a general feature of lethal and semilethal 
+<I>t</I>-factors (the single exception being the <I>T<SUP>9</SUP></I> complementation group). A number of cases have been described of specific <I>t</I>-mutations with 
+transmission ratios of the lethal gene that are over 95%, so it is clear that this situation represents an extreme departure from conventional genetic systems. The 
+mechanism of this distortion does not apparently depend on meiotic disturbance nor on degeneration of one type of sperm, nor on such factors as embryo selection. The 
+best guess at the moment is that <I>t</I>-bearing sperm have some superiority in fertilizing ability that is conferred by haploid gene function after meiosis (
+<A HREF="#ref46-4">reference 4</A> for review). Other effects of <I>t</I>-factors in males have also been described; both homozygotes for semilethal <I>t</I>'s and males 
+carrying two different lethal complementing (<I>t<SUP>x</SUP>/t<SUP>y</SUP></I>) mutations are completely sterile. In both these cases, pronounced morphological 
+abnormalities occur in developing spermatids (
+<A HREF="#ref46-5">5</A>, 
+<A HREF="#ref46-6">6</A>), so the basis for sterility appears to be quite different from that of distorted transmission ratio. Nevertheless, the two phenomena are presumably 
+related in some way.
+
+<A NAME="recombination"></A>
+<P><CENTER>Suppression of Recombination</CENTER>
+
+<P>Both lethal and semilethal <I>t</I>-factors in heterozygous condition suppress recombination over a long stretch of chromosome. The recombination suppression effect 
+may vary slightly from <I>t</I>-haplotype to <I>t</I>-haplotype, but in general effectively includes the distance from the locus of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> to, but not much beyond, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region (
+<A HREF="#ref46-7">7</A>). Although this obviously leads to suggestions that <I>t</I>-mutations represent inversions or deletions of some magnitude, numerous high resolution 
+cytological studies have failed to provide any evidence for chromosome aberrations (
+<A HREF="#ref46-4">reference 4</A> for review).
+
+<P><CENTER>Generation of "New" <I>t</I>-Factors from Pre-existing Ones</CENTER>
+
+<P>The initial studies of the genetic behavior of <I>t</I>-mutations suggested that they were "hypermutable," since they frequently (about 1/500 gametes) produced what 
+Dunn and his colleagues referred to as "exceptions." Exceptions were detected in balanced lethal crosses by the appearance, usually singly, of normal-tailed offspring, 
+which proved on genetic analysis to carry two different complementing <I>t</I>-factors (
+<A HREF="#ref46-8">8</A>). Once chromosome markers became available and were incorporated into <I>t</I>-bearing stocks, it became apparent that the great majority of such 
+exceptions were accompanied by recombination. Most studies have made use of the marker 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tf</I></A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tufted</I></A>), thus:
+
+<CENTER>
+
+<TABLE>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>T  tf</I></TD>
+<TD ALIGN=CENTER>x</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>T  tf</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD ALIGN=CENTER>&#124;<BR>&#124;<BR>V</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>T  tf</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>T  tf</I></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+</TR>
+
+<TR>
+<TD><HR></TD>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD><HR></TD>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>T  tf</I></TD>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+<TD COLSPAN=2>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>lethal</TD>
+<TD COLSPAN=2></TD>
+<TD ALIGN=CENTER>tailless</TD>
+<TD COLSPAN=2></TD>
+<TD ALIGN=CENTER>lethal</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=7>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD ALIGN=CENTER>and  !</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=7>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>n</SUP>  +</I></TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD ALIGN=CENTER><HR></TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=3>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM><I>t<SUP>!</SUP>  tf</I></TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+</TABLE>
+<P>viable<BR>normal-tailed
+</CENTER>
+
+<P>The majority of exceptional chromosomes generated by lethal or semilethal <I>t</I>-factors have proved to be viable when homozygous, 
+and in fact to retain as their only <I>t</I>-like property the ability to interact with <I>T</I> to produce taillessness. No revertants 
+to complete wild-type have ever been detected, however. Over 100 exceptions have been analyzed, and of these 96 were viable and only nine 
+lethal. All of the viable <I>t</I>-factors generated in stocks marked with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tf</I></A> 
+were recombinants. These data lead quite inescapably to the conclusion that lethal and semilethal <I>t</I>-haplotypes are at the very least 
+bilocal and consist of a minimum of two separable elements, one that is allelic with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> 
+and responsible for interaction with it to produce taillessness, and one near 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tf</I></A> that 
+is involved with lethality, recombination suppression, and effects on sperm function. Detailed analysis of recombination-derived 
+<I>t</I>-factors suggests even more complicated models are possible (
+<A HREF="#ref46-9">9</A>), but these are sufficiently speculative not to warrant discussion in the present context.
+
+<P>Relatively few lethal <I>t</I>-mutations have been derived as exceptions from pre-existing factors. No doubt many that do arise are lost 
+before birth because of poor complementation with the parent allele, and others that occur in male <I>t<SUP>n</SUP>/t<SUP>!</SUP></I> 
+compounds are lost to analysis because of the inevitable sterility associated with that genotype. For these reasons it is virtually impossible 
+to get reliable estimates of the spectrum of frequency of newly generated lethal <I>t</I>'s. Nevertheless, those that have been analyzed 
+show an interesting unidirectional pattern of occurrence. As seen in the diagram below, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856570" target="_blank"><I>t<SUP>w5</SUP></I></A> 
+has never been generated from a preexisting <I>t</I>, but has given rise to virtually all others. Likewise, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2664964" target="_blank"><I>t<SUP>9</SUP></I></A>, 
+which has never itself given rise to a lethal, can be produced by most lethals.
+
+<A NAME="T-complex"></A>
+<CENTER>
+<IMG SRC="../images/bennett.jpg" WIDTH=400 HEIGHT=437 ALT="t factor mutations">
+</CENTER>
+
+<P>The event by which one lethal 
+<I>t</I> factor converts to a different one is not well defined. Only one lethal (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856722" target="_blank"><I>t<SUP>w32</SUP></I></A>) 
+has been generated in stocks marked with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tf</I></A> 
+where recombination could be assayed. In this one case, the origin of <I>T<SUP>w32</SUP></I> 
+was clearly not accompanied by crossing-over between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" target="_blank"><I>tf</I></A> (
+<A HREF="#ref46-10">10</A>). This suggests that viables and lethals may originate by different mechanisms (
+<A HREF="#ref46-11">11</A>), with lethals perhaps arising by mutation rather than recombination. It is worth emphasizing here that no instance of mutation 
+from a wild-type gene to a <I>t</I>-factor of any sort has ever been observed; all <I>t</I>-mutations studied have either been derived from wild 
+populations or obtained as exceptions from pre-existing <I>t</I>-factors.
+
+<P><CENTER><I>t</I>-FACTORS IN WILD POPULATIONS</CENTER>
+
+<P>The first exploration for <I>t</I>-mutations in wild populations of mice was apparently initiated because L.C. Dunn saw a possible correlation 
+among three factors: the original detection of <I>t</I>-mutations by Dobrovalskaia-Zavadskaia in the descendents of wild mice, the high transmission 
+ratio of <I>t</I>-factors through males, and their apparent hypermutability in the laboratory. He obtained representatives of a closed colony of 
+mice originated by Schneider (
+<A HREF="#ref46-12">12</A>) from animals caught wild in suburbs of Philadelphia and New York. In the original study 10 males were tested for the possible 
+presence of a <I>t</I>-mutation by mating to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" target="_blank"><I>T</I></A>/+ 
+females. Of the eight which actually bred, five tested positive for the presence of 
+<I>t</I>-factor by producing tailless offspring. The transmission ratio of the <I>t</I>-mutation(s) found in this population was, as predicted, 
+high (86%) (
+<A HREF="#ref46-13">13</A>).
+
+<P>This sample was only the first of many in which <I>t</I>-factors were found in wild populations of mice. Their distribution is ubiquitous, and 
+<I>t</I>-factors have been found all over the world: North America, Europe, Australia, Asia, and South America.
+
+<P>To date, as summarized by Klein (
+<A HREF="#ref46-14">14</A>) with additions of unpublished data from Dunn and Bennett, 52 separate populations have been 
+sampled for their content of <I>t</I>-factors; 27 were found to contain <I>t</I>-factors and 31 were negative. The proportion of negative populations 
+is undoubtedly artificially high, because of the small sample size available for most of them; generally under 10 and more often 2-4 animals were 
+tested. Actually only two of the negative populations can be considered as subjected to a valid test. A sample of 23 animals from a farm in Calgary, 
+Canada, contained no <I>t</I>-factor, although other nearby farms had mice that did (
+<A HREF="#ref46-15">15</A>). Likewise, 40 animals from Great Gull Island in Long Island Sound were analyzed over a period of several years without detecting a 
+<I>t</I>-factor and that population can be securely considered to be free of <I>t</I>-mutations (
+<A HREF="#ref46-16">16</A>). The fact that this was an island population may be a significant factor (see below). 
+<a href="javascript:windowt461 = window.open('../tables/table46-1.shtml', 'windowt461', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt461.focus()">Table 1</A> 
+gives information on sample sizes, numbers of animals tested, and gene frequency. All of the 
+<I>t</I>-haplotypes found in these wild populations were lethal and semilethal, but the distribution of complementation groups was very unequal; some 
+populations contained more than one complementation group. 
+<a href="javascript:windowt462 = window.open('../tables/table46-2.shtml', 'windowt462', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt462.focus()">Table 2</A> 
+shows that almost twice as many examples of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856570" target="_blank"><I>t<SUP>w5</SUP></I></A> 
+group were found than all others combined, while semilethal haplotypes and representatives of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856566" target="_blank"><I>t<SUP>w1</SUP></I></A> complementation group comprised most of the other <I>t</I>-mutations that were defined. 
+One member of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856730" target="_blank"><I>t<SUP>0</SUP></I></A> group and the only example known of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856571" target="_blank"><I>t<SUP>w73</SUP></I></A> were also found. Neither 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856560" target="_blank"><I>t<SUP>12</SUP></I></A> nor 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2664964" target="_blank"><I>t<SUP>9</SUP></I></A> were represented in these samples. Again, every <I>t</I>-haplotype found proved to have a high male 
+transmission ratio, always over 80% and not infrequently in the 95-98% range.
+
+<P>Tested populations that did contain a <I>t</I>-factor had an overall heterozygote frequency of 0.35, which is of course extraordinarily high for 
+a lethal or semilethal gene. Even if the assumption is made that most so-called "negative" populations were insufficiently tested, and these data 
+(with the exceptions of the two quite securely negative populations, see a in 
+<a href="javascript:windowt461 = window.open('../tables/table46-1.shtml', 'windowt461', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt461.focus()">Table 1</A>) 
+are pooled with those from positive populations, an estimated heterozygote frequency of 0.25 is obtained for mouse 
+populations in general. Thus, the conclusion must be that lethal or semilethal <I>t</I>-haplotypes are a natural polymorphism in wild mice, with 
+gene frequencies of 10% or more.
+
+<P>This situation is not completely without precedent since, for example, the gene for sickle cell anemia, which is virtually a homozygous lethal, 
+has comparable gene frequencies in some human populations, where it appears to be maintained by the advantage conferred on heterozygotes in respect 
+to protection from malarial parasitism (
+<A HREF="#ref46-17">17</A>). Although no strong evidence has been found for any conventional relative advantage in fitness in <I>t</I>-heterozygotes (
+<A HREF="#ref46-18">18</A>), an obvious heterozygous advantage, although of a rather unique sort, occurs in <I>t</I>-heterozygotes due to male transmission 
+ratio distortion.
+
+<P>There have been several attempts to analyze in theoretical terms the apparent ability of transmission ratio distortion to maintain a polymorphic 
+frequency of lethal or semilethal genes in wild populations of mice, and most have been instructive in various ways. The first formally valid approach 
+was proposed by Bruck (
+<A HREF="#ref46-19">19</A>) who generated a deterministic model based on the Hardy-Weinberg parameters of infinite population size and random mating. His 
+equation took into account the necessary factors of embryonic lethality of homozygotes and segregation distortion in males only, but led to a 
+prediction that lethal <I>t</I>-gene frequencies at equilibrium would be far higher (between 30 and almost 50%) than those actually found in nature 
+(about 10%). A somewhat more sophisticated version that took semilethality into account was later produced by Dunn and Levene (
+<A HREF="#ref46-20">20</A>) and suffered from the same inability to predict the gene frequencies in natural populations. The failure of these deterministic 
+solutions to correspond to the real world was actually very informative, because it suggested that mouse populations probably were subject to 
+stochastic rules that were imposed because of small effective population sizes where random genetic drift would be an important force. Actually, 
+there were already data being collected, that are now much more extensive (
+<A HREF="#ref46-15">reference 15</A> for review), to show that mouse breeding populations are divided into extremely small subunits called demes. The average 
+deme may consist of about 8 or 10 mice, usually not more than 12, and is relatively isolated from other groups since demes are usually governed 
+by a dominant male who excludes intruders. The isolation of demes is not fixed or permanent, however, since the absence or death of the dominant 
+male is likely to be quickly followed by the immigration of another.
+
+<P>The suggestion that effective breeding populations are indeed small was bolstered very much by stochastic models proposed by Lewontin and Dunn (
+<A HREF="#ref46-21">21</A>) for the behavior of <I>t</I>-factors in wild mice. These interesting studies involved computer simulations of small breeding 
+populations of mice, which were set up with designated numbers of parents of desired genotypes and transmission ratio; a "Monte Carlo" method of 
+gamete selection from the resulting gene pool was used to generate the next generation, and so on. One of the most telling points that emerged from 
+this study was that, under these conditions population sizes of 25 males and 25 females, or even 10 males and 10 females, behaved in a manner that 
+approached Hardy-Weinberg predictions of a <I>t</I>-gene frequency of about 40%. Thus, for the mouse, 20 appears to represent an infinite population 
+size! When the simulated populations were reduced to a size of about eight, it became apparent that any given population was virtually certain, 
+given enough time, to lose its <I>t</I>-factor and reach fixation for the wild type. The length of time a population maintained a <I>t</I>-haplotype 
+was heavily dependent on the value set for transmission ratio, with only very high ratio factors persisting for appreciable lengths of time. On the 
+other hand, it also appeared that a single male with a high ratio factor could be highly effective in introducing that factor into an otherwise 
+negative deme. Taken together these observations suggested that mouse populations as a whole were divided into small demes, each of which, if it 
+had a <I>t</I>-factor in it, was nevertheless progressing ultimately to fixation of the wild type alternate, but each of which, if free of 
+<I>t</I>-factors at the moment, was subject to a certain probability of "re-infection" by the immigration of a heterozygous male. In this context 
+it is significant that one of the two securely <I>t</I>-free populations so far discovered was the Great Gull Island population, which exists on an 
+essentially uninhabited island, where inward migration would be very restricted, although not impossible since boats do visit the island. Anderson 
+<I>et al.</I> (
+<A HREF="#ref46-22">22</A>) and Bennett and associates (
+<A HREF="#ref46-23">23</A>) used this population as a kind of natural laboratory to study the effects of introducing males heterozygous for a wild-derived 
+lethal <I>t</I>-haplotype. In 1956 and 1957, +/
+<A HREF="<!--#include file='include/mgi_acc.html'--> MGI:2667894" target="_blank"><I>t<SUP>w11</SUP></I></A> 
+males were released in one small area near the center of the island, and samples taken yearly between 1959 and 1962 and again in 1966 showed not only that 
+<A HREF="<!--#include file='include/mgi_acc.html'--> MGI:2667894" target="_blank"><I>t<SUP>w11</SUP></I></A> 
+had persisted in the population, but that it had spread virtually throughout the island (
+<a href="javascript:windowf461 = window.open('../figures/figure46-1.shtml', 'windowf461', 'width=1300,height=800,resizable=yes,scrollbars=yes'); windowf461.focus()">Figure 1</A>). 
+However, in 1969, 1970, and 1972, additional samples studied were free of <I>t</I>-mutations. The total number of animals sampled was large enough (
+<A HREF="#ref46-39">39</A>) to suggest strongly that complete fixation of the wild type had been reached. Thus, it is likely that the natural population 
+on Gull Island fulfilled the predictions of the stochastic models of Lewontin and Dunn for 1) easy infection by <I>t</I>/+ heterozygous males 
+and 2) eventual loss from an isolated population. A definitive solution of this point has unfortunately not been possible, because in 1974 
+representatives of the American Museum of Natural History in New York, who supervise the island and study populations of terns that nest there, 
+permitted the escape of pet-store mice into the natural population and thus rendered it useless for our purposes.
+
+<P>Stochastic models discussed above led to gene frequency predictions that were relatively low and far more compatible with data from actual 
+wild populations than were the predictions of deterministic models. In general terms, the actual and theoretical picture that emerges is that 
+most populations of mice carry <I>t</I>-mutations in some substantial frequency. The question then arises whether this polymorphism for lethal 
+or semilethal genes confers some intrinsic adaptive advantage to mouse populations and, if so, what the advantage is.
+
+<P>Perhaps the most obvious possibility is some relationship with the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex. The observation that only lethal and semilethal <I>t</I>-factors have high transmission ratios and are found in wild populations, 
+and significantly that only these inhibit recombination through the region of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>, has led to speculations (
+<A HREF="#ref46-24">24</A>, 
+<A HREF="#ref46-25">25</A>, 
+<A HREF="#ref46-26">26</A>) that the <I>T/t</I> complex and the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex may have some functional or evolutionary relationship.
+
+<P>Evidence for an actual physical relationship has indeed been found. Hammerberg and Klein (
+<A HREF="#ref46-7">7</A>) and Hammerberg <I>et al.</I> (
+<A HREF="#ref46-27">27</A>) have serologically examined 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+types in <I>t</I>-bearing chromosomes and found only a restricted number of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+types in that sample. With a few exceptions, <I>t</I>-haplotypes of the same complementation group, no matter how disparate their geographical 
+origin, had identical 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes. These findings have been confirmed with respect to I-region genes by McDevitt <I>et al.</I> (
+<A HREF="#ref46-28">28</A>). These findings are particularly surprising in view of the extensive polymorphism of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+in wild mouse populations (
+<A HREF="#ref46-29">29</A>), which makes it highly unlikely that mice from separate populations would carry the same 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region genes. Obviously, 
+this instance of linkage disequilibrium could either have a functional or evolutionary interpretation. It could be assumed that particular 
+<I>t</I>-haplotypes form especially advantageous gene complexes (super-genes?) with particular 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes, and thus are selected for in wild populations. Alternatively, it could be assumed that <I>t</I>-haplotypes of the same complementation group must often actually 
+represent the same chromosome which originated once and then was dispersed geographically by migration, with the <I>t</I>-haplotype and the 
+existing 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex held permanently together by recombination suppression. This is perhaps the most likely explanation, since it 
+implies that the "primordial" mutation to a <I>t</I>-factor is a very rare event; this seems indeed to be the case since none have been 
+observed in the laboratory. The rare instances of lethal or semilethal <I>t</I>-haplotypes with "inappropriate" 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+partners are also explainable on this hypothesis, since at present it appears that the generation of one lethal from another is not only a rare event but 
+one that is not recombinational but mutational in nature. Thus a new lethal generated by mutation would necessarily remain associated with an 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+type typical of the parent complementation group.
+
+<P>In summary, at present it is clear that the lethal and semilethal <I>t</I>-factors that suppress recombination at least as far as the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+region and have high male transmission ratios are polymorphic in natural populations of mice. Whether they confer an adaptive 
+advantage is not yet clear, but if they do, it is likely to be due to some as yet undefined relationship to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region genes.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref46-1"></A>
+<P>1. Dobrovolskaia-Zavadskaia, N. (1927). Comp. Rend Soc. Biol. (Paris) <B>97</B>: 114.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:63065" target="_blank">MGI</A></I>.
+<!-- MGI:63065 -->
+
+<A NAME="ref46-2"></A>
+<P>2. Dobrovolskaia-Zavadskaia, N., and Kobozieff, N. (1932). Comp. Rend. Soc. Biol. (Paris) <B>110</B>: 782.
+
+<A NAME="ref46-3"></A>
+<P>3. Chesley, P., and Dunn, L.C. (1936). Genetics <B>21</B>: 525.
+
+<A NAME="ref46-4"></A>
+<P>4. Bennett, D. (1975). Cell <B>6</B>: 545.
+
+<A NAME="ref46-5"></A>
+<P>5. Dooher, G.B., and Bennett, D. (1974). J. Embryol. Exp. Morphol. <B>43</B>: 749.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4463228" target="_blank">PubMed</A></I>.
+<!-- PMID: 4463228 -->
+
+<A NAME="ref46-6"></A>
+<P>6. Dooher, G.B., and Bennett, D. (1977). Biology of Reproduction <B>17</B>: 269.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->889996" target="_blank">PubMed</A></I>.
+<!-- PMID: 889996 -->
+
+<A NAME="ref46-7"></A>
+<P>7. Hammerberg, C., and Klein, J. (1975). Nature <B>258</B>: 296.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1196352" target="_blank">PubMed</A></I>.
+<!-- PMID: 1196352 -->
+
+<A NAME="ref46-8"></A>
+<P>8. Dunn, L.C., and Gluecksohn-Schoenheimer, S. (1950). Proc Natl. Acad. Sci. USA <B>36</B>: 233.
+
+<A NAME="ref46-9"></A>
+<P>9. Lyon, M.F., and Mason, I. (1977). Genet. Res. <B>29</B>: 255.
+
+<A NAME="ref46-10"></A>
+<P>10. Dunn, L.C., Bennett, D., and Beasely, A.B. (1962). Genetics <B>47</B>: 285.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48779" target="_blank">MGI</A></I>.
+<!-- MGI:48779 -->
+
+<A NAME="ref46-11"></A>
+<P>11. Klein, J., and Hammerberg, C. (1977). Immunol. Rev. <B>33</B>: 70.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54260" target="_blank">MGI</A></I>.
+<!-- MGI:54260 -->
+
+<A NAME="ref46-12"></A>
+<P>12. Schneider, H.A. (1946). Proc. Soc. Exp. Biol. Med. <B>63</B>: 161.
+
+<A NAME="ref46-13"></A>
+<P>13. Dunn, L.C., and Morgan, W.C., Jr. (1952). Amer. Nat. <B>536</B>: 321.
+
+<A NAME="ref46-14"></A>
+<P>14. Klein, J. (1975). <I>Biology of the Mouse Histocompatibility-2 Complex</I> Springer-Verlag, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78369" target="_blank">MGI</A></I>.
+<!-- MGI:78369 -->
+
+<A NAME="ref46-15"></A>
+<P>15. Anderson, P.K. (1964). Science <B>145</B>: 177.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14171561" target="_blank">PubMed</A></I>.
+<!-- PMID: 14171561 -->
+
+<A NAME="ref46-16"></A>
+<P>16. Dunn, L.C., Beaseley, A.B., and Tinker, H. (1960). J. Mammal. <B>41</B>: 220.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61297" target="_blank">MGI</A></I>.
+<!-- MGI:61297 -->
+
+<A NAME="ref46-17"></A>
+<P>17. Allison, A.C. (1954). Brit. Med. J. <B>1</B>: 290.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13115700" target="_blank">PubMed</A></I>.
+<!-- PMID: 13115700 -->
+
+<A NAME="ref46-18"></A>
+<P>18. Dunn, L.C., Beasley, A.B., and Tinker, H. (1958). Amer. Nat. <B>92</B>: 215.
+
+<A NAME="ref46-19"></A>
+<P>19. Bruck, D. (1957). Proc. Natl. Acad. Sci. USA <B>43</B>: 152.
+
+<A NAME="ref46-20"></A>
+<P>20. Dunn, L.C., and Levine, H. (1961). Evolution <B>15</B>: 385.
+
+<A NAME="ref46-21"></A>
+<P>21. Lewontin, R.C., and Dunn, L.C. (1960). Genetics <B>45</B>: 795.
+
+<A NAME="ref46-22"></A>
+<P>22. Anderson, P.K., Dunn, L.C., and Beasley, A.B. (1964). Amer. Nat. <B>98</B>: 57.
+
+<A NAME="ref46-23"></A>
+<P>23. Bennett, D., Bruck, D., Dunn, L.C., Klyde, B., Shutsky, F., and Smith, L.J. (1967). Amer. Nat. <B>101</B>: 538.
+
+<A NAME="ref46-24"></A>
+<P>24. Snell, G.D. (1968). Folia Biol. (Praha) <B>14</B>: 335.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4881822" target="_blank">PubMed</A></I>.
+<!-- PMID: 4881822 -->
+
+<A NAME="ref46-25"></A>
+<P>25. Klein, J. (1975). Adv. Exp. Med. Biol. <B>64</B>: 467.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1199884" target="_blank">PubMed</A></I>.
+<!-- PMID: 1199884 -->
+
+<A NAME="ref46-26"></A>
+<P>26. Artzt, K., and Bennett, D. (1975). Nature <B>256</B>: 545.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1172603" target="_blank">PubMed</A></I>.
+<!-- PMID: 1172603 -->
+
+<A NAME="ref46-27"></A>
+<P>27. Hammerberg, C., Klein, J., Artzt, K., and Bennett, D. (1976). Transplantation <B>21</B>: 199.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->941210" target="_blank">PubMed</A></I>.
+<!-- PMID: 941210 -->
+
+<A NAME="ref46-28"></A>
+<P>28. McDevitt, H.O., and Levenson, J.R. (1976). J. Exp. Med. <B>144</B>: 834.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->134129" target="_blank">PubMed</A></I>.
+<!-- PMID: 134129 -->
+
+<A NAME="ref46-29"></A>
+<P>29. Klein, J. (1974). Ann. Rev. Genet. <B>8</B>: 63.
+
+
+<DIV Align="center"><H4> <A HREF="miller.shtml">Previous</A> <A HREF="ivanyi1.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

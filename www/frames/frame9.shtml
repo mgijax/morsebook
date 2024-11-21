@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>MGI - Origins of Inbred Mice</TITLE>
+</HEAD>
+<FRAMESET COLS="20%,80%">
+   <FRAME SRC="../navigation.shtml" NAME=navigation>
+   <FRAME SRC="../chapters/shimkin.shtml" NAME=documents>
+</FRAMESET>
+</HTML>

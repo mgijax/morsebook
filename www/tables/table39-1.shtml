@@ -1,0 +1,664 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 39-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 39 -->
+
+<CENTER>
+<H3>TABLE 1. Alleles at Polymorphic Loci in the C57 and Related Inbred Strains</H3>
+
+<TABLE>
+
+<TR>
+<TD COLSPAN=28><HR></TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Chromosome</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>9</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>11</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Gene</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96413" target="_blank"><I>Id-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97565" target="_blank"><I>Pgm-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97564" target="_blank"><I>Pgm-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97525" target="_blank"><I>rd</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96766" target="_blank"><I>Ldr</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431" target="_blank"><I>Es-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97043" target="_blank"><I>Mod-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></A></TD>
+</TR>
+
+<TR>
+<TD>Strain</TD>
+<TD COLSPAN=27>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=28><HR></TD>
+</TR>
+
+<TR>
+<TD>C57BL/KsJ</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BL/6By</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BL/6J</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BH1</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BH2</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BC1</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BC2</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BL1</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>BL2</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BL/10ScSn</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BL/10J</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BL/10Gn</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>RX-GE</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57BR/cdJ</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C57L/J</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+</TR>
+
+<TR>
+<TD>C58/J/KsJ</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>c</TD>
+</TR>
+
+<TR>
+<TD COLSPAN=28><HR></TD>
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+

@@ -1,0 +1,447 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="old.shtml">Previous</A> <A HREF="taylor.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 26 -->
+
+<H2>Genes of the <I>Tla</I> Region: The New Qa System of Antigens<SUP>
+<A HREF="#note1">1</A></SUP></H2>
+
+<H3>Lorraine Flaherty<BR><BR>
+
+Division of Laboratories and Research<BR>
+New York State Department of Health<BR>
+Albany, New York</H3>
+
+<P>For the past several years, we have been studying the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region of the mouse, located on chromosome 17 
+immediately to the right of (distal to) the major histocompatibility complex. We first became interested in this region 
+after our initial discovery that it may code for several cell surface antigens in addition to TL (
+<A HREF="#ref26-1">1</A>, 
+<A HREF="#ref26-2">2</A>). Since then we have made a determined effort to define and more precisely locate these newly discovered 
+cell surface loci and determine their characteristics. So far, six cell surface loci have been mapped to this region; two 
+which determine skin and tumor graft rejection -- 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95979" target="_blank"><I>H-31</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95980" target="_blank"><I>H-32</I></A> (
+<A HREF="#ref26-2">2</A>) -- and four which determine differentiation antigens on lymphoid cells -- 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> (
+<A HREF="#ref26-3">3</A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> (
+<A HREF="#ref26-4">4</A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> (
+<A HREF="#ref26-5">5</A>), and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A> (
+<A HREF="#ref26-6">6</A>). In addition, two genes which determine isozyme variations -- 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97563" target="_blank"><I>Pgk-2</I></A> (
+<A HREF="#ref26-7">7</A>) and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88364" target="_blank"><I>Ce-2</I></A> (
+<A HREF="#ref26-8">8</A>, 
+<A HREF="#ref26-9">9</A>) -- have also been located here.
+
+<P>In this report, I will present the general characteristics of the serologically defined cell surface loci with particular 
+emphasis on the newly discovered Qa series of antigens, pointing out the similarities and differences between them. I will 
+also present data on the strain and substrain distributions of some of these antigens.
+
+<P><CENTER>Characteristics of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> Region Cell Surface Loci</CENTER>
+
+<P>
+<a href="javascript:windowt261 = window.open('../tables/table26-1.shtml', 'windowt261', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt261.focus()">Table 1</A> and 
+<a href="javascript:windowf261 = window.open('../figures/figure26-1.shtml', 'windowf261', 'width=900,height=300,resizable=yes,scrollbars=yes'); windowf261.focus()">Figure 1</A> 
+give a general description and mapping of these loci. Fuller descriptions are given below.
+
+<P>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> locus was first discovered in 1963 by Old and co-workers (
+<A HREF="#ref26-3">3</A>). It determines a series of thymus-leukemia specific antigens called TL. They found that there were three alleles determining 
+four TL antigens (
+<A HREF="#ref26-4">4</A>). The fourth allele and fifth antigenic specificity were found by Flaherty <I>et al.</I> (
+<A HREF="#ref26-12">12</A>) in an analysis of the antibodies contained within an anti-H-2 serum.
+
+<P>These TL antigens have several unusual properties (for review see reference 
+<A HREF="#ref26-11">11</A>). First, they undergo a process known as antigenic modulation in which the presence of TL antibody or its Fab fragment induces 
+the phenotypic loss of TL from the cell surface. Second, they appear on leukemias of mice which do not ordinarily express these antigens on their 
+thymuses. Moreover, this leukemic TL expression is genetically determined since only certain TL phenotypes can appear on a leukemia from a given 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> genotype. And third, TL antigens have a reciprocal quantitative relationship with the antigens determined by a closely linked locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95896" target="_blank"><I>H-2D</I></A>, such that a TL<SUP>+</SUP> cell expresses less H-2D antigen than a TL<SUP>-</SUP> cell.
+
+<P>Because of these characteristics and others, Boyse and Old (
+<A HREF="#ref26-13">13</A>) have suggested that there are actually two components to the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> locus, one "structural" and one "expressional." The 
+structural component directly specifies the TL protein while the expressional component determines the presence or absence of it. No crossing-over 
+has ever been observed within the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> locus separating these components. (For a further discussion of these two components and the mapping of them to the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> locus, see reference 
+<A HREF="#ref26-13">13</A>).
+
+<P>Biochemically, the molecules expressing the TL antigens have a molecular weight of 45,000 with a &beta;<SUB>2</SUB>-microglobulin subcomponent 
+making them similar to the H-2D and H-2K molecules (
+<A HREF="#ref26-14">14</A>).
+
+<A NAME="Qa-1"></A>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A>. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> locus determines the presence or absence of the Qa-1 antigen (
+<A HREF="#ref26-4">4</A>). It appears on thymocytes as well as on a precise subpopulation of peripheral T lymphocytes. This tissue distribution distinguishes 
+it from the known set of TL antigens which are found exclusively in the thymus.
+
+<P>The 
+<I>Qa-1</I></A> locus (or loci) may be complex. Stanton and Boyse (
+<A HREF="#ref26-4">4</A>) originally observed that different anti-Qa-1 sera gave slightly different strain distributions, consequently they have suggested 
+that at least one of their anti-Qa-1 sera may have more than one antibody against peripheral lymph node cells.
+
+<P>Using the B6.K1 and B6.K2 recombinant strains, they have preliminarily mapped the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> locus to the chromosome stretch between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95896" target="_blank"><I>H2-D</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A>. (B6.K1, B6.K2, and B6-<I>Tla<SUP>a</SUP></I> are all Qa-1<SUP>+</SUP> while B6 and B6-
+<I>H-2<SUP>k</SUP></I> are Qa-1<SUP>-</SUP>; see 
+<a href="javascript:windowf262 = window.open('../figures/figure26-2.shtml', 'windowf262', 'width=800,height=400,resizable=yes,scrollbars=yes'); windowf262.focus()">Figure 2</A>.) 
+However, in a further serological analysis of the Qa-1 antigen and its strain distribution, Stanton has found that a 
+change in the source of rabbit complement or antiserum batch alters the activity of the anti-Qa-1 serum against B6.K1 and B6.K2 (
+<A HREF="#ref26-15">15</A>).
+<SUP><A HREF="#note2">2</A></SUP> These results suggest that there is more than one activity in anti-Qa-1 sera and thus makes the mapping of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> locus difficult. We have therefore placed a question mark after 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> in our chromosomal map of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region and feel that the main Qa-1 activity may be due to a locus more closely linked to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>.
+
+<P>The Qa-1 antigen has not been biochemically analyzed.
+
+<A NAME="Qa-2"></A>
+<P>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A>. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> locus located between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95896" target="_blank"><I>H-2D</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> determines the presence or absence of the differentiation antigen 
+Qa-2. We originally described this locus as a complex determining at least two antigenic specificities (
+<A HREF="#ref26-5">5</A>). By further serological analysis, we have now subdivided this locus into two loci, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A> (
+<A HREF="#ref26-6">6</A>). 
+<I>Qa-3</I></A> will be described in the next section.
+
+<P>As with the Qa-1 antigen, Qa-2 is on a restricted population of lymphocytes as seen by its low expression on thymocytes (&#126;20% are Qa-2<SUP>+</SUP>) and 
+its high expression on lymph node cells (&#062;65% are Qa-2<SUP>+</SUP>). It is also present in the spleen and bone marrow. By cytotoxicity testing, 
+it is predominantly expressed on Thy-1<SUP>+</SUP> lymphocytes although at least some Thy-1<SUP>-</SUP> cells are Qa-2<SUP>+</SUP> (
+<A HREF="#ref26-6">6</A>). In addition, it is present on some T cell leukemias; both TL<SUP>+</SUP> and TL<SUP>-</SUP> leukemias can be Qa-2<SUP>+</SUP>.
+
+<P>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> is also associated with a CML (cell-mediated lympholysis) locus. Forman and Flaherty (
+<A HREF="#ref26-16">16</A>) have found that <I>Qa-2<SUP>b</SUP></I> lymphocytes will kill Con A blasts from a <I>Qa-2<SUP>a</SUP></I> mouse in a secondary <I>in vitro</I> 
+CML test. This killing correlates completely with our strain distribution for the serologically detectable Qa-2 antigen.
+
+<A NAME="Qa-3"></A>
+<P>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A>. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A> locus was separated from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> on the basis of both the strain and tissue distributions of the Qa-2 and Qa-3 antigens 
+which they determine. Qa-3 is more limited in its tissue distribution than Qa-2 and is only present on lymph node and spleen cells. It is absent from at least 
+two inbred strains of mice which type Qa-2<SUP>+</SUP> (<I>Qa-2<SUP>a</SUP></I>) (
+<A HREF="#ref26-6">6</A>). These results indicate that Qa-3 is different from Qa-2 and is determined by a different locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A>. So far we have not 
+detected any recombinants between Qa-2 and Qa-3, and therefore the precise position of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A> is not known (see 
+<a href="javascript:windowf261 = window.open('../figures/figure26-1.shtml', 'windowf261', 'width=900,height=300,resizable=yes,scrollbars=yes'); windowf261.focus()">Figure 1</A>).
+
+<P>Using immunoprecipitation techniques, Michaelson <I>et al.</I> (
+<A HREF="#ref26-17">17</A>) have shown that an antiserum which contains both Qa-2 and Qa-3 activity precipitates a molecule of approximately 45,000 daltons with a 
+&beta;<SUB>2</SUB>-microglobulin subcomponent. Subsequent studies have preliminarily shown that the main molecule precipitated by this serum is the Qa-3 
+molecule (Michaelson <I>et al.</I>, personal communication). The molecular weight of the Qa-2 molecule is still not known.
+
+<P><CENTER>BALB/c Sublines and Their Qa Phenotypes</CENTER>
+
+<P>In the course of testing different strains of mice for their Qa phenotype, we have found that certain BALB/c sublines differ at both the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A> loci (
+<A HREF="#ref26-6">6</A>).
+
+<P>The BALB/c strain was derived from a colony of albino mice maintained by Bagg. In the early 1920s, MacDowell obtained this colony from Little and proceeded 
+to inbreed it. In 1932, it was given to Snell in the F<SUB>26</SUB> generation, who subsequently gave it to Andervont, Green, and Scott. It was then widely 
+distributed to many laboratories. 
+<a href="javascript:windowf263 = window.open('../figures/figure26-3.shtml', 'windowf263', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf263.focus()">Figure 3</A> 
+gives a partial pedigree of the BALB/c strain with our current knowledge of its distribution (
+<A HREF="#ref26-18">18</A>, 
+<A HREF="#ref26-19">19</A>, 
+<A HREF="#ref26-20">20</A>).
+
+In our Qa-2 and Qa-3 typings, we have found that the BALB/c sublines have two Qa phenotypes -- all lines derived from Green or Scott are Qa-2<SUP>+</SUP> Qa-3<SUP>+</SUP>, 
+while most of the lines derived from Andervont are Qa-2<SUP>-</SUP> Qa-3<SUP>-</SUP>. One BALB/cAn-derived line, BALB/cBoy (and therefore also all strains 
+derived from it such as BALB/cFla), is Qa-2<SUP>+</SUP> Qa-3<SUP>+</SUP>.
+
+The simplest explanation for this genetic divergence is that either a mutation or deletion occurred in the BALB/cAn line. It is unlikely that it is due to foreign genes 
+still segregating from the original Bagg albino stock since the BALB/c strain was at least in its F<SUB>29</SUB> generation when given to Andervont. We have also typed 
+these sublines for the neighboring loci, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95896" target="_blank"><I>H-2D</I></A>, <I>D'</I> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>, and found them to be identical (
+<a href="javascript:windowt262 = window.open('../tables/table26-2.shtml', 'windowt262', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt262.focus()">Table 2</A>). 
+If the Qa-2 and Qa-3 phenotypes were maintained from the original heterogeneity in the Bagg albino stock, it would be very unlikely that 
+neighboring genes would not also be affected. Therefore, our hypothesis of a mutation or a deletion seems to be the most tenable one at the present time. The skin 
+grafting results presented in Table 2 between BALB/cBy and BALB/cFla also indicate that there are other genetic differences between these two lines. This is not 
+surprising since these strains are at least 60 generations apart.
+
+<P>If our hypothesis that a mutation or deletion occurred in the BALB/cAn subline is correct, it would indicated that this genetic event (or two consecutive events) modified both 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A>.
+
+<P><CENTER>Relationships Between the <I>Tla</I> Region Loci</CENTER>
+
+<P>In our typings of a number of inbred and recombinant strains of mice, we have noticed several correlations between the alleles within the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region and between the alleles of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region and the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region (
+<a href="javascript:windowt263 = window.open('../tables/table26-3.shtml', 'windowt263', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt263.focus()">Table 3</A>).
+
+<P>First, there is a strong correlation between the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> genotype and the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> genotype. Most, if not all, tested strains which are 
+<I>Qa-1<SUP>a</SUP></I> are either <I>Tla<SUP>a</SUP></I> or <I>Tla<SUP>d</SUP></I>, while all tested strains which are 
+<I>Qa-1<SUP>b</SUP></I> are either 
+<I>Tla<SUP>b</SUP></I> or 
+<I>Tla<SUP>c</SUP></I>. This may simply be because 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> are tightly linked. Since many of the inbred strains have a common ancestry (
+<A HREF="#ref26-21">21</A>) it would be likely that the alleles of these two loci would then be preserved together. At present the position of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A> in relationship to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> is somewhat in doubt, and therefore this hypothesis must be considered a viable one. Alternatively, of course, there may be some functional relationship 
+between these two genes. Currently, there are not enough data to suggest which of these hypotheses is correct.
+
+<P>With few exceptions, there is a strong correlation between the strain distribution of the H-2D.28 specificity and the Qa-2 antigen. All tested inbred strains which 
+have been described as H-2D.28<SUP>-</SUP> are also Qa-2<SUP>-</SUP> (<I>H-2<SUP>f,k,p,r</SUP></I>). We have investigated this correlation and found that one reason 
+for it is probably due to the contamination of at least one anti-H-2.28 typing serum with anti-Qa-2 activity (
+<A HREF="#ref26-6">6</A>). By absorption and direct cytotoxicity testing, we have found that the anti-H-2.28 serum (B10.BR x A.CA) anti-A.SW contains a substantial amount 
+of anti-Qa-2 (and/or Qa-3) activity. Thus a strain would only appear negative with this typing antiserum if it were also negative for Qa-2 and appear positive if 
+it were positive for either H-2.28 or Qa-2.
+
+<A NAME="tandem_duplication"></A>
+<P>Structurally the Qa-3 and TL molecules are very similar to the H-2K, H-2D, and D' molecules; they are all approximately 45,000 daltons in size and associated with 
+&beta;<SUB>2</SUB>-microglobulin. Immunoprecipitation techniques have so far been unsuccessful in determining the molecular weights of the Qa-1 and Qa-2 molecules. These 
+similar molecular weights might indicate that these genes have a common evolutionary ancestry.
+
+<P>The most interesting relationship to us is that between the expression of Qa-2 and Qa-3. In typing a large number of inbred and recombinant strains plus a few wild 
+haplotypes, we have only observed three Qa phenotypes -- Qa-2<SUP>+</SUP> Qa-3<SUP>+</SUP>, Qa-2<SUP>-</SUP> Qa-3<SUP>-</SUP> and Qa-2<SUP>+</SUP> Qa-3<SUP>-</SUP> 
+(and not Qa-2<SUP>-</SUP> Qa-3<SUP>+</SUP>). This is also true for the tissue and tumor distributions of these antigens. There seems to be an obligatory requirement for 
+Qa-2 in order for Qa-3 to be expressed. This is similar to the relationship between two of the TL antigens, Tl.2 and Tl.3 (
+<A HREF="#ref26-22">22</A>). In all known cases, there is no strain or leukemia which expresses TL.3 without expressing TL.2.
+
+<A NAME="Qanull"></A>
+<P>I would like to comment on one last point. Even though our information is still limited on the <I>Qa</I> loci, we have observed that in contrast to the neighboring 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex, the genes of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95928" target="_blank"><I>Qa-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>, do not appear to be highly polymorphic and each appears 
+to have an allele which is serologically undetectable. In the cases of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95932" target="_blank"><I>Qa-3</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> we have made several efforts to induce antibodies 
+against these alternative gene products especially those potentially governed by null alleles but have been unsuccessful. This is also true of the CML locus associated with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97833" target="_blank"><I>Qa-2</I></A>. Forman and Flaherty (
+<A HREF="#ref26-16">16</A>) have found that this reaction is unidirectional; <I>Qa-2<SUP>b</SUP> Qa-3<SUP>b</SUP></I> lymphocytes will kill <I>Qa-2<SUP>a</SUP> Qa-3<SUP>a</SUP></I> 
+cells but the reciprocal is not true. The level of cell-mediated cytotoxicity against <I>Qa-2<SUP>a</SUP> Qa-3<SUP>a</SUP></I> cells also does not vary significantly 
+from strain to strain, indicating that, if polymorphism exists, all the differing gene products behave similarly. We realize that congenic immunizations are sometimes 
+difficult (
+<A HREF="#ref26-23">23</A>) and that <I>Ir</I> genes are sometimes important in detecting mouse alloantigens (
+<A HREF="#ref26-24">24</A>); however, it is still interesting to speculate that the <I>Tla</I> region might have several true null alleles which do not code for allogenic cell 
+surface antigens.
+
+<P>Research on the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> region and the differentiation antigens which it determines is relatively new. Three of these antigens were only discovered within the 
+last two years and have not been fully characterized. Even with our limited knowledge of this genetic region, it is becoming apparent that this region is complex and 
+might have some unique properties. We hope that it will provide us with information not only on the genetic control of the lymphoid cell surface but also on its 
+differentiation.
+
+<P><CENTER>ACKNOWLEDGEMENTS</CENTER>
+
+<P>The author wishes to thank Ted Hansen for the serum, BALB/c-H-2<SUP>db</SUP> anti-BALB/c and Don Bailey for his help in constructing the BALB/c pedigree.
+
+<HR>
+
+<P><A NAME="note1"></A><SUP>1</SUP>This work was supported in part by NIH grant AI 12603 awarded by the National Institute of Allergy and Infectious 
+Diseases and NIH Grant CA 23027 awarded by the National Cancer Institute, DHEW.
+
+<P><A NAME="note2"></A><SUP>2</SUP>Where these strains were originally strongly Qa-1<SUP>+</SUP> with one source of complement and antiserum, they 
+later appeared to be either weakly positive or negative. In our laboratory we have also confirmed these findings. Using a different anti-Qa-1 serum, 
+(A.SW x A.TL) anti-A.TH, we have found that certain sources of rabbit complement will show B6.K1 and B6.K2 as weakly positive where others will show 
+these strains to be negative (
+<A HREF="#ref26-9">9</A>).
+
+<HR>
+
+
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref26-1"></A>
+<P>1. Boyse, E.A., Flaherty, L., Stockert, E., and Old, L.J. (1972). Transplantation <B>13</B>: 431.
+
+<A NAME="ref26-2"></A>
+<P>2. Flaherty, L., and Wachtel, S.S. (1975). Immunogenetics <B>2</B>: 81.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52925" target="_blank">MGI</A></I>.
+<!-- MGI:52925 -->
+
+<A NAME="ref26-3"></A>
+<P>3. Old, L.J., Boyse, E.A., and Stockert, E. (1963). J. Natl. Cancer Inst. <B>31</B>: 977.
+
+<A NAME="ref26-4"></A>
+<P>4. Stanto, T.H. and Boyse, E.A. (1976). Immunogenetics <B>3</B>: 525.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60332" target="_blank">MGI</A></I>.
+<!-- MGI:60332 -->
+
+<A NAME="ref26-5"></A>
+<P>5. Flaherty, L. (1976). Immunogenetics <B>3</B>: 533.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60330" target="_blank">MGI</A></I>.
+<!-- MGI:60330 -->
+
+<A NAME="ref26-6"></A>
+<P>6. Flaherty, L., Zimmerman, D., and Hansen, T.H. (1978). Immunogenetics <B>6</B>: 245.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52929" target="_blank">MGI</A></I>.
+<!-- MGI:52929 -->
+
+<A NAME="ref26-7"></A>
+<P>7. Eicher, E.M., Cherry, M., and Flaherty, L. (1978). Molecular and General Genetics <B>158</B>: 225.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54419" target="_blank">MGI</A></I>.
+<!-- MGI:54419 -->
+
+<A NAME="ref26-8"></A>
+<P>8. Hoffman, H.A., and Grieshaber, C.K. (1976). Biochem. Genet. <B>14</B>: 59.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54108" target="_blank">MGI</A></I>.
+<!-- MGI:54108 -->
+
+<A NAME="ref26-9"></A>
+<P>9. Flaherty, L. Unpublished observations.
+
+<A NAME="ref26-10"></A>
+<P>10. Boyse, E.A., Old, L.J., and Stockert, E. (1965). In <I>Immunopathology IVth International Symposium</I> 
+(P. Grabar and P.A. Miescher, eds.), p. 23. Schwabe and Co., Basel.
+
+<A NAME="ref26-11"></A>
+<P>11. Old, L.J., and Stockert, E. (1977). Ann. Rev. Genet. <B>17</B>: 127.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->202188" target="_blank">PubMed</A></I>.
+<!-- PMID: 202188 -->
+
+<A NAME="ref26-12"></A>
+<P>12. Flaherty, L., Sullivan, K., and Zimmerman, D. (1977). J. Immunol. 119: 571.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54322" target="_blank">MGI</A></I>.
+<!-- MGI:54322 -->
+
+<A NAME="ref26-13"></A>
+<P>13. Boyse, E.A., and Old, L.J. (1971). Transplantation <B>11</B>: 561.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53682" target="_blank">MGI</A></I>.
+<!-- MGI:53682 -->
+
+<A NAME="ref26-14"></A>
+<P>14. Vitetta, E.S., Uhr, J.W., and Boyse, E.A. (1972). Cell. Immunol. <B>4</B>: 187.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5028167" target="_blank">PubMed</A></I>.
+<!-- PMID: 5028167 -->
+
+<A NAME="ref26-15"></A>
+<P>15. Stanton, T. Personal communication.
+
+<A NAME="ref26-16"></A>
+<P>16. Forman, J., and Flaherty, L. (1978). Immunogenetics, in press.
+
+<A NAME="ref26-17"></A>
+<P>17. Michaelson, J., Flaherty, L., Vitetta, E., and Poulik, M.D. (1977). J. Exp. Med. <B>145</B>: 1065.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->858995" target="_blank">PubMed</A></I>.
+<!-- PMID: 858995 -->
+
+<A NAME="ref26-18"></A>
+<P>18. Inbred Strains of Mice No. 10. Mouse News Letter <B>57</B> (Companion Issue) (1977).
+
+<A NAME="ref26-19"></A>
+<P>19. Old, L.J. Personal communication.
+
+<A NAME="ref26-20"></A>
+<P>20. Bailey, D. Personal communication.
+
+<A NAME="ref26-21"></A>
+<P>21. Klein, J. (1975). In <I>Biology of the Histocompatibility-2 Complex</I>. Springer-Verlag, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78369" target="_blank">MGI</A></I>.
+<!-- MGI:78369 -->
+
+<A NAME="ref26-22"></A>
+<P>22. Boyse, E.A., Stockert, E., and Old, L.J. (1969). In <I>International Convocation on Immunology</I> 
+(N.R. Rose and F. Milgrom, eds.), p. 353. Karger, Basel.
+
+<A NAME="ref26-23"></A>
+<P>23. Shen, F.W., Boyse, E.A., and Cantor, H. (1976). Immunogenetics <B>2</B>: 591.
+
+<A NAME="ref26-24"></A>
+<P>24. Fuji, H., Zaleski, M., and Milgrom, F. (1971). J. Immunol. <B>106</B>: 56.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5101181" target="_blank">PubMed</A></I>.
+<!-- PMID: 5101181 -->
+
+<DIV Align="center"><H4> <A HREF="old.shtml">Previous</A> <A HREF="taylor.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

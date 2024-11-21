@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="boggs2.shtml">Previous</A> <A HREF="mosier.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 34 -->
+
+<H2>Generation of an H-2 Restricted CML Response Between AKR Substrains</H2>
+
+<H3>Marion M. Zatz<BR><BR>
+
+National Cancer Institute<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>AKR/Cu mice have previously been reported to reject AKR/J primary lymphoma cells (
+<A HREF="#ref34-1">1</A>). The AKR/J and AKR/Cu strains are known only to differ at a segment of chromosome 9, resulting in Thy1.1 and Thy 1.2 
+phenotypes, respectively. Although this is the only known antigenic difference between these substrains, the Thy antigen was believed 
+not to be responsible for tumor rejection (
+<A HREF="#ref34-1">1</A>). The present studies (
+<A HREF="#ref34-2">2</A>) document reciprocal resistance to transplantation of spontaneous lymphoma cells between these high leukemia AKR/J 
+and AKR/Cu substrains, and reveal that spleen cells from such primed mice generate an H-2 restricted cell-mediated lymphocytic (CML) '
+response <I>in vitro</I> when cultured with cells of the appropriate AKR substrain.
+
+<P>This CML response has the following characteristics: 1) priming <I>in vitro</I> and culture with immunogen <I>in vitro</I> are 
+required; 2) sensitization <I>in vivo</I> and restimulation <I>in vitro</I> can be elicited with AKR cells of thymus, spleen, and 
+lymphoma origin; 3) lymphoma and T- and B-cell-enriched, mitogen-stimulated target cell populations are lysed by the effectors; 4) 
+the effector cells are Thy positive; 5) the parameters of the CML response are similar to those reported for the H-Y (
+<A HREF="#ref34-3">3</A>) and minor H antigen (
+<A HREF="#ref34-4">4</A>) systems.
+
+<P>Using a variety of mouse strains as sources of target cell populations, the data of 
+<a href="javascript:windowt341 = window.open('../tables/table34-1.shtml', 'windowt341', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt341.focus()">Table 1</A> 
+show that 1) the Thy antigen is irrelevant to the CML response, thus AKR/Cu (Thy 1.2) AKR/J (Thy 1.1) effectors 
+lyse CBA and B10.BR, but not C3H cells; 2) B10.BR cells either bear multiple antigens, or a cross-reacting antigens, since they are 
+recognized and lysed by sensitized cells of both AKR substrains; 3) AKR/J and CBA/J cells share the same or similar critical antigen(s) 
+as do AKR/Cu and C3H cells; 4) a non-H-2 antigen(s) is being recognized since lysis of H-2<SUP>k</SUP> CBA, C3H, and B10.BR cells occurs, 
+but at least partial homology at the H-2 locus is required, as shown by the failure to lyse B10 cells; and 5) target cell homology at 
+either the D or K end of the H-2 locus is sufficient for lysis by AKR/J effector cells, resulting in lysis of C3H.OH, B10.A, and B10.AKM 
+target cells, whereas homology at the D-end of the H-2 locus is required for lysis by AKR/Cu effector cells, thus no lysis on B10.AKM 
+target cells. Similar results and interpretations are obtained when these strains are used as a source of <I>in vitro</I> immunogens or blocking cells.
+
+<P>This differential H-2 restriction of the CML response could reflect either differential modification of the K- and D-end H-2 molecules 
+by the discrepant AKR/J and AKR/Cu antigen(s), or differential immune responsiveness of these AKR substrains (? non-H-2 IR genes) to modified 
+H-2K and D-end products on cells of the reciprocal substrain.
+
+<P>To summarize, the data indicate that one or more minor histocompatibility antigens distinct from the Thy antigen, prime AKR/J and AKR/Cu 
+mice for a secondary CML response, during the course of rejection of the reciprocal strain's tumor cells. Both T and B cells as well as primary 
+lymphoma cells bear the antigen(s). Although previous studies 1) suggest that the histocompatibility antigen(s) is linked to the Thy antigen 
+and 2) find no evidence for genetic disparity at nine other linkage groups including chromosome 17 (H-2), the possibility remains that the 
+antigen(s) is coded by a locus outside of the section of chromosome 9, linkage group II, which is known to differ between these two substrains. 
+Backcross studies will be required to prove or disprove linkage to the Thy antigen and chromosome 9.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref34-1"></A>
+<P>1. Acton, R.T., Blankenhorn, T.C., Douglas, T.C., Owen, R.D., Hilgers, J., Hoffman, H.A., and Boyse, E.A. (1973). 
+Nature New Biol. <B>245</B>: 8.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53847" target="_blank">MGI</A></I>.
+<!-- MGI:53847 -->
+
+<A NAME="ref34-2"></A>
+<P>2. Zatz, M.M. (1978). Cell. Immunol. <B>36</B>: 251.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:72581" target="_blank">MGI</A></I>.
+<!-- MGI:72581 -->
+
+<A NAME="ref34-3"></A>
+<P>3. Gordon, R.D., Simpson, E., and Samuelson, L.E. (1975). J. Exp. Med. <B>142</B>: 1108.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54069" target="_blank">MGI</A></I>.
+<!-- MGI:54069 -->
+
+<A NAME="ref34-4"></A>
+<P>4. Bevan, M.J. (1975). J. Exp. Med. <B>142</B>: 1349.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->53263" target="_blank">PubMed</A></I>.
+<!-- PMID: 53263 -->
+
+<DIV Align="center"><H4> <A HREF="boggs2.shtml">Previous</A> <A HREF="mosier.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

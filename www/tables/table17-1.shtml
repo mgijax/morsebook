@@ -1,0 +1,1352 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 17-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 17 -->
+
+<CENTER>
+<H3>TABLE 1. Chromosomal Assignments of Genes That Determine Protein Structure</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=10><HR></TD></TR>
+
+<TR><TD>Chromosome</TD></TR>
+
+<TR>
+<TD>(linkage group)</TD>
+<TD>&nbsp;</TD>
+<TD>Locus</TD>
+<TD>&nbsp;</TD>
+<TD>Protein</TD>
+<TD>&nbsp;</TD>
+<TD>Detection</TD>
+<TD>&nbsp;</TD>
+<TD>Reference</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=10><HR></TD></TR>
+
+<TR>
+<TD>I (XIII)</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>dipeptidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-8">8</A>, 
+<A HREF="#ref17-43">43</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A></TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96413" target="_blank"><I>Id-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>isocitrate dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-31">31</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-49">49</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>2 (V)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96011" target="_blank"><I>Hao-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&alpha;-hydroxyacid oxidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-18">18</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98449" target="_blank"><I>Svp-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>seminal vesicle protein</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-59">59</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>3</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88268" target="_blank"><I>Car-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>carbonic anhydrase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-19">19</A>, 
+<A HREF="#ref17-74">74</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88269" target="_blank"><I>Car-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>carbonic anhydrase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-19">19</A>, 
+<A HREF="#ref17-74">74</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>4 (VIII)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95679" target="_blank"><I>Gpd-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>hexose-6-P dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-3">3</A>, 
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-36">36</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-66">66</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97233" target="_blank"><I>Mup-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>urinary protein</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-25">25</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97553" target="_blank"><I>Pgd-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>6-P-gluconate dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-3">3</A>, 
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97565" target="_blank"><I>Pgm-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>phosphoglucomutase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-8">8</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-72">72</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>5 (XVII)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87991" target="_blank"><I>Alb-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>albumin</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-54">54</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gus</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&beta;-glucuronidase</TD>
+<TD>&nbsp;</TD>
+<TD>E,T (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-55">55</A>, 
+<A HREF="#ref17-56">56</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96917" target="_blank"><I>Map-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&alpha;-mannosidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-17">17</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97050" target="_blank"><I>Mor-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>mitochondrial malate dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-70">70</A>, 
+<A HREF="#ref17-80">80</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97564" target="_blank"><I>Pgm-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>phosphoglucomutase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-8">8</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-72">72</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>6 (XI)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96766" target="_blank"><I>Ldr-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>lactic dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>7 (I)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95447" target="_blank"><I>Es-8</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-5">5</A>, 
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>glucose-P isomerase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-4">4</A>, 
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-10">10</A>, 
+<A HREF="#ref17-15">15</A>, 
+<A HREF="#ref17-26">26</A>, 
+<A HREF="#ref17-27">27</A>, 
+<A HREF="#ref17-34">34</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>hemoglobin &beta;-chain</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-28">28</A>, 
+<A HREF="#ref17-34">34</A>, 
+<A HREF="#ref17-60">60</A>, 
+<A HREF="#ref17-68">68</A>, 
+<A HREF="#ref17-69">69</A>,  
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96027" target="_blank"><I>Hby</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>hemoglobin embryonic chain</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-68">68</A>, 
+<A HREF="#ref17-75">75</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97045" target="_blank"><I>Mod-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>mitochondrial malic enzyme</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-8">8</A>, 
+<A HREF="#ref17-24">24</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-70">70</A>, 
+<A HREF="#ref17-74">74</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>8 (XVIII)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-77">77</A>, 
+<A HREF="#ref17-78">78</A>, 
+<A HREF="#ref17-82">82</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431" target="_blank"><I>Es-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-57">57</A>, 
+<A HREF="#ref17-67">67</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-77">77</A>, 
+<A HREF="#ref17-78">78</A>, 
+<A HREF="#ref17-82">82</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95444" target="_blank"><I>Es-5</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-57">57</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-77">77</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95445" target="_blank"><I>Es-6</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-58">58</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-77">77</A>, 
+<A HREF="#ref17-78">78</A>, 
+<A HREF="#ref17-82">82</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95446" target="_blank"><I>Es-7</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95448" target="_blank"><I>Es-9</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="#ref17-6">6</A></TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95422" target="_blank"><I>Es-11</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-57">57</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95792" target="_blank"><I>Got-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>mitochondrial glutamic oxaloacetic transaminase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-16">16</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-77">77</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95804" target="_blank"><I>Gr-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>glutathione reductase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-53">53</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88559" target="_blank"><I>Prt-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>pancreatic proteinase</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-77">77</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>9 (II)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bge</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&beta;-galactosidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-2">2</A>, 
+<A HREF="#ref17-6">6</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96749" target="_blank"><I>Lap-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>leucine aminopeptidase</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-81">81</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97043" target="_blank"><I>Mod-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>soluble malic enzyme</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-8">8</A>, 
+<A HREF="#ref17-32">32</A>, 
+<A HREF="#ref17-36">36</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-70">70</A>, 
+<A HREF="#ref17-71">71</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97075" target="_blank"><I>Mpi-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>mannose-P isomerase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-51">51</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-74">74</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98821" target="_blank"><I>Trf</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>transferrin</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>10 (X)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88045" target="_blank"><I>Apk</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>acid phosphatase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>11 (VII)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-64">64</A>, 
+<A HREF="#ref17-65">65</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-82">82</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" target="_blank"><I>Hba</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>hemoglobin &alpha;-chain</TD>
+<TD>&nbsp;</TD>
+<TD>S (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-34">34</A>, 
+<A HREF="#ref17-68">68</A>, 
+<A HREF="#ref17-69">69</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>12 (XVI)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88019" target="_blank"><I>Amy-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>salivary amylase</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-38">38</A>, 
+<A HREF="#ref17-73">73</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88020" target="_blank"><I>Amy-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>pancreatic amylase</TD>
+<TD>&nbsp;</TD>
+<TD>E</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-38">38</A>, 
+<A HREF="#ref17-73">73</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>14 (III)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95421" target="_blank"><I>Es-10</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>esterase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-74">74</A>, 
+<A HREF="#ref17-79">79</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97365" target="_blank"><I>Np-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>nucleoside phosphorylase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-52">52</A>, 
+<A HREF="#ref17-79">79</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>15 (VI)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95679" target="_blank"><I>Gdc-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&alpha;-glycerol-P dehydrogenase</TD>
+<TD>&nbsp;</TD>
+<TD>E,T (K)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-40">40</A>, 
+<A HREF="#ref17-74">74</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95802" target="_blank"><I>Gpt-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>glutamic pyruvate transaminase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-11">11</A>, 
+<A HREF="#ref17-20">20</A>, 
+<A HREF="#ref17-74">74</A> 
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>17 (IX)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" target="_blank"><I>Glo-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>glyoxalase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-47">47</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Map-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&alpha;-mannosidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-17">17</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97563" target="_blank"><I>Pgk-2</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>testicular P-glycerate kinase</TD>
+<TD>&nbsp;</TD>
+<TD>E,T</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-76">76</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>19 (XII)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95791" target="_blank"><I>Got-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>soluble glutamic oxaloacetic transaminase</TD>
+<TD>&nbsp;</TD>
+<TD>E (K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-7">7</A>, 
+<A HREF="#ref17-16">16</A>, 
+<A HREF="#ref17-52">52</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>X (XX)</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1347344" target="_blank"><I>Ags</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>&alpha;-galactosidase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-41">41</A>, 
+<A HREF="#ref17-52">52</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97555" target="_blank"><I>Pgk-1</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>P-glycerate kinase</TD>
+<TD>&nbsp;</TD>
+<TD>E (B,K,L)</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-41">41</A>, 
+<A HREF="#ref17-52">52</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97577" target="_blank"><I>Phk</I></A></TD>
+<TD>&nbsp;</TD>
+<TD>muscle phosphorylase kinase</TD>
+<TD>&nbsp;</TD>
+<TD>T</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-30">30</A>, 
+<A HREF="#ref17-33">33</A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=10><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref17-2"></A>
+<P>2. Breen, G.A.M., Lusis, A.J., and Paigen, K. (1977). Genetics <B>85</B>: 73.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54252" target="_blank">MGI</A></I>.
+<!-- MGI:54252 -->
+
+<A NAME="ref17-3"></A>
+<P>3. Chapman, V.M. (1975). Biochem. Genet. <B>13</B>: 849.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54077" target="_blank">MGI</A></I>.
+<!-- MGI:54077 -->
+
+<A NAME="ref17-4"></A>
+<P>4. Chapman, V.M., Ansell, J.D., and McLaren, A. (1972). Develop. Biol. <B>29</B>: 48.
+
+<A NAME="ref17-5"></A>
+<P>5. Chapman, V.M., Nichols, E.A., and Ruddle, F.H. (1974). Biochem. Genet. <B>11</B>: 347.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53946" target="_blank">MGI</A></I>.
+<!-- MGI:53946 -->
+
+<A NAME="ref17-6"></A>
+<P>6. Chapman, V.M., Paigen, K., Siracusa, L., and Womack, J. (1978). Biochemical Variation: 
+Mouse Inbred and Genetically Defined Strains of Laboratory Animals. Handbook. Federation of American Societies of Experimental Biology.
+
+<A NAME="ref17-7"></A>
+<P>7. Chapman, V.M., and Ruddle, F.H. (1972). Genetics <B>70</B>: 299.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52908" target="_blank">MGI</A></I>.
+<!-- MGI:52908 -->
+
+<A NAME="ref17-8"></A>
+<P>8. Chapman, V.M., Ruddle, F.H., and Roderick, T.H. (1971). Biochem. Genet. <B>5</B>: 101.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53694" target="_blank">MGI</A></I>.
+<!-- MGI:53694 -->
+
+<A NAME="ref17-10"></A>
+<P>10. Chapman, V.M., Whitten, W.K., and Ruddle, F.H. (1971). Develop. Biol. <B>26</B>: 153.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53713" target="_blank">MGI</A></I>.
+<!-- MGI:53713 -->
+
+<A NAME="ref17-11"></A>
+<P>11. Chen, S.H., Doanahue, R.P., and Scott, C.R. (1973). Biochem. Genet. <B>10</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53862" target="_blank">MGI</A></I>.
+<!-- MGI:53862 -->
+
+<A NAME="ref17-15"></A>
+<P>15. DeLorenzo, R.J., and Ruddle, F.H. (1969). Biochem. Genet. <B>3</B>: 151.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53619" target="_blank">MGI</A></I>.
+<!-- MGI:53619 -->
+
+<A NAME="ref17-16"></A>
+<P>16. DeLorenzo, R.J., and Ruddle, F.H. (1970). Biochem. Genet. <B>4</B>: 259.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53641" target="_blank">MGI</A></I>.
+<!-- MGI:53641 -->
+
+<A NAME="ref17-19"></A>
+<P>19. Eicher, E.M., Stern, R.H., Womack, J.E., Davisson, M.T., Roderick, T.H., and Reynolds, S.C. (1976). Biochem. Genet. <B>14</B>: 651.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54196" target="_blank">MGI</A></I>.
+<!-- MGI:54196 -->
+
+<A NAME="ref17-20"></A>
+<P>20. Eicher, E.M., and Womack, J.E. (1977). Biochem. Genet. <B>15</B>: 1.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54273" target="_blank">MGI</A></I>.
+<!-- MGI:54273 -->
+
+<A NAME="ref17-24"></A>
+<P>24. Erikson, R.P., Eicher, E.M., and Gluecksohn-Waelsch, S. (1974) Nature <B>248</B>: 416.
+
+<A NAME="ref17-25"></A>
+<P>25. Finlayson, J.S., Potter, M., Shinnick, C.S., and Smithies, O. (1974). Biochem. Genet. <B>11</B>: 325.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4838000" target="_blank">PubMed</A></I>.
+<!-- PMID: 4838000 -->
+
+<A NAME="ref17-26"></A>
+<P>26. Gearhardt, J.D., and Mintz, B. (1972). Develop. Biol. <B>29</B>: 27.
+
+<A NAME="ref17-27"></A>
+<P>27. Gearhardt, J.D., and Mintz, B. (1972). Develop. Biol. <B>29</B>: 55.
+
+<A NAME="ref17-28"></A>
+<P>28. Gilman, J.G. (1972). Science <B>178</B>: 873.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5085986" target="_blank">PubMed</A></I>.
+<!-- PMID: 5085986 -->
+
+<A NAME="ref17-30"></A>
+<P>30. Gross, S.R., Longshore, M.A., and Pangburn, S. (1975) Biochem. Genet. <B>13</B>: 567.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54081" target="_blank">MGI</A></I>.
+<!-- MGI:54081 -->
+
+<A NAME="ref17-32"></A>
+<P>32. Henderson, N.W. (1966). Arch Biochem. Biophys. <B>117</B>: 28.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:68354" target="_blank">MGI</A></I>.
+<!-- MGI:68354 -->
+
+<A NAME="ref17-33"></A>
+<P>33. Huijing, F., Eicher, E.M., and Coleman, D.L. (1973). Biochem. Genet. <B>9</B>: 193.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53845" target="_blank">MGI</A></I>.
+<!-- MGI:53845 -->
+
+<A NAME="ref17-34"></A>
+<P>34. Hutton, J.J, (1969). Biochem. Genet. <B>3</B>: 507.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53612" target="_blank">MGI</A></I>.
+<!-- MGI:53612 -->
+
+<A NAME="ref17-36"></A>
+<P>36. Hutton, J.J., and Coleman, D.L. (1969). Biochem. Genet. <B>3</B>: 517.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53613" target="_blank">MGI</A></I>.
+<!-- MGI:53613 -->
+
+<A NAME="ref17-37"></A>
+<P>37. Hutton, J.J., and Roderick, T.H. (1970). Biochem. Genet. <B>4</B>: 339.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53642" target="_blank">MGI</A></I>.
+<!-- MGI:53642 -->
+
+<A NAME="ref17-38"></A>
+<P>38. Kaplan, R.D., Chapman, V., and Ruddle, F.H. (1973). J. Hered. <B>64</B>: 155.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53859" target="_blank">MGI</A></I>.
+<!-- MGI:53859 -->
+
+<A NAME="ref17-39"></A>
+<P>39. Kozak, C.A., and Ruddle, F.H. (1977). Somatic Cell Genet. <B>3</B>: 121.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54423" target="_blank">MGI</A></I>.
+<!-- MGI:54423 -->
+
+<A NAME="ref17-40"></A>
+<P>40. Kozak, L.P. (1974). Biochem. Genet. <B>12</B>: 69.
+
+<A NAME="ref17-41"></A>
+<P>41. Kozak, L.P., McLean, G.K., and Eicher, E.M. (1974). Biochem. Genet. <B>11</B>: 41.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53905" target="_blank">MGI</A></I>.
+<!-- MGI:53905 -->
+
+<A NAME="ref17-43"></A>
+<P>43. Lewis, W.H.P., and Truslove, G.M. (1969). Biochem. Genet. <B>3</B>: 493.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53611" target="_blank">MGI</A></I>.
+<!-- MGI:53611 -->
+
+<A NAME="ref17-47"></A>
+<P>47. Meo, T., Douglas, T., and Rijnbeek, A. (1977). Science <B>198</B>: 311.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54356" target="_blank">MGI</A></I>.
+<!-- MGI:54356 -->
+
+<A NAME="ref17-49"></A>
+<P>49. Mintz, B., and Baker, W.W. (1967). Proc. Natl. Acad. Sci. <B>58</B>: 592.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53529" target="_blank">MGI</A></I>.
+<!-- MGI:53529 -->
+
+<A NAME="ref17-52"></A>
+<P>52. Nichols, E.A., and Ruddle, F.H. (1973). J. Histochem. Cytochem. <B>21</B>: 1066.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71385" target="_blank">MGI</A></I>.
+<!-- MGI:71385 -->
+
+<A NAME="ref17-53"></A>
+<P>53. Nichols, E.A., and Ruddle, F.H. (1975). Biochem. Genet. <B>13</B>: 323.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54049" target="_blank">MGI</A></I>.
+<!-- MGI:54049 -->
+
+<A NAME="ref17-54"></A>
+<P>54. Nichols, E.A., Ruddle, F.H., and Petras, M.L. (1975). Biochem. Genet. <B>13</B>: 551.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54080" target="_blank">MGI</A></I>.
+<!-- MGI:54080 -->
+
+<A NAME="ref17-55"></A>
+<P>55. Paigen, K. (1971). In "Enzyme Synthesis and Degradation in Mammalian Systems" (M. Rechcigl, ed.), p. 1. Karger, Basel.
+
+<A NAME="ref17-56"></A>
+<P>56. Paigen, K. (1975). J. Cell Physiol. <B>85</B>: 379.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54006" target="_blank">MGI</A></I>.
+<!-- MGI:54006 -->
+
+<A NAME="ref17-57"></A>
+<P>57. Peters, J., and Nash, H.R. (1977). Biochem. Genet. <B>15</B>: 217.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54300" target="_blank">MGI</A></I>.
+<!-- MGI:54300 -->
+
+<A NAME="ref17-58"></A>
+<P>58. Petras, M.L., and Sinclair, P. (1969). Can. J. Genet. Cytol. <B>11</B>: 97.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5797811" target="_blank">PubMed</A></I>.
+<!-- PMID: 5797811 -->
+
+<A NAME="ref17-59"></A>
+<P>59. Platz, R.D., and Wolfe, H.G. (1969). J. Hered. <B>60</B>: 187.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53620" target="_blank">MGI</A></I>.
+<!-- MGI:53620 -->
+
+<A NAME="ref17-60"></A>
+<P>60. Popp, R.A. (1973). Biochim. Biophys. Acta <B>303</B>: 52.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4573825" target="_blank">PubMed</A></I>.
+<!-- PMID: 4573825 -->
+
+<A NAME="ref17-64"></A>
+<P>64. Ruddle, F.H., and Roderick, T.H. (1965).  Genetics <B>51</B>: 445.
+
+<A NAME="ref17-65"></A>
+<P>65. Ruddle, F.H., and Roderick, T.H., (1966). Genetics <B>54</B>: 191.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5961479" target="_blank">PubMed</A></I>.
+<!-- PMID: 5961479 -->
+
+<A NAME="ref17-66"></A>
+<P>66. Ruddle, F.H., Shows, T.B., and Roderick, T.H. (1968). Genetics <B>58</B>: 599.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53569" target="_blank">MGI</A></I>.
+<!-- MGI:53569 -->
+
+<A NAME="ref17-67"></A>
+<P>67. Ruddle, F.H., Shows, T.B., and Roderick, T.H. (1968). Genetics <B>62</B>: 393.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5372803" target="_blank">PubMed</A></I>.
+<!-- PMID: 5372803 -->
+
+<A NAME="ref17-68"></A>
+<P>68. Russell, E.S., and McFarland, E.C. (1974). Ann. N.Y. Acad. Sci <B>241</B>: 25.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53978" target="_blank">MGI</A></I>.
+<!-- MGI:53978 -->
+
+<A NAME="ref17-69"></A>
+<P>69. Russell, L.B., Russell, W.L., Popp, R.A., Vaughan, C., and Jacobson, K. B. (1976). Proc. Natl. Acad. Sci. <B>73</B>: 2843.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54163" target="_blank">MGI</A></I>.
+<!-- MGI:54163 -->
+
+<A NAME="ref17-70"></A>
+<P>70. Shows, T.B., Chapman, V.M., and Ruddle, F.H. (1970). Biochem. Genet. <B>4</B>: 707.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53665" target="_blank">MGI</A></I>.
+<!-- MGI:53665 -->
+
+<A NAME="ref17-71"></A>
+<P>71. Shows, T.B., and Ruddle, F.H. (1968). Science <B>160</B>: 1356.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53549" target="_blank">MGI</A></I>.
+<!-- MGI:53549 -->
+
+<A NAME="ref17-72"></A>
+<P>72. Shows, T.B., Ruddle, F.H., and Roderick, T.H. (1969).
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60212" target="_blank">MGI</A></I>.
+<!-- MGI:60212 -->
+
+<A NAME="ref17-73"></A>
+<P>73. Sick, K., and Nielsen, J.T. (1964). Hereditas <B>51</B>: 291.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61191" target="_blank">MGI</A></I>.
+<!-- MGI:61191 -->
+
+<A NAME="ref17-74"></A>
+<P>74. Staats, J. (1976). Cancer Res. <B>36</B>: 4333.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54208" target="_blank">MGI</A></I>.
+<!-- MGI:54208 -->
+
+<A NAME="ref17-75"></A>
+<P>75. Stern, R.H., Russell, E.S., and Taylor, B.A. (1976). Biochem. Genet. <B>14</B>: 373.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54164" target="_blank">MGI</A></I>.
+<!-- MGI:54164 -->
+
+<A NAME="ref17-76"></A>
+<P>76. Vandeberg, J.L., Cooper, D.W., and Close, P.J. (1973). Nature New Biol. <B>243</B>: 48.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:64540" target="_blank">MGI</A></I>.
+<!-- MGI:64540 -->
+
+<A NAME="ref17-77"></A>
+<P>77. Watanabe, T., Ogasawara, N., and Goto, H. (1976). Biochem. Genet. <B>14</B>: 999.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54249" target="_blank">MGI</A></I>.
+<!-- MGI:54249 -->
+
+<A NAME="ref17-78"></A>
+<P>78. Womack, J.E. (1975). Biochem. Genet. <B>13</B>: 311.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54048" target="_blank">MGI</A></I>.
+<!-- MGI:54048 -->
+
+<A NAME="ref17-79"></A>
+<P>79. Womack, J.E., Davisson, M.T., Eicher, F.M., and Kendall, D.A. (1977). Biochem. Genet. <B>15</B>: 347.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54302" target="_blank">MGI</A></I>.
+<!-- MGI:54302 -->
+
+<A NAME="ref17-80"></A>
+<P>80. Womack, J.E., Hawes, N.L., Soares, E.R., and Roderick, T.H. (1975). Biochem. Genet. <B>13</B>: 519.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54079" target="_blank">MGI</A></I>.
+<!-- MGI:54079 -->
+
+<A NAME="ref17-81"></A>
+<P>81. Womack, J.E., Lynes, M.A., and Taylor, B.A. (1975). Biochem. Genet. <B>13</B>: 511.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54078" target="_blank">MGI</A></I>.
+<!-- MGI:54078 -->
+
+<A NAME="ref17-82"></A>
+<P>82. Womack, J.E., and Sharp, M. (1976). Genetics <B>82</B>: 665.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->57899" target="_blank">PubMed</A></I>.
+<!-- PMID: 57899 -->
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

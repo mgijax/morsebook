@@ -1,0 +1,402 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="rowe.shtml">Previous</A> <A HREF="cardiff.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 21 -->
+
+<H2>Expression of XenCSA, a Cell Surface Antigen Related to the Major Glycoprotein (gp70) of Xenotropic Murine Leukemia Virus, by Lymphocytes of Inbred Mouse Strains</H2>
+
+<H3>Thomas M. Chused<BR><BR>
+Laboratory of Microbiology and Immunology<BR>
+National Institute of Dental Research<BR><BR><BR>
+Herbert C. Morse III<BR><BR>
+Laboratory of Microbial Immunity<BR>
+National Institute of Allergy and Infectious Diseases<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>There are several classes of endogenous murine leukemia viruses (MuLV) which can be defined by host range and interference patterns (
+<A HREF="#ref21-1">1</A>). Ecotropic MuLV, such as the Gross-AKR type, can only infect mouse cells (
+<A HREF="#ref21-2">2</A>). Xenotropic MuLV are able to infect a wide range of xenogenic cells but are almost totally incapable of infecting mouse cells (
+<A HREF="#ref21-3">3</A>). Amphotropic MuLV, recovered from wild mice, are able to infect both murine and non-murine cells (
+<A HREF="#ref21-1">1</A>, 
+<A HREF="#ref21-4">4</A>). The genetic information coding for xenotropic and amphotropic viruses is integrated into the chromosomal DNA of all inbred mouse strains (
+<A HREF="#ref21-5">5</A>) while the coding for ecotropic virus is present in the DNA of most but not all strains (
+<A HREF="#ref21-6">6</A>, 
+<A HREF="#ref21-7">7</A>). The physical structure of all three classes of MuLV is similar (
+<a href="javascript:windowf211 = window.open('../figures/figure21-1.shtml', 'windowf211', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf211.focus()">Figure 1</A>). 
+There are three structural genes: <I>gag</I> for "group specific antigen" codes for a 70,000 dalton polyprotein 
+precursor which is cleaved to produce the internal proteins p30, p15, p12 and p10 ("p" for protein, the number referring to its size in 
+1,000's of daltons). <I>Pol</I> produces reverse transcriptase. <I>Env</I> codes for a glycosylated 90,000 dalton precursor which is 
+split into gp70 and p15e, the "gp" indicating a glycoprotein and "e" standing for "envelope" to distinguish it from the core-associated p15 (
+<A HREF="#ref21-8">8</A>). Of the 70,000 daltons of gp70, 30,000 is carbohydrate. Gp70 is the external coat protein of the virion (
+<A HREF="#ref21-9">9</A>). It determines, in large part, the host range of the virus, presumably by mediating attachment to the target cell.
+
+<A NAME="polymorphism"></A><A NAME="MCF_virus"></A>
+<P>Three recent observations have further focused our attention on MuLV gp70. First, Jensen, Lerner and co-workers developed a method of 
+fingerprint analysis of gp70 by chromatography of tryptic peptides of purified and iodinated gp70 (
+<A HREF="#ref21-10">10</A>). This technique has revealed a surprisingly extensive polymorphism of gp70 that may be as extensive as that of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>. 
+While the fingerprints of gp70 from different MuLV isolates fall into families which correspond to the three host range classes, 
+the only identical patterns to date are those of the viruses coded by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95328" target="_blank"><I>Akv-2</I></A> genes (
+<A HREF="#ref21-11">11</A>). The second finding concerns Hartley and Rowe's isolation of novel viruses from spontaneous lymphomas 
+in several strains of mice which are infectious for both murine and xenogenic cells and form foci on mink lung cells (
+<A HREF="#ref21-12">12</A>). They are termed "MCF" for "mink cell focus-inducing." Isolates of this class of MuLV possess gp70 molecules which, by 
+fingerprint analysis and neutralization testing, appear to be genetic recombinants between ecotropic and xenotropic viruses (
+<A HREF="#ref21-11">11</A>). The third observation is that gp70's which resemble MuLV proteins antigenically and by fingerprint analysis are found 
+in the serum and on the cell surface of sperm and certain epithelial tissues in the absence of virus production (
+<A HREF="#ref21-13">13</A>, 
+<A HREF="#ref21-14">14</A>). Because the products of the many genes that must be present to code for various gp70's may function as differentiation 
+antigens or be involved in cellular regulation and would be expected to mediate such functions at the cell surface, our group has undertaken 
+the long-term study of the types of gp70 present on cell membranes and their genetic control.
+
+<P>The studies to be described in this chapter concern the expression on mouse lymphocytes of gp70 closely related to that of xenotropic MuLV. 
+We have produced an antiserum which reacts with xenotropic MuLV by immunizing New Zealand White rabbits with SIRC (Serum Institute Rabbit 
+Corneal) cells infected with xenotropic MuLV from NZB mice (
+<A HREF="#ref21-15">15</A>). By virus neutralization, which depends on antibody to gp70, the antiserum is quite specific for xenotropic virus (
+<a href="javascript:windowt211 = window.open('../tables/table21-1.shtml', 'windowt211', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt211.focus()">Table 1</A>). 
+Not surprisingly, it also neutralizes the recombinant MCF virus. To determine exactly what antibody specificities 
+are present in the serum we radioiodinated disrupted xenotropic MuLV, exposed it to the antiserum, and analyzed the precipitate on polyacrylamide gels (
+<a href="javascript:windowf212 = window.open('../figures/figure21-2.shtml', 'windowf212', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf212.focus()">Figure 2</A>). 
+With saturating amounts of antiserum, gp70, p30 and two smaller components are precipitated (
+<a href="javascript:windowf212 = window.open('../figures/figure21-2.shtml', 'windowf212', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf212.focus()">Figure 2a</A>). 
+When limiting amounts of reagent are used, only the gp70 is brought down, indicating that the highest titer is against gp70 (
+<a href="javascript:windowf212 = window.open('../figures/figure21-2.shtml', 'windowf212', 'width=900,height=600,resizable=yes,scrollbars=yes'); windowf212.focus()">Figure 2b</A>).
+
+<P>To detect gp70 on the cell surface we have used the technique of flow microfluorometry as embodied by the fluorescence-activated cell sorter (
+<a href="javascript:windowf213 = window.open('../figures/figure21-3.shtml', 'windowf213', 'width=900,height=700,resizable=yes,scrollbars=yes'); windowf213.focus()">Figure 3</A>) (
+<A HREF="#ref21-16">16</A>). The cells to be examined are entrained in the center of a rapidly flowing jet of liquid which is traversed by a laser beam. 
+Molecules of fluorochrome present on the cells are excited by the laser beam and their fluorescence is detected by a photomultiplier tube 
+perpendicular to both the liquid jet and the laser beam. The output is presented as a histogram of the number of cells (ordinate) in each 
+of the 1,000 channels into which the fluorescence distribution (abscissa) is divided.
+
+<P>By utilizing the computer associated with the system to determine the mean channel number of the fluorescence distribution after staining 
+with the fluoresceinated antiserum, we obtain a highly reproducible measure of the amount of gp70 present on the cell. This is given in arbitrary, 
+but constant fluorescence units. We have done this for non-SIRC cell lines infected with different viruses after staining with the antisera to 
+NZB xenotropic MuLV-infected SIRC cells (
+<a href="javascript:windowt212 = window.open('../tables/table21-2.shtml', 'windowt212', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt212.focus()">Table 2</A>). 
+There is 10 to 15 times more staining of cells infected with xenotropic virus than of cells infected with amphotropic 
+or ecotropic virus, implying relative specificity for xenotropic MuLV-coded gp70. Despite the differences in fingerprint patterns of gp70 obtained 
+from different xenotropic viruses, mink cells infected with xenotropic MuLV isolates from NZB, NZW, DBA/2, AKR, and BALB/c mice all stain brightly 
+with the antiserum to the NZB virus, and antisera to the BALB xenotrope give results that are virtually identical to those obtained 
+with the anti-NZB xenotropic MuLV serum.
+
+<A NAME="XenCSA"></A>
+<P>The immunoglobulin was isolated from this antiserum, digested with pepsin to produce F(ab')<SUB>2</SUB> fragments, fluoresceinated, and adsorbed 
+with C57BL/6 spleen cells to remove heteroantibody. We have termed the gp70 antigen detected by this type of antiserum XenCSA, of <U>X</U>enotropic 
+<U>en</U>velope-related <U>c</U>ell <U>s</U>urface <U>an</U>tigen.
+
+<P>The staining of NZB lymphocytes by this reagent is shown in 
+<a href="javascript:windowf214 = window.open('../figures/figure21-4.shtml', 'windowf214', 'width=1100,height=600,resizable=yes,scrollbars=yes'); windowf214.focus()">Figure 4</A>. 
+The left panel shows a unimodal distribution of XenCSA on NZB thymocytes. In contrast, the right panel shows that NZB spleen 
+cells display a bimodal distribution of XenCSA with a narrow peak of dull cells and a broad shoulder of more brightly staining cells. The dull peak 
+is the T cells and the bright peak the B cells. This was shown by staining NZB spleen cells with anti-mouse immunoglobulin and separating the 
+non-staining cell T cells from the surface immunoglobulin-bearing B cells by the cell sorter. The separated T cells were stained with anti-XenCSA 
+and rerun on the sorter (
+<a href="javascript:windowf215 = window.open('../figures/figure21-5.shtml', 'windowf215', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf215.focus()">Figure 5</A>). 
+They gave the dotted profile with a peak which is superimposable on the dull peak of the unseparated spleen cells. 
+The brighter cells are missing and hence must be the surface immunoglobulin-baring B cells which were removed. Thus the level of XenCSA expression 
+by NZB lymphocytes depends upon their differentiation pathway. We have obtained the same result with NZW and DBA/2 spleen cells.
+
+<P>Although the antiserum to xenotropic MuLV is primarily directed against gp70, it was necessary to determine if this was the only cell surface 
+molecule recognized by the antiserum. To this end, spleen cells from several strains were surface labeled with <SUP>125</SUP>I, and detergent 
+extracts of them were precipitated with the antisera and analyzed on polyacrylamide gels (
+<a href="javascript:windowf216 = window.open('../figures/figure21-6.shtml', 'windowf216', 'width=1100,height=600,resizable=yes,scrollbars=yes'); windowf216.focus()">Figure 6</A>). 
+In each case, the only antigenic species recognized by the antisera had a molecular weight of 70,000 daltons. This 
+reaction was abolished by absorption of the antiserum with xenotropic MuLV-infected mink cells but not uninfected mink cells. Similarly, only a 
+70,000 dalton protein was precipitated by the antiserum from iodinated cell surface extracts of the exogenously infected cell lines. The uptake of this 
+molecule by a lentil lectin column indicates that it is a glycoprotein. The lack of precipitation by antibody to p30 indicates it is not the gag polyprotein.
+
+<A NAME="strain_distribution"></A>
+<P>Thus prepared, we set out on a tour through the subject of this book -- the inbred strains of mice. We found great variation in XenCSA expression (
+<A HREF="#ref21-17">17</A>). Examples of the three observed phenotypes are shown in 
+<a href="javascript:windowf217 = window.open('../figures/figure21-7.shtml', 'windowf217', 'width=900,height=1100,resizable=yes,scrollbars=yes'); windowf217.focus()">Figure 7</A>. 
+DBA/2, NZB, and NZW are the most positive strains with thymocytes and both T and B cells of the spleen staining. A large group 
+of strains resemble RIII with lower levels of staining of only a portion of spleen cells, presumably B cells, and no thymocyte staining. Another large 
+group, represented by strain MA, had low levels of XenCSA expression on both thymocytes and spleen cells. The distributions of the averages of the 
+computer-derived means of XenCSA staining for four or more mice of each of 99 inbred strains are shown in 
+<a href="javascript:windowf218 = window.open('../figures/figure21-8.shtml', 'windowf218', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf218.focus()">Figure 8</A>. 
+The triangles are the spleen cell means, the dots the thymocyte means, and the squares the sum of both. Both distributions 
+show a break at 60 so we have arbitrarily scored means above 60 as high and below 60 as low for XenCSA expression. Strains expressing high XenCSA levels 
+on both thymocyte and spleen cells are listed in 
+<a href="javascript:windowt213 = window.open('../tables/table21-3.shtml', 'windowt213', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt213.focus()">Table 3</A>.
+
+<P>In addition to NZB, NZW, and DBA/2, the C57BL/6 congenic for G<SUB>IX</SUB> and the C57BR-G<SUB>IX</SUB><SUP>+</SUP> mutant are XenCSA positive. 
+Spleen high, thymus low strains are given in 
+<a href="javascript:windowt214 = window.open('../tables/table21-4.shtml', 'windowt214', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt214.focus()">Table 4</A>. 
+These include AKR and C57Bl/6. Finally, the strains with low XenCSA levels on both populations are shown in 
+<a href="javascript:windowt215 = window.open('../tables/table21-5.shtml', 'windowt215', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt215.focus()">Table 5</A>. 
+The prototype G<SUB>IX</SUB> positive strain, 129, and the non-mutant C57BR/cd are in this group. These data show that 
+expression of XenCSA varies markedly between strains. XenCSA levels do not correlate with alleles of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97370" target="_blank"><I>Pca-1</I></A> or 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> loci or with Gross cell surface antigen. XenCSA expression does show partial correlation with G<SUB>IX</SUB>. An illustration of the lack of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> effect and an indication of the reproducibility of the method is shown in 
+<a href="javascript:windowt216 = window.open('../tables/table21-6.shtml', 'windowt216', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt216.focus()">Table 6</A>. 
+A/SnGrf and three 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+congenics derived from this strain have very similar XenCSA levels. The same is true of 
+C3H/DiSnGrf and the congenic C3H.SW. Two of the B10 congenics resemble the parent strain. B10.D2/(n) which was derived from the XenCSA 
+negative B10.D2/(o) by further backcrossing to B10 is XenCSA positive, strongly suggesting that a mutation occurred during the derivation 
+of this strain.
+
+<A NAME="Fv-1"></A>
+<P>We have begun to investigate the genetic control of XenCSA expression. One portion of these studies utilized recombinant inbred strains, derived by 
+brother-sister matings of the F<SUB>2</SUB> cross of two inbred strains. We have examined 24 such strains derived from the strongly XenCSA positive 
+DBA/2 (D2) and the low XenCSA C57BL/6 (B6) strains (Morse, H.C. III, Taylor, B. <I>et al.</I>, in preparation). Xen CSA expression by the (B6D2)F<SUB>1</SUB> 
+was intermediate between the parental levels. The XenCSA levels of the recombinant inbred lines ranged from BXD-2, which resembles B6, to BXD-14, which 
+matches the D2 profile (
+<a href="javascript:windowf219 = window.open('../figures/figure21-9.shtml', 'windowf219', 'width=800,height=900,resizable=yes,scrollbars=yes'); windowf219.focus()">Figure 9</A>). 
+Many of the lines, despite being homozygous at 99% of their genetic loci, were intermediate between the 
+parental profiles. Averages of the log mean fluorescence for 6 to 11 samples of thymus and spleen for each line are shown in 
+<a href="javascript:windowf2110 = window.open('../figures/figure21-10.shtml', 'windowf2110', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf2110.focus()">Figure 10</A>. 
+The stippled areas include the mean and 95% confidence limits of the parental strain XenCSA levels. Spleen values, in the 
+lower panel, show partial correlation with thymus levels. For the purpose of genetic analyses, lines with both spleen and thymus values within the range 
+of one of the parents were classified as being of that type. The remainder were assigned to the parental type whose range contained the majority of 
+the individual mean fluorescence values. By this latter criterion, BXD-1 and 12 are considered D2-like and BXD-23, 8, 21, 15 and 6 are scored as B6-like. 
+Comparison of these somewhat arbitrary XenCSA assignments with the alleles at the 60 loci for which these lines have been characterized shows a close 
+association with the <I>Fv-1</I> type (
+<a href="javascript:windowt217 = window.open('../tables/table21-7.shtml', 'windowt217', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt217.focus()">Table 7</A>). The D2 allele, 
+<I>Fv-1<SUP>n</SUP></I>, is associated with high XenCSA levels and the B6 type, 
+<I>Fv-1<SUP>b</SUP></I>, with low XenCSA expression. The correlation with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A>, which is 1 map unit from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A>, is similar. Three of the four discordant lines, 5, 8 and 21, have intermediate XenCSA levels which makes their classification uncertain. 
+BXD-25 appears clearly D2-like despite being <I>Fv-1<SUP>b</SUP></I> and is being studied further to see if it is a true recombinant. Taking the data at face 
+value gives an apparent recombination frequency of 5% between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> and the gene controlling XenCSA. To confirm this linkage we have examined 54 
+(B6D2)F<SUB>1</SUB> x D2 backcross mice. Again, a spectrum of XenCSA expression is observed. Twenty-six of the 54 were in the D2 range, 5 in the B6 range, 
+and 23 were intermediate between the parental strains. The result of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A> typing all and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> typing 28 of these mice was the same as with 
+the recombinant inbred lines: an apparent interval of 7 map units between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> and the gene influencing XenCSA.
+
+<A NAME="structural"></A>
+<P>There were three apparent recombinants between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> 
+and the XenCSA controlling gene in this group. One, which typed as <I>Fv-1<SUP>n</SUP></I> but had low XenCSA expression, was progeny tested by mating with D2. It did not breed true since all six offspring scored high for 
+XenCSA. With respect to the DBA/2 system, we conclude that the effect of this locus is regulatory rather than structural since XenCSA can still be expressed 
+in the presence of the low allele. The data at hand do not allow us to distinguish between a pleiotropic effect of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> or the effects of a closely linked gene which regulates XenCSA independently of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A>. We feel that the closeness of the linkage to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A> makes quasi-linkage, as described for 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95595" target="_blank"><I>Fv-1</I></A>-incompatible crosses in the G<SUB>IX</SUB> system (
+<A HREF="#ref21-18">18</A>), unlikely.
+
+<P>Finally, we would like to mention several observations made during the genetic analysis of infectious xenotropic MuLV and XenCSA in NZB mice which 
+illustrate the problems and complexities of XenCSA typing (Chused, T.M., <I>et al.</I>, in preparation). As our background strain we have used NFS, an 
+inbred Swiss, <I>Fv-1<SUP>n</SUP></I>, mouse from which we have not recovered infectious ecotropic or xenotropic virus. Seventy-five 
+(NZB x NFS)F<SUB>1</SUB> x NFS backcross mice were tested for virus production and XenCSA expression. In agreement with the studies of Datta and Schwartz (
+<A HREF="#ref21-19">19</A>), we also find that NZB contains two independently segregating xenotropic viruses. The first produces large numbers of foci when spleen 
+cells are cocultivated with mink lung cells carrying the mouse sarcoma genome but not the leukemia virus genome (
+<A HREF="#ref21-20">20</A>), which we term the S<SUP>+</SUP>L<SUP>-</SUP> virus. Sixty-two percent of the backcross mice each produced about 40% of the number 
+of foci given by the parental NZB spleen cells in a clear-cut, all-or-none fashion indicating semi-dominant inheritance. In subsequent backcross 
+generations 51.5% of the progeny have been S<SUP>+</SUP>L<SUP>-</SUP> positive. The second virus does not give foci in the mink S<SUP>+</SUP>L<SUP>-</SUP> 
+cells but grows in uninfected mink cells and is detected by cytoplasmic immunofluorescence with antibody to p30. It can only be tested for in the absence 
+of the S<SUP>+</SUP>L<SUP>-</SUP> virus which also grows in mink cells. Fourteen of the 29 S<SUP>+</SUP>L<SUP>-</SUP> negative backcross mice produced the 
+second virus which we call "FA." The most interesting result is that 84% of the backcross mice were XenCSA positive.
+
+<P>We are now deriving several lines from the first backcross group by successive backcrosses of males with females of the virus negative NFS strain. 
+<a href="javascript:windowt218 = window.open('../tables/table21-8.shtml', 'windowt218', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt218.focus()">Table 8</A> 
+shows the mean XenCSA levels in the virus positive and virus negative members of each generation of backcross progeny. For reference, 
+the NFS background strain has a mean XenCSA level of 40 with the 95% confidence limits being 4 to 77. There are several points to be made: First, although 
+it is not indicated by the data in the table, the variation in XenCSA levels among both virus positive and virus negative segregants of these crosses is 
+much greater than that observed in the inbred lines we have examined. Second, production of virus is associated with higher XenCSA levels. Third, there 
+are mating-to-mating variations in mean XenCSA levels. The S<SUP>+</SUP>L<SUP>-</SUP> line being selected for average XenCSA level has shown cyclic variation 
+over four generations. This is suggestive of maternal antibody or some other suppressive factor. Fourth, the S<SUP>+</SUP>L<SUP>-</SUP> line being selected 
+for low XenCSA has so far not bred true, again suggesting an influence of factor(s) other than the viral genome on XenCSA expression. Fifth, in the line 
+which carries both viruses and was derived from one of the first five backcross mice which expressed XenCSA levels as high as NZB, all 63 progeny through 
+N4 are XenCSA positive, implying a very large number of XenCSA producing genes or an unusual mechanism. The same phenomenon was observed in N4 of the 
+S<SUP>+</SUP>L<SUP>-</SUP> line where the mean XenCSA level of the virus-negative segregants was 100, even though the virus-negative mice of the preceding 
+generation did not have significantly elevated XenCSA expression. We have not been able to demonstrate infectious spread of XenCSA when tested by several 
+different methods and do not have an explanation for this phenomenon. Sixth, there is a line at N3 which expresses XenCSA in the absence of both viruses. 
+We have not yet tested enough progeny to determine the segregation ratio. Thus NZB mice contain at least three phenotypically distinct semi-dominant genes 
+that affect XenCSA expression by lymphocytes.
+
+<P>We anticipate that future studies will determine the genetic control of XenCSA expression and its relationship to cell differentiation. We are also 
+investigating its role in the autoimmune disease of NZB mice.
+
+<CENTER>REFERENCES</CENTER>
+
+<A NAME="ref21-1"></A>
+<P>1. Hartley, J.W., and Rowe, W.P. (1976). J. Virol. <B>19</B>: 19.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->59816" target="_blank">PubMed</A></I>.
+<!-- PMID: 59816 -->
+
+<A NAME="ref21-2"></A>
+<P>2. Gross, L. (1951). Proc. Soc. Exp. Biol. Med. <B>78</B>: 342.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14892014" target="_blank">PubMed</A></I>.
+<!-- PMID: 14892014 -->
+
+<A NAME="ref21-3"></A>
+<P>3. Levy, J.A., and Pincus, T. (1970). Science <B>170</B>: 326.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4318971" target="_blank">PubMed</A></I>.
+<!-- PMID: 4318971 -->
+
+<A NAME="ref21-4"></A>
+<P>4. Rasheed, S., Gardner, M.B., and Chan, E. (1976). J. Virol. <B>19</B>: 13.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->181592" target="_blank">PubMed</A></I>.
+<!-- PMID: 181592 -->
+
+<A NAME="ref21-5"></A>
+<P>5. Callahan, R., Benveniste, R.E., Lieber, M.M., and Todaro, G.J. (1974). J. Virol. <B>14</B>: 1394.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4372403" target="_blank">PubMed</A></I>.
+<!-- PMID: 4372403 -->
+
+<A NAME="ref21-6"></A>
+<P>6. Chattopadhyay, S.K., Rowe, W.P., Teich, N.M., and Lowy, D.R. (1975). Proc. Natl. Acad. Sci. USA <B>72</B>: 906.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54014" target="_blank">MGI</A></I>.
+<!-- MGI:54014 -->
+
+<A NAME="ref21-7"></A>
+<P>7. Chattopadhyay, S.K., Lowy, D.R., Teich, N.M., and Rowe, W.P. (1975). Cold Spring Harbor Symp. Quant. Biol. <B>39</B>: 1085.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->169010" target="_blank">PubMed</A></I>.
+<!-- PMID: 169010 -->
+
+<A NAME="ref21-8"></A>
+<P>8. Bolognesi, D.P., Montelaro, R.C., Frank, H., and Schafer, W. (1978). Science <B>199</B>: 183.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->202022" target="_blank">PubMed</A></I>.
+<!-- PMID: 202022 -->
+
+<A NAME="ref21-9"></A>
+<P>9. Witte, O.N., Weissman, I.L, and Kaplan, H.S. (1973). Proc. Natl. Acad. Sci. USA <B>70</B>: 36.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4346036" target="_blank">PubMed</A></I>.
+<!-- PMID: 4346036 -->
+
+<A NAME="ref21-10"></A>
+<P>10. Elder, J.H., Jensen, F.C., Bryant, M.L., and Lerner, R.A. (1977). Nature <B>267</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->193039" target="_blank">PubMed</A></I>.
+<!-- PMID: 193039 -->
+
+<A NAME="ref21-11"></A>
+<P>11. Elder, J.H., Gautsch, J.W., Jensen, F.C., Lerner, R.A., Hartley, J.W., and Rowe, W.P. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 4676.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->200928" target="_blank">PubMed</A></I>.
+<!-- PMID: 200928 -->
+
+<A NAME="ref21-12"></A>
+<P>12. Hartley, J.W., Wolford, N.K., Old, L.J., and Rowe, W.P. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 789.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:74575" target="_blank">MGI</A></I>.
+<!-- MGI:74575 -->
+
+<A NAME="ref21-13"></A>
+<P>13. DelVillano, B., Nave, B., Croker, B.P., Lerner, R.A., and Dixon, F.J. (1975). J. Exp. Med. <B>141</B>: 172.
+
+<A NAME="ref21-14"></A>
+<P>14. McClintock, P.R., Ihle, J.N., and Jospeh, D.R. (1977). J. Exp. Med. <B>146</B>: 422.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->195002" target="_blank">PubMed</A></I>.
+<!-- PMID: 195002 -->
+
+<A NAME="ref21-15"></A>
+<P>15. Morse, H.C., Chused, T.M., Boeh-Truitt, M., Mathieson, B.J., Sharrow, S.S., and Hartley, J. W. (1979). J. Immunol. <B>122</B>: 443.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54562" target="_blank">MGI</A></I>.
+<!-- MGI:54562 -->
+
+<A NAME="ref21-16"></A>
+<P>16. Loken, M.R., and Herzenberg, L.A. (1975). Ann. N.Y. Acad. Sci. <B>254</B>: 163.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->52308" target="_blank">PubMed</A></I>.
+<!-- PMID: 52308 -->
+
+<A NAME="ref21-17"></A>
+<P>17. Morse, H.C., Chused, T.M., Hartley, J.W., Mathieson, B.J., Sharrow, S.O., and Taylor, B.A. (1979). J. Exp. Med. <B>149</B>: 1183.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54620" target="_blank">MGI</A></I>.
+<!-- MGI:54620 -->
+
+<A NAME="ref21-18"></A>
+<P>18. Stockert, E., Boyse, E.A., Sato, H., and Itakura, K. (1976). Proc. Natl. Acad. Sci. <B>73</B>: 2077.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54138" target="_blank">MGI</A></I>.
+<!-- MGI:54138 -->
+
+<A NAME="ref21-19"></A>
+<P>19. Datta, S.K., and Schwartz, R.S. (1976). Nature <B>263</B>: 412.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->972679" target="_blank">PubMed</A></I>.
+<!-- PMID: 972679 -->
+
+<A NAME="ref21-20"></A>
+<P>20. Peebles, P.T. (1975). Virol. <B>67</B>: 288.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->170737" target="_blank">PubMed</A></I>.
+<!-- PMID: 170737 -->
+
+
+
+<DIV Align="center"><H4> <A HREF="rowe.shtml">Previous</A> <A HREF="cardiff.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

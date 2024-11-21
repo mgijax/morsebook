@@ -1,0 +1,1048 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="hutton.shtml">Previous</A> <A HREF="lilly.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 18 -->
+
+<H2>Genetic Control of Enzyme Activity</H2>
+
+<H3>Kenneth Paigen<BR><BR>
+
+Molecular Biology Department<BR>
+Roswell Park Memorial Institute<BR>
+New York, New York</H3>
+
+<P>We are here to honor a group of pioneers in mammalian genetics for their achievements in developing the inbred mouse as 
+a genetic tool. in doing so we honor them not only for the significance their achievement has for today, but also for the 
+even greater promise it has for the future. That promise comes from the application of the inbred mouse and its genetics 
+to new questions, questions whose answers could only be dreamed about in the early days of mammalian genetics. Perhaps the 
+most graphic tribute we can give is to describe these applications. One of them is the study of gene regulation that grew 
+out of a marriage between mammalian genetics and biochemistry. It is interesting that both fields had their origins at very 
+nearly the same time. The study of intermediary metabolism began with the discovery of the first sugar phosphate in 1905, 
+almost simultaneous with the beginnings of mouse genetics. However, it was not until 1941 that Dr. Strong first reported an 
+enzyme difference between mouse strains (
+<A HREF="#ref18-1">1</A>), in what is to my knowledge the first report in any organism of an enzyme variant, and it was in 1952 that 
+Dr. Law carried out the first genetic analysis of an enzyme difference (
+<A HREF="#ref18-2">2</A>), describing the inheritance pattern of the low glucuronidase phenotype that has occupied so much 
+attention over subsequent years.
+
+<P>My task is to illustrate the types of genetic variation that influence enzyme activity and the experimental approaches, 
+both genetic and biochemical, used to analyze them. Because the subject is too large to encompass in one brief talk, the 
+illustrations are necessarily selected. I shall put some emphasis on &beta;-glucuronidase because it is the most extensively 
+studied system and also the one with which I am most familiar. Various aspects of the genetics (
+<A HREF="#ref18-3">3</A>), biochemistry and intracellular localization (
+<A HREF="#ref18-4">4</A>), and hormonal induction (
+<A HREF="#ref18-5">5</A>) of this enzyme have been reviewed.
+
+<P>Over the years it has proved both conceptually and operationally useful to divide enzyme variants into four groups. The 
+composition of these groups has varied slightly from time to time as additional insights have been gained. 
+<a href="javascript:windowt181 = window.open('../tables/table18-1.shtml', 'windowt181', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt181.focus()">Table 1</A> 
+lists these categories and the genes that are known to fall into one or another category with the exception 
+that I have not listed the many structural mutants known. There are simply too many of these and a separate catalogue of them is available (
+<A HREF="#ref18-6">6</A>). Of course, to some measure the assignment of a locus to one or another category depends on our frame of reference. 
+For example, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A> gene is almost certainly 
+the structural gene for the protein egasyn, but is listed here among the processing 
+genes for its role in the intracellular localization of &beta;-glucuronidase. Similarly, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88064" target="_blank"><I>Tfm</I></A> locus, that is probably 
+the structural gene for the androgen receptor protein, is listed here among regulatory genes for its 
+role in regulating hormonal induction of other proteins.
+
+<P>One group of interesting, but not easily categorized mutants is the series of radiation-induced deletions overlapping the albino locus. 
+Their biochemical phenotypes have been extensively studied by Gluecksohn-Waelsch and co-workers (
+<A HREF="#ref18-7">7</A>, 
+<A HREF="#ref18-8">8</A>, 
+<A HREF="#ref18-9">9</A>, 
+<A HREF="#ref18-10">10</A>). Using complementation testing in heterozygotes, it has become possible to define a number of subregions with distinct 
+biochemical functions within one short distance.
+
+<P><CENTER>Structural Genes</CENTER>
+
+<P>Dr. Hutton has just discussed structural genes in considerable detail. I shall only point out one additional aspect in relation to 
+determination of enzyme activity. A great deal of intracellular processing of polypeptide chains occurs post-translationally, and 
+this processing is quite significant in the eventual realization of enzyme function (see below). Appropriate processing requires 
+that each polypeptide sequence be recognized correctly, so amino acid substitutions within the recognition region may alter processing 
+and eventually enzyme function. One such case has been described. A structural mutation in &beta;-glucuronidase influences its partition 
+between two intracellular compartments.
+
+<A NAME="Gus"></A>
+<P>&beta;-glucuronidase is present in lysosomes in virtually all cells except erythrocytes, and in some tissues is also present in endoplasmic reticulum (
+<A HREF="#ref18-11">11</A>, 
+<A HREF="#ref18-12">12</A>). In liver, for example, nearly half of the enzyme is membrane bound. Genetic, biochemical, and immunological evidence indicate 
+that the enzyme from both sites is derived from the same structural gene (
+<A HREF="#ref18-11">11</A>, 
+<A HREF="#ref18-13">13</A>, 
+<A HREF="#ref18-14">14</A>, 
+<A HREF="#ref18-15">15</A>), located near the distal end of chromosome 5 (
+<A HREF="#ref18-11">11</A>, 
+<A HREF="#ref18-16">16</A>, 
+<A HREF="#ref18-17">17</A>, 
+<A HREF="#ref18-18">18</A>, 
+<A HREF="#ref18-19">19</A>). The product of this structural gene is an enzyme tetramer of four identical subunits that is glycosylated and has been purified to homogeneity (
+<A HREF="#ref18-21">21</A>). Three alleles of the structural gene have been described in the literature, 
+<I>Gus<SUP>b</SUP></I>, the standard form of the enzyme, 
+<I>Gus<SUP>a</SUP></I>, an electrophoretic variant with more rapid mobility, and 
+<I>Gus<SUP>h</SUP></I>, a variant with decreased thermostability. Several additional alleles are known, including one with increased 
+thermostability and another with a new electrophoretic mobility (
+<A HREF="#ref18-20">20</A>). With respect to enzyme localization it has turned out that not all allelic forms of the enzyme respond equally to the intracellular 
+mechanisms involved, and that the GUS-H allozyme is not distributed between the two sites in the same manner that other enzyme forms are (
+<A HREF="#ref18-11">11</A>, 
+<A HREF="#ref18-22">22</A>), presumably because of a change in its recognition properties.
+
+<A NAME="processing"></A>
+<P><CENTER>Processing Genes</CENTER>
+
+<P>Among the second category of genes in earlier versions of 
+<a href="javascript:windowt181 = window.open('../tables/table18-1.shtml', 'windowt181', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt181.focus()">Table 1</A> (
+<A HREF="#ref18-22">22</A>, 
+<A HREF="#ref18-23">23</A>) only loci affecting intracellular localization were included; these were considered architectural. Subsequent experience suggests 
+that the second category should be enlarged to include a variety of mutations affecting the post-translational life of an enzyme molecule.
+
+<A NAME="modification"></A>
+<P><U>Modification</U>. The final completion of enzyme chains by post-translational modification includes a variety of processes including proteolytic 
+cleavages and addition of a wide variety of conjugant groups. Several mutants have been reported that are altered in enzyme conjugation.
+
+<P>The acid &alpha;-mannosidase present in lysosomes carries sialic acid in liver, but not in kidney. All mouse strains appear to have 
+enzyme molecules with the same electrophoretic mobility in kidney, but vary in extent of sialylation and hence electrophoretic mobility 
+of the liver enzyme; at least two loci are involved (
+<A HREF="#ref18-24">24</A>, 
+<A HREF="#ref18-25">25</A>), the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96917" target="_blank"><I>Map-1</I></A> gene located on chromosome 17 near the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex and the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Map-2</I></A> gene on chromosome 5 near 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gus</I></A>. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96917" target="_blank"><I>Map-1</I></A> locus may be identical with the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Apl</I></A> locus described by Lalley and Shows (
+<A HREF="#ref18-26">26</A>) which affects the electrophoretic mobility of acid phosphatase in liver but not in kidney. These genes probably determine the 
+presence of specific sialyl transferases. Their existence makes the interesting point that a family of transferases probably exists, each with a 
+spectrum of enzymes it is capable of sialylating, since other acid hydrolases that are sialylated in liver but not in kidney are not affected by 
+variation at these loci (
+<A HREF="#ref18-27">27</A>, 
+<A HREF="#ref18-28">28</A>, 
+<A HREF="#ref18-29">29</A>).
+
+<A NAME="turnover"></A>
+<P><U>Turnover</U>. Rates of enzyme synthesis and degradation have an equal influence on the final concentration of enzyme activity in a tissue (
+<A HREF="#ref18-30">30</A>). However, it is not clear that there is much specificity in the system used for intracellular protein turnover, or that 
+variations in protein turnover are used as a regulatory mechanism for individual proteins. Although the turnover of lactate dehydrogenase varies 
+considerably from one tissue to another, the ratio of lactate dehydrogenase turnover to the turnover of average cellular proteins remains nearly 
+the same from one tissue to another. Thus, modulations in relative concentrations of the enzyme must be achieved by altering its synthesis relative 
+to that of other proteins (
+<A HREF="#ref18-31">31</A>). It is not surprising, then, that only one variant has so far been described with a specific alteration in the intracellular 
+degradation of a protein. This is the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:107361" target="_blank"><I>Ce</I></A> locus determining the rate of catalase degradation in liver (
+<A HREF="#ref18-32">32</A>, 
+<A HREF="#ref18-33">33</A>). Several substrains of the C57 family have twice the catalase activity of other strains as a result of decreased enzyme 
+turnover in liver but not in kidney. Fast versus slow turnover segregates as a single Mendelian factor with fast turnover dominant. The locus 
+involved is not linked to the structural gene.
+
+<A NAME="architectural"></A>
+<P><U>Architectural</U>. Approximately half of all cellular protein exists incorporated into one cellular organelle or another, but relatively 
+little is known as to how this is achieved beyond the recent discovery that N-terminal peptide sequences act as signals deciding whether nascent chains attach to membranes (
+<A HREF="#ref18-34">34</A>) and the genetic evidence for a special class of anchor proteins involved in localization. This evidence comes from the 
+only mutation affecting intracellular localization that has been described and involves the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A> locus and &beta;-glucuronidase localization (
+<A HREF="#ref18-14">14</A>). This lack of mutants may reflect the difficulty of recognizing mutants with localization defects since failure to successfully 
+locate an enzyme may not cause an obviously different phenotype from failure to synthesize the protein in the first place. It was possible to detect the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A> mutant because &beta;-glucuronidase is unusual in being present in both lysosomes and endoplasmic reticulum. The mutant was detected as a loss 
+of enzyme from the endoplasmic reticulum site without loss of enzyme from the lysosomal site. The properties of this mutant and the mechanisms of 
+intracellular localization of glucuronidase have been reviewed recently (
+<A HREF="#ref18-4">4</A>).
+
+<P>Briefly, the polypeptide product of the single glucuronidase structural gene, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gus</I></A>, is processed and assembled into two distinct tetrameric 
+forms of the enzyme, L and X, that differ slightly in both charge and molecular weight (
+<A HREF="#ref18-15">15</A>, 
+<A HREF="#ref18-35">35</A>, 
+<A HREF="#ref18-36">36</A>). The L form is almost entirely located in lysosomes where it is the only enzyme form present. The X form is entirely 
+located in endoplasmic reticulum, where it occurs complexed with one to four molecules of the protein egasyn (
+<A HREF="#ref18-15">15</A>, 
+<A HREF="#ref18-36">36</A>). Formation of these complexes, or M forms, is apparently required to anchor or stabilize the binding of X to the membrane (
+<A HREF="#ref18-37">37</A>). Mutation in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A> gene results in loss of egasyn (
+<A HREF="#ref18-38">38</A>, 
+<A HREF="#ref18-39">39</A>) and the absence of enzyme bound to membranes (
+<A HREF="#ref18-14">14</A>, 
+<A HREF="#ref18-40">40</A>). 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A> is located on chromosome 8 unlinked to the glucuronidase structural gene (
+<A HREF="#ref18-14">14</A>, 
+<A HREF="#ref18-41">41</A>). Heterozygotes have reduced levels of egasyn but normal binding of enzyme to membrane (
+<A HREF="#ref18-39">39</A>). Only tissues containing egasyn possess membrane bound glucuronidase (
+<A HREF="#ref18-4">4</A>, 
+<A HREF="#ref18-42">42</A>).
+
+<A NAME="organellar"></A>
+<P><U>Organellar Function</U>. Once a protein has become integrated into a cellular organelle its fate, at least in part, is tied to that of 
+the organelle itself. A case in point is the series of mutants described by Swank and co-workers (
+<A HREF="#ref18-43">43</A>) that appear to be deficient in the transport of lysosomes across cell membranes. The initial observation was that the 
+<I>beige</I></A> 
+mutant, which possesses enlarged lysosomes in many cells and is an analog of Chediak-Higashi syndrome in the human, accumulates 
+excessive amounts of &beta;-glucuronidase during induction of this enzyme in kidney proximal tubule epithelial cells (
+<A HREF="#ref18-44">44</A>, 
+<A HREF="#ref18-45">45</A>). Normally these cells excrete most of their induced enzyme by a process that appears to involve extrusion of entire 
+lysosomal contents into the lumen of the collecting tubule. The beige mutant is deficient in carrying out this process and consequently 
+accumulates large amounts of enzyme. Following the observation by Meisler (
+<A HREF="#ref18-46">46</A>) that another pigmentation mutant, 
+<I>light ears</I></A>, 
+shares a similar defect, four additional pigmentation mutants were found defective in lysosome transport (
+<A HREF="#ref18-43">43</A>). Lysosomes and melanosomes apparently share common mechanisms of transport across membranes. The various mutations 
+are unlinked and recessive, and presumably affect different functional steps in the process of transport.
+
+<P><CENTER>Regulation</CENTER>
+
+<P>Regulatory genes are distinguished by their effect on protein synthesis rather than merely altering apparent enzyme activity. 
+Activity changes can result from a variety of causes that do not involve true regulation, including alterations in processing and 
+structure. At the present time it is useful to distinguish between regulatory sites controlling systemic levels of enzyme, those 
+determining the response of an enzyme to an effector molecule such as a hormone, and those affecting the receptor molecules involved in effector responses.
+
+<A NAME="Lv"></A>
+<P><U>Systemic</U>. There are now two examples of genetic variants in which enzyme activity is altered in a more or less constant manner among all 
+tissues and at different stages of development. The first discovered was the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96853" target="_blank"><I>Lv</I></A> locus determining levels of aminolevulate dehydratase in several 
+tissues during both fetal and adult stages of development (
+<A HREF="#ref18-47">47</A>). High strains have several times the activity of low strains and heterozygotes are intermediate. A third allele with intermediate levels has been reported (
+<A HREF="#ref18-48">48</A>). The locus is linked to the enzyme structural gene (
+<A HREF="#ref18-49">49</A>). Enzyme purified from both high and low strains has identical kinetic and physical properties and the same catalytic activity per molecule (
+<A HREF="#ref18-50">50</A>, 
+<A HREF="#ref18-51">51</A>). Labeling studies have shown that the kinetics of enzyme turnover are the same in high and low strains and that the difference lies in the rate of enzyme synthesis.
+
+<A NAME="Bgs"></A>
+<P>A systemic regulatory locus for &beta;-galactosidase has also been found that in many respects resembles the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96853" target="_blank"><I>Lv</I></A> 
+locus. It acts uniformly in different tissues and stages of development, is closely linked to the structural gene, and controls enzyme 
+activity by regulating enzyme synthesis. The structural gene for murine &beta;-galactosidase is defined by an electrophoretic polymorphism, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bge</I></A>, and is located on chromosome 9 (
+<A HREF="#ref18-27">27</A>). Although multiple forms of &beta;-galactosidase are present in tissues, these are all derived from this single structural gene, 
+and represent charge differences arising from differential sialylation of the enzyme among tissues as well as several molecular weight 
+forms resulting from pH dependent aggregation of the enzyme (
+<A HREF="#ref18-27">27</A>). The systemic regulator, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bgs</I></A>, is very closely linked to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bge</I></A>, and no recombination was observed between the two (
+<A HREF="#ref18-27">27</A>). Strains carrying the 
+<I>Bgs<SUP>h</SUP></I> allele have approximately twice the enzyme level of 
+<I>Bgs<SUP>d</SUP></I> strains in a variety of tissues throughout development (
+<A HREF="#ref18-52">52</A>, 
+<A HREF="#ref18-53">53</A>). Heterozygotes show additive inheritance, possessing intermediate enzyme levels. Antibody titration shows that 
+high enzyme activity reflects and increase in the number of enzyme molecules present (
+<A HREF="#ref18-52">52</A>) and recent labeling experiments show this results from increased enzyme synthesis (
+<A HREF="#ref18-54">54</A>).
+
+<P>The difference in activity seen between 
+<I>Bgs<SUP>d</SUP></I> and 
+<I>Bgs<SUP>h</SUP></I> strains has been used as a histochemical marker for the recognition of genetically marked cells in chimeric mice (
+<A HREF="#ref18-55">55</A>).
+
+<P><U>Induction</U>. Mutants with altered response to enzyme induction have received considerable attention for the insights they offer 
+into mechanisms of regulation of gene transcription and the control of physiological responses in tissues. Three systems have been examined so 
+far, all involving induction by androgens. These include glucuronidase induction in epithelial proximal tubule cells of kidney, induction of 
+rennin activity in submandular gland, and induction of the major urinary proteins (Mups) in liver.
+
+<P>A massive increase in the glucuronidase content of kidney proximal tubule epithelial cells occurs following administration of androgens in the mouse (
+<A HREF="#ref18-19">19</A>, 
+<A HREF="#ref18-56">56</A>, 
+<A HREF="#ref18-57">57</A>). Several other enzymes, notably D-amino acid oxidase and alcohol dehydrogenase, are also induced, but to lesser extents. There is a very 
+small induction of other lysosomal hydrolases. Much of the induced glucuronidase is excreted into urine. Electron micrographs (
+<A HREF="#ref18-3">3</A>) show the accumulation of membranous material inside lysosomes and large amounts of similar material appearing in the proximal tubule lumen.
+
+<P>Inbred strains fall into two major classes of high and low inducibility (
+<A HREF="#ref18-19">19</A>). Additional rare phenotypes may exist (
+<A HREF="#ref18-20">20</A>). The system has been characterized in some detail using A/J and C57BL/6J as the prototype high and low strains (
+<A HREF="#ref18-19">19</A>). Among the androgen-inducible proteins only glucuronidase is affected, and the difference 
+in inducibility is independent of the specific hormone used and the dosage.
+
+<A NAME="Gur"></A>
+<P>Examination of recombinant inbred lines between BALB/c and C57BL/6 and crosses between A/J and C57BL/6 showed that inducibility is controlled by a single locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A>, closely linked to the structural gene (
+<A HREF="#ref18-19">19</A>, 
+<A HREF="#ref18-58">58</A>). Despite differences in reported properties, the <I>O</I> locus described by Ohno and coworkers (
+<A HREF="#ref18-59">59</A>) is probably identical with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A>. 
+Originally several ostensible recombinants were observed between the new regulatory site and the structural gene (
+<A HREF="#ref18-19">19</A>), but true recombinants were not found in a more extensive analysis of this cross using newer techniques allowing 
+the survival of test animals and subsequent breeding (
+<A HREF="#ref18-5">5</A>). Ostensible recombinants did arise at very low frequency but proved to be errors of diagnosis.
+
+<P>Pulse labeling studies have shown that 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> 
+locus control is a cis acting regulation of enzyme synthesis (
+<A HREF="#ref18-19">19</A>). Heterozygotes carrying 
+<I>Gur<SUP>a</SUP></I>/
+<I>Gur<SUP>b</SUP></I> have intermediate levels of enzyme because one chromosome is producing enzyme rapidly and the other slowly.
+
+<P>The analysis of recombinant inbred lines showed the presence of genes that affect the final level of induced enzyme activity, but not the early kinetics of induction (
+<A HREF="#ref18-58">58</A>). Labeling studies showed that unlike 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> 
+these genes do not act at the level of enzyme synthesis and a very likely affect enzyme excretion (
+<A HREF="#ref18-60">60</A>).
+
+<P>Molecular studies now give some indication as to the nature of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> 
+gene function. A very sensitive enzymatic assay for glucuronidase mRNA 
+has been developed based on the formation of catalytically active mouse enzyme in <I>Xenopus</I> oocytes following the injection of mouse mRNA (
+<A HREF="#ref18-61">61</A>). Measurements of mRNA levels were made in fully induced A/J and C57BL/6 mice as well as in a congenic strain carrying the 
+<I>Gur<SUP>a</SUP></I> allele of strain A backcrossed onto the C57BL/6 background. They showed that induction is an accumulation of mRNA activity and that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> locus determines the amount of mRNA activity present (
+<A HREF="#ref18-62">62</A>). Thus, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> 
+locus is a regulatory site controlling mRNA activity. Detailed kinetic studies of the changes 
+in rates of enzyme synthesis and levels of mRNA activity during induction and deinduction have been carried out (
+<A HREF="#ref18-63">63</A>). They suggest that 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A> 
+controls mRNA activity by determining the hormonal response of a 
+rate limiting factor in the synthesis of messenger activity and that this factor turns over very slowly. The most obvious 
+candidate for such a factor is the activation of chromatin, but this is still a hypothesis.
+
+<A NAME="Tfm"></A>
+<P>Several additional genes are known to affect glucuronidase induction. One is the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856319" target="_blank"><I>Tfm</I></A> 
+mutant that is deficient in androgen binding protein (
+<A HREF="#ref18-64">64</A>, 
+<A HREF="#ref18-65">65</A>, 
+<A HREF="#ref18-66">66</A>) and hence loses induction (
+<A HREF="#ref18-67">67</A>). Several others act through their effects on the pituitary. Hypophysectomized animals are only inducible to about 5% of the level of intact animals (
+<A HREF="#ref18-68">68</A>), and hormone replacement experiments suggest that the missing factor is growth hormone (
+<A HREF="#ref18-69">69</A>). In accord with this, induction is lost in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856024" target="_blank"><I>dwarf</I></A> 
+mutant that lacks all pituitary function, as well as in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95710" target="_blank"><I>little</I></A> 
+mutant that is relatively specific deficiency in growth hormone (
+<A HREF="#ref18-69">69</A>). These mutations all affect enzyme synthesis.
+
+<P>Because enzyme excretion is the major mechanism for removal of induced enzyme, genetic factors affecting excretion influence enzyme accumulation. This is 
+apparent in the segregation among recombinant inbred strains of genes unlinked to the structural gene (
+<A HREF="#ref18-58">58</A>), and the elevated enzyme accumulation seen in 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:107448" target="_blank"><I>beige</I></A> and other pigmentation mutants defective in lysosome excretion (see 
+<A HREF="#processing"><U>Processing</U></A> above).
+
+<P>Rennin induction in submaxillary gland is also controlled by a single locus with additive inheritance that acts at the level of enzyme synthesis (
+<A HREF="#ref18-70">70</A>). There are multiple rennin isozymes, and both basal and induced activities are genetically affected, making it uncertain where in the induction process the gene acts.
+
+<A NAME="Mup"></A>
+<P>The major urinary proteins of the mouse (Mups) are a family of three closely related proteins that are synthesized in the liver and excreted 
+in the urine. Their interest lies in the very large synthesis achieved after androgen induction; depending upon the genetic background, this 
+is in the range of 10-30 mg of mup protein per day, and represents the highest percentage of any single protein observed in the liver. Originally, Hudson <I>et al.</I> (
+<A HREF="#ref18-71">71</A>) described a locus, <I>Mup-a</I>, that was thought to represent a structural polymorphism in which mup-1 and mup-2 were 
+allelic forms derived from the same structural gene. More recently Szoka and Paigen (
+<A HREF="#ref18-72">72</A>) have found that all mouse strains synthesize all three mups, and that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97233" target="_blank"><I>Mup-a</I></A> 
+locus is, in fact, regulatory. Analysis of recombinant inbred lines between BALB/c and C57BL/6, which carry the 
+<I>Mup-a<SUP>1</SUP></I> and 
+<I>Mup-a<SUP>2</SUP></I> alleles, respectively, has shown that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97233" target="_blank"><I>Mup-a</I></A> locus determines the relative proportions of the three 
+<I>Mups</I> synthesized after induction, but that other loci are involved in other aspects of the phenotype, including determination of the relative 
+proportions before induction, the kinetics of induction, and the total level of 
+<I>Mup</I> production reached at the final induced state.
+
+<P><U>Receptors</U>. The testicular feminization mutant, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856319" target="_blank"><I>Tfm</I></A>, 
+is deficient in androgen receptor protein (
+<A HREF="#ref18-64">64</A>, 
+<A HREF="#ref18-65">65</A>, 
+<A HREF="#ref18-66">66</A>) and has lost all androgen-inducible functions in the mouse. Its existence raises the question as to why, 
+if the same receptor protein functions in all tissues, a different set of proteins is induced in each tissue. An additional specificity factor must exist.
+
+<A NAME="Ah"></A>
+<P>The other receptor mutant known involves the receptor protein for planar hydrocarbons that functions in the induction of the aryl hydrocarbon hydroxylase system and some other proteins (
+<A HREF="#ref18-73">73</A>, 
+<A HREF="#ref18-74">74</A>). Segregation at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105043" target="_blank"><I>Ah</I></A> 
+locus determines the binding affinity of this receptor (
+<A HREF="#ref18-75">75</A>) and has important effects on the relative susceptibility of various sites to hydrocarbon induction of tumors (
+<A HREF="#ref18-76">76</A>).
+
+<P><CENTER>Temporal Genes</CENTER>
+
+<P>Genetic factors controlling development have fascinated biologists for many years. Historically, the primary emphasis has been on morphogenetic mutants. 
+Now, with the advent of biochemical genetics it is possible to ask questions about the genetic systems determining developmental programs for the products of 
+individual structural genes. This approach allows us to focus on questions of programming itself and thereby avoid the confusion attending phenotypic changes 
+that may turn out to be metabolic consequences of altered protein function. Taking this approach does not assume any particular model for genetic regulation 
+of differentiation; rather, we appreciate that the nature of our findings will eventually help us choose between models. In this case, the mouse has led the 
+work in other organisms. The mouse systems most extensively examined have been those controlling 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>, &alpha;-galactosidase, &beta;-galactosidase, and 
+&beta;-glucuronidase. The properties of these systems and the general concepts of temporal genes have been reviewed (
+<A HREF="#ref18-77">77</A>).
+
+<A NAME="Gut"></A>
+<P>The first temporal gene element identified in mice proved to be in close proximity to the glucuronidase structural gene. The developmental program for 
+&beta;-glucuronidase has been defined for a number of mouse tissues (
+<A HREF="#ref18-78">78</A>), and is coordinate with that of &beta;-galactosidase (
+<A HREF="#ref18-79">79</A>), and &alpha;-galactosidase (
+<A HREF="#ref18-80">80</A>). In some strains of mice there is a time in development at which enzyme activity begins an abrupt decline relative to wild type levels. 
+Each tissue does this at a different time; in liver it begins at 12-15 days of age. This change in enzyme programming is determined by a single locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gut</I></A>, that maps in very close proximity to the structural gene (
+<A HREF="#ref18-78">78</A>). The <I>Gut</I> allele producing low activity is invariably associated with the <I>Gus<SUP>h</SUP></I> structural allele. The combination 
+results in low heat sensitive activity and has been used as a histochemical marker for genetically distinct cells in chimeras (
+<A HREF="#ref18-81">81</A>, 
+<A HREF="#ref18-82">82</A>). Heterozygotes show additive inheritance, but there is contradictory evidence as to whether <I>Gut</I> acts cis or trans (
+<A HREF="#ref18-83">83</A>, 
+<A HREF="#ref18-84">84</A>). The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gut</I></A> 
+site determines developmental patterns prenatally as well as postnatally. Within a few days after fertilization there 
+is a dramatic increase in the &beta;-glucuronidase activity of individual embryos, and the extent and timing of this increase differ in mice carrying various alleles of <I>Gut</I> (
+<A HREF="#ref18-81">81</A>).
+
+<P>Recent studies by Gaschow (
+<A HREF="#ref18-86">86</A>) indicate that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gut</I></A> site, like 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A>, 
+controls the rate of enzyme synthesis. Pulse labeling studies have shown that abrupt 
+changes in rates of enzyme synthesis determined by 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gut</I></A> 
+are the cause of the developmental changes in enzyme activity.
+
+<P>A proximate temporal element has also been postulated for the regulation of aryl sulfatase development (
+<A HREF="#ref18-87">87</A>). Another, whose location is not known, appears to affect three enzymes in the pyrimidine degradation pathway (
+<A HREF="#ref18-88">88</A>).
+
+<P>A temporal locus has been found for &alpha;-galactosidase, but in this case it is not linked to the structural gene. Nevertheless, it shows additive inheritance. 
+The &alpha;-galactosidase structural gene is on the X chromosome of the mouse (
+<A HREF="#ref18-89">89</A>), and the temporal gene specifically determining the liver developmental pattern of &alpha;-galactosidase is autosomal (
+<A HREF="#ref18-80">80</A>).
+
+<P>Both proximate and distant temporal elements participate in programming the developmental pattern of &beta;-galactosidase levels in liver. 
+C57BL/6 mice have an enzyme development curve that parallels that of other strains in most tissues. However, in liver it begins to deviate 
+at 25 days of age and steadily increases its enzyme activity until in adult life it has twice the level that would otherwise be expected. 
+Crosses between strains carrying alleles of the systemic regulator 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bgs</I></A> 
+showed that a single locus determines this difference and is closely linked to the &beta;-galactosidase complex on chromosome 9 that contains 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bgs</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bge</I></A> (
+<A HREF="#ref18-90">90</A>). However, examination of other crosses and recombinant inbred lines indicates that in some cases the failure to undergo this timed 
+elevation in liver is determined by genetic factors unlinked to the &beta;-galactosidase complex on chromosome 9 (
+<A HREF="#ref18-91">91</A>). These facts are illustrated by examining the developmental phenotypes of C57BL/6 and C57BL/10 congenic strains carrying various 
+substitutions of the &beta;-galactosidase complex on chromosome 9(
+<a href="javascript:windowt182 = window.open('../tables/table18-2.shtml', 'windowt182', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowt182.focus()">Table 2</A>). 
+The rise in liver is absent in the congenic carrying a &beta;-galactosidase complex derived from CBA, which lacks the elevation 
+seen in C57BL/6. On the contrary, the rise is present in the congenic carrying an insertion of the &beta;-galactosidase complex from BALB/c, which 
+also lacks the C57BL/6 liver elevation. Thus, the genetic factors preventing developmental elevation of liver enzyme were carried along with the 
+&beta;-galactosidase complex when it came from CBA, but not when it came from BALB/c.
+
+<P>The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> system was defined by Boubelik <I>et al.</I> (
+<A HREF="#ref18-92">92</A>) and contains an additional complexity in its genetic structure. 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> antigen is present on all cells during fetal development except erythrocytes. 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+antigen appears on erythrocytes after birth; this may occur immediately after birth (the early phenotype) or it may come approximately four days later 
+(the late phenotype). The timing of appearance is not related to the act of birth, but rather to the process of erythrocyte differentiation itself, since the 
+same differences in timing are seen in the erythrocytes that appear after marrow transplants are made into irradiated hosts. In this case the timing of 
+appearance is determined by the donor genotype.
+
+<A NAME="Int"></A><A NAME="Rec"></A><A NAME="Tem"></A>
+<P>A genetic model was developed from examination of various recombinants and congenic lines and from the segregation of phenotypes during the establishment 
+of five recombinant inbred lines derived from a cross between strains with early and late phenotypes. The model suggests a temporal element, 
+<I>Int</I>, that is in close proximity to the D end of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> region, and acts cis in determining timing control. 
+<I>Int</I> has been separated from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>, and in recombinants selected between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> and the nearby marker 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> segregated with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>. A second timing system is present that contains two genes 
+<I>Rec</I> and <I>Tem</I>. <I>Tem</I> carries early and late timing alleles, and segregation at 
+<I>Rec</I> determines whether these can override <I>Int</I>. If <I>Rec</I> and 
+<I>Int</I> alleles match then override occurs, if they do not match override does not occur. In order to account for the results it is necessary to assume either that 
+<I>Rec</I> and <I>Tem</I> interact in a cis fashion, although they are 20 centimorgans apart, or more simply, that 
+<I>Rec</I> and <I>Tem</I> are on the X chromosome and thus show haploid expression.
+
+<P>The first major finding in the study of temporal genes is the existence of both proximate and distant sites determining developmental patterns of specific proteins. 
+Second, it is probable that the proximate sites are cis-acting; the evidence for this is good in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> system and for proximate temporal genes seen in other organisms (
+<A HREF="#ref18-77">77</A>). Third, the distant sites show additive inheritance when examined quantitatively. Fourth there appear to be specific interactions between the 
+proximate and distant sites, these are seen in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> and &beta;-galactosidase systems in mice and 
+also in the amylase system in <I>Drosophila</I>. An obvious possibility is that proximate sites are the receptors 
+for signals transmitted by the distant sites. If there are signals, the fact that regulation is dosage dependent has strong implications regarding possible mechanisms. 
+Fifth, the relative simplicity of these genetic systems is suggested by the high proportions of all mutants discovered that are proximate sites. Sixth, the systems 
+are relatively specific; the temporal genes determining programs for each enzyme segregate independently of each other even when the programs determine the coordinate 
+regulation of enzymes in development.
+
+<P><CENTER>CONCLUSIONS</CENTER>
+
+<P>Perhaps the major conclusion we can draw is that inbred mouse strains and their derivatives, recombinant inbred lines and congenic strains, have proved to be a 
+very powerful tool for examining questions of gene regulation and cell biology in higher eukaryotes, and especially mammals. The pioneers we honor today built very 
+well indeed. Without the strains they developed it would have been impossible to attack these questions with any measure of success. Success has also depended on the 
+extensive natural polymorphism for regulatory mechanisms that must exist in the wild, and that was frozen in the inbred lines when they were first established, 
+providing the basic material for research.
+
+<P>This extensive variation must have evolutionary significance. It appears that regulatory elements may be as polymorphic as structural genes have been shown to be 
+in recent years. In this context it is significant that so much regulatory information for an enzyme proves to be linked to the structural gene. Indeed, what appears 
+to be segregating in natural populations are gene complexes, chromosome regions whose DNA sequences contain both a structural gene and much associated regulatory 
+information. The existence of such complexes raises the important question of how these two kinds of information are organized in relation to each other.
+
+<P>From the frequency with which regulatory information turns out to be closely linked to the structural gene it is reasonable to assume that a very high proportion 
+of all regulatory information is so linked. We assume that selective forces must exist to maintain this close linkage. The most obvious would be the advantage derived 
+from co-selection of compatible combination of regulatory elements, including some that are necessarily linked to the structural gene for the regulation of transcription. 
+Linkage disequilibrium may well be a reflection of the mechanisms developed to maintain this close association. From this standpoint it is interesting to consider that 
+to whatever extent the extensive natural polymorphism for structural variants is maintained by natural selection, selection is probably operating on the linked regulatory 
+information rather than on the enzyme structure per se. This would be true whether the same base sequences determine both regulation and structure or whether they are 
+determined by separate sequences.
+
+<P>Looking at the total genetic variation in the realization of enzyme activity, it is surprising how much involves posttranslational processing mechanisms rather than 
+regulation of enzyme synthesis. Processing genes are not linked to the enzyme structural gene and generally show recessive/dominant inheritance, in contrast to the 
+regulatory information influencing enzyme synthesis, much of which is closely linked and all of which shows additive inheritance. An interesting point is that additive 
+inheritance can only be seen because enzyme levels are not self-regulated. Mammals, unlike microorganisms, lack a sensing mechanism to determine what enzyme levels are 
+actually present and adjust their regulatory mechanisms accordingly. Thus, heterozygotes for enzyme deficiencies typically have intermediate levels of enzyme. Taken 
+together, the absence of sensing mechanisms in regulating enzyme levels and the presence of additive regulatory information strongly imply that the mechanisms utilized 
+in mammals are not similar to the repressor-like mechanisms seen in microorganisms. It appears that we are, in fact, looking at novel modes of regulation whose analysis 
+is our future challenge.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref18-1"></A>
+<P>1. Figge, F.H.J., and Strong, L.C. (1941). Cancer Res. <B>1</B>: 779.
+
+<A NAME="ref18-2"></A>
+<P>2. Law, L.W., Morrow, A.G., and Greenspan, E.M. (1952). J. Natl. Cancer Inst. <B>12</B>: 909.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14908554" target="_blank">PubMed</A></I>.
+<!-- PMID: 14908554 -->
+
+<A NAME="ref18-3"></A>
+<P>3. Paigen, K., Swank, R.T., Tomino, S., and Ganschow, R.E. (1975). J. Cell Physiol. <B>85</B>: 379.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54006" target="_blank">MGI</A></I>.
+<!-- MGI:54006 -->
+
+<A NAME="ref18-4"></A>
+<P>4. Lusis, A.J., and Paigen, K. (1977). In <I>Isozymes</I>, vol. II (M.C. Rattazzi, J.G. Scandalious, and G.S. Whitt, eds.) p. 64. A.R. Liss, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:63037" target="_blank">MGI</A></I>.
+<!-- MGI:63037 -->
+
+<A NAME="ref18-5"></A>
+<P>5. Swank, R.T., Paigen, K., Davey, R., Chapman, V., Labarca, C., Watson, G., Ganschow, R.E., Brandt, E.J., and Novak, E. (1978). In 
+<I>Recent Progress in Hormone Research</I> vol. 34 (R. O. Grep, ed.). Academic Press, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->366684" target="_blank">PubMed</A></I>.
+<!-- PMID: 366684 -->
+
+<A NAME="ref18-6"></A>
+<P>6. Chapman, V.M., Paigen, K., Siracusa, L., and Womack, J. (1979). In <I>Biological Handbooks III. Inbred and Genetically Defined Strains of Laboratory Animals</I>, p. 80. 
+Fed. Amer. Soc. Exp. Biol.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:83849" target="_blank">MGI</A></I>.
+<!-- MGI:83849 -->
+
+<A NAME="ref18-7"></A>
+<P>7. Erickson, R.P., Gluecksohn-Waelsch, S., and Cori, C.F. (1968). Proc. Natl. Acad. Sci. USA <B>59</B>: 437.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53541" target="_blank">MGI</A></I>.
+<!-- MGI:53541 -->
+
+<A NAME="ref18-8"></A>
+<P>8. Gluecksohn-Waelsch, S., and Cori, C.F. (1970). Biochem. Genet. <B>4</B>: 195.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4986299" target="_blank">PubMed</A></I>.
+<!-- PMID: 4986299 -->
+
+<A NAME="ref18-9"></A>
+<P>9. Thorndike, J., Trigg, M.J., Stockert, R., Gluecksohn-Waelsch, S., and Cori, C.F. (1973). Biochem. Genet. <B>9</B>: 25.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4146177" target="_blank">PubMed</A></I>.
+<!-- PMID: 4146177 -->
+
+<A NAME="ref18-10"></A>
+<P>10. Glueckson-Waelsch, S., Schiffman, M.B., Thorndike, J., and Cori, C.F. (1974). Proc. Natl. Acad. Sci. USA <B>71</B>: 825.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4150768" target="_blank">PubMed</A></I>.
+<!-- PMID: 4150768 -->
+
+<A NAME="ref18-11"></A>
+<P>11. Paigen, K. (1961). Exp. Cell Res. <B>25</B>: 286.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14483210" target="_blank">PubMed</A></I>.
+<!-- PMID: 14483210 -->
+
+<A NAME="ref18-12"></A>
+<P>12. Fishman, W.H., Goldman, S.S., and Delellis, R. (1967). Nature <B>213</B>: 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4166303" target="_blank">PubMed</A></I>.
+<!-- PMID: 4166303 -->
+
+<A NAME="ref18-13"></A>
+<P>13. Lalley, P.A. and Shows, T.B. (1974). Science <B>185</B>: 442.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:67844" target="_blank">MGI</A></I>.
+<!-- MGI:67844 -->
+
+<A NAME="ref18-14"></A>
+<P>14. Ganschow, R.E. and Paigen, K. (1967). Proc. Natl. Acad. Sci. USA <B>58</B>: 938.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53530" target="_blank">MGI</A></I>.
+<!-- MGI:53530 -->
+
+<A NAME="ref18-15"></A>
+<P>15. Tomino, S., and Paigen, K. (1975). J. Biol. Chem. <B>250</B>: 1146.
+
+<A NAME="ref18-16"></A>
+<P>16. Law, L.W., Morrow, A.G., and Greenspan, E. M. (1952). J. Natl. Cancer Inst. <B>12</B>: 909.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14908554" target="_blank">PubMed</A></I>.
+<!-- PMID: 14908554 -->
+
+<A NAME="ref18-17"></A>
+<P>17. Paigen, K., and Noell, W.K. (1961). Nature <B>190</B>: 148.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48825" target="_blank">MGI</A></I>.
+<!-- MGI:48825 -->
+
+<A NAME="ref18-18"></A>
+<P>18. Sidman, R.L., and Green, M.C. (1965). J. Hered. <B>56</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48654" target="_blank">MGI</A></I>.
+<!-- MGI:48654 -->
+
+<A NAME="ref18-19"></A>
+<P>19. Swank, R.T., Paigen, K., and Ganschow, R.E. (1973). J. Mol. Biol. <B>81</B>: 225.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53893" target="_blank">MGI</A></I>.
+<!-- MGI:53893 -->
+
+<A NAME="ref18-20"></A>
+<P>20. Chapman, V.M. Personal communication.
+
+<A NAME="ref18-21"></A>
+<P>21. Tomino, S., Paigen, K., Tulsiani, D., and Touster, O. (1975). J. Biol. Chem. <B>250</B>: 8503.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1194264" target="_blank">PubMed</A></I>.
+<!-- PMID: 1194264 -->
+
+<A NAME="ref18-22"></A>
+<P>22. Paigen, K., and Ganschow, R. (1965). Brookhaven Symp. Biol. <B>18</B>: 99.
+
+<A NAME="ref18-23"></A>
+<P>23. Paigen, K. (1971). In <I>Enzyme Synthesis and Degradation in Mammalian Systems</I> (M. Reichcigl, ed.). Karger Press, Basel, Switzerland.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78440" target="_blank">MGI</A></I>.
+<!-- MGI:78440 -->
+
+<A NAME="ref18-24"></A>
+<P>24. Dizik, M., and Elliott, R.W. (1977). Biochem. Genet. <B>15</B>: 31.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54275" target="_blank">MGI</A></I>.
+<!-- MGI:54275 -->
+
+<A NAME="ref18-25"></A>
+<P>25. Dizik, M., and Elliott, R.W. (1978). Biochem. Genet. <B>16</B>: 247.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54498" target="_blank">MGI</A></I>.
+<!-- MGI:54498 -->
+
+<A NAME="ref18-26"></A>
+<P>26. Lalley, P.A., and Shows, T.B. (1977). Genetics <B>87</B>: 305.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52946" target="_blank">MGI</A></I>.
+<!-- MGI:52946 -->
+
+<A NAME="ref18-27"></A>
+<P>27. Breen, G., Lusis, A.J., and Paigen, K. (1977). Genetics <B>85</B>: 73.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->838272" target="_blank">PubMed</A></I>.
+<!-- PMID: 838272 -->
+
+<A NAME="ref18-28"></A>
+<P>28. Lusis, A.J., Breen, G.A.M., and Paigen, K. (1977). J. Biol. Chem. <B>252</B>: 4613.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->873909" target="_blank">PubMed</A></I>.
+<!-- PMID: 873909 -->
+
+<A NAME="ref18-29"></A>
+<P>29. Lusis, A.J., and Paigen, K. (1976). Biochem. Biophys. Acta <B>437</B>: 487.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->8104" target="_blank">PubMed</A></I>.
+<!-- PMID: 8104 -->
+
+<A NAME="ref18-30"></A>
+<P>30. Schimke, R.T. (1969). Current Topics Cell Regulation <B>1</B>: 77.
+
+<A NAME="ref18-31"></A>
+<P>31. Nadal-Ginard, B. (1978). J. Biol. Chem. <B>253</B>: 170.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->618856" target="_blank">PubMed</A></I>.
+<!-- PMID: 618856 -->
+
+<A NAME="ref18-32"></A>
+<P>32. Rechcigl, M., Jr., and Heston, W.E. (1967). Biochem. Biophys. Res. Comm. <B>27</B>: 119.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53517" target="_blank">MGI</A></I>.
+<!-- MGI:53517 -->
+
+<A NAME="ref18-33"></A>
+<P>33. Ganschow, R.E., and Schimke, R.T. (1969). J. Biol. Chem. <B>244</B>: 4649.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4980114" target="_blank">PubMed</A></I>.
+<!-- PMID: 4980114 -->
+
+<A NAME="ref18-34"></A>
+<P>34. Devillers-Thiery, A., Kindt, T., Scheela, G., and Blobel, G. (1975). Proc. Natl. Acad. Sci. USA <B>72</B>: 5016.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1061088" target="_blank">PubMed</A></I>.
+<!-- PMID: 1061088 -->
+
+<A NAME="ref18-35"></A>
+<P>35. Ganschow, R.E., and Bunker, B.G. (1970). Biochem. Genet. <B>4</B>: 127.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5444099" target="_blank">PubMed</A></I>.
+<!-- PMID: 5444099 -->
+
+<A NAME="ref18-36"></A>
+<P>36. Swank, R.T., and Paigen, K. (1973). J. Mol. Biol. <B>77</B>: 371.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4727071" target="_blank">PubMed</A></I>.
+<!-- PMID: 4727071 -->
+
+<A NAME="ref18-37"></A>
+<P>37. Smith, K. (1976). Ph.D. Thesis, <I>The Turnover of &beta;-Glucuronidase in Normal and Mutant Mice</I>.
+
+<A NAME="ref18-38"></A>
+<P>38. Lusis, A.J., Tomino, S., and Paigen, K. (1976). J. Biol. Chem. <B>251</B>: 7753.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54215" target="_blank">MGI</A></I>.
+<!-- MGI:54215 -->
+
+<A NAME="ref18-39"></A>
+<P>39. Lusis, A.J., Tomino, S., and Paigen, K. (1977). Biochem. Genet. <B>15</B>: 115.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54274" target="_blank">MGI</A></I>.
+<!-- MGI:54274 -->
+
+<A NAME="ref18-40"></A>
+<P>40. Ganschow, R.E., and Paigen, K. (1968). Genetics <B>59</B>: 335.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53577" target="_blank">MGI</A></I>.
+<!-- MGI:53577 -->
+
+<A NAME="ref18-41"></A>
+<P>41. Karl, T.R., and Chapman, V.M. (1974). Biochem. Genet. <B>11</B>: 367.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53947" target="_blank">MGI</A></I>.
+<!-- MGI:53947 -->
+
+<A NAME="ref18-42"></A>
+<P>42. Lusis, A.J., and Paigen, K. (1977). J. Cell Biol. <B>73</B>: 728.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54310" target="_blank">MGI</A></I>.
+<!-- MGI:54310 -->
+
+<A NAME="ref18-43"></A>
+<P>43. Swank, R.T., Novack, E., Brandt, E.J., and Skudlarek, M. (1978). In 
+<I>Protein Turnover and Lysosomal Function</I> (D. Doyle and H. Segal, eds.). Academic Press, New York.
+
+<A NAME="ref18-44"></A>
+<P>44. Brandt, E.J., Elliott, R.W., and Swank, R.T. (1975). J. Cell Biol. <B>67</B>: 774.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54067" target="_blank">MGI</A></I>.
+<!-- MGI:54067 -->
+
+<A NAME="ref18-45"></A>
+<P>45. Brandt, E.J., and Swank, R.T. (1976). Am. J. Pathol. <B>82</B>: 573.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1258977" target="_blank">PubMed</A></I>.
+<!-- PMID: 1258977 -->
+
+<A NAME="ref18-46"></A>
+<P>46. Meisler, M. (1978). J. Biol. Chem. <B>253</B>: 3129.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54444" target="_blank">MGI</A></I>.
+<!-- MGI:54444 -->
+
+<A NAME="ref18-47"></A>
+<P>47. Russell, R.L., and Coleman, D.L. (1963). Genetics <B>48</B>: 1033.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:63121" target="_blank">MGI</A></I>.
+<!-- MGI:63121 -->
+
+<A NAME="ref18-48"></A>
+<P>48. Hutton, J.J., and Coleman, D.L. (1969). Biochem. Genet. <B>3</B>: 517.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53613" target="_blank">MGI</A></I>.
+<!-- MGI:53613 -->
+
+<A NAME="ref18-49"></A>
+<P>49. Coleman, D.L. (1971). Science <B>173</B>: 1245.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53712" target="_blank">MGI</A></I>.
+<!-- MGI:53712 -->
+
+<A NAME="ref18-50"></A>
+<P>50. Coleman, D.L. (1966). J. Biol. Chem. <B>241</B>: 5511.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53493" target="_blank">MGI</A></I>.
+<!-- MGI:53493 -->
+
+<A NAME="ref18-51"></A>
+<P>51. Doyle, D., and Schimke, R.T. (1969). J. Biol. Chem. <B>244</B>: 5449.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53609" target="_blank">MGI</A></I>.
+<!-- MGI:53609 -->
+
+<A NAME="ref18-52"></A>
+<P>52. Felton, J., Meisler, M., and Paigen, K. (1974). J. Biol. Chem. <B>249</B>: 3267.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53933" target="_blank">MGI</A></I>.
+<!-- MGI:53933 -->
+
+<A NAME="ref18-53"></A>
+<P>53. Lundin, L., and Seyedyazdani, R. (1973). Biochem. Genet. <B>10</B>: 351.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53882" target="_blank">MGI</A></I>.
+<!-- MGI:53882 -->
+
+<A NAME="ref18-54"></A>
+<P>54. Berger, F., Meisler, M., and Paigen, K. Unpublished.
+
+<A NAME="ref18-55"></A>
+<P>55. Dewey, M., Gervais, A., and Mintz, B. (1976). Develop. Biol. <B>50</B>: 68.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1269835" target="_blank">PubMed</A></I>.
+<!-- PMID: 1269835 -->
+
+<A NAME="ref18-56"></A>
+<P>56. Fishman, W.H. (1951). Ann. N.Y. Acad. Sci. <B>54</B>: 548.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14903798" target="_blank">PubMed</A></I>.
+<!-- PMID: 14903798 -->
+
+<A NAME="ref18-57"></A>
+<P>57. Fishman, W.H. (1965). In <I>Methods in Hormone Research</I>, vol. 4 (R.I. Portman, ed.) Academic Press, New York.
+
+<A NAME="ref18-58"></A>
+<P>58. Swank, R.T., and Bailey, D.W. (1973). Science <B>181</B>: 1249.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:66124" target="_blank">MGI</A></I>.
+<!-- MGI:66124 -->
+
+<A NAME="ref18-59"></A>
+<P>59. Dofuku, R., Tettenborn, U., and Ohno, S. (1971). Nature New Biol. <B>234</B>: 259.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53723" target="_blank">MGI</A></I>.
+<!-- MGI:53723 -->
+
+<A NAME="ref18-60"></A>
+<P>60. Watson, G., and Paigen, K. (1978). Biochem. Genet. <B>16</B>: 897.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54571" target="_blank">MGI</A></I>.
+<!-- MGI:54571 -->
+
+<A NAME="ref18-61"></A>
+<P>61. Labarca, C., and Paigen, I. (1977). Proc Natl. Acad. Sci. USA <B>74</B>: 4462.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->270691" target="_blank">PubMed</A></I>.
+<!-- PMID: 270691 -->
+
+<A NAME="ref18-62"></A>
+<P>62. Paigen, K., Labarca, C., and Watson, G. Unpublished.
+
+<A NAME="ref18-63"></A>
+<P>63. Watson, G., Davey, R., and Paigen, K. Unpublished.
+
+<A NAME="ref18-64"></A>
+<P>64. Bullock, L.P., and Bardin, C.W. (1972). J. Clin. Endocrinol. Metab. <B>35</B>: 935.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4117701" target="_blank">PubMed</A></I>.
+<!-- PMID: 4117701 -->
+
+<A NAME="ref18-65"></A>
+<P>65. Attardi, B., and Ohno, S. (1974). Cell <B>2</B>: 205.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4369902" target="_blank">PubMed</A></I>.
+<!-- PMID: 4369902 -->
+
+<A NAME="ref18-66"></A>
+<P>66. Gehring, U., and Tomkins, G.M. (1974). Cell <B>3</B>: 59.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4369847" target="_blank">PubMed</A></I>.
+<!-- PMID: 4369847 -->
+
+<A NAME="ref18-67"></A>
+<P>67. Ohno, S., and Lyon, M.F. (1970). Clin. Genet. <B>1</B>: 121.
+
+<A NAME="ref18-68"></A>
+<P>68. Swank, R.T., Davey, R., Joyce, L., Reid, P., and Macey, M.R. (1977). Endrocrinol. <B>100</B>: 473.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->12933" target="_blank">PubMed</A></I>.
+<!-- PMID: 12933 -->
+
+<A NAME="ref18-69"></A>
+<P>69. Swank, R.T. Personal communication.
+
+<A NAME="ref18-70"></A>
+<P>70. Wilson, C.M., Erd&#246;s, E.G., Dunn, J.F., and Wilson, J.D. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 1185.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54271" target="_blank">MGI</A></I>.
+<!-- MGI:54271 -->
+
+<A NAME="ref18-71"></A>
+<P>71. Hudson, D.M., Finlayson, J.S., and Potter, M. (1967). Genet. Res. <B>10</B>: 195.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53534" target="_blank">MGI</A></I>.
+<!-- MGI:53534 -->
+
+<A NAME="ref18-72"></A>
+<P>72. Szoka, P. and Paigen, K. (1978). Genetics 90: 597.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:79986" target="_blank">MGI</A></I>.
+<!-- MGI:79986 -->
+
+<A NAME="ref18-73"></A>
+<P>73. Gielen, J., Goujan, F.M., and Nebert, D.W. (1972). J. Biol. Chem. <B>247</B>: 1125.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2667225" target="_blank">MGI</A></I>.
+<!-- MGI:2667225 -->
+
+<A NAME="ref18-74"></A>
+<P>74. Thomas, P.E., Kouri, R.G., and Hutton, J.J. (1972). Biochem. Genet. <B>6</B>: 157.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:81710" target="_blank">MGI</A></I>.
+<!-- MGI:81710 -->
+
+<A NAME="ref18-75"></A>
+<P>75. Poland, A., and Glover, E. (1974). Molec. Pharm. <B>11</B>: 389.
+
+<A NAME="ref18-76"></A>
+<P>76. Thomas, P.E., Hutton, J.J., and Taylor, B.A. (1973). Genetics <B>74</B>: 655.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53865" target="_blank">MGI</A></I>.
+<!-- MGI:53865 -->
+
+<A NAME="ref18-77"></A>
+<P>77. Paigen, K. (1977). In <I>Proceedings Fifth International Congress of Human Genetics, Mexico City</I>, p. 33. Excerpta Medica, Amsterdam.
+
+<A NAME="ref18-78"></A>
+<P>78. Paigen, K. (1961). Proc. Natl. Acad. Sci. USA <B>47</B>: 1641.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48824" target="_blank">MGI</A></I>.
+<!-- MGI:48824 -->
+
+<A NAME="ref18-79"></A>
+<P>79. Meisler, M., and Paigen, K. (1972). Science <B>177</B>: 894.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5054645" target="_blank">PubMed</A></I>.
+<!-- PMID: 5054645 -->
+
+<A NAME="ref18-80"></A>
+<P>80. Lusis, A.J., and Paigen, K. (1975). Cell <B>6</B>: 371.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54515" target="_blank">MGI</A></I>.
+<!-- MGI:54515 -->
+
+<A NAME="ref18-81"></A>
+<P>81. Condamine, H., Custer, R.P., and Mintz, B. (1971). Proc. Natl. Acad. Sci. USA <B>68</B>: 2032.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4109064" target="_blank">PubMed</A></I>.
+<!-- PMID: 4109064 -->
+
+<A NAME="ref18-82"></A>
+<P>82. Feder, N. (1967). Nature <B>263</B>: 67.
+
+<A NAME="ref18-83"></A>
+<P>83. Herrup, K., and Mullen, R.J. (1977). Biochem. Genet. <B>15</B>: 641.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->21652" target="_blank">PubMed</A></I>.
+<!-- PMID: 21652 -->
+
+<A NAME="ref18-84"></A>
+<P>84. Lusis, A.J. Personal communication.
+
+<A NAME="ref18-85"></A>
+<P>85. Wudl, L., and Chapman, V.M. (1976). Develop. Biol. <B>48</B>: 104.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54084" target="_blank">MGI</A></I>.
+<!-- MGI:54084 -->
+
+<A NAME="ref18-86"></A>
+<P>86. Ganschow, R.E. (1975). In "Third Int. Conf. Isozymes" (C.L. Markert, ed.). Academic Press, New York.
+
+<A NAME="ref18-87"></A>
+<P>87. Daniel, W.L. (1976). Biochem. Genet. <B>14</B>: 1003.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54246" target="_blank">MGI</A></I>.
+<!-- MGI:54246 -->
+
+<A NAME="ref18-88"></A>
+<P>88. Dagg, C.P., Coleman, D.L., and Fraser, G.M. (1964). Genetics <B>49</B>: 979.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48773" target="_blank">MGI</A></I>.
+<!-- MGI:48773 -->
+
+<A NAME="ref18-89"></A>
+<P>89. Lusis, A.J., and West, J.D. (1978) Genetics <B>88</B>: 327.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54440" target="_blank">MGI</A></I>.
+<!-- MGI:54440 -->
+
+<A NAME="ref18-90"></A>
+<P>90. Paigen, K., Meisler, M., Felton, J., and Chapman, V.M. (1976). Cell <B>9</B>: 533.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54233" target="_blank">MGI</A></I>.
+<!-- MGI:54233 -->
+
+<A NAME="ref18-91"></A>
+<P>91. Berger, F., Breen, G.A.M., and Paigen, K. Unpublished.
+
+<A NAME="ref18-92"></A>
+<P>92. Boubelik, M., Lengerova, A., Bailey, D.W., and Matousek, V. (1975). Develop. Biol. <B>47</B>: 206.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1204930" target="_blank">PubMed</A></I>.
+<!-- PMID: 1204930 -->
+
+<DIV Align="center"><H4> <A HREF="hutton.shtml">Previous</A> <A HREF="lilly.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

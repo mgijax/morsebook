@@ -1,0 +1,793 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 42-2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 42 -->
+
+<CENTER>
+<H3>TABLE 2. Listing of Enzymes and Proteins Surveyed in Spanish and English <I>Mus</I></H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+
+<TR>
+<TD COLSPAN=3 VALIGN=BOTTOM>Enzyme or protein systems</TD>
+<TD>&nbsp;</TD>
+<TD>Locus<BR>abbrev.</TD>
+<TD>&nbsp;</TD>
+<TD>Buffer system/<BR>tissue type*</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>Remarks</TD>
+</TR>
+
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+
+<TR>
+<TD VALIGN=TOP>1.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Alcohol dehydrogenase<BR>(E.C.1.1.1.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ADH</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>9/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally; <I>Adh<SUP>.54</SUP></I> is partially blocked by achromatic activity of  SOD<SUB>B</SUB></TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>2.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Glycerol-3-phosphate<BR>dehydrogenase<BR>(E.C.1.1.1.8)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>GPD</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>3.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Sorbitol dehydrogenase<BR>(E.C.1.1.1.14)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>SORDH</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>4.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Lactate dehydrogenase<BR>(E.C.1.1.1.27)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>LDH<SUB>A</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>LDH<SUB>B</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>LDH<SUB>C</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>4/T+E</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Equals sperm type, LDH-X</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>5.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Malate dehydrogenase<BR>(E.C.1.1.1.37)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>MDH<SUB>S</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>MDH<SUB>M</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>6.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Malic enzyme<BR>(E.C.1.1.1.40)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ME<SUB>M</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>7.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Isocitrate dehydrogenase<BR>(E.C.1.1.1.42)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ICD<SUB>S</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ICD<SUB>M</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>8.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Phosphogluconate<BR>dehydrogenase<BR>(E.C.1.1.1.44)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>PGD</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>1/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10 mg NADP added to gel before aspirating</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>9.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Glyceraldehyde-phosphate<BR>dehydrogenase<BR>(E.C.1.2.1.13)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>GAPDH<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>7/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>NAD and 2-mercaptoethanol added to gel before aspirating (
+<A HREF="#ref42-31">31</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>GAPDH<SUB>2</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>7/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>10.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>NADH Diaphorase<BR>(E.C.1.6.2.2)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>DIA<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>4/T+E</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>DIA<SUB>3</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>4/H</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>DIA<SUB>4</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>4/T+E</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>DIA<SUB>5</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>4/H</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>11.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Superoxide dismutase<BR>(E.C.1.15.1.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>SOD<SUB>A</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Identified by Tegelstr&#246;m (
+<A HREF="#ref42-32">32</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>SOD<SUB>B</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Identified by Tegelstr&#246;m (
+<A HREF="#ref42-32">32</A>)<BR>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>13.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Glutamate-oxaloacetate<BR>transaminase<BR>(E.C.2.6.1.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>GOT<SUB>S</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>14.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Hexokinase (E.C.2.7.1.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>HK</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>3/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>15.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Phosphoglucomutase<BR>(E.C.2.7.5.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>PGM<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Shows <I>et al.</I> (
+<A HREF="#ref42-15">15</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PGM<SUB>2</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Shows <I>et al.</I> (
+<A HREF="#ref42-15">15</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>16.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Esterases (E.C.3.1.1.1)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>3</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>9/H</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>2</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/P</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/P</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>B</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/P</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>5</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/P</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ES<SUB>A</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>9/H</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>17.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Acid phosphatase<BR>(E.C.3.1.3.2)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ACP<SUB>E</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Erythrocytic type enzyme</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ACP<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Lally and Shows (
+<A HREF="#ref42-33">33</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>18.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Peptidases</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>PEP<SUB>C</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Equals DIP-1 of Ruddle and Nichols (
+<A HREF="#ref42-34">34</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PEP<SUB>A</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/L</TD>
+<TD>&nbsp;</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PEP<SUB>B</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Equals TRIP-1 of Ruddle and Nichols (
+<A HREF="#ref42-34">34</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PEP<SUB>S</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/L</TD>
+<TD>&nbsp;</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>LAP</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Using Leucyl-&beta;-naphthyl-amide as substrate</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>19.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Adenosine deaminase<BR>(E.C.3.5.4.4)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ADA</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>20.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Aconitase<BR>(E.4.2.1.3)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ACON<SUB>S</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/M</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ACON<SUB>M</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>21.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Enolase<BR>(E.C.4.2.1.11)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ENO<SUB>1</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>ENO<SUB>2</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>22.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Mannose phosphate<BR>isomerase (E.C.5.3.1.8)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>MPI</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD COLSPAN=2>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>23.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Glucosephosphate isomerase<BR>(E.C.5.3.1.9)</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>GPI</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>8/L</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Migrates cathodally</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>24.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Unidentified enzymes</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Enzyme-1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>5/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>See Results: Nucleoside phosphorylase</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>Enzyme-2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>See Results: Phosphoglucomutases</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>Enzyme-3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>6/Ht+K</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>See Results: Mannose phosphate isomerase</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD VALIGN=TOP>25.</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nonenzymatic proteins</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>ALB</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Equals albumin</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>MYO</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Probably is myoglobin</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PT-1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Slow migrating muscle protein</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PT-2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Slow migrating muscle protein</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PT<SUB>B</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/M</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>PT<SUB>A</SUB></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>10/P</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Nomenclature of Wheeler and Selander (
+<A HREF="#ref42-17">17</A>)</TD>
+</TR>
+
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD COLSPAN=4>&nbsp;</TD>
+<TD VALIGN=TOP>HBB</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>2/H</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>Equals &beta; chain of hemoglobin</TD>
+</TR>
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+</TABLE>
+</CENTER>
+
+*Numbers identify buffer systems listed in 
+<a href="javascript:windowt421 = window.open('table42-1.shtml', 'windowt421', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowt421.focus()">Table 1</A>. 
+Tissue abbreviations correspond to: plasma (P); 
+hemolysate (H); heart-kidney (Ht+K); liver (L); muscle (M); and testes-epididymides (T+E) extracts.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref42-15"></A>
+<P>15. Shows, T.B., Ruddle, F.H., and Roderick, T.H. (1969). Biochem. Genet. <B>3</B>: 25.
+
+<A NAME="ref42-16"></A>
+<P>16. Lewis, W.H.P., and Turslove, G.M. (1969). Biochem. Genet. <B>3</B>: 493.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53611" target="_blank">MGI</A></I>.
+<!-- MGI:53611 -->
+
+<A NAME="ref42-17"></A>
+<P>17. Wheeler, L.L., and Selander, R.K. (1972)
+
+<A NAME="ref42-31"></A>
+<P>31. Wright, D.A., Siciliano, M.J., and Baptist, J.N. (1972). Experientia <B>28</B>: 888.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5076313" target="_blank">PubMed</A></I>.
+<!-- PMID: 5076313 -->
+
+<A NAME="ref42-32"></A>
+<P>32. Tegelstr&#246;m, H. (1975). Hereditas <B>81</B>: 185.
+
+<A NAME="ref42-33"></A>
+<P>33. Lalley, P.A., and Shows, T.B. (1977). Genetics <B>87</B>: 305.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52946" target="_blank">MGI</A></I>.
+<!-- MGI:52946 -->
+
+<A NAME="ref42-34"></A>
+<P>34. Ruddle, F.H., and Nichols, E.A. (1971). In Vitro <B>7</B>: 120.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5170778" target="_blank">PubMed</A></I>.
+<!-- PMID: 5170778 -->
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+

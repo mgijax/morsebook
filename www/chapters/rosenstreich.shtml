@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="lyon.shtml">Previous</A> <A HREF="tagliabue.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 30 -->
+
+<H2>The Biological Function of the LPS Gene</H2>
+
+<H3>David L. Rosenstreich<BR><BR>
+
+Laboratory of Microbiology and Immunology<BR>
+National Institute of Dental Research<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>C3H/HeJ mice are resistant or poorly responsive to all the known biological effects of endotoxin (reviewed in 
+<A HREF="#ref30-1">1</A>). This defect is due to a mutation in a single gene that occurred some time between 1960 and 1965 (
+<A HREF="#ref30-2">2</A>). The LPS gene has been mapped to the fourth chromosome near the gene that codes for brown coat color (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881" target="_blank"><I>b</I></A>) (
+<A HREF="#ref30-3">3</A>), and exhibits co-dominant inheritance, so that F<SUB>1</SUB> hybrid progeny of a cross between C3H/HeJ 
+mice with an LPS-responsive strain are intermediate responders to LPS (
+<A HREF="#ref30-2">2</A>).
+
+<P>Although LPS exhibit activity in a variety of cellular and humoral systems, it is thought that the primary expression 
+of the LPS gene is in cells since the B-lymphocytes, T-lymphocytes, macrophages (
+<A HREF="#ref30-1">1</A>), and fibroblasts (
+<A HREF="#ref30-4">4</A>) of C3H/HeJ mice all respond abnormally to LPS <I>in vitro</I>, while at least one humoral function, 
+LPS-induced complement activation, is normal in these mice (
+<A HREF="#ref30-5">5</A>). Since a single gene mutation has resulted in the complete loss of LPS-sensitivity in these mice, 
+and since this mutation seems to be expressed only in cells, it is very likely that all 
+the biological effects of LPS are in fact mediated via the action of endotoxin on some cell or cells.
+
+<P>We were interested in understanding the biological role of the LPS gene, and one approach to this question was 
+to determine the ability of C3H/HeJ mice to deal with a variety of challenges such as viruses, bacteria, or malignant cells.
+
+<P>Mice are susceptible to lethal challenge with <I>Herpes simplex</I> virus-1 (HSV-1). Surprisingly, we found that 
+approximately 100 times more HSV-1 was required to kill a C3H/HeJ than was required to kill a C3H/HeN mouse (
+<A HREF="#ref30-6">6</A>). This resistance was related to the inability of HSV-1 to grow within C3H/HeJ peritoneal cells since 
+there was no difference in susceptibility of these strains when HSV-1 was innoculated intracerebrally.
+
+<P>In contrast, we have found that C3H/HeJ mice are remarkably susceptible to lethal injection with <I>Salmonella typhimurium</I>. 
+C3H/HeJ mice will die after inoculation with approximately 1,000 times fewer <I>S. typhimurium</I> organisms than are 
+required to kill C3H/HeN mice.
+
+<P>Macrophages will kill tumor cells <I>in vitro</I> if they are obtained from mice infected with organisms such as the 
+BCG strain of <I>Mycobacterium tuberculosis</I>. However, macrophages from BCG-infected C3H/HeJ mice are not tumoricidal, 
+in contrast to those from C3H/HeN mice (
+<A HREF="#ref30-7">7</A>). Furthermore, we have found that the ability of macrophages to be rendered tumoricidal is controlled by the LPS gene (
+<A HREF="#ref30-8">8</A>).
+
+<P>Thus, in addition to their well characterized defect in LPS-responsiveness, C3H/HeJ mice appear to respond differently to a number 
+of environmental challenges that are unrelated to the exogenous administration of endotoxin (
+<a href="javascript:windowt301 = window.open('../tables/table30-1.shtml', 'windowt301', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt301.focus()">Table 1</A>). 
+These findings raise an interesting question in relation to the true biological function of the LPS gene. 
+One possible explanation is that endotoxin is a ubiquitous compound whose presence is required by living organisms to maintain the 
+immune system in an "activated" state. If this were the case, then the lymphoreticular cells of C3H/HeJ mice would normally be less 
+"activated" than those of other LPS-responsive mice. This could certainly account for their inability to kill tumor cells, replicate 
+HSV, or adequately kill gram-negative organisms. On the other hand, the LPS molecule itself may be unrelated to this phenomenon. The 
+true function of the LPS gene may be to regulate the activated state of lymphoreticular cells possibly via some serum component that 
+is similar to LPS in structure.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref30-1"></A>
+<P>1. Rosenstreich, D.L., Glode, L.M., Wahl, L.M., Sandberg, A.L., and Mergenhagen, S.E. (1977). In 
+<I>Microbiology 1977</I> (D. Schlessinger, ed.), p. 314. ASM, Washington, D.C.
+
+<A NAME="ref30-2"></A>
+<P>2. Glode, L.M., and Rosenstreich, D.L. (1976). J. Immunol. <B>117</B>: 2061.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54201" target="_blank">MGI</A></I>.
+<!-- MGI:54201 -->
+
+<A NAME="ref30-3"></A>
+<P>3. Watson, J., Kelly, K., Largen, M., and Taylor, B.A. (1974). J. Immunol. <B>120</B>: 422.
+
+<A NAME="ref30-4"></A>
+<P>4. Ryan, J.L., and McAdam, K.P.W.J. (1977). Nature <B>269</B>: 153.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54353" target="_blank">MGI</A></I>.
+<!-- MGI:54353 -->
+
+<A NAME="ref30-5"></A>
+<P>5. Moeller, G.L., Terry, L., and Snyderman, R. (1978). J. Immunol. <B>120</B>: 116.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54413" target="_blank">MGI</A></I>.
+<!-- MGI:54413 -->
+
+<A NAME="ref30-6"></A>
+<P>6. Kirchner, H., Hirt, H.M., Rosenstreich, D.L., and Mergenhagen, S.E. (1978). Proc. Soc. Exp. Med. Biol. <B>157</B>: 29.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54402" target="_blank">MGI</A></I>.
+<!-- MGI:54402 -->
+
+<A NAME="ref30-7"></A>
+<P>7. Ruco, L.P., and Meltzer, M.S. (1978). J. Immunol. <B>120</B>: 329.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->627723" target="_blank">PubMed</A></I>.
+<!-- PMID: 627723 -->
+
+<A NAME="ref30-8"></A>
+<P>8. Ruco, L.P., Meltzer, M.S., and Rosenstreich, D.L. (1978). J. Immunol. <B>121</B>: 523.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54502" target="_blank">MGI</A></I>.
+<!-- MGI:54502 -->
+
+<DIV Align="center"><H4> <A HREF="lyon.shtml">Previous</A> <A HREF="tagliabue.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

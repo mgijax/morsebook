@@ -1,0 +1,846 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="hoffman.shtml">Previous</A> <A HREF="paigen.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 17 -->
+
+<H2>Biochemical Polymorphisms -- Detection, Distribution, Chromosomal Location, and Applications</H2>
+
+<H3>John J. Hutton<BR><BR>
+
+Department of Medicine<BR>
+VA Hospital and University of Kentucky<BR>
+Lexington, Kentucky</H3>
+
+<P>The application of starch gel electrophoresis and specific staining procedures has led to the detection of genetically controlled 
+structural variation in enzymes from different strains of mice. Polymorphism at loci controlling the structure of proteins is extensive 
+so that it is frequently easy to find a variant of a specific enzyme. The average mouse in the wild is heterozygous at 10% of loci 
+and the percentage of polymorphic loci in the species is 40% (
+<A HREF="#ref17-63">63</A>). Genetic variability among independently derived inbred strains of laboratory mice seems similar to variability 
+observed in the wild. Electrophoretic techniques alone cannot detect all variants, since some amino acid differences resulting from 
+mutation do not cause a change in the electrical charge on the protein (
+<A HREF="#ref17-55">55</A>). Other techniques such as comparative measurements of thermal lability of enzymatic activities in different strains (
+<A HREF="#ref17-14">14</A>, 
+<A HREF="#ref17-30">30</A>, 
+<A HREF="#ref17-40">40</A>, 
+<A HREF="#ref17-45">45</A>), reactivity of molecules with alkylating agents (
+<A HREF="#ref17-34">34</A>), solubility of proteins in phosphate buffers (
+<A HREF="#ref17-68">68</A>), enzymatic activity with different substrates (
+<A HREF="#ref17-43">43</A>, 
+<A HREF="#ref17-82">82</A>), activity per unit weight of tissue (
+<A HREF="#ref17-1">1</A>, 
+<A HREF="#ref17-14">14</A>, 
+<A HREF="#ref17-30">30</A>, 
+<A HREF="#ref17-35">35</A>, 
+<A HREF="#ref17-36">36</A>, 
+<A HREF="#ref17-44">44</A>, 
+<A HREF="#ref17-50">50</A>, 
+<A HREF="#ref17-55">55</A>, 
+<A HREF="#ref17-56">56</A>, 
+<A HREF="#ref17-81">81</A>), and distribution of activity among subcellular organelles (
+<A HREF="#ref17-1">1</A>, 
+<A HREF="#ref17-44">44</A>, 
+<A HREF="#ref17-56">56</A>) have been helpful in finding "variants." It is difficult to prove that the variation is caused by changes in the 
+primary amino acid sequence of the protein and not by post-translational modifications such as glycosylation (
+<A HREF="#ref17-2">2</A>, 
+<A HREF="#ref17-17">17</A>), or by changes in binding sites for the protein in a membrane of a subcellular organelle (
+<A HREF="#ref17-44">44</A>), changes in the concentration of an intracellular stabilizing factor (
+<A HREF="#ref17-23">23</A>, 
+<A HREF="#ref17-35">35</A>), or mutation in a regulatory element affecting the rate of synthesis of the protein without affecting structure (
+<A HREF="#ref17-55">55</A>, 
+<A HREF="#ref17-56">56</A>). Only in the case of hemoglobin have electrophoretic and solubility variants been proved to result from genetic 
+mutation in structural genes with changes in the amino acid sequences of the &alpha;- and &beta;-chains (
+<A HREF="#ref17-28">28</A>, 
+<A HREF="#ref17-60">60</A>, 
+<A HREF="#ref17-68">68</A>).
+
+<P>Biochemical variants constitute a distinct class of mutations with internationally recognized rules for choosing appropriate names and 
+symbols of new loci affecting enzymes and other biochemical characteristics of mice (
+<A HREF="#ref17-13">13</A>). Rules for identifying chromosomes and their associated genetic linkage groups have also been defined (
+<A HREF="#ref17-12">12</A>, 
+<A HREF="#ref17-48">48</A>).
+
+<P>
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A> 
+lists loci which probably determine the structure of proteins and have been assigned to chromosomes. Prior to 1972 genes that 
+segregated together in breeding experiments were said to be members of the same "linkage group." Linkage groups were identified by number 
+and most could not be assigned to specific chromosomes. Because of recent advances in cytogenetics, genetic linkage groups have now been 
+assigned to chromosomes and chromosome numbers have replaced linkage groups. Loci in 
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A> 
+are listed by chromosomal location. Methods and tissues generally used to detect variants at each locus are given. The list of 
+references is lengthy, but not exhaustive, and makes no attempt to assign priority of discovery. References describe the variants, their distribution 
+among strains, segregation with other markers in breeding experiments, and applications to solution of several fundamental biological problems.
+
+<A NAME="hbb"></A><A NAME="distribution"></A>
+<P>The distribution of alleles at 28 loci on 17 chromosomes is summarized in 
+<a href="javascript:windowt172 = window.open('../tables/table17-2.shtml', 'windowt172', 'width=1400,height=700,resizable=yes,scrollbars=yes'); windowt172.focus()">Table 2</A>. 
+These data can be collated from original articles listed in 
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A> 
+or, with minor additions, from recent reviews (
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-74">74</A>). All strains are inbred except <I>M. m. molossinus</I>. Accumulating representative animals for typing is laborious and the distribution 
+of alleles at loci such as 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98449" target="_blank"><I>Svp-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95679" target="_blank"><I>Gdc-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" target="_blank"><I>Glo-1</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97577" target="_blank"><I>Phk</I></A> is not well described. In the case of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97577" target="_blank"><I>Phk</I></A> the 
+<I>b</I> allele is associated with muscle disease so the standard inbred strains except I/LnJ are probably normal with the 
+<I>a</I> allele. Each of the 20 strains has a unique pattern of alleles. It is easy to see that biochemical typing of strains can serve both to detect genetic 
+contamination in production colonies (
+<A HREF="#ref17-42">42</A>) and to estimate whether strains are genetically related. Alleles such as 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97565" target="_blank"><I>Pgm-2</A><SUP>b</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gus</A><SUP>h</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96917" target="_blank"><I>Map-1</A><SUP>h</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</A><SUP>p</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97045" target="_blank"><I>Mod-2</A><SUP>a</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</A><SUP>a</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95792" target="_blank"><I>Got-2</A><SUP>a</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88045" target="_blank"><I>Apk</A><SUP>m</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</A><SUP>a</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</A><SUP>b</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" target="_blank"><I>Hba</A><SUP>d</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88019" target="_blank"><I>Amy-1</A><SUP>b</SUP></I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95421" target="_blank"><I>Es-10</A><SUP>c</SUP></I>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95802" target="_blank"><I>Gpt-1</A><SUP>c</SUP></I> are only found in one or two of the strains. Variant alleles at 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95791" target="_blank"><I>Got-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97555" target="_blank"><I>Pgk-1</I></A> are present in partially inbred mice recently 
+derived from wild populations (
+<A HREF="#ref17-6">6</A>, 
+<A HREF="#ref17-7">7</A>).
+
+<P>In searching for a new variant it is important to examine as many inbred strains as possible, since rare alleles may not be found immediately. A group of 
+inbred strains with no known overlapping pedigrees should be studied first. One "best group" that has been recommended for initial screening includes C57BL/6J, 
+SM/J, SWR/J, AU/SsJ, and PL/J (
+<A HREF="#ref17-63">63</A>). To these should be added strains recently derived from wild mice or substrains of <I>M. musculus</I> such as 
+<I>M. m. molossinus</I> and <I>castaneus</I>.
+
+<P>The positions of loci on chromosomes are illustrated in 
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A>. 
+This map should be compared to the human gene map (
+<A HREF="#ref17-46">46</A>). All chromosomes except 13, 16, and 18 have at least one polymorphic biochemical locus. Additional loci have been assigned to chromosomes 
+by somatic cell hybridization or studies of gene dosage effects associated with the X chromosome. These include glucose-6-phosphate dehydrogenase (
+<A HREF="#ref17-9">9</A>, 
+<A HREF="#ref17-21">21</A>, 
+<A HREF="#ref17-41">41</A>), phosphoglycerate kinase (
+<A HREF="#ref17-9">9</A>, 
+<A HREF="#ref17-41">41</A>), and hypoxanthine guanine phosphoribosyl transferase (
+<A HREF="#ref17-9">9</A>, 
+<A HREF="#ref17-22">22</A>) on the X chromosome, and thymidine kinase and galactokinase on chromosome 11 (
+<A HREF="#ref17-9">9</A>, 
+<A HREF="#ref17-39">39</A>). Centromeres are located at the top of 
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A> 
+and genetic distances in cM are given where estimates are available. If nongenic DNA is fairly evenly distributed among chromosomes, 
+then the average length of a mouse chromosome should be 60-90 cM (
+<A HREF="#ref17-48">48</A>), This means that markers at two loci spaced around 50 cM apart with one 10 to 30 cM from either end of the chromosome would serve 
+in breeding experiments to detect whether a segregating gene was on that chromosome. These conditions are met reasonably well by markers on 
+chromosomes 1, 4, 5, 7, 8, 9, and 11. Other chromosomes are less well marked. It is remarkably easy to design crosses in which alleles at 10 or more biochemical 
+loci are segregating, thereby testing genetic linkages on multiple chromosomes and in some cases meeting conditions for a three-point cross to determine the 
+sequential order of loci (
+<A HREF="#ref17-5">5</A>, 
+<A HREF="#ref17-37">37</A>, 
+<A HREF="#ref17-79">79</A>). Polymorphic biochemical variants have many practical advantages when used as markers in linkage analysis. Generally, alleles determining 
+biochemical polymorphisms are codominant and fully penetrant. None has deleterious effects on viability so that segregation ratios are not distorted in breeding 
+experiments. Unfortunately, animals must sometimes be killed to determine their genotype and many of the testing procedures are laborious and expensive. The 
+marker to be tested for linkage may not be found in an inbred strain which can be paired with another to achieve segregation of large numbers of markers.
+
+<A NAME="Amy"></A><A NAME="Car"></A><A NAME="Es"></A>
+<P>Four examples of tight genetic linkage of enzymes with similar functions are shown in 
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A>. 
+Each of these may represent the tandem duplication of one or more loci. The structural loci of carbonic anhydrase (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88268"><I>Car-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88269"><I>Car-2</I></A> on chromosome 3) are within 1.5 cM of one another (
+<A HREF="#ref17-19">19</A>). The two isozymes of carbonic anhydrase in the mouse are structurally related to the two human isozymes which share 60% sequence homology. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88019"><I>Amy-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88020"><I>Amy-2</I></A> loci on chromosome 12 may represent a similar duplication, but there is no information about the amino acid sequence of the two proteins. 
+On chromosome 7 there is the interesting example of very tight linkage of the locus controlling the structure of the y-chain of mouse embryonic hemoglobin with the 
+locus controlling the structure of adult hemoglobin &beta;-chain. The y- and &beta;-chains of hemoglobin are structurally similar (
+<A HREF="#ref17-28">28</A>, 
+<A HREF="#ref17-68">68</A>), so the Hbb and Hby loci probably represent tandem duplication of a structural gene. The genes at the two loci have evolved 
+so that one functions in the embryo and the other in the adult. The most extensive area of duplication of structural genes is on chromosome 8. Seven esterases (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420"><I>Es-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431"><I>Es-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95444"><I>Es-5</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95445"><I>Es-6</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95446"><I>Es-7</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95448"><I>Es-9</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95422"><I>Es-11</I></A>) are clustered within a 12 cM segment (
+<A HREF="#ref17-57">57</A>, 
+<A HREF="#ref17-78">78</A>). Three of these loci (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431"><I>Es-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95444"><I>Es-5</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95422"><I>Es-11</I></A>) are within 0.58 cM of one another and probably represent tandem duplication 
+of a single ancestral gene. A similar cluster of four esterase loci is present in the rat, suggesting that an autosomal segment comprising at least 15 cM of the 
+rat and mouse genomes has remained relatively intact with respect to genetic content during rodent speciation (
+<A HREF="#ref17-82">82</A>).
+
+<A NAME="got"></A>
+<P>Both chromosomal and mitochondrial DNA are present in animal cells and it is not clear which mitochondrial proteins are coded by nuclear as opposed to mitochondrial 
+genes. Through studies of the distribution of electrophoretically distinct isozymes among the subcellular fractions from mice of different inbred strains, structural 
+loci of mitochondrial and soluble forms have been identified and assigned to chromosomes. 
+<a href="javascript:windowf172 = window.open('../figures/figure17-2.shtml', 'windowf172', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf172.focus()">Figure 2</A> 
+illustrates variants of mitochondrial glutamate oxaloacetate transaminase. The slow phenotype in the figure is designated GOT-2B, the fast GOT-2A, and the heterozygote GOT-2AB (
+<A HREF="#ref17-16">16</A>). GOT-2AB animals possess three distinct bands with the intermediate AB band having stronger histochemical staining activity than either the A or B 
+band alone. The approximate 1A:2AB:1B heterozygous phenotype can be best explained if the A and B subunits hybridize at random as dimers (
+<A HREF="#ref17-16">16</A>). Mutant genes for at least four mitochondrial enzymes have been described in the mouse. Mitochondrial glutamate oxaloacetate transaminase is coded by a nuclear locus (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95792"><I>Got-2</I></A>) on chromosome 8, mitochondrial malic enzyme (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97045"><I>Mod-2</I></A>) is on chromosome 7, mitochondrial malate dehydrogenase (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97050"><I>Mor-1</I></A>) is on chromosome 5, and mitochondrial proline dehydrogenase (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97770"><I>Pro-1</I></A>) is on an autosome and is not linked to the loci of the other mitochondrial enzymes. There is no apparent pattern of association 
+of these four nuclear genes coding for mitochondrial enzymes (
+<A HREF="#ref17-70">70</A>, 
+<A HREF="#ref17-80">80</A>).
+
+<P>Variants of isozymes provide powerful tools for analysis of the genetic effects of radiation and chemical mutagens on gametes. It is possible to design experiments 
+measuring mutations affecting the amino acid sequence of specific proteins as well as changes in gene dosage brought about by duplication or deletion of segments of 
+chromosomes, To do this it is necessary to treat a mouse with mutagen and then to mate it to a mouse of another inbred strain which differs in genotype from the treated 
+animal at as many loci as possible. Offspring should be heterozygous at multiple known loci and this heterozygosity can be detected by techniques listed in 
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A>. 
+Genetic deletion at a locus is indicated by recovery of only one parental allele, that of the untreated parent. Structural change in an enzyme 
+because of genetic mutation may be detected by changes in electrophoretic pattern or some other property of specific protein in the hybrid offspring. Duplication of a 
+locus may cause changes in the relative activity of isozymes in the hybrid. The value of testing mice heterozygous at multiple biochemical loci is that genetic deletion 
+and duplication can be detected as well as simple changes in amino acid sequence. Searches for specific biochemical variants can be facilitated by use of chromosome 
+inversions to recover specific segments of chromosomes of treated animals (
+<A HREF="#ref17-62">62</A>). The map of biochemical loci (
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A>) 
+assigns positions of genes and can be used to choose the appropriate inversion.
+
+<A NAME="Hbb"></A>
+<P>Using biochemical techniques and screening of heterozygous F<SUB>1</SUB> mice, new radiation-induced mutations were sought at the hemoglobin 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014"><I>Hba</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020"><I>Hbb</I></A> loci (
+<A HREF="#ref17-69">69</A>). Five hemoglobin variants were found among 8621 F<SUB>1</SUB> progeny of irradiated animals. In three offspring the genetic contribution from the irradiated 
+father was not expressed with regard to the &alpha;-chain. These mice are thought to have deletion of genes controlling the structure of &alpha;-chain and may represent mouse 
+&alpha;-thalassemias. One of the progeny carried a tandem duplication involving 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020"><I>Hbb</I></A> and one probably carried a double nondisjunction of chromosome 7 (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020"><I>Hbb</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96027"><I>Hby</I></A>). The finding that major chromosomal aberrations can mimic hemoglobin mutations indicates the need to follow F<SUB>1</SUB> screening with thorough cytogenetic analysis (
+<A HREF="#ref17-69">69</A>). Clearly, the availability of maps assigning specific biochemical loci to specific locations on chromosomes makes possible the interpretation of 
+combined biochemical and cytogenetic studies.
+
+<A NAME="mutation"></A><A NAME="deletion"></A>
+<P>
+<a href="javascript:windowf173 = window.open('../figures/figure17-3.shtml', 'windowf173', 'width=650,height=400,resizable=yes,scrollbars=yes'); windowf173.focus()">Figure 3</A> 
+illustrates the use of biochemical, coat color, and neurological mutants in the analysis of radiation-induced lethal albino alleles (
+<A HREF="#ref17-24">24</A>, 
+<A HREF="#ref17-29">29</A>). The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> mutations were induced by radiation and both are lethal when homozygous. Homozygotes of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A> become hypoglycemic and die perinatally, whereas homozygous 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> is an embryonic lethal. Heterozygous 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> mice are albino but do not die so 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> are assigned to different 
+complementation groups and are thought to represent different, but overlapping deletions. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97045"><I>Mod-2</I></A> locus of mitochondrial malic enzyme is on chromosome 7 one cM from the albino locus (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880"><I>c</I></A>) between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880"><I>c</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:104510"><I>sh-1</I></A>. The MOD-2 phenotypes of normal, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A>/+, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A>/+, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> mice were determined. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97045"><I>Mod-2</I></A> allele of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> was not expressed in the hybrids, whereas the allele of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856580"><I>c<SUP>14Cos</SUP></I></A> was expressed. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1856305"><I>c<SUP>6H</SUP></I></A> deletion appears to extend at least one cM from the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880"><I>c</I></A> locus and involves the structural gene of a known enzyme. The availability of a genetic map (
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A>), 
+tables of distributions of biochemical alleles (
+<a href="javascript:windowt172 = window.open('../tables/table17-2.shtml', 'windowt172', 'width=1400,height=700,resizable=yes,scrollbars=yes'); windowt172.focus()">Table 2</A>), 
+and techniques for distinguishing homozygosity from heterozygosity (
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A>) 
+at loci greatly facilitates analysis of complex mutations.
+
+<A NAME="Gpi-1"></A>
+<P>Genetic variants of polymeric isozymes have been used to analyze a variety of interesting problems in developmental biology. 
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A> 
+illustrates the use of variants of glucose phosphate isomerase (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</I></A>). Homozygous 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I> mice are composed of cells of identical genotype (
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+cell type 1). Homogenates of these cells give a single banded electrophoretic pattern of GPI-1B activity (
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+cell type 2). Homogenates of these cells give a single banded electrophoretic pattern of GPI-1A activity (
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+electrophoretic pattern 2). Heterozygous 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I> mice express both the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I> alleles in all cells and since glucose phosphate isomerase is a dimer, the heteropolymer GPI-1AB comprises the major electrophoretic component (
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+electrophoretic pattern 3). Bands of GPI-1A and GPI-1B activity are also present. Mixtures of homogenates from homozygous 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I></A> mice with homogenates from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I></A> homozygotes give rise to two electrophoretic bands (GPI-1A and GPI-1B, 
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+electrophoretic pattern 1 plus 2) without formation of heteropolymer. Formation of heteropolymer requires that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I> alleles both be active within the same cytoplasm. If somatic cells of genotype 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>a</SUP></I> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I>/
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797"><I>Gpi-1</A><SUP>b</SUP></I> are mixed, two results can occur. The cells can form mixtures without cell fusion. Homogenates of mixtures of cells 
+will consist of GPI-1A and GPI-1B enzyme without heteropolymer (
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+cell type 4, electrophoretic pattern 4). Alternatively, the cells can fuse to form heterokaryons. Both types of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A> alleles are active within the same cytoplasm. Homogenates of heterokaryons will consist of GPI-1A, GPI-1AB, and GPI-1B enzyme 
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A>, 
+cell type 5, electrophoretic pattern 5).
+
+<P>Whether cell fusion occurs has been examined in several mouse tissues using the principles illustrated in 
+<a href="javascript:windowf174 = window.open('../figures/figure17-4.shtml', 'windowf174', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf174.focus()">Figure 4</A> (
+<A HREF="#ref17-4">4</A>, 
+<A HREF="#ref17-27">27</A>). Trophoblast differentiation in the mouse embryo is characterized by the formation of giant cells 
+whose nuclei contain as much as 500-1,000 times the haploid amount of DNA. Among the mechanisms proposed are endomitosis, fusion of fetal cells, or fusion of 
+maternal and fetal cells. GPI-1A embryos were transferred to GPI-1B mothers, and chimeric GPI-1A <---> GPI-1B embryos were also made. Fetal tissues were 
+examined for the presence of heteropolymer, GPI-1AB, which would indicate cell fusion. No heteropolymer was found in electrophoretic analysis of trophoblast 
+from either the transferred or chimeric embryos. Trophoblast cells do not functionally incorporate maternal DNA nor do they form syncytial heterokaryons by 
+cell fusion. The multinucleated cells must result from endomitosis. Using identical principles and chimeric mice, individual somites from 8 to 9 day embryos 
+have been found to arise from more than one precursor cell (
+<A HREF="#ref17-26">26</A>). Myogenesis occurs by actual fusion of uninucleated myoblasts so that the heteropolymer GPI-AB is present in skeletal muscle (
+<A HREF="#ref17-26">26</A>), but not in cardiac muscle or other tissues.
+
+<P>Electrophoretic variants of glucose phosphate isomerase have been used to study the time of paternal gene activation during early embryogenesis of the mouse (
+<A HREF="#ref17-10">10</A>). GPI-1A females were mated to GPI-1B males and the hybrid embryos were examined for GPI isozymes during preimplantation stages (
+<a href="javascript:windowf175 = window.open('../figures/figure17-5.shtml', 'windowf175', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf175.focus()">Figure 5</A>). 
+The heteropolymer GPI-1AB, indicating activity of the paternal gene, was first detected in the late blastocyst, day 5. No increase in total 
+GPI activity occurred on day 5 so that quantitative measurement of GPI activity does not detect paternal gene activation.
+
+<P>This review of biochemical polymorphisms has of necessity been brief. Discussion has been limited to structural variants of proteins. Extensive references have been provided in 
+<a href="javascript:windowt171 = window.open('../tables/table17-1.shtml', 'windowt171', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt171.focus()">Table 1</A> 
+with emphasis on the recent literature. The space devoted to uses of variants may seem disproportionate, but this information is not 
+easily collated and the potential importance of protein variants in solution of biological problems is not widely recognized.
+
+<P><CENTER>ACKNOWLEDGEMENTS</CENTER>
+
+<P>The author acknowledges the assistance of Drs. V.M. Chapman and J.E. Womack in preparing 
+<a href="javascript:windowt172 = window.open('../tables/table17-2.shtml', 'windowt172', 'width=1400,height=700,resizable=yes,scrollbars=yes'); windowt172.focus()">Table 2</A> and 
+<a href="javascript:windowf171 = window.open('../figures/figure17-1.shtml', 'windowf171', 'width=1100,height=800,resizable=yes,scrollbars=yes'); windowf171.focus()">Figure 1</A>. 
+<A HREF="#ref17-6">Reference 6</A> was provided to me prior to publication.
+
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref17-1"></A>
+<P>1. Blake, R.L., Hall, J.G., and Russell, E.S. (1976). Biochem Genet. <B>14</B>: 739.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54231" target="_blank">MGI</A></I>.
+<!-- MGI:54231 -->
+
+<A NAME="ref17-2"></A>
+<P>2. Breen, G.A.M., Lusis, A.J., and Paigen, K. (1977). Genetics <B>85</B>: 73.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54252" target="_blank">MGI</A></I>.
+<!-- MGI:54252 -->
+
+<A NAME="ref17-3"></A>
+<P>3. Chapman, V.M. (1975). Biochem. Genet. <B>13</B>: 849.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54077" target="_blank">MGI</A></I>.
+<!-- MGI:54077 -->
+
+<A NAME="ref17-4"></A>
+<P>4. Chapman, V.M., Ansell, J.D., and McLaren, A. (1972). Develop. Biol. <B>29</B>: 48.
+
+<A NAME="ref17-5"></A>
+<P>5. Chapman, V.M., Nichols, E.A., and Ruddle, F.H. (1974). Biochem. Genet. <B>11</B>: 347.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53946" target="_blank">MGI</A></I>.
+<!-- MGI:53946 -->
+
+<A NAME="ref17-6"></A>
+<P>6. Chapman, V.M., Paigen, K., Siracusa, L., and Womack, J. (1978). Biochemical Variation: 
+Mouse Inbred and Genetically Defined Strains of Laboratory Animals. Handbook. Federation of American Societies of Experimental Biology.
+
+<A NAME="ref17-7"></A>
+<P>7. Chapman, V.M., and Ruddle, F.H. (1972). Genetics <B>70</B>: 299.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52908" target="_blank">MGI</A></I>.
+<!-- MGI:52908 -->
+
+<A NAME="ref17-8"></A>
+<P>8. Chapman, V.M., Ruddle, F.H., and Roderick, T.H. (1971). Biochem. Genet. <B>5</B>: 101.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53694" target="_blank">MGI</A></I>.
+<!-- MGI:53694 -->
+
+<A NAME="ref17-9"></A>
+<P>9. Chapman, V.M., and Shows, T.B. (1976). Nature <B>259</B>: 665.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54095" target="_blank">MGI</A></I>.
+<!-- MGI:54095 -->
+
+<A NAME="ref17-10"></A>
+<P>10. Chapman, V.M., Whitten, W.K., and Ruddle, F.H. (1971). Develop. Biol. <B>26</B>: 153.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53713" target="_blank">MGI</A></I>.
+<!-- MGI:53713 -->
+
+<A NAME="ref17-11"></A>
+<P>11. Chen, S.H., Doanahue, R.P., and Scott, C.R. (1973). Biochem. Genet. <B>10</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53862" target="_blank">MGI</A></I>.
+<!-- MGI:53862 -->
+
+<A NAME="ref17-12"></A>
+<P>12. Committee on Standardized Genetic Nomenclature for Mice (1972). J. Hered. <B>63</B>: 69.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71290" target="_blank">MGI</A></I>.
+<!-- MGI:71290 -->
+
+<A NAME="ref17-13"></A>
+<P>13. Committee on Standardized Genetic Nomenclature for Mice (1973). Biochem. Genet. <B>9</B>: 369.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53861" target="_blank">MGI</A></I>.
+<!-- MGI:53861 -->
+
+<A NAME="ref17-14"></A>
+<P>14. Daniel, W.L. (1976). Biochem. Genet. <B>14</B>: 1003.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54246" target="_blank">MGI</A></I>.
+<!-- MGI:54246 -->
+
+<A NAME="ref17-15"></A>
+<P>15. DeLorenzo, R.J., and Ruddle, F.H. (1969). Biochem. Genet. <B>3</B>: 151.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53619" target="_blank">MGI</A></I>.
+<!-- MGI:53619 -->
+
+<A NAME="ref17-16"></A>
+<P>16. DeLorenzo, R.J., and Ruddle, F.H. (1970). Biochem. Genet. <B>4</B>: 259.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53641" target="_blank">MGI</A></I>.
+<!-- MGI:53641 -->
+
+<A NAME="ref17-17"></A>
+<P>17. Dizik, M., and Elliott, R.W. (1977). Biochem. Genet. <B>15</B>: 31.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54275" target="_blank">MGI</A></I>.
+<!-- MGI:54275 -->
+
+<A NAME="ref17-18"></A>
+<P>18. Duley, J., and Holmes, R.S. (1974). Genetics <B>76</B>: 93.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53906" target="_blank">MGI</A></I>.
+<!-- MGI:53906 -->
+
+<A NAME="ref17-19"></A>
+<P>19. Eicher, E.M., Stern, R.H., Womack, J.E., Davisson, M.T., Roderick, T.H., and Reynolds, S.C. (1976). Biochem. Genet. <B>14</B>: 651.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54196" target="_blank">MGI</A></I>.
+<!-- MGI:54196 -->
+
+<A NAME="ref17-20"></A>
+<P>20. Eicher, E.M., and Womack, J.E. (1977). Biochem. Genet. <B>15</B>: 1.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54273" target="_blank">MGI</A></I>.
+<!-- MGI:54273 -->
+
+<A NAME="ref17-21"></A>
+<P>21. Epstein, C.J. (1969). Science <B>163</B>: 1078.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53579" target="_blank">MGI</A></I>.
+<!-- MGI:53579 -->
+
+<A NAME="ref17-22"></A>
+<P>22. Epstein, C.J. (1972). Science <B>175</B>: 1467.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53739" target="_blank">MGI</A></I>.
+<!-- MGI:53739 -->
+
+<A NAME="ref17-23"></A>
+<P>23. Erikson, R.P. (1974). Biochem. Genet. <B>11</B>: 33.
+
+<A NAME="ref17-24"></A>
+<P>24. Erikson, R.P., Eicher, E.M., and Gluecksohn-Waelsch, S. (1974) Nature <B>248</B>: 416.
+
+<A NAME="ref17-25"></A>
+<P>25. Finlayson, J.S., Potter, M., Shinnick, C.S., and Smithies, O. (1974). Biochem. Genet. <B>11</B>: 325.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4838000" target="_blank">PubMed</A></I>.
+<!-- PMID: 4838000 -->
+
+<A NAME="ref17-26"></A>
+<P>26. Gearhardt, J.D., and Mintz, B. (1972). Develop. Biol. <B>29</B>: 27.
+
+<A NAME="ref17-27"></A>
+<P>27. Gearhardt, J.D., and Mintz, B. (1972). Develop. Biol. <B>29</B>: 55.
+
+<A NAME="ref17-28"></A>
+<P>28. Gilman, J.G. (1972). Science <B>178</B>: 873.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5085986" target="_blank">PubMed</A></I>.
+<!-- PMID: 5085986 -->
+
+<A NAME="ref17-29"></A>
+<P>29. Gluecksohn-Waelsch, S., Schiffman, M.B., Thorndike, J., and Cori, C.F. (1974). Proc. Natl. Acad. Sci. <B>71</B>: 825.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53913" target="_blank">MGI</A></I>.
+<!-- MGI:53913 -->
+
+<A NAME="ref17-30"></A>
+<P>30. Gross, S.R., Longshore, M.A., and Pangburn, S. (1975) Biochem. Genet. <B>13</B>: 567.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54081" target="_blank">MGI</A></I>.
+<!-- MGI:54081 -->
+
+<A NAME="ref17-31"></A>
+<P>31. Henderson, N.S. (1965). J. Exp. Zool. <B>158</B>: 263.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61223" target="_blank">MGI</A></I>.
+<!-- MGI:61223 -->
+
+<A NAME="ref17-32"></A>
+<P>32. Henderson, N.W. (1966). Arch Biochem. Biophys. <B>117</B>: 28.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:68354" target="_blank">MGI</A></I>.
+<!-- MGI:68354 -->
+
+<A NAME="ref17-33"></A>
+<P>33. Huijing, F., Eicher, E.M., and Coleman, D.L. (1973). Biochem. Genet. <B>9</B>: 193.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53845" target="_blank">MGI</A></I>.
+<!-- MGI:53845 -->
+
+<A NAME="ref17-34"></A>
+<P>34. Hutton, J.J, (1969). Biochem. Genet. <B>3</B>: 507.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53612" target="_blank">MGI</A></I>.
+<!-- MGI:53612 -->
+
+<A NAME="ref17-35"></A>
+<P>35. Hutton, J.J. (1971). Biochem. Genet. <B>5</B>: 315.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53707" target="_blank">MGI</A></I>.
+<!-- MGI:53707 -->
+
+<A NAME="ref17-36"></A>
+<P>36. Hutton, J.J., and Coleman, D.L. (1969). Biochem. Genet. <B>3</B>: 517.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53613" target="_blank">MGI</A></I>.
+<!-- MGI:53613 -->
+
+<A NAME="ref17-37"></A>
+<P>37. Hutton, J.J., and Roderick, T.H. (1970). Biochem. Genet. <B>4</B>: 339.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53642" target="_blank">MGI</A></I>.
+<!-- MGI:53642 -->
+
+<A NAME="ref17-38"></A>
+<P>38. Kaplan, R.D., Chapman, V., and Ruddle, F.H. (1973). J. Hered. <B>64</B>: 155.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53859" target="_blank">MGI</A></I>.
+<!-- MGI:53859 -->
+
+<A NAME="ref17-39"></A>
+<P>39. Kozak, C.A., and Ruddle, F.H. (1977). Somatic Cell Genet. <B>3</B>: 121.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54423" target="_blank">MGI</A></I>.
+<!-- MGI:54423 -->
+
+<A NAME="ref17-40"></A>
+<P>40. Kozak, L.P. (1974). Biochem. Genet. <B>12</B>: 69.
+
+<A NAME="ref17-41"></A>
+<P>41. Kozak, L.P., McLean, G.K., and Eicher, E.M. (1974). Biochem. Genet. <B>11</B>: 41.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53905" target="_blank">MGI</A></I>.
+<!-- MGI:53905 -->
+
+<A NAME="ref17-42"></A>
+<P>42. Krog, H.H. (1976). Biochem. Genet. <B>14</B>: 319.
+
+<A NAME="ref17-43"></A>
+<P>43. Lewis, W.H.P., and Truslove, G.M. (1969). Biochem. Genet. <B>3</B>: 493.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53611" target="_blank">MGI</A></I>.
+<!-- MGI:53611 -->
+
+<A NAME="ref17-44"></A>
+<P>44. Lusis, A.J., Tomino, S., and Paigen, K. (1977). Biochem. Genet. <B>15</B>: 115.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54274" target="_blank">MGI</A></I>.
+<!-- MGI:54274 -->
+
+<A NAME="ref17-45"></A>
+<P>45. Lusis, A.J., and West, J.D. (1976). Biochem. Genet. <B>14</B>: 849.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54232" target="_blank">MGI</A></I>.
+<!-- MGI:54232 -->
+
+<A NAME="ref17-46"></A>
+<P>46. McKusick, V.A., and Ruddle, F.H. (1977). Science <B>196</B>: 390.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->850784" target="_blank">PubMed</A></I>.
+<!-- PMID: 850784 -->
+
+<A NAME="ref17-47"></A>
+<P>47. Meo, T., Douglas, T., and Rijnbeek, A. (1977). Science <B>198</B>: 311.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54356" target="_blank">MGI</A></I>.
+<!-- MGI:54356 -->
+
+<A NAME="ref17-48"></A>
+<P>48. Miller, O.J., and Miller, D.A. (1975). Ann. Rev. Genet. <B>9</B>: 285.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->55096" target="_blank">PubMed</A></I>.
+<!-- PMID: 55096 -->
+
+<A NAME="ref17-49"></A>
+<P>49. Mintz, B., and Baker, W.W. (1967). Proc. Natl. Acad. Sci. <B>58</B>: 592.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53529" target="_blank">MGI</A></I>.
+<!-- MGI:53529 -->
+
+<A NAME="ref17-50"></A>
+<P>50. Miskin, J.D., Taylor, B.A., and Mellman, W.J. (1976). Biochem. Genet. <B>14</B>: 635.
+
+<A NAME="ref17-51"></A>
+<P>51. Nichols, E.A., Chapman, V.M., and Ruddle, F.H. (1973). Biochem. Genet. <B>8</B>: 47.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53812" target="_blank">MGI</A></I>.
+<!-- MGI:53812 -->
+
+<A NAME="ref17-52"></A>
+<P>52. Nichols, E.A., and Ruddle, F.H. (1973). J. Histochem. Cytochem. <B>21</B>: 1066.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:71385" target="_blank">MGI</A></I>.
+<!-- MGI:71385 -->
+
+<A NAME="ref17-53"></A>
+<P>53. Nichols, E.A., and Ruddle, F.H. (1975). Biochem. Genet. <B>13</B>: 323.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54049" target="_blank">MGI</A></I>.
+<!-- MGI:54049 -->
+
+<A NAME="ref17-54"></A>
+<P>54. Nichols, E.A., Ruddle, F.H., and Petras, M.L. (1975). Biochem. Genet. <B>13</B>: 551.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54080" target="_blank">MGI</A></I>.
+<!-- MGI:54080 -->
+
+<A NAME="ref17-55"></A>
+<P>55. Paigen, K. (1971). In "Enzyme Synthesis and Degradation in Mammalian Systems" (M. Rechcigl, ed.), p. 1. Karger, Basel.
+
+<A NAME="ref17-56"></A>
+<P>56. Paigen, K. (1975). J. Cell Physiol. <B>85</B>: 379.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54006" target="_blank">MGI</A></I>.
+<!-- MGI:54006 -->
+
+<A NAME="ref17-57"></A>
+<P>57. Peters, J., and Nash, H.R. (1977). Biochem. Genet. <B>15</B>: 217.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54300" target="_blank">MGI</A></I>.
+<!-- MGI:54300 -->
+
+<A NAME="ref17-58"></A>
+<P>58. Petras, M.L., and Sinclair, P. (1969). Can. J. Genet. Cytol. <B>11</B>: 97.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5797811" target="_blank">PubMed</A></I>.
+<!-- PMID: 5797811 -->
+
+<A NAME="ref17-59"></A>
+<P>59. Platz, R.D., and Wolfe, H.G. (1969). J. Hered. <B>60</B>: 187.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53620" target="_blank">MGI</A></I>.
+<!-- MGI:53620 -->
+
+<A NAME="ref17-60"></A>
+<P>60. Popp, R.A. (1973). Biochim. Biophys. Acta <B>303</B>: 52.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4573825" target="_blank">PubMed</A></I>.
+<!-- PMID: 4573825 -->
+
+<A NAME="ref17-61"></A>
+<P>61. Roderick, T.H., and Hawes, N.L. (1970). Proc. Natl. Acad. Sci. <B>67</B>: 961.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5289032" target="_blank">PubMed</A></I>.
+<!-- PMID: 5289032 -->
+
+<A NAME="ref17-62"></A>
+<P>62. Roderick, T.H., and Hawes, N.L. (1974). Genetics <B>76</B>: 109.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4361911" target="_blank">PubMed</A></I>.
+<!-- PMID: 4361911 -->
+
+<A NAME="ref17-63"></A>
+<P>63. Roderick, T.H., Ruddle, F.H., Chapman, V.M., and Shows, T.B. (1971). Biochem. Genet. <B>5</B>: 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5520794" target="_blank">PubMed</A></I>.
+<!-- PMID: 5520794 -->
+
+<A NAME="ref17-64"></A>
+<P>64. Ruddle, F.H., and Roderick, T.H. (1965).  Genetics <B>51</B>: 445.
+
+<A NAME="ref17-65"></A>
+<P>65. Ruddle, F.H., and Roderick, T.H., (1966). Genetics <B>54</B>: 191.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5961479" target="_blank">PubMed</A></I>.
+<!-- PMID: 5961479 -->
+
+<A NAME="ref17-66"></A>
+<P>66. Ruddle, F.H., Shows, T.B., and Roderick, T.H. (1968). Genetics <B>58</B>: 599.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53569" target="_blank">MGI</A></I>.
+<!-- MGI:53569 -->
+
+<A NAME="ref17-67"></A>
+<P>67. Ruddle, F.H., Shows, T.B., and Roderick, T.H. (1968). Genetics <B>62</B>: 393.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5372803" target="_blank">PubMed</A></I>.
+<!-- PMID: 5372803 -->
+
+<A NAME="ref17-68"></A>
+<P>68. Russell, E.S., and McFarland, E.C. (1974). Ann. N.Y. Acad. Sci <B>241</B>: 25.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53978" target="_blank">MGI</A></I>.
+<!-- MGI:53978 -->
+
+<A NAME="ref17-69"></A>
+<P>69. Russell, L.B., Russell, W.L., Popp, R.A., Vaughan, C., and Jacobson, K. B. (1976). Proc. Natl. Acad. Sci. <B>73</B>: 2843.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54163" target="_blank">MGI</A></I>.
+<!-- MGI:54163 -->
+
+<A NAME="ref17-70"></A>
+<P>70. Shows, T.B., Chapman, V.M., and Ruddle, F.H. (1970). Biochem. Genet. <B>4</B>: 707.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53665" target="_blank">MGI</A></I>.
+<!-- MGI:53665 -->
+
+<A NAME="ref17-71"></A>
+<P>71. Shows, T.B., and Ruddle, F.H. (1968). Science <B>160</B>: 1356.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53549" target="_blank">MGI</A></I>.
+<!-- MGI:53549 -->
+
+<A NAME="ref17-72"></A>
+<P>72. Shows, T.B., Ruddle, F.H., and Roderick, T.H. (1969).
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60212" target="_blank">MGI</A></I>.
+<!-- MGI:60212 -->
+
+<A NAME="ref17-73"></A>
+<P>73. Sick, K., and Nielsen, J.T. (1964). Hereditas <B>51</B>: 291.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61191" target="_blank">MGI</A></I>.
+<!-- MGI:61191 -->
+
+<A NAME="ref17-74"></A>
+<P>74. Staats, J. (1976). Cancer Res. <B>36</B>: 4333.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54208" target="_blank">MGI</A></I>.
+<!-- MGI:54208 -->
+
+<A NAME="ref17-75"></A>
+<P>75. Stern, R.H., Russell, E.S., and Taylor, B.A. (1976). Biochem. Genet. <B>14</B>: 373.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54164" target="_blank">MGI</A></I>.
+<!-- MGI:54164 -->
+
+<A NAME="ref17-76"></A>
+<P>76. Vandeberg, J.L., Cooper, D.W., and Close, P.J. (1973). Nature New Biol. <B>243</B>: 48.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:64540" target="_blank">MGI</A></I>.
+<!-- MGI:64540 -->
+
+<A NAME="ref17-77"></A>
+<P>77. Watanabe, T., Ogasawara, N., and Goto, H. (1976). Biochem. Genet. <B>14</B>: 999.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54249" target="_blank">MGI</A></I>.
+<!-- MGI:54249 -->
+
+<A NAME="ref17-78"></A>
+<P>78. Womack, J.E. (1975). Biochem. Genet. <B>13</B>: 311.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54048" target="_blank">MGI</A></I>.
+<!-- MGI:54048 -->
+
+<A NAME="ref17-79"></A>
+<P>79. Womack, J.E., Davisson, M.T., Eicher, F.M., and Kendall, D.A. (1977). Biochem. Genet. <B>15</B>: 347.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54302" target="_blank">MGI</A></I>.
+<!-- MGI:54302 -->
+
+<A NAME="ref17-80"></A>
+<P>80. Womack, J.E., Hawes, N.L., Soares, E.R., and Roderick, T.H. (1975). Biochem. Genet. <B>13</B>: 519.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54079" target="_blank">MGI</A></I>.
+<!-- MGI:54079 -->
+
+<A NAME="ref17-81"></A>
+<P>81. Womack, J.E., Lynes, M.A., and Taylor, B.A. (1975). Biochem. Genet. <B>13</B>: 511.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54078" target="_blank">MGI</A></I>.
+<!-- MGI:54078 -->
+
+<A NAME="ref17-82"></A>
+<P>82. Womack, J.E., and Sharp, M. (1976). Genetics <B>82</B>: 665.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->57899" target="_blank">PubMed</A></I>.
+<!-- PMID: 57899 -->
+
+
+<DIV Align="center"><H4> <A HREF="hoffman.shtml">Previous</A> <A HREF="paigen.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,248 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="moisset.shtml">Previous</A> <A HREF="potter.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 39 -->
+
+<H2>Further Information on Subline Differences
+<SUP><A HREF="#note1">1</A></SUP></H2>
+
+<H3>Thomas H. Roderick<BR><BR>
+
+The Jackson Laboratory<BR>
+Bar Harbor, Maine</H3>
+
+<P>Several investigators have reported genetic differences between sublines of highly inbred strains of mice. 
+Bailey at this workshop has given considerable attention to the theoretical aspects of subline differentiation 
+as these aspects may apply to the pedigrees of various strains and their sublines (
+<A HREF="#ref39-1">1</A>). Our particular study has for the most part concerned biochemical variants which are known to 
+be polymorphic in feral populations and among strains which are relatively unrelated.
+
+<A NAME="hbb"></A>
+<P>The data below have been obtained over about a 10-year period on strains which have been available at The 
+Jackson Laboratory. In all cases, at least two individuals were examined from each strain to establish the allelotype 
+of each locus. The loci chosen for study were dipeptidase-1 (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></A>), three esterases (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431" target="_blank"><I>Es-2</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></A>), 
+autosomal glucose-6-phosphate dehydrogenase (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A>), 
+glucose phosphate isomerase-1 (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A>), 
+hemoglobin &beta; chain (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A>), 
+isocitrate dehydrogenase-1 (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96413" target="_blank"><I>Id-1</I></A>), 
+lactate dehydrogenase regulator (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96766" target="_blank"><I>Ldr</I></A>), 
+supernatant malic enzyme (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97043" target="_blank"><I>Mod-1</I></A>), 
+two phosphoglucomutatases (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97564" target="_blank"><I>Pgm-1</I></A> 
+and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97565" target="_blank"><I>Pgm-2</I></A>) 
+and retinal degeneration (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97525" target="_blank"><I>rd</I></A>). 
+The last locus, which affects the retina of the eye, was chosen because the mutant allele is so frequently 
+found among laboratory strains of mice, although it is probably not polymorphic in feral populations. in all analyses 
+involving gel electrophoresis, controls with alternative alleles were present on each gel for purposes of comparison and 
+ascertainment. References concerning electrophoretic procedures can be found in earlier studies (
+<A HREF="#ref39-2">2</A>). The strains listed for study have been described in various publications of Staats (
+<A HREF="#ref39-3">3</A>, 
+<A HREF="#ref39-4">4</A>).
+
+<P><CENTER>RESULTS</CENTER>
+
+<A NAME="C57"></A>
+<P>The data are displayed in three tables. 
+<a href="javascript:windowt391 = window.open('../tables/table39-1.shtml', 'windowt391', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt391.focus()">Table 1</A> 
+comprises strains and sublines of the C57 groups whose relationships are shown in 
+<a href="javascript:windowf391 = window.open('../figures/figure39-1.shtml', 'windowf391', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf391.focus()">Figure 1</A>. 
+The relationships of the major groups are shown in the charts of Bailey (
+<A HREF="#ref39-1">1</A>). The several B-lines shown directly under C57BL/6J were derived from C57BL/6J and inbred by brother-sister 
+mating. The RX-GE was a closed colony of mice derived from C57BL/10Gn and exposed to high doses of X-irradiation (
+<A HREF="#ref39-5">5</A>). 
+<a href="javascript:windowt392 = window.open('../tables/table39-2.shtml', 'windowt392', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt392.focus()">Table 2</A> 
+shows similar data for the DBA, BALB/c, A and related strains. Their relationships can be found in the pedigree chart of Staats (
+<A HREF="#ref39-6">6</A>). For our purposes, it is sufficient to point out that the A lines are related to BALB/c and that the C3H 
+and CBA lines were derived from a cross between early progenitors of the DBA and BALB/c lines. 
+<a href="javascript:windowt393 = window.open('../tables/table39-3.shtml', 'windowt393', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt393.focus()">Table 3</A> 
+shows similar data for four unrelated groups. Their lack of relationship is based more on our lack of knowledge 
+of their origins in feral populations. The S-lines were all brother-sister bred and were recent offshoots of SJL/J.
+
+<P>In all strains studied there was no evidence of within-strain genetic heterogeneity for those loci studied. This finding has been 
+confirmed repeatedly by us with other enzyme polymorphisms. The lack of genetic heterogeneity within strains is not surprising probably 
+to those attending this workshop, but it has been cause for surprise to investigators of other organisms, particularly those who study 
+<I>Drosophila</I>. The constancy of genotype between distantly related sublines also supports the concept of genetic homozygosity of the strains studied.
+
+<P>The usefulness of each of the 13 loci studied depends on their respective degree of polymorphism in feral populations and among commonly used 
+laboratory strains. For instance, a locus which displays a variant only rarely in feral populations or only in one or two laboratory strains would be less 
+useful for this analysis than a locus where two alleles were in approximately equal frequencies among feral mice and among inbred strains. This reservation 
+would pertain to analyses of both residual heterozygosity and mutation using this approach. Thus, loci 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97565" target="_blank"><I>Pgm-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96766" target="_blank"><I>Ldr</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95431" target="_blank"><I>Es-2</I></A> are less useful in differentiating strains than the other nine loci (
+<A HREF="#ref39-2">2</A>).
+
+<P>The data in 
+<a href="javascript:windowt391 = window.open('../tables/table39-1.shtml', 'windowt391', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt391.focus()">Table 1</A> and 
+<a href="javascript:windowt393 = window.open('../tables/table39-3.shtml', 'windowt393', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt393.focus()">Table 3</A> 
+support the concept of consistency of sublines even as distantly separated as 200 generations. The genetic similarities between 
+the major groups support the reality of their relationships as given by their purported pedigrees and further support the concept of genetic homogeneity 
+and stability. These data confirm the close relationship of C57BL/Ks with other C57BL lines. This is in contrast to the data on histocompatibility differences 
+shown by Graff (
+<A HREF="#ref39-7">7</A>) and leaves unresolved the question of origin or genetic contamination of this strain.
+
+<P>
+<a href="javascript:windowt392 = window.open('../tables/table39-2.shtml', 'windowt392', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt392.focus()">Table 2</A> 
+provokes discussion. CBA/J differs from its related CBA/Ca lines at two loci, <I>Pgm-1</I> and <I>rd</I>. And yet, CBA/J is identical 
+with the C3H lines at these two loci as well as all others studied. Dr. Robert S. Bader who studied dentition patterns in these strains in the 1960s said that 
+without doubt CBA/J and CBA/CaJ had similar dentition patterns suggesting their close relationship, but he did not mention his comparison of these patterns with 
+C3H (Bader, personal communication). Green and Kaufer (
+<A HREF="#ref39-8">8</A>) found histocompatibility and other differences between CBA and CBA/Ca lines and stated that it would be advisable to regard the CBA strain as 
+composed of at least two major sublines which should not be regarded as the same strain. Our data support their findings and recommendation. It is difficult to 
+believe that residual heterozygosity would account for the differences at these two loci and at histocompatibility loci and for major differences in radiations 
+sensitivity (cited in ref. 
+<A HREF="#ref39-8">8</A>). We interpret these data as supporting the hypothesis that the CBA line was at some time during its propagation in the United States since 
+1933 (the time of separation of the lines) inadvertently crossed with C3H with which it has often been housed, and with which it is outwardly identical.
+
+<P>
+<a href="javascript:windowt392 = window.open('../tables/table39-2.shtml', 'windowt392', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt392.focus()">Table 2</A> 
+also reveals that DBA/1 and DBA/2 lines differ at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A> 
+locus. This is not surprising since these lines were not derived 
+from a common inbred pair. We would interpret this difference as due to residual heterozygosity.
+
+<P>Sublines are for the most experimental purposes a nuisance because repeatability of experimental results depends in part on repeatability of the genotype 
+of the experimental animal. So there are continuing attempts to minimize the number of sublines and the distances of relationships of experimental animals 
+of a single inbred strain. With this paper, I wish to point out that there are good reasons for propagating at least some distantly related sublines. First, 
+the analysis of subline differences to determine what heterogeneity persists or is evolving between lines is important to our concept of appropriate experimental 
+animals to use. We need more information. If differences between sublines do appear, one can sometimes, especially with more than two branching sublines, 
+determine from the pattern of alleles whether the variation is due to mutation or to residual heterozygosity. Thus, it is important to compare our observations 
+of subline differentiation with Bailey's (
+<A HREF="#ref39-1">1</A>) theoretical expectations.
+
+<P>Second, one can use distantly related sublines for estimations of an <U>upper</U> limit of mutation rates under the assumption that most differences will 
+be due to mutation and not residual heterozygosity. The denominator for estimating the rate for any locus can be based on a function of the number of individuals 
+in each pedigree recognizing that new mutations, if neutral, will be fixed approximately one fourth of the time in a pedigree of sib-matings.
+
+<P>And third, if mutations do appear between closely related sublines, one can use the differing stocks in much the same way that congenic stocks have been used. 
+Their utility is especially valuable in understanding the effects of a single locus without the problem of additional background genetic heterogeneity.
+
+
+<HR>
+<A NAME="note1"></A><SUP>1</SUP>This work was supported in part by grant BMS75-03397 from the National Science Foundation 
+and by contract ES4-2159 with the National Institute of Environmental Health Sciences. The Jackson Laboratory is fully 
+accredited by the American Association for Accreditation of Laboratory Animal Care.
+<HR>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref39-1"></A>
+<P>
+<A HREF="bailey.shtml">1</A>. Bailey, D.W. (1978). In 
+<A HREF="bailey.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+<A NAME="ref39-2"></A>
+<P>2. Roderick, T.H., Ruddle, F.H., Chapman, V.M., and Shows, T.B. (1971). Biochem. Genet. <B>5</B>: 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5520794" target="_blank">PubMed</A></I>.
+<!-- PMID: 5520794 -->
+
+<A NAME="ref39-3"></A>
+<P>3. Staats, J. (1976). Cancer Res. <B>36</B>: 4333.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54208" target="_blank">MGI</A></I>.
+<!-- MGI:54208 -->
+
+<A NAME="ref39-4"></A>
+<P>4. Staats, J. (1977). <I>Inbred Strains of Mice No. 10</I>. (This publication is issued as a companion to <I>Mouse News Letter</I> and has appeared 
+revised every other year since 1961. The earlier issues are indispensable for constructing pedigrees of inbred strains of mice).
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1340239" target="_blank">MGI</A></I>.
+<!-- MGI:1340239 -->
+
+<A NAME="ref39-5"></A>
+<P>5. Green, E.L., and Les, E.P. (1964). Genetics <B>50</B>: 497.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14207710" target="_blank">PubMed</A></I>.
+<!-- PMID: 14207710 -->
+
+<A NAME="ref39-6"></A>
+<P>6. Staats, J. (1966). In <I>Biology of the Laboratory Mouse</I> (E.L. Green, ed.), p. 1. McGraw-Hill, new York.
+
+<A NAME="ref39-7"></A>
+<P>7. Graff, R.J., (1970). Transplant. Proc. <B>2</B>: 15.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53715" target="_blank">MGI</A></I>.
+<!-- MGI:53715 -->
+
+<A NAME="ref39-8"></A>
+<P>8. Green, M.C., and Kaufer, K.A. (1965). Transplantation <B>3</B>: 766.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:50950" target="_blank">MGI</A></I>.
+<!-- MGI:50950 -->
+
+<DIV Align="center"><H4> <A HREF="moisset.shtml">Previous</A> <A HREF="potter.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

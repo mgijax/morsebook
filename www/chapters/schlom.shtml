@@ -1,0 +1,572 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="cardiff.shtml">Previous</A> <A HREF="graff.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 23 -->
+
+<H2>Diversity of Mouse Mammary Tumor Virus Genetic Information and Gene Products in Rodents</H2>
+
+<H3>J. Schlom, W. Drohan, Y. Teramoto, P. Hand, D. Colcher, R. Callahan, and G. Todaro<BR><BR>
+Laboratory of Viral Carcinogenesis<BR>
+National Cancer Institute<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland<BR><BR><BR>
+
+D. Kufe<BR><BR>
+Sidney Farber Cancer Institute<BR>
+Boston, Massachusetts<BR><BR><BR>
+
+D. Howard<BR><BR>
+Meloy Laboratories, Inc.<BR>
+Springfield, Virginia<BR><BR><BR>
+
+J. Gautsch and R. Lerner<BR><BR>
+Scripps Clinic and Research Foundation<BR>
+La Jolla, California<BR><BR><BR>
+
+G. Schidlovsky<BR><BR>
+Brookhaven National Laboratory<BR>
+Upton, New York</H3>
+
+<P>The murine model is widely used to study factors involved in the etiology of mammary carcinoma. It became evident as early as 1936 (
+<A HREF="#ref23-1">1</A>) that a filterable agent, <I>i.e.</I> , a virus, is involved in at least some mouse strains in the causation of mammary 
+cancer. Over the past four decades, experimental systems have been developed in numerous mouse strains, and in almost every strain studied, 
+a mouse mammary tumor virus (MMTV) has been revealed (
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>). 
+<a href="javascript:windowt231 = window.open('../tables/table23-1.shtml', 'windowt231', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt231.focus()">Table 1</A> 
+surveys the variations in incidence of spontaneously occurring mammary tumors, latent period to tumor, 
+types of tumors produced, and whether mouse mammary tumor virions are observed in mammary tumors by electron microscopy. It should be 
+noted that mammary tumors appear "early" (before one year) in the high incidence mouse strains C3H, RIII, and GR, and "late" (after one year) 
+in low and moderate incidence strains C3HfC57BL and BALB/c.
+
+<P>A question that has remained unanswered concerning the origin of mammary oncogenesis in the mouse is: How many mouse mammary tumor viruses are there? 
+There are at least two considerations involved in this question: (a) each mouse strain contains its own mouse mammary tumor virus or viruses, 
+which are partially related or distinct from other viruses of other mouse strains, and (b) there is only one MMTV and each mouse strain exerts 
+its own control over various properties of this virus, such as its expression or its virulence. The answer to this question is essential to our 
+understanding the etiology of the disease in each system studied.
+
+<P>A recent achievement has been the ability to productively infect heterologous cells with various MMTV isolates (
+<A HREF="#ref23-4">4</A>, 
+<A HREF="#ref23-5">5</A>). The MMTVs grown in feline cells share nucleic acid and immunologic properties with their mouse grown counterparts. These 
+reagents have now made possible the delineation between viral-coded vs. host-derived entities. In the nucleic acid hybridization and immunologic 
+studies presented here, both murine and feline grown MMTVs were employed with identical results, thus demonstrating the viral-coded nature of the 
+nucleic acids and proteins being studied.
+
+<P><CENTER>HETEROGENEITY IN MMTV-CODED GENE PRODUCTS</CENTER>
+
+<P><CENTER>Type- and Group-Specific Reactivities of the MMTV Major Envelope Glycoprotein</CENTER>
+
+<P>The major surface component of the MMTV virion is a 52,000d glycoprotein (gp52). The other major protein components of the MMTV virion are 
+a 36,000d glycoprotein (gp36), and the 28,000 (p28), 14,000 (p14), and 10,000 (p10) dalton polypeptides. With the development of sensitive 
+radioimmunoassays for the whole MMTV virion (
+<A HREF="#ref23-6">6</A>), or for purified MMTV polypeptides (
+<A HREF="#ref23-7">7</A>, 
+<A HREF="#ref23-8">8</A>, 
+<A HREF="#ref23-9">9</A>, 
+<A HREF="#ref23-10">10</A>), it has become possible to precisely analyze similarities or differences among MMTVs from different mouse strains. Several 
+investigators have previously shown that the gp52 of MMTVs share group-specific antigenic determinants (
+<A HREF="#ref23-7">7</A>, 
+<A HREF="#ref23-8">8</A>, 
+<A HREF="#ref23-9">9</A>, 
+<A HREF="#ref23-10">10</A>). Experiments have recently been described (
+<A HREF="#ref23-11">11</A>, 
+<A HREF="#ref23-12">12</A>) that also demonstrate type-specific antigenic determinants on the gp52 molecule.
+
+<A NAME="group_specificity"></A>
+<P>MMTVs from RIII and C3H mice, <I>i.e.</I>, MMTV(RIII) and MMTV(C3H), were used in a competitive radioimmunoassay (RIA) to compete for 
+the binding of anti-MMTV(C3H) to [<SUP>125</SUP>I]-labeled MMTV(C3H) virions. In this system, increasing amounts of MMTV(RIII) competitor 
+gave a shallower slope than that given by the isologous MMTV(C3H) (
+<a href="javascript:windowf231 = window.open('../figures/figure23-1.shtml', 'windowf231', 'width=600,height=1000,resizable=yes,scrollbars=yes'); windowf231.focus()">Figure 1A</A>). 
+At the highest input of competing MMTV(RIII) protein employed, <I>i.e.</I>, 100 micrograms, only 75% inhibition 
+was obtained while less than 1 microgram of MMTV(C3H) resulted in the same competition. In a "group-specific" assay using anti-MMTV(C3H) vs. 
+[<SUP>125</SUP>I]MMTV(RIII), both viruses competed identically, <I>i.e.</I>, with comparable inputs and with the same slope.
+
+<P>The addition of increasing amounts of MMTV(GR) into the anti-MMTV(C3H) vs. [<SUP>125</SUP>I]MMTV(C3H) system did not cause complete inhibition 
+of the precipitation of [<SUP>125</SUP>I]MMTV(C3H) (
+<a href="javascript:windowf231 = window.open('../figures/figure23-1.shtml', 'windowf231', 'width=600,height=1000,resizable=yes,scrollbars=yes'); windowf231.focus()">Figure 1B</A>). 
+Even at high inputs of protein, MMTV (GR) was incapable of competing for all the antibodies binding to MMTV(C3H). 
+The anti-MMTV(C3H) serum, therefore, appears to contain an antibody population that is directed toward antigenic determinants that are present 
+in MMTV(C3H) but not in MMTV(GR). To further amplify the type-specific reactions observed, anti-MMTV(C3H) serum was absorbed with MMTV(GR) 
+and the immune precipitate was removed by centrifugation. The resulting absorbed serum retained its ability to bind [<SUP>125</SUP>I]MMTV(C3H). 
+This binding could be completely inhibited by the addition of MMTV(C3H) or MMTV(C3H)gp52, but was not inhibited by the addition of up to 10,000 
+ng MMTV(GR) as competitor (
+<a href="javascript:windowf231 = window.open('../figures/figure23-1.shtml', 'windowf231', 'width=600,height=1000,resizable=yes,scrollbars=yes'); windowf231.focus()">Figure 1C</A>). 
+Additional type-specific reactivities among the various MMTVs also exist. These include differences between 
+MMTV(C3H) and the endogenous MMTV of C3H obtained from C3HfC57BL mice (
+<A HREF="#ref23-11">11</A>, 
+<A HREF="#ref23-12">12</A>).
+
+<P>The type and group specificities of MMTVs grown in feline cells (
+<A HREF="#ref23-5">5</A>) were indistinguishable from the reactivities observed with murine grown MMTVs, thus providing strong evidence that the 
+MMTV gp52 antigens are viral coded. The analysis of feline grown MMTV further excludes the possibilities that the observed antigenic 
+differences were due to either differences in murine antigenic determinants of the different mouse strains producing the virus, or to 
+host-coded differences in glycosylation of virions.
+
+<P>The identification of the type-specific differences for different MMTVs is now being used in several laboratories to monitor the host's 
+immune response to mammary tumorigenesis, as well as in studies seeking trans-species reactivities with MMTVs. These studies further delineate 
+the molecular diversity of viruses that can be involved in the etiology of mammary carcinoma within a given species.
+
+<P><CENTER>Type- and Group-Specific Reactivities of the Major Internal Protein of MMTV</CENTER>
+
+<P>We have recently developed a competition RIA for the 28,000d major internal protein (p28) of MMTV (
+<A HREF="#ref23-13">13</A>). When this assay was conducted with high antibody dilutions for maximum sensitivity, no differences were observed among 
+MMTVs from RIII, GR, C3H, or C3HfC57BL mice or with mammary tumor extracts from those mice. To demonstrate type-specific reactivities associated 
+with the MMTV p28 polypeptide, assay conditions of low antibody dilution were used.
+
+<A NAME="type_specificity"></A>
+<P>The binding of antisera prepared against the p28 of MMTV from RIII mice to [<SUP>125</SUP>I]MMTV(RIII) p28 could be completely inhibited by 
+the addition of 1 microgram of purified MMTV(RIII) p28 (
+<a href="javascript:windowf232 = window.open('../figures/figure23-2.shtml', 'windowf232', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf232.focus()">Figure 2A</A>). 
+The addition of increasing amounts of MMTV(C3H) p28 also competed for this binding, but with a shallower slope 
+characteristic of a cross-reacting (
+<A HREF="#ref23-14">14</A>) but not identical antigen (
+<a href="javascript:windowf232 = window.open('../figures/figure23-2.shtml', 'windowf232', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf232.focus()">Figure 2A</A>). 
+Changing the radioactive antigen from [<SUP>125</SUP>I]MMTV(RIII) p28 to [<SUP>125</SUP>I]MMTV(C3H) p28 and 
+maintaining the same antibody dilution revealed that both MMTV(RIII) p28 and MMTV(C3H) p28 competed identically in the radioimmunoassay (
+<a href="javascript:windowf232 = window.open('../figures/figure23-2.shtml', 'windowf232', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf232.focus()">Figure 2B</A>). 
+Thus, the MMTV p28 appears to contain both indistinguishable, <I>i.e.</I>, group-specific, antigenic determinants 
+as well as distinguishable, <I>i.e.</I>, type-specific, antigenic determinants (
+<A HREF="#ref23-13">13</A>).
+
+<P>Both type-specific and group-specific reactivities were retained when MMTVs were used that were grown in the same feline CrFK cell line (
+<a href="javascript:windowf232 = window.open('../figures/figure23-2.shtml', 'windowf232', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf232.focus()">Figure 2C</A>). 
+All three of the MMTVs grown in feline cells, however, competed identically in the anti-MMTV(RIII) p28 vs. 
+[<SUP>125</SUP>I]MMTV(C3h) 'group specific" p28 radioimmunoassay (
+<a href="javascript:windowf232 = window.open('../figures/figure23-2.shtml', 'windowf232', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf232.focus()">Figure 2D</A>).
+
+<P>Using the combination of gp52 and p28 RIAs, levels of MMTV gene expression can now be analyzed in terms of both viral glycoproteins and 
+nonglycoproteins. This type of comparison is important in light of recent evidence of noncoordinate polypeptide chain initiation of 
+glycosylated vs. nonglycosylated MMTV proteins in infected cells (
+<A HREF="#ref23-15">15</A>). These combined radioimmunoassays should further elucidate the mechanisms of MMTV replication and gene expression in murine mammary tumors.
+
+<A NAME="peptide_map"></A>
+<P><CENTER>Tryptic Peptide Analyses of MMTV Gene Products</CENTER>
+
+<P>Tryptic peptide analyses (
+<A HREF="#ref23-16">16</A>) have been performed on the 52,000 and 36,000 dalton glycoproteins and the nonglycosylated 28,000, 14,000 and 10,000 dalton 
+proteins of the highly oncogenic MMTVs of C3H, RIII, and GR mice (
+<A HREF="#ref23-17">17</A>). Each virus was grown in both murine and feline cells to ensure the viral-coded nature of each peptide analyzed. The gp36-38 
+and p14 peptide maps of all three MMTVs were indistinguishable. Both the gp52 (
+<a href="javascript:windowf233 = window.open('../figures/figure23-3.shtml', 'windowf233', 'width=650,height=650,resizable=yes,scrollbars=yes'); windowf233.focus()">Figure 3</A>) 
+and the p28 (
+<a href="javascript:windowf234 = window.open('../figures/figure23-4.shtml', 'windowf234', 'width=650,height=650,resizable=yes,scrollbars=yes'); windowf234.focus()">Figure 4</A>) 
+of MMTV(C3H), however, could be clearly distinguished from the corresponding proteins of MMTV(RIII) and MMTV(GR), 
+regardless of whether the viruses were grown in feline or murine cells. The p10 of MMTV(RIII), on the other hand, was clearly different 
+from that of MMTV(C3H) and MMTV(GR) (
+<A HREF="#ref23-17">17</A>). Therefore, tryptic peptide analysis of three MMTV proteins, gp52, p28, and p10, can serve to distinguish these 
+three viruses from one another. These studies represent further strain-specific markers for several MMTV gene products. Thus, as for type-C 
+retroviruses of the mouse (
+<A HREF="#ref23-16">16</A>), MMTVs form a multigene family, the final extent of which is not yet known.
+
+<P><CENTER>HETEROGENEITY IN MMTV GENOMES AND MODE OF TRANSMISSION</CENTER>
+
+<P>Studies employing both MMTV radioactive 60-70S RNA and MMTV cDNA probes have demonstrated that MMTV proviral sequences are present in the DNA 
+of all strains of laboratory mice. Copy numbers are in the low repetitive range for normal tissues such as liver and are higher in mammary tumors (
+<A HREF="#ref23-18">18</A>, 
+<A HREF="#ref23-19">19</A>, 
+<A HREF="#ref23-20">20</A>, 
+<A HREF="#ref23-21">21</A>, 
+<A HREF="#ref23-22">22</A>, 
+<A HREF="#ref23-23">23</A>).
+
+<A NAME="endogenous"></A>
+<P>Biological studies have shown that MMTVs can be transmitted in different mouse strains either by the milk of via the germline (
+<A HREF="#ref23-1">1</A>, 
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>). Occasionally, MMTV may also be transmitted by male seminal fluids to females, which in turn can transfer the 
+virus to their progeny via the milk (
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>). Other modes of transmission are, of course, possible. The question that arises is: Can one distinguish if an 
+MMTV has been introduced into a given mouse via the germline (<I>i.e.</I>, as a germinal provirus or virogene) or via some 
+non-germline mechanism, such as via the placenta, milk, seminal fluid, or as a plasmid: The term "horizontal transmission" is not used 
+here to due to the confusion that would arise from such modes of viral transmission as via the placenta or as a plasmid in a germ cell. 
+If an MMTV was introduced into a mouse via the germline, one would expect to find MMTV proviral sequences equally distributed in the 
+DNA of all tissues of that mouse. On the other hand, if an MMTV was introduced into a mouse by some other mechanism, one would expect 
+to see an uneven distribution of MMTV sequences in the DNA of different tissues of that mouse. To address these points, we used the 
+technique of molecular hybridization.
+
+<P>MMTV(C3H) was isolated from supernatant fluids of a C3H mammary tumor cell line. The 60-70S RNA from these virions was purified and iodinated 
+to a specific activity of approximately 2 x 10<SUP>7</SUP> cpm per microgram as described previously (
+<A HREF="#ref23-20">20</A>). This RNA was then hybridized at various C<SUB>0</SUB>t values to DNA from C3H mammary tumor cells and DNA from an 
+apparently normal C3H liver; hybridization to sheep DNA was used as a control. C<SUB>0</SUB>t is defined as the product of the DNA concentration 
+in moles of deoxyribonucleotide per liter and time in seconds. As assayed by resistance to ribonuclease (RNase A and T<SUB>1</SUB>) digestion, 
+hybridization to sheep and other nonrodent DNAs remained consistently at less than 6% up to a C<SUB>0</SUB>t of 35,000 and was thus scored as 
+nonspecific background. Hybridization between the iodinated MMTV(C3H) 60-70S RNA and DNA from C3H mammary tumors was approximately 60% (
+<a href="javascript:windowf235 = window.open('../figures/figure23-5.shtml', 'windowf235', 'width=800,height=950,resizable=yes,scrollbars=yes'); windowf235.focus()">Figure 5A</A>). 
+This value was consistently higher than the maximum extent of hybridization between this MMTV(C3H) RNA and DNA 
+from livers or other normal organs of C3H mice (
+<a href="javascript:windowf235 = window.open('../figures/figure23-5.shtml', 'windowf235', 'width=800,height=950,resizable=yes,scrollbars=yes'); windowf235.focus()">Figure 5A</A>).
+
+<P>The C<SUB>0</SUB>t<SUB>1/2</SUB> value was approximately 380 for the hybridization between MMTV(C3H) [<SUP>125</SUP>I]RNA and C3H mammary tumor DNA, 
+and approximately 440 for C3H liver DNA. For comparison, poly A enriched C3H cellular RNA (selected by poly U-Sepharose chromatography), representing 
+messenger RNA, was also iodinated and hybridized to C3H liver DNA. The C<SUB>0</SUB>t<SUB>1/2</SUB> value obtained using this RNA was approximately 3,100, thus 
+representing the value obtained with "unique" DNA. The results depicted in Figure 5A demonstrate that both the C3H mammary tumor cell line and C3H 
+liver contain MMTV proviral sequences in the low repetitive range (
+<A HREF="#ref23-20">20</A>). The lower C<SUB>0</SUB>t<SUB>1/2</SUB> value obtained with the C3H mammary tumor cell line DNA indicates that there are more MMTV 
+proviral sequences in this DNA than in the DNA of the C3H liver. The differences in final percent hybridization, <I>i.e.</I>, approximately 60% for 
+the C3H tumor cell line DNA, and approximately 50% for the C3H liver DNA, however, may be indicative of one or a combination of two phenomena: (a) 
+there are quantitatively more MMTV proviral sequences in the mammary tumor DNA than the liver DNA; and (b) the DNA of the C3H mammary tumor cells 
+contain sequences of the MMTV genome that are not found in the DNA of C3H liver cells. To answer this question, recycling experiments were performed.
+
+<P><CENTER>Recycling of MMTV 60-70S [<SUP>125</SUP>I]RNA</CENTER>
+
+<P>To determine if there are any MMTV sequences in mammary tumors that are not present in the DNA of an apparently normal organ, <I>i.e.</I>, the 
+liver of a C3H mouse, iodinated MMTV(C3H) 60-70S RNA was first hybridized to a vest excess of C3H liver DNA. Liver DNA was chosen because murine 
+livers have been shown to be negative for most MMTV markers (
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>). MMTV(C3H) 60-70S RNA (300,000 cpm) was first annealed to 30 mg of normal C3H liver DNA at 68&#176;C to a C<SUB>0</SUB>t of 20,000 
+as described previously (
+<A HREF="#ref23-20">20</A>). The unhybridized single stranded [<SUP>125</SUP>I]RNA eluting from the hydroxyapatite column at 0.14 M sodium phosphate was 
+termed "recycled RNA." This RNA was then concentrated and reannealed to C3H mammary tumor DNA and to C3H liver DNA to a C<SUB>0</SUB>t of 20,000. 
+As can be seen in 
+<a href="javascript:windowf235 = window.open('../figures/figure23-5.shtml', 'windowf235', 'width=800,height=950,resizable=yes,scrollbars=yes'); windowf235.focus()">Figure 5B</A>, 
+the recycled MMTV(C3H) RNA failed to hybridize above background levels to the DNA of normal C3H livers. This demonstrates 
+that the recycling procedure effectively removed all portions of the MMTV(C3H) [<SUP>125</SUP>I]RNA that are complementary to the DNA of normal 
+C3H liver. The recycled [<SUP>125</SUP>I]RNA, however, hybridizes extensively with DNA from C3H mammary tumor cells (
+<a href="javascript:windowf235 = window.open('../figures/figure23-5.shtml', 'windowf235', 'width=800,height=950,resizable=yes,scrollbars=yes'); windowf235.focus()">Figure 5B</A>), 
+thus demonstrating the existence of MMTV sequences in C3H mammary tumor DNA that are absent in liver DNA of that same mouse (
+<A HREF="#ref23-20">20</A>).
+
+<P><CENTER>Distribution of Non-Germline Transmitted Murine Mammary Tumor Virus Sequences</CENTER>
+
+<P>Studies were conducted to determine the natural distribution of the recycled MMTV sequences in various murine DNAs. The recycled MMTV(C3H) 
+[<SUP>125</SUP>I]RNA was first hybridized to DNA from RIII livers and RIII mammary tumors that arise early in life. Complementary sequences were 
+found in the DNA of all "early" mammary tumors tested but not in the DNA of livers (
+<a href="javascript:windowt232 = window.open('../tables/table23-2.shtml', 'windowt232', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt232.focus()">Table 2</A>).
+
+<A NAME="exogenous"></A>
+<P>The GR strain of mice is of great interest as a result of genetic studies that have demonstrated the transmission of MMTV in this strain 
+as a one-gene dominant characteristic (
+<A HREF="#ref23-2">2</A>). The recycled MMTV(C3H) [<SUP>125</SUP>i]RNA was hybridized to GR mammary tumor and liver DNAs. Complementary sequences 
+are present in the DNAs of both GR mammary tumors and GR livers (
+<a href="javascript:windowt232 = window.open('../tables/table23-2.shtml', 'windowt232', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt232.focus()">Table 2</A>) 
+as well as other GR organs tested. DNA of "late" occurring mammary tumors of the low and moderate incidence 
+strains BALB/c and C3HfC57BL (
+<a href="javascript:windowt231 = window.open('../tables/table23-1.shtml', 'windowt231', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt231.focus()">Table 1</A>) 
+were also analyzed for the presence of the recycled sequences in their DNA and were consistently found negative. 
+Since the C3HfC57BL strain was originated by C3H mice foster nursed on C57BL mothers, a strain devoid of overt MMTV in its milk (
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>), this is further evidence that the recycled sequences are part of the milk transmitted MMTV(C3H) and are not germline transmitted.
+
+<P>Livers of BALB/c, C57BL/6N, and C57BL/10SCN mice were shown to contain some MMTV proviral information (
+<A HREF="#ref23-18">18</A>, 
+<A HREF="#ref23-19">19</A>, 
+<A HREF="#ref23-21">21</A>, 
+<A HREF="#ref23-22">22</A>, 
+<A HREF="#ref23-23">23</A>); they do contain, however, sequences homologous to the MMTV(C3H) recycled RNA (
+<a href="javascript:windowt232 = window.open('../tables/table23-2.shtml', 'windowt232', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt232.focus()">Table 2</A>).
+
+<P>It thus appears that the virus or viruses responsible for causing early mammary tumors in C3H, RIII, and GR mice are easily distinguishable from the 
+virus or viruses causing late mammary tumors in C3HfC57BL mice and BALB/c mice. Furthermore, a virus similar to the highly oncogenic non-germline transmitted 
+C3H virus appears to be a germinal provirus in the DNA of the GR strain, the only strain in which genetic evidence has been presented for a one-gene dominant 
+characteristic for MMTV. One possible explanation, therefore, is that a virus similar to the non-germline transmitted viruses of C3H and RIII has become 
+integrated as an endogenous virus of GR.
+
+<A NAME="mammary_tumor_virus"></A>
+<P><CENTER>MMTV-RELATED GENETIC INFORMATION IN THE DNAS OF OTHER RODENTS</CENTER>
+
+<P>In view of the varied distribution of MMTV proviral sequences in the mouse, we set out to determine if MMTV proviral sequences are present in other rodents. 
+Furthermore, to determine if sequences related to, but not identical to, MMTV could be detected in the DNAs of other rodents, conditions of hybridization were 
+relaxed by lowering the temperature at which hybridizations were carried out from 68&#176;C to 54&#176;C, and the assay of resulting RNA-DNA duplexes was 
+accomplished by raising the salt concentration from the standard conditions of 2 x SSC (1 x SSC is 0.15 M NaCl and 0.015 M Na citrate) to 8 x SSC. Specificity 
+is still maintained using relaxed conditions since no hybridization above 6% background is observed to DNA obtained from bovine and canine tissue or <I>E. coli</I>.
+
+<A NAME="caroli"></A><A NAME="cervicolor"></A><A NAME="molossinus"></A><A NAME="Atteck"></A>
+<P>Molecular hybridization experiments were carried out to determine the presence of "MMTV-specific" sequences (using standard conditions) and "MMTV-related" 
+sequences (using relaxed conditions of hybridization and an RNAse assay) in other <I>Mus</I> species. Results are given in 
+<a href="javascript:windowt233 = window.open('../tables/table23-3.shtml', 'windowt233', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt233.focus()">Table 3</A> 
+where values have been normalized by subtracting the 6% background hybridization level and using as 100% the hybridization observed 
+between MMTV [<SUP>125</SUP>I]60-70S RNA and the homologous C3H mammary tumor cell line DNA. As can be seen in 
+<a href="javascript:windowt233 = window.open('../tables/table23-3.shtml', 'windowt233', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt233.focus()">Table 3</A>, 
+when standard conditions of hybridization and RNase assay are used, the subspecies of <I>Mus musculus</I>, <I>i.e.</I>, 
+<I>Mus musculus molossinus</I> and <I>Mus musculus Peru Atteck</I>, appear to contain less MMTV sequences as endogenous provirus. When standard 
+conditions of hybridization are used, however, no MMTV-specific sequences are detected in the DNAs of other <I>Mus</I> species, <I>i.e.</I>, 
+<I>Mus cervicolor</I> or <I>Mus caroli</I> (
+<A HREF="#ref23-24">24</A>).
+
+<P>When relaxed conditions of hybridization and RNAse assay are used, the degree of hybridization detected using DNAs of C3H or RIII <I>Mus musculus</I> tissues 
+remains approximately the same as does the degree of hybridization to <I>Mus musculus molossinus</I> and <I>Mus musculus Peru Atteck</I> DNAs. Using these 
+relaxed conditions, however, MMTV-related sequences are now detected in the DNAs of <I>Mus cervicolor</I> and <I>Mus caroli</I> mice (
+<a href="javascript:windowt233 = window.open('../tables/table23-3.shtml', 'windowt233', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt233.focus()">Table 3</A>). 
+Kinetic analysis of this hybridization reveals C<SUB>0</SUB>t<SUB>1/2</SUB> values of 150 and 600 for <I>Mus cervicolor</I> and 
+<I>Mus caroli</I> DNAs, respectively, as compared to 500 for <I>Mus musculus</I> and 3,100 for murine "unique" sequences (
+<A HREF="#ref23-24">24</A>). Thermal analysis studies revealed &Delta;-T<SUB>m</SUB> values 3.2 and 3.4&#176;C lower for hybrids formed between MMTV RNA and DNA from 
+<I>Mus cervicolor</I> and <I>Mus caroli</I>, respectively, than observed with <I>Mus musculus</I> DNAs. These results are in general agreement with a recent report (
+<A HREF="#ref23-21">21</A>) using MMTV cDNA probes.
+
+<P><U>MMTV-related DNA in Rats</U>. As seen in 
+<a href="javascript:windowt233 = window.open('../tables/table23-3.shtml', 'windowt233', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt233.focus()">Table 3</A>, 
+five different laboratory strains of rats, as well as feral rats, all contained approximately the same degree of MMTV-related information 
+in their DNA when using relaxed conditions of hybridization and RNase assay. DNAs from various organs of a feral rat were also tested for the presence of 
+MMTV-related information and they all contained the same degree of MMTV-related information (
+<A HREF="#ref23-24">24</A>). The sequences detected thus appear to be endogenous, <I>i.e.</I>, germline transmitted in rats.
+
+<P>The MMTV 60-70S [<SUP>3</SUP>H]RNA, obtained from virions from the supernatant fluids of MMTV-infected feline (Fel) cells (
+<A HREF="#ref23-5">5</A>), was also used in these experiments and gave the same results as the MMTV RNA obtained from virus grown in murine cells. This RNA was used 
+to rule out the possibility that normal murine or feline cellular RNA or DNA was contaminating the MMTV 60-70S RNA preparation. Thus, the hybridization 
+observed to rat DNA is interpreted as the result of the presence of nucleic acid sequences related to the mouse mammary tumor virus genome.
+
+<P>Fisher, or F344, rats from several colonies were also examined and found to contain the same degree of MMTV-related information in their DNA as other rat strains (
+<a href="javascript:windowt233 = window.open('../tables/table23-3.shtml', 'windowt233', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt233.focus()">Table 3</A>). 
+However, F344 rats obtained from certain colonies appeared to contain additional MMTV-related information in their DNA, indicating a 
+possible infection and integration by MMTV or an MMTV-related virus. The nature and distribution of these additional sequences are currently being investigated.
+
+<P>To determine at what frequency the MMTV-related sequences are present in rat DNA, MMTV radioactive 60-70S RNA was hybridized to the DNAs of five different 
+laboratory strains of rats as well as C3H mouse liver and mammary tumor DNA. As seen in 
+<a href="javascript:windowf236 = window.open('../figures/figure23-6.shtml', 'windowf236', 'width=900,height=950,resizable=yes,scrollbars=yes'); windowf236.focus()">Figure 6</A>, 
+the kinetics of hybridization to the DNAs of several strains were extremely similar. The C<SUB>0</SUB>t<SUB>1/2</SUB> values obtained 
+for all five strains were approximately 800 (
+<A HREF="#ref23-24">24</A>). The hybridization of poly A selected radioactive rat RNA to "unique" rat DNA gave a  C<SUB>0</SUB>t<SUB>1/2</SUB> value of approximately 
+2,500, indicating that the endogenous MMTV-related sequences in rat DNAs are present in the "low repetitive" range.
+
+<P>To determine the fidelity of hybrids formed between MMTV radioactive RNA and rat DNA, the thermal stability of the RNA-DNA duplexes formed was analyzed 
+by hydroxylapatite chromatography. The T<SUB>m</SUB> values observed were 5&#176; lower than those obtained with homologous <I>Mus musculus</I> DNAs.
+
+<A NAME="type_B"></A><A NAME="popaeus"></A>
+<P><CENTER>CHARACTERIZATION OF A NEW B-TYPE VIRUS, RELATED TO MMTVs, FROM <I>MUS CERVICOLOR</I></CENTER>
+
+<P>A virus, morphologically distinct from the type-B MMTVs of the laboratory mouse <I>Mus musculus</I>, has been identified in the milk of 
+<I>Mus cervicolor popaeus</I> mice (
+<A HREF="#ref23-25">25</A>, 
+<A HREF="#ref23-26">26</A>). Group-specific radioimmunoassays for the gp52 (
+<a href="javascript:windowf237 = window.open('../figures/figure23-7.shtml', 'windowf237', 'width=650,height=1000,resizable=yes,scrollbars=yes'); windowf237.focus()">Figure 7A</A>) 
+and the p28 (
+<a href="javascript:windowf237 = window.open('../figures/figure23-7.shtml', 'windowf237', 'width=650,height=1000,resizable=yes,scrollbars=yes'); windowf237.focus()">Figure 7B</A>) 
+of MMTV demonstrate that this new virus shares some antigenic determinants with both of these MMTV proteins (
+<A HREF="#ref23-25">25</A>). This reactivity is clearly different, however, from that observed with all MMTVs tested from <I>M. musculus</I>. The 
+<I>Mus cervicolor</I> B-type virus has a density of 1.16 g/ml in sucrose and a virion-associated DNA polymerase with a divalent cation preference 
+for Mg<SUP>2+</SUP> over Mn<SUP>2+</SUP>. Competitive molecular hybridization experiments showed little if any nucleic acid homology with MMTVs. 
+Radioimmunoassays also clearly differentiate this virus from the other viruses previously identified from <I>M. cervicolor</I>: M432, CERV-CI, and CERV-II (
+<A HREF="#ref23-26">26</A>, 
+<A HREF="#ref23-27">27</A>). These studies thus identify the first virus from another species that is immunologically related to the MMTVs of <I>Mus musculus</I>. 
+Similar particles were also observed in a spontaneous <I>M. cervicolor</I> mammary tumor (
+<A HREF="#ref23-25">25</A>).
+
+<P>Milk of some feral and various inbred strains of <I>M. musculus</I> has previously been shown to be a source of MMTV, regardless of the mode of 
+transmission of the virus (
+<A HREF="#ref23-1">1</A>, 
+<A HREF="#ref23-2">2</A>, 
+<A HREF="#ref23-3">3</A>, 
+<A HREF="#ref23-28">28</A>). Similarly, <I>M. cervicolor</I> milk appears to be a good source of B-type virus, particularly those mice from the Tak province of 
+Thailand. Experiments are now in progress, involving use of this resource, to develop "interspecies" RIAs for the p28 and gp52 viral proteins to use 
+as probes for the detection of antigen expression related to mammary tumor viruses in other rodent and more distantly related species.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref23-1"></A>
+<P>1. Bittner, J.J. (1936). Science <B>84</B>: 162.
+
+<A NAME="ref23-2"></A>
+<P>2. Bentvelzen, P. (1972). Int. Rev. Exp. Path. <B>11</B>: 259.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4349859" target="_blank">PubMed</A></I>.
+<!-- PMID: 4349859 -->
+
+<A NAME="ref23-3"></A>
+<P>3. Nandi, S., and McGrath, C.M. (1973). Adv. Cancer Res. <B>17</B>: 353.
+
+<A NAME="ref23-4"></A>
+<P>4. Lasfargues, E.Y., Lasfargues, J.C., Dion, A.S., Greene, A.E., and Moore, D.H. (1976). Cancer Res. <B>36</B>: 67.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->55305" target="_blank">PubMed</A></I>.
+<!-- PMID: 55305 -->
+
+<A NAME="ref23-5"></A>
+<P>5. Howard, D.K., Colcher, D., Teramoto, Y.A., Young, J.M., and Schlom, J. (1977). Cancer Res. <B>37</B>: 2969.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->68813" target="_blank">PubMed</A></I>.
+<!-- PMID: 68813 -->
+
+<A NAME="ref23-6"></A>
+<P>6. Cardiff, R.D., Puentes, M.J., Teramoto, Y.A., and Lund, J.K. (1974). J. Virol. <B>14</B>: 1293.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4372399" target="_blank">PubMed</A></I>.
+<!-- PMID: 4372399 -->
+
+<A NAME="ref23-7"></A>
+<P>7. Parks, W.P., Howk, R.S., Scolnick, E.M., Oroszlan, S., and Gilden, R.V. (1974). J. Virol. <B>13</B>: 1200.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4364896" target="_blank">PubMed</A></I>.
+<!-- PMID: 4364896 -->
+
+<A NAME="ref23-8"></A>
+<P>8. Verstraeten, A.A., vanNie, R., Kwa, H.G., and Hageman, Ph.C. (1975). Int. J. Cancer <B>15</B>: 270.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->47846" target="_blank">PubMed</A></I>.
+<!-- PMID: 47846 -->
+
+<A NAME="ref23-9"></A>
+<P>9. Ritzi, E., Baldi, A., and Spiegelman, S. (1976). Virology <B>75</B>: 188.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->185802" target="_blank">PubMed</A></I>.
+<!-- PMID: 185802 -->
+
+<A NAME="ref23-10"></A>
+<P>10. Sheffield, J.B., Daly, T., Dion, A.S., and Taraschi, N. (1977). Cancer Res. <B>37</B>: 1480.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->192451" target="_blank">PubMed</A></I>.
+<!-- PMID: 192451 -->
+
+<A NAME="ref23-11"></A>
+<P>11. Teramoto, Y.A., Kufe, D., and Schlom, J. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 3564.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->71733" target="_blank">PubMed</A></I>.
+<!-- PMID: 71733 -->
+
+<A NAME="ref23-12"></A>
+<P>12. Teramoto, Y.A., Kufe, D., and Schlom, J. (1977). J. Virol. <B>24</B>: 525.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->72161" target="_blank">PubMed</A></I>.
+<!-- PMID: 72161 -->
+
+<A NAME="ref23-13"></A>
+<P>13. Teramoto, Y.A., and Schlom, J. (1978). Cancer Res. <B>38</B>: 1990.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->77723" target="_blank">PubMed</A></I>.
+<!-- PMID: 77723 -->
+
+<A NAME="ref23-14"></A>
+<P>14. Hunter, W.M. (1973). In <I>Handbook of Experimental Immunology</I> (D.M. Weir, ed.), p. 171. Blackwell Scientific Publications, Oxford.
+
+<A NAME="ref23-15"></A>
+<P>15. Schochetman, G., and Schlom, J. (1976). Virology <B>73</B>: 431.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->183363" target="_blank">PubMed</A></I>.
+<!-- PMID: 183363 -->
+
+<A NAME="ref23-16"></A>
+<P>16. Elder, J.H., Jensen, F.C., Bryant, M.L., and Lerner, R.A. (1977). Nature <B>267</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->193039" target="_blank">PubMed</A></I>.
+<!-- PMID: 193039 -->
+
+<A NAME="ref23-17"></A>
+<P>17. Gautsch, J.W., Lerner, R., Howard, D., Teramoto, Y.A., and Schlom, J. (1978). J. Virol. <B>27</B>: 688.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->212589" target="_blank">PubMed</A></I>.
+<!-- PMID: 212589 -->
+
+<A NAME="ref23-18"></A>
+<P>18. Varmus, H.E., Bishop, J.M., Nowinski, R.C., and Sarkar, N. (1972). Nature New Biol. <B>238</B>: 189.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:63494" target="_blank">MGI</A></I>.
+<!-- MGI:63494 -->
+
+<A NAME="ref23-19"></A>
+<P>19. Varmus, H.E., Stavnezer, J., Medeiros, E., and Bishop, J.M. (1975). In <I>Comparative Leukemia Research 1973, Leukemogenesis</I> 
+(Y. Ito and R.M. Dutcher, eds.), p. 451. University of Tokyo Press, Tokyo.
+
+<A NAME="ref23-20"></A>
+<P>20. Drohan, W., Kettman, R., Colcher, D., and Schlom, J. (1977). J. Virol. <B>21</B>: 986.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->191657" target="_blank">PubMed</A></I>.
+<!-- PMID: 191657 -->
+
+<A NAME="ref23-21"></A>
+<P>21. Morris, V.L., Medeiros, E., Ringold, G.M., Bishop, J.M., and Varmus, H.E. (1977). J. Mol. Biol. <B>114</B>: 73.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->198552" target="_blank">PubMed</A></I>.
+<!-- PMID: 198552 -->
+
+<A NAME="ref23-22"></A>
+<P>22. Schlom, J., Colcher, D., Drohan, W., and Kettmann, R. (1978). In <I>Progress in Experimental Tumor Research</I> (F. Homberger, ed.), <B>21</B>: 140. S. Karger, Basel.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->205905" target="_blank">PubMed</A></I>.
+<!-- PMID: 205905 -->
+
+<A NAME="ref23-23"></A>
+<P>
+<A HREF="cardiff.shtml">23</A>. Cardiff, R. (1978). In 
+<A HREF="cardiff.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+<A NAME="ref23-24"></A>
+<P>24. Drohan, W., and Schlom, J. (1979). J. Natl. Cancer Inst. <B>62</B>: 1279.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->220450" target="_blank">PubMed</A></I>.
+<!-- PMID: 220450 -->
+
+<A NAME="ref23-25"></A>
+<P>25. Schlom, J., Hand, P., Teramoto, Y.A., Callahan, R., Todaro, G., and Schidlovsky, G. J. Natl. Cancer Inst. <B>61</B>: 1509.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->82634" target="_blank">PubMed</A></I>.
+<!-- PMID: 82634 -->
+
+<A NAME="ref23-26"></A>
+<P>
+<A HREF="callahan.shtml">26</A>. Callahan, R., and Todaro, G. (1978). In 
+<A HREF="callahan.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+<A NAME="ref23-27"></A>
+<P>27. Callahan, R., Sherr, C.J., and Todaro, G.J. (1977). Virology <B>80</B>: 401.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->70107" target="_blank">PubMed</A></I>.
+<!-- PMID: 70107 -->
+
+<A NAME="ref23-28"></A>
+<P>28. Rongey, R.W., Hiavacova, A., Lara, S., Estes, J., and Gardner, M.B. (1973). J. Natl. Cancer Inst. <B>50</B>: 1581.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4352204" target="_blank">PubMed</A></I>.
+<!-- PMID: 4352204 -->
+
+<DIV Align="center"><H4> <A HREF="cardiff.shtml">Previous</A> <A HREF="graff.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

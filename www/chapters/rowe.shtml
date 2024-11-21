@@ -1,0 +1,232 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="lilly.shtml">Previous</A> <A HREF="chused.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 20 -->
+
+<H2>Chromosomal Location of C-Type Virus Genomes in the Mouse</H2>
+
+<H3>Wallace P. Rowe<BR>
+Janet W. Hartley<BR><BR>
+
+Laboratory of Viral Diseases<BR>
+National Institute of Allergy and Infectious Diseases
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>A unique and important set of recently recognized genes of the mouse are those that are the genomes of endogenous retroviruses (<I>i.e.</I>, 
+the RNA viruses that replicate by transcribing the genome into a DNA copy that integrates into cellular DNA). During the course of evolution of 
+many vertebrate, DNA copies of retrovirus genomes have become established as germ line chromosomal elements. In the mouse there are at least two 
+distinct classes of retrovirus in the germ line, <I>i.e.</I>, the B-type, or mammary tumor viruses, and the C-type, or leukemia viruses; it is 
+the latter that will be discussed here.
+
+<P>C-type viruses of mice, or murine leukemia viruses (MuLV), fall into three major categories: the ecotropic, xenotropic, and amphotropic classes. 
+Ecotropic viruses are capable of infecting mouse cells but not heterologous species cells; xenotropic viruses affect only heterologous cells; 
+while amphitropic viruses infect both categories. These viruses are closely related to one another in that the virion structural proteins p30 and 
+reverse transcriptase are the same. The viruses differ, however, in the envelope glycoproteins, which confer the type-specific interference, neutralization, 
+and host range phenotypes.
+
+<P>The ecotropic viruses are typified by the classical AKR MuLV; comparable strains are found in other high lymphoma strains of mice, such as 
+C58, PL/J, and C3H/Fg. The most familiar example of a xenotropic MuLV is the endogenous virus of NZB mice, long thought to be an noninfectious 
+MuLV, but shown by Levy and Pincus to be infectious for a variety of non-murine cells. Amphotropic viruses to date are known to occur only in 
+certain populations of wild <I>Mus musculus</I>.
+
+<A NAME="strain_difference"></A>
+<P>The three classes of MuLV show quite distinct patterns in their natural occurrence. Ecotropic viruses are carried by some strains of mice, 
+but are not found in others. Among those strains that do carry the ecotropic viruses there are marked differences in the level of expression. 
+The high lymphoma strains show titers of ecotropic MuLV throughout life, with virus appearing in the tissues at almost the time of birth. The 
+virus can be induced from embryonic cells of such mice in tissue culture by treatment with the thymidine analogues 5-IUdR and 5-BUdR, and tissue 
+culture cloning studies show that all cells possess the inducible viral genome.
+
+<P>Other strains of mice, referred to as low-ecotropic-virus yielders, on occasion yield the same MuLV as found in high virus mice, but it only 
+appears late in life and in low titer. Strains with this pattern include BALB/c, C57BL, C57BR, DBA/2, and many others. Other strains, including 
+C57L, NZB, 129, and NIH swiss and its inbred derivatives, NFS/N, have never yielded ecotropic MuLV, either <I>in vivo</I> or <I>in vitro</I>. Nucleic 
+acid hybridization studies with viral cDNA probes have shown that the complete set of genome sequences of ecotropic MuLV is present in the cellular 
+DNA of high- and low-virus mice, but a portion of the sequences, amounting to about 20% of the genome, is not present in DNA of the virus-negative strains.
+
+<A NAME="hbb"></A><A NAME="Akv-1"></A><A NAME="Fgv-1"></A><A NAME="integrated"></A>
+<P>The high-ecotropic virus phenotype shows classical Mendelian heredity patterns, and a number of the loci for ecotropic virus inducibility 
+have been mapped. The mapped loci include two on chromosome 7, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95348" target="_blank"><I>Fgv-1</I></A> loci, present in AKR/J and C3H/FgLw, respectively; they occupy non-allelic sites, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> being 12 map units from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95348" target="_blank"><I>Fgv-1</I></A> being very close to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A>. Two as yet unnamed loci in C57BL/10 and its 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> congenic derivative B10.BR have also been mapped; one is on chromosome 8, linked to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A>, and the other is on chromosome 11, linked to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></A>.
+
+<A NAME="reintegration"></A>
+<P>Strains of mice that are high for expression of ecotropic MuLV generally carry multiple loci for virus induction. AKR carries two such loci, 
+C3H/Fg carries three, and C58 carries three or possibly four. The multiple loci are probably the result rather than the cause of the high virus 
+phenotypes, since hybrids carrying only one virus-inducing locus per cell usually show as high virus expression as do the inbred strains with 
+homozygosity at multiple loci. Indeed, we have seen on several occasions appearance of new loci for virus induction in congenic mice carrying the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> locus.
+
+<P>While much mapping of the ecotropic genomes in the various strains of mice remains to be done, it seems very likely that they are not at 
+allelic sites in different strains of laboratory mice. Rather the loci must be thought of as being strain specific.
+
+<P>That these virus-inducing loci indeed represent viral genomes has been shown clearly by the nucleic acid hybridization studies of Chattopadhyay <I>et al.</I> (
+<A HREF="#ref20-1">1</A>, 
+<A HREF="#ref20-2">2</A>). When cellular DNA of various mouse strains is tested for the ability to hybridize with single stranded radiolabeled DNA probes 
+prepared for ecotropic MuLV, and the number of copies of the virus-related sequences is determined from the kinetics of the reaction, a generally 
+excellent correlation is found between the biologic and biochemical observations. The quantitative hybridization analyses show that there are two 
+major populations of viral sequences in the cell DNA. One set, which corresponds to the genes for the MuLV group-specific proteins is present at a 
+frequency of roughly 50 copies per haploid genome. A second set of sequences, corresponding to the type-specific (presumably envelope) genes, is 
+present in a small number of copies, ranging from 1 to 3 or 4 copies per haploid genome in the ecotropic virus-positive strains, and being absent 
+in the ecotropic virus-negative strains. The strains of mice that show multiple loci on Mendelian segregation analysis show multiple copies by 
+hybridization kinetics, while those that are low in virus or are high-virus strains with a single locus, such as PL and RF, show a lower copy 
+number by hybridization. In segregating crosses of hybrids carrying the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95327" target="_blank"><I>Akv-1</I></A> 
+locus on the ecotropic virus negative NIH Swiss background, 
+the presence of the type-specific nucleic acid sequences segregated with virus inducibility and with chromosome 7 markers, establishing that viral 
+DNA sequences are indeed present at this locus.
+
+<A NAME="induction_effect"></A>
+<P>The pattern of xenotropic virus distribution among mouse strains is somewhat different. While there are marked differences in expression of 
+xenotropic virus between mice, it seems probable that all strains of mice have the capacity to produce the virus. NZB mice regularly show high 
+levels of spontaneous expression, while some other strains manifest lower levels of spontaneous virus production or are IUdR-inducible in tissue 
+culture. In still other strains, xenotropic virus has been detected only on rare occasions, and it is not inducible from their cells in culture; 
+strain 129 has not yielded virus, but it expresses MuLV glycoproteins with xenotropic antigenic specificity. As with the ecotropic virus, in the 
+mouse strain with high level expression of xenotropic virus (NZB), Mendelian segregation analysis shows that there are multiple loci for virus 
+induction, while in the strains with lower inducibility levels there is only a single locus. Nucleic acid hybridization studies have shown that 
+the complete genome of xenotropic viruses is present in the DNA of all mouse strains tested, and in multiple copies, ranging from 2 to as many as 
+8 per haploid genome. In this case, the number of copies does not correlate with the biologic activity. Whether the multiple copies are clustered 
+or scattered throughout the genome is not yet known. The mapping studies to date have succeeded in locating loci for induction of xenotropic virus 
+in three cases, C57BL/10, BALB/c and the LP (loop tail) linkage testing stock; in all three instances the locus is on chromosome 1, 10 to 20 map units from 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></A>. 
+Whether the three loci are allelic has yet to be established.
+
+<A NAME="amphotropic"></A>
+<P>The amphotropic MuLV strains show a third pattern of natural history. As mentioned, these viruses have been detected only in certain colonies 
+of feral mice, and have never been detected in laboratory strains. In their occurrence in wild mice, transmission seems to be primarily maternal, 
+with infection by transuterine or milk-borne routes; genetic transmission has not yet been clearly established. However, the complete set of viral 
+genome sequences is present in the cellular DNA of all mice, both feral and laboratory; and, again, the subset of viral sequences that corresponds 
+to type-specific virion components is present in multiple copies, differing in number in the inbred strains. It seems quite possible that the 
+amphotropic genomes are not present in the chromosomal DNA as complete linear copies, but they may require genetic recombination between products 
+of separated loci before virus of this type is formed.
+
+<A NAME="MCF"></A>
+<P>Indeed, there is much mounting evidence that new viruses are being generated constantly within the lifetime of high-virus mice. A new class of 
+viruses called MCF (for "mink cell focus inducing") strains, since they induce foci of cell damage or transformation in a tissue culture line of 
+mink lung cells, emerges in high lymphoma strains prior to the time of onset of lymphomas. These viruses represent unique genetic recombinants 
+between ecotropic virus and some as yet unidentified class of endogenous MuLV sequences, perhaps representing xenotropic genomes. Each of these 
+viruses appears to be a unique recombinant in the envelope gene region and as such does not represent the product of a single chromosomal locus, 
+but is rather the outcome of an interaction between endogenous viruses coded by two (or more?) separate loci.
+
+
+<CENTER>REFERENCES</CENTER>
+
+<A NAME="ref20-1"></A>
+<P>1. Chattopadhyay, S.K., Lowy, D.R., Teich, N.M., Levine, A.S., and Rowe, W.P. (1974). Cold Spring Harbor Symposium on Quantitative Biology <B>39</B>: 1085.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->169010" target="_blank">PubMed</A></I>.
+<!-- PMID: 169010 -->
+
+<A NAME="ref20-2"></A>
+<P>2. Chattopadhyay, S.K., Hartley, J.W., Lander, M.R., Kramer, B.S., and Rowe, W.P. (1978). J. Virol. <B>26</B>: 29.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->206729" target="_blank">PubMed</A></I>.
+<!-- PMID: 206729 -->
+
+<A NAME="ref20-3"></A>
+<P>3. Datta, S.K., and Schwarz, R.S. (1977). Virology <B>83</B>: 449.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54376" target="_blank">MGI</A></I>.
+<!-- MGI:54376 -->
+
+<A NAME="ref20-4"></A>
+<P>4. Gardner, M.B. (1978). Current Topics in Microbiology and Immunology <B>79</B>: 215.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->206407" target="_blank">PubMed</A></I>.
+<!-- PMID: 206407 -->
+
+<A NAME="ref20-5"></A>
+<P>5. Hartley, J.W., Wolford, N.K., Old, L.J., and Rowe, W.P. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 789.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:74575" target="_blank">MGI</A></I>.
+<!-- MGI:74575 -->
+
+<A NAME="ref20-6"></A>
+<P>6. Kozak, C., and Rowe, W.P. (1978). Science <B>199</B>: 1448.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54422" target="_blank">MGI</A></I>.
+<!-- MGI:54422 -->
+
+<A NAME="ref20-7"></A>
+<P>7. Lilly, F. and Pincus, T. (1977). Adv. Cancer Res. <B>17</B>: 231.
+
+<A NAME="ref20-8"></A>
+<P>8. Rowe, W.P. (1973). Cancer Res. <B>33</B>: 3061.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53871" target="_blank">MGI</A></I>.
+<!-- MGI:53871 -->
+
+<A NAME="ref20-9"></A>
+<P>9. Rowe, W.P. (1977). The Harvey Lecture Series <B>71</B>: 173.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->213400" target="_blank">PubMed</A></I>.
+<!-- PMID: 213400 -->
+
+<DIV Align="center"><H4> <A HREF="lilly.shtml">Previous</A> <A HREF="chused.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

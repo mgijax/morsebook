@@ -1,0 +1,739 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="heston.shtml">Previous</A> <A HREF="green1.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 11, pp. 119-156 -->
+
+<H2>Congenic Resistant Strains of Mice</H2>
+
+<H3>
+<a href="javascript:windowf3 = window.open('../figures/figure11-3.shtml', 'windowf3', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf3.focus()">George D. Snell</A><BR><BR>
+
+The Jackson Laboratory<SUP><A HREF="#note1">1</A></SUP><BR>
+Bar Harbor, Maine</H3>
+
+<P>My subject today concerns the hunt for histocompatibility genes. This is a hunt that I was engaged in for nearly 30 years, from 1944 or 1945 
+to the end of 1973. Three kinds of traps are suitable for catching this particular game. These are the antibody trap, the linkage trap, and the 
+congenic resistant strain trap. At one time or another I have used all three, but Dr. Morse tells me that my subject today should be primarily 
+the congenic resistant strain trap. While engaged in this hunt I did not wear the typical outfit of a Maine hunter. The appropriate garb was not 
+a bright red wool jacket but a laboratory gown, and the pervading odor not that of pine and balsam forests but of the mouse room. Yet I am sure 
+that no Maine guide could have provided a more enthralling chase. Over the years, I was joined by many wonderful companions and friends. I cannot, 
+in the short time that I have, possibly do justice to their contributions to both the profit and the pleasure of the hunt.
+
+<P>To explain how I became involved in the hunt for histocompatibility genes, I need to go back to my arrival at The Jackson Laboratory in 1935. 
+At the time I joined the staff, virtually all the other investigators -- all six of them -- were engaged in studying the mammary tumor factor. 
+Only Dr. Cloudman was actively engaged in work with tumor transplants. It thus happened that I was unaware of the important work on the genetics 
+of transplantation which had been done by Dr. Little and various colleagues both before and after the founding of the Laboratory. My own interest 
+at the time centered on the induction and analysis of translocations in the mouse, a project which I had started in 1931 at the University of Texas.
+
+<P>While this was an interesting subject, Dr. Little showed no enthusiasm for it, and I also felt it was reaching a point of diminishing returns. 
+I therefore began devoting a great deal of thought and effort to finding some major undertaking that would warrant a long-term commitment. The 
+project should be genetic, should use mice, and should offer the prospect of yielding some really clear-cut and basic information. The search 
+involved both extensive reading and several years of trial and error in the laboratory. In the end, I was greatly influenced by three review 
+articles. Two of them, by Woglam (
+<A HREF="#ref11-45">45</A>) and by Spencer (
+<A HREF="#ref11-49">49</A>), the latter at the time the assistant chief of the National Cancer Institute, concerned immunity to transplantable tumors. 
+These acquainted me with the thinking then current on the immunological aspects of transplantation. It was through these reviews that I became 
+involved in the subject of immunological enhancement, a subject outside the scope of this paper, but one which occupied much of my effort until 
+the genetic studies of transplantation became a full-time job. The inspiration for these studies came from Dr. Little's chapter on the genetics 
+of tumor transplantation (
+<A HREF="#ref11-48">48</A>), a chapter in <I>The Biology of the Laboratory Mouse</I>, which I edited as one of my jobs during this period. Through reading 
+this chapter I became aware for the first time of the evidence that susceptibility and resistance to transplants are under genetic control, with 
+a dozen or more loci each playing a part. Here, perhaps, was a clue to the sort of research project for which I had been looking.
+
+<P>The work of Little and his colleagues, while it showed that multiple loci are involved in transplant rejection, did not serve to identify 
+individual loci. This was a major gap in the evidence. Gorer, in 1938, through the use of serological and transplantation techniques, had 
+identified one locus concerned with the rejection of tumor transplants, but I did not become acquainted with this work until somewhat later. 
+The problem was to find some way of separating out and studying individual loci. If this could be done, there would be a wealth of genetic 
+material on which to work. Probably at this time I was not thinking about the function of the loci beyond their role in transplantation, but 
+even with this limitation, the problem looked interesting.
+
+<P>What technique, or techniques, could be devised for rendering individual, transplant-influencing loci available for identification and study? 
+Two methods suggested themselves. The first was the use of a marker genes, a method of general applicability with which I was thoroughly familiar 
+from prior <I>Drosophila</I> work and my own translocation studies with mice. The second was the production of congenic resistant, or CR, lines. Actually, 
+there was a precedent for the production of congenic lines with a blood group difference in Irwin's studies of species differences in the Columbidae (
+<A HREF="#ref11-46">46</A>), but I was unfamiliar with this at the time and Irwin used the methodology in a context quite different from the one I was contemplating.
+
+<A NAME="mating_system"></A>
+<P>These two methods were outlined in a seminar given at The Jackson Laboratory, probably in 1944. About this time I devoted a good deal of effort 
+to the mathematics of establishing congenic lines and to the tests which might be used to analyze them once they were produced. However, it was 1948 
+before the methods were published (
+<A HREF="#ref11-50">50</A>). J.B.S. Haldane added to this paper a much more elegant mathematical analysis of the development of coisogenicity than I had been 
+able to produce. Figures 
+<a href="javascript:windowf1 = window.open('../figures/figure11-1.shtml', 'windowf1', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf1.focus()">1</A> 
+and 
+<a href="javascript:windowf2 = window.open('../figures/figure11-2.shtml', 'windowf2', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf2.focus()">2</A> 
+show the two mating systems, subsequently called cross-intercross and cross-backcross-intercross systems (
+<A HREF="#ref11-56">56</A>), which were suggested as suitable for the production of CR lines. These figures, I think, are self-explanatory and require no comment.
+
+<P>Actually, in the 1948 paper, the expression <I>isogenic resistant lines</I> rather than <I>coisogenic</I> or <I>congenic resistant lines</I> was used. 
+The term <I>coisogenic</I> was coined for comparable lines in <I>Drosophila</I> by Chovnick and Fox in 1953 (
+<A HREF="#ref11-52">52</A>). I adopted it in 1958 (
+<A HREF="#ref11-10">10</A>). Following a suggestion by Dr. Earl Green, the term <I>congenic</I> was listed as a possible alternative in 1961 (
+<A HREF="#ref11-15">15</A>). It is now in regular use. Perhaps more important with respect to terminology, the word <I>histocompatibility</I> was introduced for 
+the first time in the 1948 paper.
+
+<P>Although the first publication concerning the hunt for histocompatibility genes did not appear until 1948, the hunt was actually started in 1945. 
+My records show that the first backcross matings used to detect histocompatibility genes by the linkage method were made in that year, and the first 
+transplantable tumor, kindly provided by Dr. Cloudman, transplanted to the backcross mice early in 1946. This work was outside the scope of this paper, 
+but it developed into a sizable program, with seven linkage stocks carrying 18 marker genes being used. It led to the rediscovery of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>, already 
+discovered by Gorer (
+<A HREF="#ref11-46">46</A>), to a profitable joint study of this locus with Gorer (
+<A HREF="#ref11-50">50</A>), and ultimately to the demonstration of eight 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> alleles (
+<A HREF="#ref11-53">53</A>, 
+<A HREF="#ref11-54">54</A>). Allen (
+<A HREF="#ref11-54">54</A>) also used the linkage method to demonstrate one of the first recombinants within 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>.
+
+<P>In considering the production of CR lines, it is convenient to divide them into four groups based on variations in the method used. Although there was 
+considerable overlap in the production and testing of these groups, they were started at different times, and I shall present them in chronological order. 
+The CR lines in each group which reached the testing stage are listed in Tables 
+<a href="javascript:windowt112 = window.open('../tables/table11-2.shtml', 'windowt112', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt112.focus()">2</A>, 
+<a href="javascript:windowt113 = window.open('../tables/table11-3.shtml', 'windowt113', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt113.focus()">3</A>, 
+<a href="javascript:windowt114 = window.open('../tables/table11-4.shtml', 'windowt114', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt114.focus()">4</A>, and 
+<a href="javascript:windowt115 = window.open('../tables/table11-5.shtml', 'windowt115', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt115.focus()">5</A>. 
+<a href="javascript:windowt111 = window.open('../tables/table11-1.shtml', 'windowt111', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt111.focus()">Table 1</A> 
+lists the inbred strains which entered, either as first or second parent, into the production of the various CR lines. 
+<a href="javascript:windowt116 = window.open('../tables/table11-6.shtml', 'windowt116', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowt116.focus()">Table 6</A> 
+gives, for each group, a summary of the number of lines started, tested, and still carried. The terminology of congenic resistant 
+lines is described in 
+<A HREF="#appendix1">Appendix 1</A>.
+
+<A NAME="listing"></A>
+<P>Klein (
+<A HREF="#ref11-36">36</A>) has published a list of congenic resistant lines, including many not considered here. Other lists of CR and relevant inbred strains 
+(the oldest lists now primarily of historical interest) will be found in references 
+<A HREF="#ref11-38">38</A>, 
+<A HREF="#ref11-40">40</A>, 
+<A HREF="#ref11-55">55</A>, 
+<A HREF="#ref11-57">57</A>, and 
+<A HREF="#ref11-58">58</A>.
+
+<P>A group of congenic resistant lines was started in June 1946 with the assistance of Helen Parker, before the Bar Harbor fire of October 1947 in which 
+the main building of The Jackson Laboratory was destroyed. This group was entirely lost. In the spring of 1948, matings were set up again, using space at 
+the Hamilton Station Laboratory, and mice which had been returned to The Jackson Laboratory from many former beneficiaries of Dr. Little's generous policy 
+in distributing animals. Because it was impossible to tell, in the light of our knowledge at that time, whether some crosses might be substantially better 
+than others, a wide variety of crosses was used. The one invariable restriction was that the parent to which backcrosses were to be made had to come from 
+an inbred strain, and from a strain for which a transplantable tumor was available. Any mouse, inbred or otherwise, could be used as the second parent and, 
+in fact, partly because all mice were still in short supply, a considerable variety of mice was used. A total of 125 lines were started. Development of 
+congenic resistant lines is a long process and since, in the development of this first group, I was working in unexplored territory, inevitably problems 
+were encountered. It would be five years before I knew whether the effort was paying off.
+
+<P>The most urgent need for the Laboratory at this time was rebuilding, and I was chairman of the Construction Committee to which this undertaking had been 
+assigned. The work of this committee was essentially a full-time job for nearly two years. I had very little time for the congenic line project. This turned 
+out to be one of the least of my problems. My assistant at the time was Sally Lyman, now Dr. Sandy Allen, and the project could not have been in better hands.
+
+<P>The major problem in producing the Group 1 lines turned out to be the weakness of some of the histocompatibility barriers. This would have been a minor 
+concern if I had been using skin transplants as the test of susceptibility and resistance, but transplantable tumors, especially as they get older, are less 
+discriminating than skin and may totally override the weaker barriers. We soon found that many of the lines were being lost due to the lack of surviving 
+animals in the inoculated generations. The use of preimmunization reduced but by no means eliminated this problem.
+
+<P>Another and continuing concern was the health of the mice. Here the fire turned out to be a blessing, since the new building, once available, was substantially 
+more sanitary and vermin-free than the original structure. But most colonies at the time were infested with mites and lice, and ours was no exception. Also 
+the transplantable tumors, which were an essential element of the project, were all too effective transmitters of infection. These health problems continued 
+to plague us well beyond the period devoted to producing the first group of CR mice. I well remember the time when Diane Kelton and I broke out with a rash 
+on our arms from using a miticide newly put on the market and widely advertised by a major chemical company. The product was later withdrawn. We also found 
+it necessary at one period to add aureomycin to the drinking water. Gradually, however, animal care and animal health conditions at the Laboratory were improved. 
+Perhaps the single most important development was the introduction of stainless steel mouse boxes. Dr. Green deserves a major share of the credit for these improvements.
+
+<P>Of the 125 lines initially started in group 1, only 27 were carried through to the point where they could be tested to identify the defining histocompatibility 
+gene which distinguished them from their inbred partner. Here a surprise awaited us. Of these 27 lines, 22 differed from their partner at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> locus. Ten 
+different alleles, or as we would now say, haplotypes were represented (
+<A HREF="#ref11-10">10</A>). This was the first clear evidence of the uniqueness of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>. There were technical problems in characterizing the locus in the five non-
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> lines. The lines were on four different inbred 
+backgrounds and the differential loci probably quite polymorphic. This made it difficult to transfer information from one CR line to another. However, it was 
+soon apparent that, with the aid of linked marker genes, we had identified two new loci, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> (
+<A HREF="#ref11-2">2</A>, 
+<A HREF="#ref11-5">5</A>).
+
+<P>Subsequent tests showed that disparities at 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> impose weak barriers to transplants of tumor, skin, or ovary than do disparities at 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> (
+<A HREF="#ref11-6">6</A>, 
+<A HREF="#ref11-15">15</A>). This further emphasized the uniqueness and "strength" of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> and foreshadowed the concept of a major histocompatibility complex.
+
+<P>The group 1 CR lines illustrate a potential feature of such lines which to some extent has been apparent in all the groups. The chromosome segment carrying the 
+defining <I>H</I> locus inevitably carries other linked loci. In due course some of these can be identified, and some of them may turn out to be additional 
+histocompatibility loci. Thus the B10.LP line of Group 1, originally identified as carrying 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> and the marker locus 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" target="_blank"><I>A</I></A> or agouti, also turned out 
+to carry another histocompatibility locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A>, and an immune response locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96584" target="_blank"><I>Ir-2</I></A> (
+<A HREF="#ref11-24">24</A>, 
+<A HREF="#ref11-39">39</A>). The CR lines, especially if they are derived following only a limited number (6-8) of matings to the inbred parent strain, 
+may also carry contaminant loci from the second parent not borne on the chromosome segment to which selection was applied. It has been shown that this happened 
+a number of times in the Group 1 lines. In some cases the contaminant locus turned out to be of considerable interest, <I>e.g.</I>, the complement locus, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96031" target="_blank"><I>Hc</I></A>, by which B10.D2/o was found to differ from B10 and B10.D2/n (
+<A HREF="#ref11-16">16</A>). The contaminants, therefore, have not been an unmixed evil.
+
+<P>When a contaminant of passenger locus is found, it may be of interest by appropriate matings to separate off a subline, lacking the contaminant or passenger but 
+otherwise resembling the original CR line. This produces a new congenic pair differing primarily at the contaminant of passenger locus. Five such derivative sublines 
+have been produced from the original 27 tested lines of Group 1.
+
+<P>Nineteen CR lines and sublines of Group 1 are currently maintained at The Jackson Laboratory. Some of these lines are maintained in many other laboratories also. 
+One of their special values is that they are the principal source of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> haplotypes on more than one inbred background. Thus in this group of lines the 
+<I>H-2<SUP>b</SUP></I> haplotype can be found on the A, C3H, C57BL/10, and DBA/1 backgrounds.
+
+<P>The loss of many lines in Group 1 emphasized the need for refinement in our transplantation techniques. If we were to stick to tumor transplants, which certainly 
+had the advantage of ease and rapidity, they had to be made more discriminating. We had introduced the use of immunization in producing Group 1 mice and had gradually 
+improved our techniques (
+<A HREF="#ref11-10">10</A>). The major change was the shift from immunization with the tumor used for the challenge inoculation, which often resulted in immunization against 
+tumor-specific rather than strain-specific antigens, with disastrous results, to immunization with normal tissues. After the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> lines became 
+available, we set up systematic tests of different immunization schedules (
+<A HREF="#ref11-9">9</A>). The method finally adopted, when we came to produce the Group 2 lines, involved prior immunization with an intraperitoneal injection of thymus cells 
+and challenge with a radiation-induced leukemia. The leukemia was given as a cell suspension at a controlled dose and preferably was one recently induced. This method 
+proved capable of discriminating relatively weak histocompatibility differences.
+
+<P>Our intent in producing the second group of CR lines was to detect non-
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> loci. The crosses were chosen accordingly. All lines were on a C57BL/10Sn background. 
+This meant that, once the lines were established, tests to identify the isolated loci would be uniformly feasible. The second parents, like B10, were all <I>H-2<SUP>b</SUP></I>. 
+Three lines were used as second parent, 129, C.B6 and D2.WA. The latter two were congenic lines from Group 1 in which <I>H-2<SUP>b</SUP></I> had been introduced, respectively, 
+onto the BALB/c and the DBA/2 backgrounds. All mice were preimmunized with thymus and challenged with a B10 x-ray-induced leukemia.
+
+<P>The B10 x 129 crosses were set up first in the spring of 1953, the cross-intercross system being used. The other two crosses were not set up until nearly three years later. 
+The more rapid but laborious cross-backcross-intercross system was used. Thirty-four lines were originally set up and derivative lines increased this to 38. Nineteen original 
+and four derived lines were carried through to substantial analysis. Six new histocompatibility loci, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96006" target="_blank"><I>H-7</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96007" target="_blank"><I>H-8</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96008" target="_blank"><I>H-9</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95883" target="_blank"><I>H-10</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95884" target="_blank"><I>H-11</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95885" target="_blank"><I>H-12</I></A>, 
+were revealed (
+<A HREF="#ref11-18">18</A>, 
+<A HREF="#ref11-32">32</A>). Studies with these lines, using both tumor and skin transplants, emphasized the great range in the histocompatibility barrier imposed by both different 
+non-<I>H-2</I> loci and different allelic combinations at these loci (
+<A HREF="#ref11-21">21</A>). Ten original and four derivative lines of Group 2 are currently maintained at The Jackson Laboratory (Tables 
+<A HREF="#ref11-3">3</A> and 
+<A HREF="#ref11-6">6</A>).
+
+<P>It had been shown in the analysis of Group 1 lines that 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> is in chromosome 7, close to the albino (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank"><I>c</I></A>) locus, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> in chromosome 2 
+near the agouti (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" target="_blank"><I>A</I></A>) locus (
+<A HREF="#ref11-2">2</A>, 
+<A HREF="#ref11-5">5</A>, 
+<A HREF="#ref11-25">25</A>). Hence if 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank"><I>c</I></A> or other appropriate genes in chromosome 7 were introduced by backcrossing from one strain onto the inbred background of another, it would 
+be expected that the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> allele of the donor strain also would be introduced. The same reasoning of course applied to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" target="_blank"><I>A</I></A> (or 
+<I>A<SUP>t</SUP></I> or 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A>. This provides a method for identifying new alleles at the loci under test.
+
+<P>It was with the intent of exploiting this method that the Group 3 CR lines were established. Dr. Ralph Graff, as part of what has been a long and fruitful collaboration, 
+played a major role in this project.
+
+<P>All Group 3 lines were established on a C57BL/10Sn background. The second parents used as the source of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> alleles were from strains BALB/c, CE, C3H, 
+KR, PA, SWR, and UW. To the two 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> alleles already known were added three more, <I>H-3<SUP>c</SUP></I>, <I>H-3<SUP>d</SUP></I>, and <I>H-3<SUP>e</SUP></I>. 
+<I>H-13<SUP>c</SUP></I> was also added. The second parents used as the source of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> alleles were CE, C3H, FS, P, SEC, SM, and WB. The marker genes used were the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank"><I>c</I></A> (albino) alleles 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1855977" target="_blank"><I>c<SUP>ch</SUP></I></A> and <I>C</I>. These are both dominant to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1855976" target="_blank"><I>c</I></A>. The inbred parent was B10.129(5M)/n (<I>c H-1<SUP>b</SUP></I>). The presence of 
+albinism in this parent made it easy to follow the introduced markers. These lines have not been fully analyzed, but it is clear that they will serve to identify additional 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> and perhaps 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95993" target="_blank"><I>H-4</I></A> alleles. Details concerning the Group 3 lines will be found in Tables 
+<A HREF="#ref11-4">4</A> and 
+<A HREF="#ref11-6">6</A>.
+
+<P>Dr. Mariana Cherry has been in large part responsible for the development of Group 4 lines. The lines of this group were produced by backcrossing and serotyping. This method, 
+of course, is applicable only to loci the end product of which is serologically demonstrable. Among histocompatibility loci, in the strict sense of the term, this applies only to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>. The lines, however, include congenics disparate at blood group 
+(<I>Ea</I>) loci and at loci (<I>Ly</I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98747" target="_blank"><I>Thy-1</I></A>) determining lymphocyte membrane alloantigens. The 
+lines are either on a C57BL/6By or a C57BL/10Sn background. Of 16 lines produced, 10 carry 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> disparities, three <I>Ea</I> disparities, and three lymphocyte antigen disparities (
+<a href="javascript:windowt115 = window.open('../tables/table11-5.shtml', 'windowt115', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt115.focus()">Table 5</A>
+).
+
+<P>Altogether, 208 original or derivative congenic lines, with disparities either at histocompatibility or membrane alloantigen determining loci, were started. Of these 208, 94 were 
+developed to the point of substantial testing, and 63 are still maintained at The Jackson Laboratory or in the colony of Dr. Ralph Graff. Except for the lines currently maintained, 
+these figures are approximate. Some of the records go back a long way, and I may have overlooked a few lines. The figures include lines primarily produced by Dr. Ralph Graff and 
+Dr. Marianna Cherry, my contribution having been minor. They do not include an important group of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+lines (B10.A, B10.BR, and five B10 x A recombinants) produced by Dr. Jack Stimpfling at The Jackson Laboratory by the backcross and serotype method. I had essentially no hand in 
+producing these. They also do not include the very major group of CR lines produced by Dr. Donald Bailey with the use of tail skin grafts, a technique developed by Bailey which renders the tumor transplant method obsolete.
+
+<P>This completes my tale of a 30-year hunt for histocompatibility genes. I hope the hunt has been as useful as it has been enjoyable. It is a satisfaction to know that the histocompatibility 
+genes snared in my congenic resistant lines are thriving in captivity, and have spread beyond the limits of Maine where they were caught, to many other and foreign countries. It 
+is an even greater satisfaction to know that my wonderful companions in the hunt are still pursuing this fascinating game with new skills and new technologies but with the same 
+lively enthusiasm that has marked the hunt in the past.
+
+<A NAME="appendix1"></A>
+<CENTER>APPENDIX 1. THE TERMINOLGY OF CONGENIC STRAINS<BR><BR>
+A. Vocabulary Applicable to Congenic Strains<BR></CENTER>
+
+<P>1. A <I>congenic strain</I> is a strain identical or almost identical to a standard inbred strain except for the presence of a chromosome segment introduced by appropriate crosses 
+from a second strain. A strain is usually not regarded as congenic unless there have been at least eight crosses to the inbred strain.
+
+<P>2. The two strains used in the initial cross are referred to as the <I>first parent</I> (the inbred strain to which repeated crosses are made) and the <I>second parent</I>. The 
+first parent must be inbred, and the second parent need not be inbred. The first parent, when being contrasted with a congenic strain derived from it, may also be referred to as the 
+<I>inbred partner</I>.
+
+<P>3. A <I>congenic resistant (CR) strain</I> is a congenic strain in which the introduced segment carries a histocompatibility (<I>H</I>) allele foreign to the inbred partner.
+
+<P>4. The locus by which a congenic strain and its inbred partner differ, and to which selection was applied in producing the congenic strain, is called the <I>differential locus</I> 
+for this strain pair. The term <I>defining locus</I> has also been employed (
+<A HREF="#ref11-63">63</A>), but current usage seems to favor <I>differential locus</I>. Genes introduced because of linkage with the differential locus are called <I>passenger genes</I>. If 
+any genes from the second parent not linked to the differential locus are still present in the congenic strain, these are called <I>contaminant genes</I>.
+
+<P>5. Usually the differential locus is also the <I>locus of major interest</I>. However, when a CR strain is produced by backcrossing an easily demonstrable marker gene, the passenger 
+<I>H</I> locus may be the locus of major interest. There may, in some cases, be more than one locus of major interest.
+
+<P>6. If a congenic strain carries known contaminant or passenger genes, <I>derivative congenic strains</I> may be produced by eliminating one or more of these. The original congenic 
+strain and its derivative strain may then constitute a congenic pair more closely matched than the original congenic strain and its inbred partner.
+
+<P>7. A <I>double congenic strain</I> is a strain which differs from its inbred partner at two loci, both loci of major interest and both loci determining a similar phenotype. Thus a 
+strain which differs from its inbred partner at both <I>Ea-2</I> and <I>Ea-7</I> (both blood group loci) is a double congenic. The two loci may be linked or unlinked and may be derived 
+from the same second parent or different second parents.
+
+<A NAME="congenic"></A>
+<CENTER>B. Symbols for Congenic Strains</CENTER>
+
+<P>1. The <I>basic symbol</I> for designating a congenic strain consists of the symbols for the first and second parent strains, or of abbreviations for the same, with a period between 
+them. Thus strain B10.D2 came from an initial cross between strains C57BL/10 and DBA/2. Double congenic strains may constitute an exception. If the two loci of major interest came from 
+different second parents, the basic symbol may be that of the first parent only. Also if the second parent is of mixed origin and has no standard symbol, only the first parent may be designated.
+
+<P>2. Since several sublines may be derived from the same initial cross, and hence have the same basic symbol, and additional <I>subsidiary symbol</I> may be necessary. This may take 
+either of two forms.
+
+<P>a. A number and letter, in parentheses, may be appended to the basic symbol. Thus B10.129(5M) and B10.129(6M) are two strains derived from the initial cross C57BL/10 x 129. In the 
+strains produced by Snell and others at The Jackson Laboratory, the letters used and their meanings are as follows:<BR>
+&nbsp;&nbsp;&nbsp;M&nbsp;&nbsp;&nbsp;lines produced by cross-intercross system<BR>
+&nbsp;&nbsp;&nbsp;N&nbsp;&nbsp;&nbsp;lines produced by the cross-backcross-intercross system<BR>
+&nbsp;&nbsp;&nbsp;NX&nbsp;&nbsp;&nbsp;line produced by backcrossing a marker gene<BR>
+&nbsp;&nbsp;&nbsp;NS&nbsp;&nbsp;&nbsp;lines produced by backcrossing and serotyping<BR>
+&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;lines derived from a recombinant (used by Stimpfling).
+
+<P>b. When the introduced histocompatibility allele, or other allele of major interest, has been identified, a hyphen and the symbol for this allele may be appended to the basic symbol. 
+Thus B10.129(5M) may become B10.129-<I>H-1<SUP>b</SUP></I>. Bailey has adopted usage b and it is recommended for newly developed strains.
+
+<P>It is permissible, if for any reason advantageous, to use a symbol combining both symbols a and b, <I>e. g.</I>, B10.129(5M)-<I>H-1<SUP>b</SUP></I>.
+
+<P>If there are two introduced alleles which, for any reason, are of major interest, both may be indicated, <I>e.g.</I>, B10.KR-<I>H-13<SUP>c</SUP> A</I>. For double congenics, two 
+appended symbols should regularly be used, <I>e.g.</I>, B10-<I>Ea-2<SUP>a</SUP> Ea-7<SUP>a</SUP></I>.
+
+<P>3. The investigator originating a congenic strain is indicated by appending to the basic and subsidiary symbols the standard abbreviation of the investigator's name (
+<A HREF="#ref11-61">61</A>). Example: B10129(5M)/Sn or B10.129-<I>H-1<SUP>b</SUP></I>/sn. If two investigators have collaborated in developing a congenic strain, the name symbol should be that 
+of the investigator currently maintaining the strain (if maintained by only one) or that of the investigator who made the larger contribution.
+
+<P>4. A congenic strain may become split into substrains as a result of mutation or the elimination of contaminant or passenger loci. Thus strain B10.KR(35NX)/Sn, which carried an introduced 
+chromosome segment bearing the foreign alleles <I>H-3<SUP>d</SUP> Ir-2<SUP>?</SUP> H-13<SUP>c</SUP> A</I>, gave rise through recombination to strains bearing only the foreign alleles 
+<I>H-3<SUP>d</SUP></I> and <I>H-13<SUP>c</SUP> A</I> (
+<a href="javascript:windowt114 = window.open('../tables/table11-4.shtml', 'windowt114', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt114.focus()">Table 4</A>
+). Such derivative strains may be designated in either of two fashions.
+
+<P>a. Each strain may be assigned a different subsidiary symbol giving, for each, the locus of major interest (symbol of type 2b). Thus the two lines derived from B10.KR(35NX)/Sn may be 
+designated B10.KR-<I>H-3<SUP>d</SUP></I> and b10.KR-<I>H-13<SUP>c</SUP></I> or b10.KR-<I>H-13<SUP>c</SUP> A</I>.
+
+<P>b. A number may be inserted between the slash line and the same symbol. The two lines derived from B10.KR(35NX)/Sn then become B10.KR(35NX)/2Grf (derivative developed by Graff) and 
+B10.KR(35NX)/3Sn. In the past, lower case letters have been used to distinguish derivative strains. Example: B10.D2/o and B10.D2/n (o = old, n = new). This use is not recommended.
+
+<CENTER>C. Short Symbols for Congenic Strains</CENTER>
+
+<P>Since the standard symbols for congenic strains may be awkwardly long, short or abbreviated symbols may be used. illustration of several forms that these may take will be found in Tables 
+<a href="javascript:windowt112 = window.open('../tables/table11-2.shtml', 'windowt112', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt112.focus()">2</A>, 
+<a href="javascript:windowt113 = window.open('../tables/table11-3.shtml', 'windowt113', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt113.focus()">3</A>, 
+<a href="javascript:windowt114 = window.open('../tables/table11-4.shtml', 'windowt114', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt114.focus()">4</A>, and 
+<a href="javascript:windowt115 = window.open('../tables/table11-5.shtml', 'windowt115', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt115.focus()">5</A>. 
+The full symbol should always be given at least once in any published paper.
+
+<HR>
+
+<A NAME="note1"></A>
+<P><SUP>1</SUP>The Jackson Laboratory is fully accredited by the American Association for Accreditation of Laboratory Animal Care.
+
+<HR>
+
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref11-1"></A>
+<P>1. Snell, G.D. (1953). J. Natl. Cancer Inst. <B>14:</B> 691.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13233822" target="_blank">PubMed</A></I>.
+<!-- PMID: 13233822 -->
+
+<A NAME="ref11-2"></A>
+<P>2. Snell, G.D., and Kelton, D. (1953). Proc. Amer. Assoc. Cancer Res. <B>1:</B> 53.
+
+<A NAME="ref11-3"></A>
+<P>3. Hoecker, G., Counce, S., and Smith, P. (1954). Proc. Natl. Acad. Sci. <B>40:</B> 1040.
+
+<A NAME="ref11-4"></A>
+<P>4. Snell, G.D. (1955). Transplant. Bull. <B>2:</B> 6.
+
+<A NAME="ref11-5"></A>
+<P>5. Snell, G.D., Counce, S., Smith, P., and Dube, L. (1955). Proc. Amer. Assoc. Cancer Res. <B>2:</B> 47.
+
+<A NAME="ref11-6"></A>
+<P>6. Barth, R., Counce, S., Smith, P., and Snell, G.D. (1956). Ann. Surg. <B>144:</B> 198.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13355191" target="_blank">PubMed</A></I>.
+<!-- PMID: 13355191 -->
+
+<A NAME="ref11-7"></A>
+<P>7. Snell, G.D. (1957). Ann. N.Y. Acad. Sci. <B>69:</B> 555.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13488312" target="_blank">PubMed</A></I>.
+<!-- PMID: 13488312 -->
+
+<A NAME="ref11-8"></A>
+<P>8. Snell, G.D., Wheeler, N., and Aaron, M. (1957). Transplant. Bull. <B>4:</B> 18.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13422601" target="_blank">PubMed</A></I>.
+<!-- PMID: 13422601 -->
+
+<A NAME="ref11-9"></A>
+<P>9. Snell, G.D. (1958). J. Natl. Cancer Inst. <B>20:</B> 787.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13539625" target="_blank">PubMed</A></I>.
+<!-- PMID: 13539625 -->
+
+<A NAME="ref11-10"></A>
+<P>10. Snell, G.D. (1958). J. Natl. Cancer Inst. <B>21:</B> 843.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48657" target="_blank">MGI</A></I>.
+<!-- MGI:48657 -->
+
+<A NAME="ref11-11"></A>
+<P>11. Winn, H.J., Stvens, L.C., and Snell, G.D. (1958). Transplant. Bull. <B>5:</B> 18.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13530183" target="_blank">PubMed</A></I>.
+<!-- PMID: 13530183 -->
+
+<A NAME="ref11-12"></A>
+<P>12. Berrian, J.H., and McKhann, C.F. (1960). Ann. N.Y. Acad. Sci. <B>87:</B> 106.
+
+<A NAME="ref11-13"></A>
+<P>13. Linder, O., and Klein, E. (1960). J. Natl. Cancer Inst. <B>25:</B> 1191.
+
+<A NAME="ref11-14"></A>
+<P>14. Snell, G.D. (1960). J. Natl. Cancer Inst. <B>25:</B> 1191.
+
+<A NAME="ref11-15"></A>
+<P>15. Snell, G.D., and Stevens, L.C. (1961). Immunology <B>4:</B> 366.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48661" target="_blank">MGI</A></I>.
+<!-- MGI:48661 -->
+
+<A NAME="ref11-16"></A>
+<P>16. Herzenberg, L.A., Tachibana, T.K., Herzenberg, L.A., and Rosenberg, L.T. (1963). Genetics <B>48:</B> 711.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61173" target="_blank">MGI</A></I>.
+<!-- MGI:61173 -->
+
+<A NAME="ref11-17"></A>
+<P>17. Snell, G.D. (1964). <I>The "Old" (Complement Deficient) and "New" Sublines of Strain B10.D2.</I> Mimeographed, The Production Department, The Jackson Laboratory, Bar Harbor.
+
+<A NAME="ref11-18"></A>
+<P>18. Snell, G.D., and Bunker, H.P. (1964). Transplantation <B>2:</B> 743.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48658" target="_blank">MGI</A></I>.
+<!-- MGI:48658 -->
+
+<A NAME="ref11-19"></A>
+<P>19. Boyse, E.A., Old, L.J., and Stockert, E. (1965). In <I>Immunopathology, IVth Internat. Symp.</I> (P. Graber and P.A. Miescher, eds.), p. 23. Schwabe and Co., Basel.
+
+<A NAME="ref11-20"></A>
+<P>20. Snell, G.D., and Bunker, H.P. (1965). Transplantation <B>3:</B> 235.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48840" target="_blank">MGI</A></I>.
+<!-- MGI:48840 -->
+
+<A NAME="ref11-21"></A>
+<P>21. Graff, R.J., Hildemann, W.H., and Snell, G.D. (1966). Transplantation <B>4:</B> 425.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53505" target="_blank">MGI</A></I>.
+<!-- MGI:53505 -->
+
+<A NAME="ref11-22"></A>
+<P>22. Graff, R.J., Silvers, W.K., Billingham, R.E., Hildemann, W.H., and Snell, G.D. (1966). Transplantation <B>4:</B> 605.
+
+<A NAME="ref11-23"></A>
+<P>23. Tennant, J.R., and Snell, G.D. (1966). Natl. Cancer Inst. Monogr. <B>22:</B> 61.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4288569" target="_blank">PubMed</A></I>.
+<!-- PMID: 4288569 -->
+
+<A NAME="ref11-24"></A>
+<P>24. Snell, G.D., Cudkowicz, G., and Bunker, H. (1967). Transplanation <B>5:</B> 492.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53514" target="_blank">MGI</A></I>.
+<!-- MGI:53514 -->
+
+<A NAME="ref11-25"></A>
+<P>25. Snell, G.D., Hoecker, G., and Stimpfling, J.H. (1967). Transplanation <B>5:</B> 481.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5298457" target="_blank">PubMed</A></I>.
+<!-- PMID: 5298457 -->
+
+<A NAME="ref11-26"></A>
+<P>26. Graff, R.J., and Snell, G.D. (1968). Transplantation <B>6:</B> 598.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53561" target="_blank">MGI</A></I>.
+<!-- MGI:53561 -->
+
+<A NAME="ref11-27"></A>
+<P>27. Stimpfling, J.H., and Snell, G.D. (1968). Transplantation <B>6:</B> 468.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53550" target="_blank">MGI</A></I>.
+<!-- MGI:53550 -->
+
+<A NAME="ref11-28"></A>
+<P>28. Hilgert, I., and Snell, G.D. (1969). Transplantation <B>7:</B> 401.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4890907" target="_blank">PubMed</A></I>.
+<!-- PMID: 4890907 -->
+
+<A NAME="ref11-29"></A>
+<P>29. Lengerova, A., and Matousek, V. (1969). Folia Biol. <B>15:</B> 247.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4895948" target="_blank">PubMed</A></I>.
+<!-- PMID: 4895948 -->
+
+<A NAME="ref11-30"></A>
+<P>30. Snell, G.D., Cherry, M. and Demant, P. (1971). Transplant. Proc. <B>3:</B> 183.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4106305" target="_blank">PubMed</A></I>.
+<!-- PMID: 4106305 -->
+
+<A NAME="ref11-31"></A>
+<P>31. Snell, G.D., Demant, P., and Cherry, M. (1971). Transplantation <B>11:</B> 210.
+
+<A NAME="ref11-32"></A>
+<P>32. Snell, G.D., Graff, R.J., and Cherry, M. (1971). Transplantation <B>11:</B> 525.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53681" target="_blank">MGI</A></I>.
+<!-- MGI:53681 -->
+
+<A NAME="ref11-33"></A>
+<P>33. Kaliss, N., Bailey, D.W., and Shin, H.S. (1972). Transplantation <B>14:</B> 523.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:74588" target="_blank">MGI</A></I>.
+<!-- MGI:74588 -->
+
+<A NAME="ref11-34"></A>
+<P>34. Graff, R.J., and Bailey, D.W. (1973). Transplant. Rev. <B>15:</B> 26.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53892" target="_blank">MGI</A></I>.
+<!-- MGI:53892 -->
+
+<A NAME="ref11-35"></A>
+<P>35. Graff, R.J., Brown, D., and Snell, G.D. (1973). Transplant. Rev. <B>15:</B> 299.
+
+<A NAME="ref11-36"></A>
+<P>36. Klein, J. (1973). Transplantation <B>15:</B> 137.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4711011" target="_blank">PubMed</A></I>.
+<!-- PMID: 4711011 -->
+
+<A NAME="ref11-37"></A>
+<P>37. Taylor, B.A., Meier, H., and Huebner, R.J. (1973). Nature New Biol. <B>241:</B> 184.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53819" target="_blank">MGI</A></I>.
+<!-- MGI:53819 -->
+
+<A NAME="ref11-38"></A>
+<P>38. Snell, G.D., and Bailey, D.W. (1974). <I>Congenic Resistant and Recombinant Inbred Strains of Mice Available Through the Production Department.</I> 
+Mimeographed, The Production Department, The Jackson Laboratory, Bar Harbor.
+
+<A NAME="ref11-39"></A>
+<P>39. Gasser, D.L. (1976). Immunogenetics <B>3:</B> 271.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52926" target="_blank">MGI</A></I>.
+<!-- MGI:52926 -->
+
+<A NAME="ref11-40"></A>
+<P>40. Cherry, M. (1977). Inbred Strains of Mice <B>10:</B> 28.  Companion Issue to Mouse News Letter No. 57.
+
+<A NAME="ref11-41"></A>
+<P>41. Flaherty, L., Sullivan, K., and Zimmerman, D. (1977). J. Immunol. <B>119:</B> 571.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54322" target="_blank">MGI</A></I>.
+<!-- MGI:54322 -->
+
+<A NAME="ref11-42"></A>
+<P>42. Womack, J.E., and Eicher, E.M. (1977). Mol. Gen. Genet. <B>155:</B> 315.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54398" target="_blank">MGI</A></I>.
+<!-- MGI:54398 -->
+
+<A NAME="ref11-43"></A>
+<P>43. Eicher, E.M., Cherry, M., and Flaherty, L. (1978). Mol. Gen. Genet. <B>158:</B> 225.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54419" target="_blank">MGI</A></I>.
+<!-- MGI:54419 -->
+
+<A NAME="ref11-44"></A>
+<P>44. Bailey, D.W., and Lilly, F. (1978). Personal communication.
+
+<A NAME="ref11-45"></A>
+<P>45. Woglom, W.H. (1929). Cancer Rev. <B>4:</B> 129.
+
+<A NAME="ref11-46"></A>
+<P>46. Gorer, P.A. (1938). J. Path. bact. <B>47:</B> 231.
+
+<A NAME="ref11-47"></A>
+<P>47. Irwin, M.R. (1939). Genetics <B>24:</B> 709.
+
+<A NAME="ref11-48"></A>
+<P>48. Little, C.C. (1941). In <I>The Biology of the Laboratory Mouse</I> (G.D. Snell, ed.), p. 279. Blakiston, Philadelphia.
+
+<A NAME="ref11-49"></A>
+<P>49. Spencer, R.R. (1942). J. Natl. Cancer Instit. <B>2:</B> 317.
+
+<A NAME="ref11-50"></A>
+<P>50. Gorer, P.A., Lyman, S., and Snell, G.D. (1948). Proc. Roy. Soc. Lond. (Biol.) <B>135:</B> 499.
+
+<A NAME="ref11-51"></A>
+<P>51. Snell, G.D. (1948). J. Genet. <B>49:</B> 87.
+
+<A NAME="ref11-52"></A>
+<P>52. Chovnick, A., and Fox, A.S. (1953). Proc. Natl. Acad. Sci. USA <B>39:</B> 1035.
+
+<A NAME="ref11-53"></A>
+<P>53. Snell, G.D., Smith, P., and Gabrielson, F. (1953). J. Natl. Cancer Inst. <B>14:</B> 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13233805" target="_blank">PubMed</A></I>.
+<!-- PMID: 13233805 -->
+
+<A NAME="ref11-54"></A>
+<P>54. Allen, S.L. (1955). Genetics <B>40:</B> 627.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48753" target="_blank">MGI</A></I>.
+<!-- MGI:48753 -->
+
+<A NAME="ref11-55"></A>
+<P>55. Snell, G.D. (1964). Meth. Med. Res. <B>10:</B> 8.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14284948" target="_blank">PubMed</A></I>.
+<!-- PMID: 14284948 -->
+
+<A NAME="ref11-56"></A>
+<P>56. Green, E.L. (1966). In <I>Biology of the Laboratory Mouse</I> 2nd ed. (E.L. Green, ed.), p. 11. McGraw-Hill, New York.
+
+<A NAME="ref11-57"></A>
+<P>57. Stimpfling, J.H., and Reichert, A.E. (1970). Transplant. Proc. <B>2:</B> 39.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1931432" target="_blank">MGI</A></I>.
+<!-- MGI:1931432 -->
+
+<A NAME="ref11-58"></A>
+<P>58. Graff, R.J., and Snell, G.D. (1969). Transplantation <B>8:</B> 861.
+
+<A NAME="ref11-59"></A>
+<P>59. Graff, R.J., Polinsky, S.L., and Snell, G.D. (1971). Transplantation <B>11:</B> 56.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4927308" target="_blank">PubMed</A></I>.
+<!-- PMID: 4927308 -->
+
+<A NAME="ref11-60"></A>
+<P>60. Snell, G.D., and Cherry, M. (1972). In <I>Viruses and Host Genome in Oncogenesis</I> (P. Emmelot and P. Bentvetzen, eds.), p. 221. North-Holland Publ. Amsterdam.
+
+<A NAME="ref11-61"></A>
+<P>61. Staats, J. (1972). Cancer Res. <B>32:</B> 1609.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5044129" target="_blank">PubMed</A></I>.
+<!-- PMID: 5044129 -->
+
+<A NAME="ref11-62"></A>
+<P>62. Lane, P.W. (1974). <I>Lists of Mutations and Mutant Stocks of the Mouse.</I> Mimeographed, The Jackson Laboratory, Bar Harbor.
+
+<A NAME="ref11-63"></A>
+<P>63. Snell, G.D., Dausset, J., and Nathenson, S. (1976). <I>Histocompatibility.</I> Academic Press, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78490" target="_blank">MGI</A></I>.
+<!-- MGI:78490 -->
+
+<A NAME="ref11-64"></A>
+<P>64. Lally, P.A., and Shows, F.B. (1977). Genetics <B>87:</B> 305.
+
+<P>
+<A HREF="cherry.shtml">65</A>. Cherry, M., Bailey, D.W., and Snell, G.D. (1978). In 
+<A HREF="cherry.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+
+
+<DIV Align="center"><H4> <A HREF="heston.shtml">Previous</A> <A HREF="green1.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="taylor.shtml">Previous</A> <A HREF="lyon.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 28 -->
+
+<H2>Differences Among Sublines of Inbred Mouse Strains</H2>
+
+<H3>Herbert C. Morse III<BR><BR>
+
+National Institute of Allergy and Infectious Diseases<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>In many fields other than biology, conclusions reached about comparative results coming from different laboratories are not 
+open to question on the basis of the reagents employed - one organic chemist's supply of toluene is equivalent to another's. It 
+has been an implicit belief among many involved in mouse genetics that a similar constancy is inherent in the use of highly 
+inbred mice for experimental purposes -- one investigator's C3H is equivalent to another's. The elegant theoretical analysis of Bailey (
+<A HREF="#ref28-1">1</A>, 
+<A HREF="#ref28-2">2</A>, and this volume) as well as multiple reports of genetic differences among sublines of inbred strains of mice (
+<A HREF="#ref28-3">3</A>, 
+<A HREF="#ref28-4">4</A>, 
+<A HREF="#ref28-5">5</A>, 
+<A HREF="#ref28-6">6</A>, 
+<A HREF="#ref28-7">7</A>) clearly demonstrate that this belief is unfounded.
+
+<P>As outlined by Bailey, there are three possible causes for subline differences: 1) contamination from outcrossing, 2) incomplete inbreeding, 
+and 3) mutation. Probable examples of each of these causes are easily found. The demonstration that C57BL/Ks differs from all other C57BL 
+sublines at its entire 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex as well as at least three other histocompatibility loci (
+<A HREF="#ref28-8">8</A>) probably reflects unknown outcrossing.
+
+<P>Existing differences among the major sublines of the C3H family -- those of Strong, Bittner, and Andervont -- are undoubtedly due to 
+incomplete inbreeding before distribution. This understanding is based upon Andervont's observation that, on receiving C3H mice from Strong 
+at F<SUB>15</SUB>, they were still segregating for coat color. Andervont inbred C3H's, selecting for agouti, for another 17 generations 
+before giving Heston mice in 1942 (H.B. Andervont, personal communication).
+
+<P>Finally, the studies of Flaherty and Rosenstreich (this volume) on Qa antigens and LPS-responsiveness of BALB/c and C3H sublines, 
+respectively, strongly suggest that mutations are responsible for the observed differences in these mice.
+
+<A NAME="xenotropic"></A>
+<P>In studying the strain differences of XenCSA, a cell-surface antigen related to the major glycoprotein of xenotropic murine leukemia viruses (
+Chused and Morse, this volume), we tested several sublines of different inbred strains for expression of this antigen. As shown in 
+<a href="javascript:windowt281 = window.open('../tables/table28-1.shtml', 'windowt281', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt281.focus()">Table 1</A>, 
+sublines of C3H, C57BL, and A differ markedly in the amount of XenCSA detected on the surface of thymocytes 
+and spleen cells. High expression of this antigen on lymphoid cells of C57BL/10SnGrf as compared to other C57BL strains probably 
+reflects a mutational event occurring in the relatively recent history of this subline. The basis for other differences among sublines is unknown.
+
+<P>The existence of such genetic differences between sublines of inbred strains can be viewed in two ways. First, they may render results obtained 
+in different laboratories using different sublines of one strain impossible to compare. This could result in a considerable waste of research efforts. 
+On the other hand, detection of differences between closely related sublines provides the equivalent of congenic lines for analyses of gene function. 
+In either case, it is obviously imperative that investigators employing inbred strains provide sufficient information in their papers so that the 
+ancestral relationship of their subline to others can be readily detected. The latter point brings into focus the question of nomenclature. Problems 
+related to appropriate designations of strains, sublines, and genes are dealt with more extensively in the paper by Dr. Lyon which follows.
+
+<P>The remainder of this section is devoted to brief reports of differences detected among sublines of strains C3H, AKR, CBA, C57BL, and BALB/c.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref28-1"></A>
+<P>1. Bailey, D.W. (1959). J. Hered. <B>50</B>: 26.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:75312" target="_blank">MGI</A></I>.
+<!-- MGI:75312 -->
+
+<A NAME="ref28-2"></A>
+<P>2. Bailey, D.W. (1977). Ciba Found. Symp. <B>52</B>: 291.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->244399" target="_blank">PubMed</A></I>.
+<!-- PMID: 244399 -->
+
+<A NAME="ref28-3"></A>
+<P>3. Rechicigl, R., Jr., and Heston, W.E. (1963). J. Natl. Cancer Inst. <B>30</B>: 855.
+
+<A NAME="ref28-4"></A>
+<P>4. Acton, R.T., Blankenhorn, E.P., Douglas, T.C., Owen, R.X., Hilgers, J., Hoffman, H.A., and Boyse, E.A. (1973). Nature New Biol. <B>245</B>: 8.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53847" target="_blank">MGI</A></I>.
+<!-- MGI:53847 -->
+
+<A NAME="ref28-5"></A>
+<P>5. Maurer, P.H., Merryman, C.F., and Jones, J. (1974). Immunogenetics <B>1</B>: 398.
+
+<A NAME="ref28-6"></A>
+<P>6. Taniguchi, M., Tada, T., and Tokuhisa, T. (1976). J. Exp. Med. <B>144</B>: 20.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1084403" target="_blank">PubMed</A></I>.
+<!-- PMID: 1084403 -->
+
+<A NAME="ref28-7"></A>
+<P>7. Olsson, M., Lindahl, G., and Ruoslaht, E. (1977). J. Exp. Med. <B>145</B>: 819.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54280" target="_blank">MGI</A></I>.
+<!-- MGI:54280 -->
+
+<A NAME="ref28-8"></A>
+<P>8. Graff, R.J. (1970). Transplant. Proc. <B>2</B>: 15.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53715" target="_blank">MGI</A></I>.
+<!-- MGI:53715 -->
+
+<DIV Align="center"><H4> <A HREF="taylor.shtml">Previous</A> <A HREF="lyon.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

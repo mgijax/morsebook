@@ -1,0 +1,423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="graff.shtml">Previous</A> <A HREF="flaherty.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 25 -->
+
+<H2>Serological Definition of Cell Surface Antigens of Mouse Leukemia</H2>
+
+<H3>Lloyd J. Old<BR><BR>
+
+Elizabeth Stockert<BR>
+Memorial Sloan-Kettering Cancer Center<BR>
+New York, New York</H3>
+
+<P>The discipline of tumor immunology, like so many other biological fields of contemporary importance, owes its origin to the innovators 
+whom we honor at this workshop. Without their development and characterization of inbred strains, it would be difficult to imagine how the 
+principles that underlie modern immunological approaches to cancer could have been established. The demonstration of tumor-specific antigens 
+in chemical and virus-induced tumors, the development of methods to analyze cellular and humoral immunity to tumors, and the finding that 
+tumor immunity could be bolstered by microbial agents, such as BCG, represent the legacy from work with the inbred mouse that has engendered 
+the vast interest in applying similar approaches to human cancer.
+
+<P>To the cancer immunologist, cell surface antigens are of paramount importance, for it is novel antigens incorporated into the tumor cell 
+surface that can serve as transplantation antigens and provoke immunological rejection. Although such transplantation techniques provided 
+the first evidence for tumor-specific surface antigens, serological techniques have far more potential for analyzing the surface composition 
+of tumor cells. With advances in methods to determine cellular immune reactions <I>in vitro</I>, these can be expected to take their place 
+with serological techniques in the analysis of cell surface antigens of tumors. Present knowledge about these antigens, however, has come 
+almost exclusively from the application of serological techniques, and of these, the cytotoxic test has proved most successful in the 
+identification and analysis of surface antigens, some of which would have been impossible to discover by techniques involving graft rejection.
+
+<P>The cytotoxic test, originally developed by Gorer and O'Gorman to detect antibody to H-2 products, is a simple technique in which cells 
+are lysed by antibody in the presence of a suitable source of complement (
+<A HREF="#ref25-1">1</A>). The test has evolved through a series of modifications and, in its present form, is an analytical method of unrivaled 
+specificity and sensitivity for the detection of cell surface antigens. Because leukemia cells can be easily obtained in free cell suspension 
+and are exquisitely sensitive to cytotoxic antibody, they have been a favorite object of study. The great majority of mouse leukemias are T 
+cells of thymic origin, and this has allowed the serologist to study the leukemia cell side by side with its normal counterpart, the thymocyte. 
+As a consequence of these advantages, more is known about the surface antigens of normal an malignant T cells than about any other cell 
+population of the mouse (
+<A HREF="#ref25-2">2</A>, 
+<A HREF="#ref25-3">3</A>, 
+<A HREF="#ref25-4">4</A>).
+
+<P>Four general classes of cell surface antigens have been distinguished on mouse leukemias: 1) conventional H-2 alloantigens, that are present 
+on virtually all cells of the adult mouse; 2) differentiation alloantigens, <I>e.g.</I>, Thy-1 and the Lyt series, and several products of the 
+<I>H-2-Ir</I> and <I>Q</I> complex whose presence signify selective gene activation in cells undergoing T cell differentiation; 3) MuLV-related 
+antigens, <I>e.g.</I>, GCSA, G<SUB>IX</SUB>, G<SUB>(RADA1)</SUB>, that owe their origin to genetic information of endogenous murine leukemia 
+viruses; and 4) TL (thymus-leukemia) antigens that occur as differentiation alloantigens restricted to normal thymocytes in TL<SUP>+</SUP> 
+strains of mice and as leukemia-specific antigens in mouse strains not normally expressing TL antigens (TL<SUP>-</SUP> strains).
+
+<A NAME="FMR"></A>
+<P>Before discussing the MuLV and TL systems in more detail, some mention should be made of the immunization procedures that were devised to 
+produce antibody to these cell surface antigens (
+<a href="javascript:windowt251 = window.open('../tables/table25-1.shtml', 'windowt251', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt251.focus()">Table 1</A>). 
+To define non-H-2 specificities, the challenge was to develop methods of immunization or testing that would eliminate 
+the contribution of H-2 antibodies. This has been accomplished in three principal ways. The first can be illustrated by the approach that led 
+to the detection of TL and GCSA antigens and involves immunization with H-2 incompatible leukemia cells and testing the resulting antiserum on 
+syngeneic leukemia cells (
+<A HREF="#ref25-5">5</A>, 
+<A HREF="#ref25-6">6</A>). The rationale behind this immunization was that the allogeneic and syngeneic leukemia cells share a common antigen. In the 
+case of TL, C57BL mice were immunized with A strain spontaneous leukemia and the antiserum was tested on a C57BL x-ray-induced leukemia, thus 
+eliminating reactions due to H-2 and other alloantibodies. The second method involves donor-recipient combinations that are H-2 compatible and 
+this was first used to produce antibody to &theta;, or as it is now known, the Thy-1 antigen (
+<A HREF="#ref25-7">7</A>). Syngeneic immunization, although theoretically the method of choice to produce antibody with leukemia specificity, has 
+failed to uncover leukemia-specific antigens in spontaneous, x-ray or chemically induced mouse leukemias. Two antigenic systems, however, 
+were defined with antisera raised by syngeneic immunization; the FMR complex of antigens associated with leukemias induced by Friend, Moloney, 
+and Rausher leukemia viruses (
+<A HREF="#ref25-8">8</A>, 
+<A HREF="#ref25-9">9</A>) and the MuLV-related G<SUB>IX</SUB> antigen, originally identified with sera produced in W/Fu rats immunized with syngeneic 
+MuLV-induced leukemia cells (
+<A HREF="#ref25-10">10</A>). The ease with which antibody can be raised to these antigens is undoubtedly related to the strong immunogenicity of 
+FMR mouse leukemias and MuLV-induced rat leukemias in syngeneic hosts. These leukemias can undergo regression after initial growth, in 
+contrast to the invariable growth of transplants of spontaneous leukemias or leukemias induced by physical or chemical agents in their 
+strain of origin.
+
+<A NAME="surface"></A>
+<P>In addition to antisera prepared by deliberate immunization, naturally occurring antibodies in normal mouse serum are becoming increasingly 
+valuable as reagents to define the spectrum of cell surface antigens specified by murine leukemia viruses (
+<a href="javascript:windowt252 = window.open('../tables/table25-2.shtml', 'windowt252', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt252.focus()">Table 2</A>). 
+With the exception of antibody to GCSA, which has not yet been found in the serum of normal mice, antibody to the other 
+MuLV-related specificities is found with characteristic frequency in different mouse strains. Thus far, F<SUB>1</SUB> hybrids have been the best 
+source of these antibodies, and this most probably has to do with heterozygosity at <I>Ir</I> loci which broadens the range of antigens 
+that can be recognized.
+
+<A NAME="Gantigen"></A>
+<P>The list of MuLV-related specificities recognized by mouse antibody is rapidly growing and is coming to parallel the remarkable diversity of 
+MuLV recognizable by virological and biochemical methods. The use of the letter G to designate cell surface antigens related to naturally occurring 
+MuLV was intended to honor Ludwig Gross, the discoverer of this class of oncornaviruses. Until a more definite nomenclature can be devised for 
+these antigens, it has been proposed that new MuLV-related cell surface specificities of the G class be named after the prototype normal or 
+leukemic cell used in defining the antigen, and this has been done in the case of G<SUB>(RADA1)</SUB>, G<SUB>(ERLD)</SUB>, and G<SUB>(AKSL2)</SUB>. 
+Because the GCSA and G<SUB>IX</SUB> designations are widely used, it would seem unwise to rename them according to this new convention at the 
+present time.
+
+<P>Each of the five MuLV-related surface antigens can be distinguished on the basis of their strain distribution, tissue distribution, and appearance 
+in leukemias and other tumors of strains that normally do not express these antigens. Their specification by MuLV is shown in two general ways: 
+<U>relation to MuLV structural components</U>, either by absorption studies with purified MuLV proteins or by immunochemical characterization of the 
+cell surface molecule, and <U>antigen induction following MuLV infection of permissive cells</U>. In this way, GCSA has been shown to be a glycosylated 
+polyprotein related to p15 and p30 viral core proteins, and G<SUB>IX</SUB>, G<SUB>(RADA1)</SUB> and G<SUB>(ERLD)</SUB> have been shown to be 
+type-specific determinants of gp70 molecules. In assays of antigen induction by MuLV, GCSA appears to be a general marker for MuLV infection, with 
+GCSA expression being induced by ecotropic, xenotropic, and amphotropic MuLV. In the case of the gp70-related antigens, G<SUB>IX</SUB> and G<SUB>(RADA1)</SUB> 
+induction is a common property of ecotropic MuLV, particularly those with N-tropism, and G<SUB>(ERLD)</SUB> is closely related to xenotropic MuLV in 
+induction assays. The most recently defined MuLV-related specificity, G<SUB>(AKLS2)</SUB>, is closely related to xenotropic MuLV in induction assays. 
+The most recently defined MuLV-related specificity, G<SUB>(AKLS2)</SUB>, is related to the dualtropic MuLV, MCF 247, a virus thought to arise by 
+recombination between ecotropic and xenotropic MuLV (
+<A HREF="#ref25-19">19</A>), and recognition of the G<SUB>(AKLS2)</SUB> system provides a way to examine the natural history of this virus in the mouse.
+
+<A NAME="Gv-1"></A>
+<P>Of the various MuLV-related cell surface specificities, the G<SUB>IX</SUB> trait has been the subject of the most comprehensive immunogenetic analysis (
+<a href="javascript:windowt253 = window.open('../tables/table25-3.shtml', 'windowt253', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt253.focus()">Table 3</A>). 
+In normal mice, G<SUB>IX</SUB> behaves like an alloantigen, being present in some mouse strains and not in others. It 
+also has the characteristics of a differentiation antigen, being present in some tissues and absent in others, and this feature is most evident in 
+strains such as 129, where thymocytes are the only G<SUB>IX</SUB><SUP>+</SUP> lymphoid cells. Thymocytes from different G<SUB>IX</SUB><SUP>+</SUP> 
+strains show characteristic quantitative differences in G<SUB>IX</SUB> expression and, as absorption capacity follows a ratio of 3:2:1, the three 
+phenotypes have been termed G<SUB>IX</SUB><SUP>3</SUP>, G<SUB>IX</SUB><SUP>2</SUP>, and G<SUB>IX</SUB><SUP>1</SUP>. Segregation data are consistent 
+with a two-gene specification of the G<SUB>IX</SUB> trait, and these two genes have been designated 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95877" target="_blank"><I>Gv-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95878" target="_blank"><I>Gv-2</I></A>. 
+Despite considerable 
+effort, the chromosomal loci of these genes remain unknown (
+<A HREF="#ref25-4">4</A>, 
+<A HREF="#ref25-20">20</A>). The relation of G<SUB>IX</SUB> to MuLV has been shown in a variety of ways: 1) <I>in vivo</I> infection of G<SUB>IX</SUB><SUP>-</SUP> 
+mouse and rat strains with MuLV leads to G<SUB>IX</SUB> appearance, 2) <I>in vitro</I> infection of permissive cells with certain ecotropic and 
+MCF MuLV leads to G<SUB>IX</SUB> appearance, and 3) the G<SUB>IX</SUB> determinant on the surface of thymocytes and MuLV-infected cells resides 
+on a molecule with antigenic and biochemical characteristics of MuLV-gp70. Peptide maps of the G<SUB>IX</SUB>-gp70 on normal thymocytes suggest 
+a relationship to xenotropic MuLV (
+<A HREF="#ref25-21">21</A>), even though MuLV-induction assays have shown a close association of the G<SUB>IX</SUB> trait with ecotropic MuLV (
+<A HREF="#ref25-12">12</A>). This would suggest that thymocyte G<SUB>IX</SUB> represents the product of an ancestral gene coding for a recombinant gp70 
+molecule that has become fixed in the species, with the G<SUB>IX</SUB> determinant originally contributed by ecotropic MuLV and the remainder 
+of the gp70 molecule by xenotropic MuLV. The fact that the MCF 247 MuLV, a virus with both ecotropic and xenotropic properties, codes for G<SUB>IX</SUB> 
+is consistent with this idea.
+
+<A NAME="TL"></A>
+<P>From studies of leukemic mice, we know that all mice have the genetic information specifying G<SUB>IX</SUB>, even though they may not express 
+G<SUB>IX</SUB> during normal life as a consequence of differentiation signals or MuLV activation. The basis for this statement is the observation 
+that G<SUB>IX</SUB><SUP>+</SUP> leukemias occur in G<SUB>IX</SUB><SUP>-</SUP> strains of mice as well as in G<SUB>IX</SUB><SUP>+</SUP> strains, 
+and this may occur in the absence of MuLV replication. This activation of normally silent genetic information as a consequence of leukemogenesis 
+was first recognized during our analysis of another class of cell surface molecules, the TL system of antigens (
+<A HREF="#ref25-5">5</A>). TL antigens and the G<SUB>IX</SUB> antigen have many features in common, with the notable exception that there is presently no 
+evidence linking MuLV to the TL system.
+
+<A NAME="Tla"></A>
+<P>In normal mice, TL is found exclusively on thymocytes, no other normal tissue expressing the antigen (
+<a href="javascript:windowt254 = window.open('../tables/table25-4.shtml', 'windowt254', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt254.focus()">Table 4</A>). 
+Mouse strains can be typed TL<SUP>+</SUP> or TL<SUP>-</SUP> on the basis of the presence or absence of TL antigen on 
+thymocytes and, like G<SUB>IX</SUB>, antigen-negative mice have no alternative antigens specified by an alternate allele. TL is inherited as a 
+Mendelian dominant trait, and linkage studies have placed the TL locus, designated 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>, 
+on chromosome 17 &#060; 2 units from the D end of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex. The key feature of the TL system in regard to malignancy is the anomalous occurrence of TL<SUP>+</SUP> leukemias in 
+strains with the TL<SUP>-</SUP> phenotype (
+<a href="javascript:windowt255 = window.open('../tables/table25-5.shtml', 'windowt255', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt255.focus()">Table 5</A>). 
+This can best be seen by comparing the TL phenotype of normal thymocytes and of leukemia cells in mice with different 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> haplotypes. The three 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> haplotypes determine 
+three TL phenotypes in normal mice. A strain mice with the <I>Tla<SUP>a</SUP></I> 
+haplotype express three specificities of TL, TL.1, TL.2, and TL.3, on their normal thymocytes. C57BL/6 mice, the prototype strain with the 
+<I>Tla<SUP>b</SUP></I> haplotype, express no TL antigens on normal thymocytes. BALB/c mice with the <I>Tla<SUP>c</SUP></I> haplotype express 
+TL.2 alone on normal thymocytes. In mice with the <I>Tla<SUP>a</SUP></I> haplotype, TL<SUP>+</SUP> leukemias resemble normal thymocytes and 
+no evidence for appearance of anomalous TL components has been found. Leukemias arising in mice with the <I>Tla<SUP>b</SUP></I> or 
+<I>Tla<SUP>c</SUP></I> haplotype may be either TL<SUP>-</SUP> or TL<SUP>+</SUP>, and TL<SUP>+</SUP> leukemias invariably express anomalous 
+TL components; TL.1, TL.2 and TL.4 in the case of C57BL leukemias and TL.1 or TL.1 and TL.4 in the case of BALB/c leukemias.
+
+<P>The anomalous appearance of TL antigens has been attributed to the universal presence of structural genes for TL antigens in the mouse. 
+According to this view, regulatory genes determine whether TL is expressed on normal thymocytes. Thus, segregation for the Tl trait in normal 
+mice in based on expression vs. nonexpression alleles at the regulatory locus rather than presence vs. absence of TL structural genes. 
+Leukemogenesis leads to an alteration in this regulatory mechanism in TL<SUP>-</SUP> mice, with consequent activation or derepression of TL 
+genetic information and the appearance of TL antigens on the surface of leukemia cells. Antigen systems with the three distinct features of 
+TL -- namely, genetic linkage to the major histocompatibility complex, restriction to normal thymocytes, and anomalous appearance on 
+leukemias -- have not been found in any other species, but it would be surprising if the mouse were unique in this regard.
+
+<P>With the range of surface markers that have been identified on T cells of the mouse, the surface phenotype of normal thymocytes and leukemias 
+of thymic origin is becoming well characterized. A comparison of the surface antigens of three leukemias that have been extensively studied with 
+the corresponding normal thymocyte population is shown in 
+<a href="javascript:windowt256 = window.open('../tables/table25-6.shtml', 'windowt256', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt256.focus()">Table 6</A>.
+
+<P>The thymic origin of the AKR spontaneous leukemia AKSL2 is shown by the Thy-1 marker, despite the fact that no Lyt antigens could be detected 
+on this leukemia. As is true of most spontaneous leukemias of AKR mice, the leukemia cells express no anomalous TL components. The five MuLV-related 
+specificities found on the leukemia cells are also present on normal thymocytes. Thus, with regard to TL and MuLV-related antigens, the surface 
+phenotype of this AKR leukemia does not differ from normal thymocytes, at least in a qualitative sense.
+
+<P>The A strain x-ray-induced leukemia RADA1 also lacks Lyt antigens, but its T cell origin is indicated by Thy-1 and by the three TL specificities 
+(TL.1, 2, 3) that appear on RADA1 as differentiation alloantigens. The other surface feature that distinguishes RADA1 from normal A strain thymocytes 
+is the anomalous appearance of the MuLV-related specificity G<SUB>(Rada1)</SUB> on the leukemia cell.
+
+<P>The surface phenotype of the C57BL x-ray-induced leukemia ERLD illustrates the phenomenon of anomalous TL appearance. In contrast to the 
+TL<SUP>-</SUP> phenotype of normal C57BL thymocytes, leukemia ERLD has a TL.1, 2, 4 phenotype. With regard to other surface antigens, ERLD and C57BL 
+thymocytes are identical.
+
+<A NAME="specific"></A>
+<P>The recognition that cell surface antigens such as TL and G<SUB>(RADA1)</SUB> may be leukemia specific in some strains, yet be normally expressed 
+as differentiation alloantigens or MuLV-related antigens in other strains, has been an important contribution of basic immunogenetics to tumor 
+immunology. As yet, no transformation-specific surface antigen restricted to leukemia cells of the mouse has been found. TL.4 comes closest to 
+fulfilling this characteristic, having never been found on any normal cell of any mouse strain. Recent work, however, has shown that anomalous 
+TL components, including Tl.4, are expressed early in the preleukemic phase of x-ray leukemogenesis, prior to the emergence of fully autonomous 
+cells, and should therefore be considered markers for preleukemic changes rather than as transformation-specific traits (
+<A HREF="#ref25-22">22</A>).
+
+<P>
+<a href="javascript:windowt257 = window.open('../tables/table25-7.shtml', 'windowt257', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt257.focus()">Table 7</A> 
+summarizes current knowledge about the categories of surface antigens of mouse leukemia cells (
+<A HREF="#ref25-4">4</A>). The term "derepression antigens" has been used to distinguish antigens appearing on the surface of tumor cells that are coded 
+for by normally silent genetic information. The TL and MuLV-related antigens appearing on leukemias of TL<SUP>-</SUP> and MuLV<SUP>-</SUP> strains 
+would be prime examples of derepression antigens. Tumor antigens coded for by genes active only in embryonic or fetal life would also belong in this 
+category, but, despite considerable interest in the possibility of such tumor antigens, their existence remains to be proven. Another category of 
+cell surface antigens of particular interest to the tumor immunologist is the individually distinct or unique tumor-specific antigen, first 
+demonstrated by transplantation techniques in chemically induced sarcomas of the mouse (
+<A HREF="#ref25-23">23</A>, 
+<A HREF="#ref25-24">24</A>, 
+<A HREF="#ref25-25">25</A>) and now known to be present on several other tumor types of mouse and rat. These antigens are characterized by a remarkable 
+polymorphism, no two tumors, even if induced in the same mouse, sharing identical antigens. The origin of these unique antigens has been the subject 
+of considerable speculation, with both genetic and epigenetic theories having been advanced, but their nature remains as obscure now as it was when 
+they were discovered. With the recognition that MuLV exists in a far more polymorphic state than originally envisioned, the possibility that these 
+unique antigens owe their origin to MuLV genes must be reconsidered, especially since recombinational event between different classes of MuLV and 
+between MuLV and host genes, which appears likely as a source of MuLV variation, would be expected to give rise to an enormous repertoire of new 
+antigens. Further understanding awaits serological and biochemical definition of these antigens, and advances in both these directions have recently 
+been made with a methylcholanthrene sarcoma of BALB/c mice (
+<A HREF="#ref25-26">26</A>, 
+<A HREF="#ref25-27">27</A>). As yet, little effort has gone into the serological detection of unique antigens on leukemia cells. Their presence could be 
+easily obscured by cross-reacting systems such as Tl or MuLV-related antigens. With the background of information we now have concerning the surface 
+phenotype of leukemia cells, planned immunizations devised to detect new systems of surface antigens, including the individually distinct type, should 
+make the next phase of immunogenetic analysis a most revealing one.
+
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref25-1"></A>
+<P>1. Gorer, P.A., and O'Gorman, P. (1956). Transplant. Bull. <B>3:</B> 142.
+
+<A NAME="ref25-2"></A>
+<P>2. Old, L.J., and Boyse, E.A. (1973). Harvey Lect. <B>67:</B> 273.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4351100" target="_blank">PubMed</A></I>.
+<!-- PMID: 4351100 -->
+
+<A NAME="ref25-3"></A>
+<P>3. Boyse, E.A., and Old, L.J. (1978) Harvey Lect. <B>71</B>: 23.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->309458" target="_blank">PubMed</A></I>.
+<!-- PMID: 309458 -->
+
+<A NAME="ref25-4"></A>
+<P>4. Old, L.J., and Stockert, E. (1977). Ann. Rev. Genet. <B>11:</B> 127.
+
+<A NAME="ref25-5"></A>
+<P>5. Old, L.J., Boyse, E.A., and Stockert, E. (1963). J. Natl. Cancer Inst. <B>31:</B> 977.
+
+<A NAME="ref25-6"></A>
+<P>6. Old, L.J., Boyse, E.A., and Stockert, E. (1965). Cancer Res. <B>25:</B> 813.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4284252" target="_blank">PubMed</A></I>.
+<!-- PMID: 4284252 -->
+
+<A NAME="ref25-7"></A>
+<P>7. Reif, A.E., and Allen, J.M.V. (1964). J. Exp. Med. <B>120:</B> 413.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:72579" target="_blank">MGI</A></I>.
+<!-- MGI:72579 -->
+
+<A NAME="ref25-8"></A>
+<P>8. Old, L.J., Boyse, E.A., and Sockert, E. (1964). Nature <B>201:</B> 777.
+
+<A NAME="ref25-9"></A>
+<P>9. Klein, E., and Klein, G. (1964). J. Natl. Cancer Inst. <B>32:</B> 547.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14130672" target="_blank">PubMed</A></I>.
+<!-- PMID: 14130672 -->
+
+<A NAME="ref25-10"></A>
+<P>10. Stockert, E., Old, L.J., and Boyse, E.A. (1971). J. Exp. Med. <B>133:</B> 1334.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53679" target="_blank">MGI</A></I>.
+<!-- MGI:53679 -->
+
+<A NAME="ref25-11"></A>
+<P>11. Snyder, H.W., Jr., Stockert, E., and Fleissner, E. (1977). J. Virol. <B>23:</B> 302.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->69725" target="_blank">PubMed</A></I>.
+<!-- PMID: 69725 -->
+
+<A NAME="ref25-12"></A>
+<P>12. O'Donnell, P.V., and Stockert, E. (1976). J. Virol. <B>20:</B> 545.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->62848" target="_blank">PubMed</A></I>.
+<!-- PMID: 62848 -->
+
+<A NAME="ref25-13"></A>
+<P>13. Obata, Y., Ikeda, H., Stockert, E., and Boyse, E.A. (1975). J. Exp. Med. <B>141:</B> 188.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->46910" target="_blank">PubMed</A></I>.
+<!-- PMID: 46910 -->
+
+<A NAME="ref25-14"></A>
+<P>14. Obata, Y., Stockert, E., Boyse, E.A., Tung, J-S., and Litman, G.W. (1976). J. Exp. Med. <B>144:</B> 533.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->182895" target="_blank">PubMed</A></I>.
+<!-- PMID: 182895 -->
+
+<A NAME="ref25-15"></A>
+<P>15. Tung, J-S., Vitetta, E.S., Fleissner, E., and Boyse, E.A. (1975). J. Exp. Med. <B>141:</B> 198.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->163885" target="_blank">PubMed</A></I>.
+<!-- PMID: 163885 -->
+
+<A NAME="ref25-16"></A>
+<P>16. Obata, Y., Stockert, E., O'Donnell, P.V., Okubo, S., Snyder, H.W., Jr., and Old, L.J. (1978). J. Exp. Med. <B>147:</B> 1089.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->206645" target="_blank">PubMed</A></I>.
+<!-- PMID: 206645 -->
+
+<A NAME="ref25-17"></A>
+<P>17. Obata, Y., Stockert, E., DeLeo, A.B., O'Donnell, P.V., Snyder, H.W., Jr., and Old, L.J. Manuscript in preparation.
+
+<A NAME="ref25-18"></A>
+<P>18. Stockert, E., DeLeo, A.B., O'Donnell, P.V., Obata, Y., and Old, L.J. Manuscript in preparation.
+
+<A NAME="ref25-19"></A>
+<P>19. Hartley, J.W., Wolford, N.K., Old, L.J., and Rowe, W.P. (1977). Proc. Natl. Acad. Sci. <B>74:</B> 789.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:74575" target="_blank">MGI</A></I>.
+<!-- MGI:74575 -->
+
+<A NAME="ref25-20"></A>
+<P>20. Stockert, E., Boyse, E.A., Sato, H., and Itakura, K. (1976). Proc. Natl. Acad. Sci. <B>73:</B> 2077.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54138" target="_blank">MGI</A></I>.
+<!-- MGI:54138 -->
+
+<A NAME="ref25-21"></A>
+<P>21. Tung, J-S., O'Donnell, P.V., Fleissner, E., and Boyse, E.A. (1978). J. Exp. Med. <B>147:</B> 1280.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->206647" target="_blank">PubMed</A></I>.
+<!-- PMID: 206647 -->
+
+<A NAME="ref25-22"></A>
+<P>22. Stockert, R., and Old, L.J. (1977). J. Exp. Med. <B>146:</B> 271.
+
+<A NAME="ref25-23"></A>
+<P>23. Gross, L. (1943). Cancer Res. <B>3:</B> 326.
+
+<A NAME="ref25-24"></A>
+<P>24. Foley, E.J. (1953). Cancer Res. <B>13:</B> 835.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13116120" target="_blank">PubMed</A></I>.
+<!-- PMID: 13116120 -->
+
+<A NAME="ref25-25"></A>
+<P>25. Prehn, R.T., and Main, J.M. (1957). J. Natl. Cancer Inst. <B>18:</B> 769.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13502695" target="_blank">PubMed</A></I>.
+<!-- PMID: 13502695 -->
+
+<A NAME="ref25-26"></A>
+<P>26. DeLeo, A.B., Shiku, H., Takahashi, T., John, M., and Old, L.J. (1977). J. Exp. Med. <B>146:</B> 720.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->197192" target="_blank">PubMed</A></I>.
+<!-- PMID: 197192 -->
+
+<A NAME="ref25-27"></A>
+<P>27. Natori, T., Law, L.W., and Appella, E. (1977). Cancer Res. <B>37:</B> 3406.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->69494" target="_blank">PubMed</A></I>.
+<!-- PMID: 69494 -->
+
+<DIV Align="center"><H4> <A HREF="graff.shtml">Previous</A> <A HREF="flaherty.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,450 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="flaherty.shtml">Previous</A> <A HREF="morse2.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 27 -->
+
+<H2>Recombinant Inbred Strains: Use in Gene Mapping<SUP>
+<A HREF="#note1">1</A></SUP></H2>
+
+<H3>Benjamin A. Taylor<BR><BR>
+
+The Jackson Laboratory<BR>
+Bar Harbor, Maine</H3>
+
+<P>Genetic polymorphism is very extensive in cross-fertilizing species (
+<A HREF="#ref27-1">1</A>, 
+<A HREF="#ref27-2">2</A>), a fact that is reflected in multiple genetic differences between inbred strains. Mammals have sufficient DNA to code 
+for thousands of genes, and significant fractions of samples of loci exhibit polymorphic variation. Thus, unrelated strains of mice differ 
+by hundreds, possibly thousands, of genetic loci. A variety of biochemical and immunological techniques have proved useful for detecting genetic polymorphism (
+<A HREF="#ref27-3">3</A>, 
+<A HREF="#ref27-4">4</A>). Emphasis in mouse genetics has shifted away from the study of mutants to the study of genetic polymorphisms. There are 
+several reasons why it is desirable to locate these polymorphic genes in the linkage map of the mouse. Traditional methods of linkage testing 
+are slow and uncertain of yielding positive results. A systematic approach is clearly desirable. Recombinant inbred strains represent such an approach.
+
+<A NAME="strain_distribution_pattern"></A>
+<P><CENTER>RI Strains and linkage Detection</CENTER>
+
+<P><U>Recombinant inbred</U> (RI) strains are derived by systematic inbreeding beginning with the F<SUB>2</SUB> generation of the cross of two preexisting 
+inbred (progenitor) strains (
+<A HREF="#ref27-5">5</A>). Multiple independent strains are derived without selection. Once inbred, such a set of RI strains can be thought of as a stable segregant 
+population. Unlinked genes are randomized in the F<SUB>2</SUB> generation and are therefore equally likely to be fixed in parental or recombinant phases. 
+Linked genes will tend to become fixed in the same (parental) combinations as they entered the cross. Thus inbreeding preserves part of the linkage disequilibrium 
+generated when two inbred strains are crossed. Once inbred, the RI strains are typed with respect to the numerous genetic differences that distinguish the progenitor 
+strains. Each locus has a particular pattern of inheritance called the strain distribution pattern (SDP). Comparisons are made between different SDPs; a significant 
+excess of parental genotypes, with respect to two SDPs, signals the possibility of genetic linkage. The enormous advantage of this approach is that the data are 
+cumulative. Each RI strain needs to be typed only once for a particular locus. The discoverer of a new variant needs only to type the RI strains for that particular 
+locus. If there is no apparent linkage with any of the available markers, the choice is made to either continue linkage testing by traditional crosses, or wait and 
+hope that as more markers are added to the system that linkage will be revealed. The RI results may exclude linkage to certain chromosomes or parts of chromosomes, 
+thus narrowing further linkage testing.
+
+<P>The chief limitation of the method is that it is only useful for mapping genes that differ in the progenitor strains. If several different sets of RI strains are 
+available, then most polymorphisms will segregate in one or more sets. However, this is no help in mapping new mutations. Another limitation is the poor reproduction 
+encountered in some RI strains.
+
+<P><CENTER>Estimation of Recombination Frequencies</CENTER>
+
+<P>To quantitate the use of RI strains for linkage analysis, one must relate the probability of fixing a recombinant genotype in an RI strain (<I>R</I>) as a function 
+of the recombination frequency (<I>r</I>) in a single meiosis. This relationship was derived by Haldane and Waddington (
+<A HREF="#ref27-6">6</A>). For the case of brother-sister inbreeding, <I>R</I> = 4<I>r</I>/1+6<I>r</I>. (It is of interest that if RI strains are derived by parent-offspring inbreeding 
+<I>R</I> = 3<I>r</I>/1+4<I>r</I>; for selfing, <I>R</I> = 2<I>r</I>/1+2<I>r</I>.) Note that a <I>r</I> approaches zero, <I>R</I> approaches 4<I>r</I>. This can be interpreted 
+to mean that in the development of an RI strain prior to fixation of one allele, it will have been transmitted through a heterozygote four times on the average, each 
+occasion representing an opportunity for recombination with a neighboring gene. Another deduction we can make is that in RI strains we can expect 0.04 crossovers per 
+centimorgan. Thus a chromosome 100 cM in length would have, on the average, four exchanges. Thus in effect, RI strains "expand" the map four-fold. This is an advantage if 
+one is looking for rare recombinants, but a disadvantage when the objective is linkage detection.
+
+<P>By the principle of inverse estimation we can obtain an estimate of <I>r</I>, <I>r-hat</I> = <I>R-hat</I>/4-6<I>R-hat</I> where <I>R-hat</I> is the ratio of recombinant 
+strains relative to the total number or RI strains (<I>n</I>). The estimated variance of <I>r-hat</I> is given by <I>r</I>(1+2<I>r</I>)(1+6<I>r</I>)<SUP>2</SUP>/4<I>n</I> (
+<A HREF="#ref27-7">7</A>). We can use the reciprocal of the ratio of the variance of <I>r-hat</I> from RI data to the variance of <I>r-hat</I> from an equal number of backcross mice, 
+4(1-<I>r</I>)/(1+2<I>r</I>)(1+6<I>r</I>)<SUP>2</SUP>, to compare the relative efficiency of the two methods per independent marker. From 
+<a href="javascript:windowf271 = window.open('../figures/figure27-1.shtml', 'windowf271', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf271.focus()">Figure 1</A> 
+we see that RI strains are more efficient up to <I>r</I> = 0.125, but rapidly become less efficient for greater recombination values. Such a 
+comparison does not reflect the inherent advantage of RI strains, that the data are cumulative permitting the incorporation of more markers, nor the great saving in 
+effort afforded because it is necessary to test only for the new locus. Of course it is relatively easy to increase the number of backcross mice, but the costs may rise 
+if the locus of interest is difficult to type or if many markers are to be followed.
+
+<P>If no recombinants between two loci are detected among <I>n</I> RI strains, the upper confidence limit of <I>r</I> is estimated by solving the following equation for <I>r</I>:<BR><BR>
+
+
+<CENTER>
+<IMG SRC="../images/taylorimage2.jpg" WIDTH=263 HEIGHT=44 ALT="alpha">
+</CENTER><BR>
+
+where 1 - &alpha; is the confidence level, <I>e.g.</I>, for 95% confidence limit &alpha; = 0.05. The value of <I>r</I> that satisfies this equation is the 
+upper confidence limit of the estimate.
+
+<A NAME="linkage_detection"></A>
+<P><CENTER>Power of RI strains for Linkage Detection</CENTER>
+
+<P>I have attempted to quantify the power of RI strains for linkage detection through the use of Haldane's concept of the radius swept (
+<A HREF="#ref27-8">8</A>). The statistical power of a method is defined as the probability of rejecting the null hypothesis when it is false. (Note that this is defined to equal 1 - &beta;, 
+where &beta; is the probability of failing to reject the null hypothesis when it is false. The following calculations are based on adopting a significance level (&alpha;) of 0.01. 
+Having chosen a significance level, we can calculate from the binomial distribution the maximum number of permissible recombinants, such that the null hypothesis of no linkage 
+would be rejected for a given number of RI strains (
+<a href="javascript:windowt271 = window.open('../tables/table27-1.shtml', 'windowt271', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt271.focus()">Table 1</A>). 
+Thus with seven RI strains we would pursue linkages only if no recombinant were observed. With 11 RI strains we would use one recombinant as the 
+cut-off point, etc. The power function, 1 - &beta;, is equal to<BR>
+
+<CENTER>
+<IMG SRC="../images/taylorimage.jpg" WIDTH=462 HEIGHT=68 ALT="power function">
+</CENTER><BR>
+
+where <I>n</I> is the number of RI strains, and <I>a</I> is the permissible number of recombinants for a given <I>n</I>. This function varies between one (when <I>r</I> = 0) 
+and &alpha; (when <I>r</I> = 0.5). 
+<a href="javascript:windowf272 = window.open('../figures/figure27-2.shtml', 'windowf272', 'width=650,height=550,resizable=yes,scrollbars=yes'); windowf272.focus()">Figure 2</A> 
+plots this function for four different values of <I>n</I>. The radius swept, <I>s</I>, is defined as the integral of the power function over all 
+possible distances. For ease of computation I have assumed the complete interference model <I>r</I> = <I>d</I>, 0 &#060; <I>d</I> &#060; 0.5 where <I>d</I> is the map 
+distance in morgans. This approximation is good for small values of <I>n</I> but will underestimate the contribution of loose linkage to <I>s</I>, when <I>n</I> is large. 
+The radius swept can be thought of as the average length of chromosome on either side of a marker locus for which linkage would be detected. Thus each independent marker tests 
+2<I>s</I> of the total genome provided it is not close to the end of a chromosome. The value of <I>s</I> for different numbers of RI strains was determined by numerical integration 
+over the interval of (0, 0.5). The total distance swept (<I>d<SUB>n</SUB></I> = 2<I>s<SUB>n</SUB></I>) is given in 
+<a href="javascript:windowt271 = window.open('../tables/table27-1.shtml', 'windowt271', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt271.focus()">Table 1</A>. 
+The results emphasize the fact that the RI method will generally only detect close linkages.
+
+<P>We can use the distance swept (<I>d<SUB>n</SUB></I>) by a single locus in <I>n</I> RI strains to estimate the probability (<I>P</I>) of detecting linkage between 
+a new locus and one or more of <I>m</I> markers randomly distributed over a genome with total length <I>D</I>; 
+<I>P</I> = 1 - (1- [<I>d<SUB>n</SUB></I>/<I>D</I>])<SUP><I>m</I></SUP>. This neglects the fact that markers near the ends of chromosomes sweep distances less than 
+<I>d<SUB>n</SUB></I>. The total length of the mouse genome has been estimated to be 1600 cM (
+<A HREF="#ref27-9">9</A>, 
+<A HREF="#ref27-10">10</A>). 
+<a href="javascript:windowt272 = window.open('../tables/table27-2.shtml', 'windowt272', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt272.focus()">Table 2</A> 
+shows the value of <I>P</I> for different combinations of <I>n</I> and <I>m</I>. It should be noted that <I>d<SUB>n</SUB></I>/<I>D</I> is the 
+<I>a priori</I> probability of detecting linkage between any two loci, assuming a random distribution of loci throughout the map. When <I>n</I> is seven, this ratio 
+is only 0.0058, while the probability of getting a false lead is (1/2)<SUP>7</SUP> or 0.0078. This means that if only seven RI strains are available, and if one only 
+pursues perfect matches, that 57% of these would be expected to be false. Even with larger sets of RI strains a fair proportion of significant matches are 
+expected to be false positives. We can see from 
+<a href="javascript:windowt272 = window.open('../tables/table27-2.shtml', 'windowt272', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt272.focus()">Table 2</A> 
+that with 25 RI strains, 200 markers are required to be 95% confident of detecting linkage of a new marker.
+
+<P><CENTER>Gene Clustering</CENTER>
+
+<P>If the polymorphic loci that distinguish the progenitor strains are clustered, then the likelihood of detecting linkage will be increased for small values of <I>m</I>, 
+but clustering may retard the approach to saturation as <I>m</I> becomes large. In practice, some degree of clustering is to be expected, For example, all 
+immunoglobulin structural genes are expected to fall into three clusters coding for heavy, kappa, and lambda chains. Localization of chiasmata would also enhance clustering (
+<A HREF="#ref27-11">11</A>). Insofar as the progenitor strains are related, certain chromosomal segments may be identical by descent, just as pairs of RI strains will 
+share blocks of genes with each other. Major evolutionary changes in the karyotype of the species, such as the fixation of reciprocal translocations, may result in 
+the loss of polymorphisms in the chromosomes involved. Certain chromosomal regions may be deficient in genes and comprise redundant DNA of unknown function.
+
+<A NAME="gene_mapping"></A>
+<P><CENTER>Gene Mapping</CENTER>
+
+<P>In addition to detecting linkage and estimating recombination frequency, it is desirable to determine the linear order of genes on the chromosomes. The ease with 
+which multiple markers can be scored in RI strains lends itself to gene ordering. In conventional mapping, once linkage has been detected, one or more additional crosses 
+are often needed to define the correct gene order with respect to the new linkage and neighboring loci. In the case of polymorphic loci which often require specialized 
+techniques for typing, it may not be practical for a single investigator to carry out the tests needed to determine gene order. RI strains offer the possibility of 
+ordering such loci. Gene ordering depends on the fact that double crossovers are relatively rare compared to single crossovers. Interference is defined as a deficiency 
+of double crossovers relative to the product of the frequency of single crossovers in adjacent intervals. Since exchange points along a chromosome fixed in an RI strain 
+may have occurred in different individuals during the development of the strain, interference is likely to be weak. I have carried out preliminary computer simulations of 
+RI strain formation to investigate the distribution of crossover points along a chromosome. One model was of a chromosome 50 cM in length, using the mapping function 
+<I>r</I> = <I>d</I>, 0 &#060; <I>d</I>  &#060; 0.5. In other words, the probability of a crossover in any meiosis was 0.5, and the location of the crossover point was 
+random. No multiple crossovers were allowed. Therefore, interference was complete. The number of exchanges/10 cM segment of the chromosome was tabulated in several hundred 
+runs. The mean number of exchanges agreed well with the expectation (0.4). The number of segments with 0, 1, 2, 3, ... exchanges agreed remarkably well with a Poisson 
+distribution with mean of 0.4, implying that the complete interference model in meiosis generates RI chromosomes that resemble chromosomes that would be generated in a 
+situation with no interference. This model, if valid, greatly simplifies prediction of the distribution of crossover points. Thus we would predict that exchange points 
+would be randomly distributed along the chromosome. This means that, although the likelihood of two exchange points occurring between two closely linked genes is 
+necessarily small, occasionally it will happen. Therefore, we should expect to occasionally obtain three point data that are ambiguous regarding gene order or, more 
+rarely, the data may be misleading in regard to gene order. A corollary would be that one is not <U>assured</U> that because an RI strain has become fixed for two 
+closely linked markers from the same progenitor that the entire segment between those markers was inherited intact.
+
+<P>Although seven is near the minimum number of RI strains sufficient for detecting linkage, it is worth emphasizing that even a single RI strain can be very valuable. 
+A single recombinant is sufficient to show that two loci are distinct or to indicate gene order. Thus RI strain data may indicate gene order of loci that were shown to 
+be linked by other means. Therefore, existing miscellaneous RI strains should be maintained and characterized genetically.
+
+<P><CENTER>Existing RI Strains</CENTER>
+
+<P>Bailey (
+<A HREF="#ref27-5">5</A>) was the first to develop RI strains of mice. From the cross of BALB/cBy and C57BL/6By he derived seven RI strains. Although seven is near the minimal 
+number of RI strains sufficient to detect linkage, a perfect match or near match is a good enough hint to encourage further testing. Using these CXB RI strains, Bailey 
+and his collaborators have found approximately 20 linkages (
+<A HREF="#ref27-12">12</A>, 
+<A HREF="#ref27-13">13</A>, 
+<A HREF="#ref27-14">14</A>, 
+<A HREF="#ref27-15">15</A>, 
+<A HREF="#ref27-16">16</A>, 
+<A HREF="#ref27-17">17</A>, 
+<A HREF="#ref27-18">18</A>, 
+<A HREF="#ref27-19">19</A>).
+
+<P>I began making several sets of RI strains shortly after arriving at The Jackson Laboratory in 1969. The status of these strains is given in 
+<a href="javascript:windowt273 = window.open('../tables/table27-3.shtml', 'windowt273', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt273.focus()">Table 3</A>. 
+Most of these strains have now attained a high degree of inbreeding such that heterozygosity is encountered only rarely. The BXD RI strains are outstanding 
+in regard to the number of strains (twenty-four), the number of loci at which they have been typed (sixty-five), and the number of chromosomes with at least one marker (fourteen). 
+All four of these sets have been useful for gene mapping and a total of 20 linkages have been detected. Some of these are listed in 
+<a href="javascript:windowt274 = window.open('../tables/table27-4.shtml', 'windowt274', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt274.focus()">Table 4</A>. 
+There are presently 32 loci for which there are SDPs but no evidence for any linkage. Thus the success rate appears to be about 40%. The power of RI 
+strains for gene ordering is illustrated by the example of seven markers distributed over approximately 40 cM of chromosome 9 in the BXD RI strains (
+<A HREF="#ref27-20">20</A>, 
+<A HREF="#ref27-21">21</A>, and unpublished observations). A minimum of 34 exchange points are identified by these seven loci. Each exchange point potentially defines the location of 
+yet-to-be discovered loci in this region. I am also in the process of developing some additional miscellaneous RI strains. These are, in general, for special purposes, few in 
+number, incompletely inbred, and not extensively tested as yet. A number of other workers outside The Jackson Laboratory are presently developing RI strains. Although it seems 
+likely that a point of diminishing returns will be reached regarding additional sets of RI strains, it is too soon to know if it has yet been reached.
+
+<P>The number of loci typed in the RI strains has been increasing by about ten per year for the past several years. The technique of isoelectric focusing, either alone or 
+combined with conventional electrophoresis, promises to reveal numerous protein polymorphisms not seen with electrophoresis alone. The application of these techniques to RI 
+strains is expected to result in a quantum jump in the number of loci typed. Recent developments in DNA chemistry and the ability to clone may make it possible to recognize 
+strain differences at the DNA level. Presumably, when more workers become aware of RI strains and their potential usefulness, they will avail themselves of this tool. Therefore 
+I am optimistic that in the next few years we will see the RI method come into its own in mouse genetics.
+
+<HR>
+
+<P><A NAME="note1"></A><SUP>1</SUP>These studies were supported in part by contract NO1 CP33255 within the Virus Cancer Program of the National Cancer Institute, 
+and by NIH research grant GM 18684 from the National Institute of General Medical Sciences. The Jackson Laboratory is fully accredited by the American Association 
+of Laboratory Animal Care (AAALAC).
+
+<HR>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref27-1"></A>
+<P>1. Lewontin, R.C., and Hubby, J.L. (1966). Genetics <B>54</B>: 595.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5968643" target="_blank">PubMed</A></I>.
+<!-- PMID: 5968643 -->
+
+<A NAME="ref27-2"></A>
+<P>2. Harris, H. (1966). Proc. Roy. Soc. Lond. <B>164</B>: 298.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4379519" target="_blank">PubMed</A></I>.
+<!-- PMID: 4379519 -->
+
+<A NAME="ref27-3"></A>
+<P>3. Roderick, T.H., Ruddle, F.H., Chapman, V.M., and Shows, T.B. (1971). Biochem. Genet. <B>5</B>: 457.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5520794" target="_blank">PubMed</A></I>.
+<!-- PMID: 5520794 -->
+
+<A NAME="ref27-4"></A>
+<P>4. Snell, G.D., and Cherry, M. (1972). In <I>RNA Viruses and Host Genome in Oncogenesis</I> 
+(P. Emmelot and P. Bentvelzen, eds.). North-Holland, Amsterdam.
+
+<A NAME="ref27-5"></A>
+<P>5. Bailey, D.W. (1971). Transplantation <B>11</B>: 325.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:65682" target="_blank">MGI</A></I>.
+<!-- MGI:65682 -->
+
+<A NAME="ref27-6"></A>
+<P>6. Haldane, J.B.S., and Waddington, C.H. (1931). Genetics <B>16</B>: 357.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:75372" target="_blank">MGI</A></I>.
+<!-- MGI:75372 -->
+
+<A NAME="ref27-7"></A>
+<P>7. Green, E.L. Unpublished.
+
+<A NAME="ref27-8"></A>
+<P>8. Haldane, J.B.S. (1956). J. Genet. <B>54</B>: 327.
+
+<A NAME="ref27-9"></A>
+<P>9. Carter, T.C. (1955). J. Genet. <B>53</B>: 21.
+
+<A NAME="ref27-10"></A>
+<P>10. Searle, A.F., Berry, R.J., and Beechey, C.V. (1970) Mutat. Res. <B>9</B>: 137.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5410807" target="_blank">PubMed</A></I>.
+<!-- PMID: 5410807  -->
+
+<A NAME="ref27-11"></A>
+<P>11. Lyon, M.F. (1977). Genet. Res. <B>28</B>: 291.
+
+<A NAME="ref27-12"></A>
+<P>12. Bailey, D.W., and Hoste, J. (1971). Transplantation <B>11</B>: 404.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4934351" target="_blank">PubMed</A></I>.
+<!-- PMID: 4934351 -->
+
+<A NAME="ref27-13"></A>
+<P>13. Merryman, C.F., Maurer, P.H., and Bailey, D.W. (1972). J. Immunol. <B>108</B>: 397.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5023177" target="_blank">PubMed</A></I>.
+<!-- PMID: 5023177 -->
+
+<A NAME="ref27-14"></A>
+<P>14. Blomberg, B., Geckeler, W., and Weigert, M. (1972). Science <B>177</B>: 178.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53762" target="_blank">MGI</A></I>.
+<!-- MGI:53762 -->
+
+<A NAME="ref27-15"></A>
+<P>15. Oliverio, A., Eleftheriou, B.E., and Bailey, D.W. (1973). Physiol. Behav. <B>10</B>: 893.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53833" target="_blank">MGI</A></I>.
+<!-- MGI:53833 -->
+
+<A NAME="ref27-16"></A>
+<P>16. Eleftheriou, B.E., and Kristal, M. (1974). J. Reprod. Fertil. <B>38</B>: 41.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53944" target="_blank">MGI</A></I>.
+<!-- MGI:53944 -->
+
+<A NAME="ref27-17"></A>
+<P>17. Wikstrand, C.J., Haughton, G., and Bailey, D.W. (1974). Cell. Immunol. <B>10</B>: 238.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4455386" target="_blank">PubMed</A></I>.
+<!-- PMID: 4455386 -->
+
+<A NAME="ref27-18"></A>
+<P>18. DeMaeyer, E., DeMaeyer-Guinard, J., and Bailey, D.W. (1975). Immunogenet. <B>1</B>: 438.
+
+<A NAME="ref27-19"></A>
+<P>19. Bailey, D.W. Personal communication.
+
+<A NAME="ref27-20"></A>
+<P>20. Womack, J., Lynes, M.A., and Taylor, B.A. (1974). Biochem. Genet. <B>13</B>: 511.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1203051" target="_blank">PubMed</A></I>.
+<!-- PMID: 1203051 -->
+
+<A NAME="ref27-21"></A>
+<P>21. Meisler, M.H. (1976). Biochem. Genet. <B>14</B>: 921.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:68357" target="_blank">MGI</A></I>.
+<!-- MGI:68357 -->
+
+<A NAME="ref27-22"></A>
+<P>22. Taylor, B.A., and Meier, H. (1975). Genetical Res. <B>26</B>: 307.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1225763" target="_blank">PubMed</A></I>.
+<!-- PMID: 1225763 -->
+
+<A NAME="ref27-23"></A>
+<P>23. Festenstein, H., Bishop, C., and Taylor, B.A. (1977). Immunogenet. <B>5</B>: 357.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60307" target="_blank">MGI</A></I>.
+<!-- MGI:60307 -->
+
+<A NAME="ref27-24"></A>
+<P>24. Wilson, C., Wilson, J., and Taylor, B.A. (1978). Mouse News Letter <B>58</B>: 49.
+
+<A NAME="ref27-25"></A>
+<P>25. Watson, J., Riblet, R., and Taylor, B.A. (1977). J. Immunol. <B>118</B>: 2088.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54290" target="_blank">MGI</A></I>.
+<!-- MGI:54290 -->
+
+<A NAME="ref27-26"></A>
+<P>26. Watson, J., Kelly, K., Largen, M., and Taylor, B.A. (1978). J. Immunol. <B>120</B>: 422.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54396" target="_blank">MGI</A></I>.
+<!-- MGI:54396 -->
+
+<A NAME="ref27-27"></A>
+<P>27. Taylor, B.A., Bedigian, H.G., and Meier, H. (1977). J. Virol. <B>23</B>: 106.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54329" target="_blank">MGI</A></I>.
+<!-- MGI:54329 -->
+
+<A NAME="ref27-28"></A>
+<P>28. Taylor, B.A., and Shen, F.W. (1977). Immunogenet. <B>4</B>: 597.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52960" target="_blank">MGI</A></I>.
+<!-- MGI:52960 -->
+
+<A NAME="ref27-29"></A>
+<P>29. Claflin, J.L., Taylor, B.A., Cherry, M., and Cubberley, M. (1978). Immunogenet. (accepted).
+
+<A NAME="ref27-30"></A>
+<P>30. Taylor, B.A., and Wood, A.W. (1976). Mouse News Letter <B>54</B>: 41.
+
+<A NAME="ref27-31"></A>
+<P>31. Skow, L., and Taylor, B.A. (1977). Mouse News Letter <B>57</B>: 19.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:68375" target="_blank">MGI</A></I>.
+<!-- MGI:68375 -->
+
+<A NAME="ref27-32"></A>
+<P>32. Stern, R.H., Russell, E.S., and Taylor, B.A. (1976). Biochem. Genet. <B>14</B>: 373.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54164" target="_blank">MGI</A></I>.
+<!-- MGI:54164 -->
+
+<A NAME="ref27-33"></A>
+<P>33. Day, C., and Nesbitt, M. (1977). Mouse News Letter <B>57</B>: 10.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61899" target="_blank">MGI</A></I>.
+<!-- MGI:61899 -->
+
+<A NAME="ref27-34"></A>
+<P>34. Womack, J.E., Taylor, B.A., and Barton, J.E. (1978). Biochem. Genet. <B>16</B>: 1107.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54602" target="_blank">MGI</A></I>.
+<!-- MGI:54602 -->
+
+<A NAME="ref27-35"></A>
+<P>35. Mishkin, J.D., Taylor, B.A., and Mellman, W.J. (1976). Biochem. Genet. <B>14</B>: 635.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54195" target="_blank">MGI</A></I>.
+<!-- MGI:54195 -->
+
+<A NAME="ref27-36"></A>
+<P>36. Cumming, R.B., Walton, M.V., Fuscoe, J.C., Taylor, B.A., Womack, J.E., and Gaertner, F.H. (1978). 
+Biochem. Genet. (submitted).
+
+<A NAME="ref27-37"></A>
+<P>37. Taylor, B.A., Bailey, D.W., Cherry, M., Riblet, R., and Weigert, M. (1975). Nature <B>256</B>: 644.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54036" target="_blank">MGI</A></I>.
+<!-- MGI:54036 -->
+
+
+<DIV Align="center"><H4> <A HREF="flaherty.shtml">Previous</A> <A HREF="morse2.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

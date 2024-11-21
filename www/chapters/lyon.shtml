@@ -1,0 +1,331 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="morse2.shtml">Previous</A> <A HREF="rosenstreich.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 29 -->
+
+<H2>Standardized Genetic Nomenclature for Mice: Past, Present and Future</H2>
+
+<H3>Mary F. Lyon<BR><BR>
+
+MRC Radiobiology Unit<BR>
+Harwell, Didcot, Oxon, U.K.</H3>
+
+<P>Nomenclature is one of those systems, analogous to digestion, circulation, or respiration, which should function 
+smoothly without our awareness of it. Nevertheless, like those physiological functions it is essential, and since 
+unlike them it is man-made by corporate decisions, it is very important that nomenclature should sometimes be discussed. 
+Perhaps the most convenient way to consider the subject is a historical or developmental sequence.
+
+<A NAME="snell"></A>
+<P>The history of committees dealing with the nomenclature of mouse genetics and inbred strains has been reviewed by Snell (
+<A HREF="#ref29-1">1</A>) and by Staats (
+<A HREF="#ref29-2">2</A>) and is presented in tabular form in 
+<a href="javascript:windowt291 = window.open('../tables/table29-1.shtml', 'windowt291', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt291.focus()">Table 1</A>. 
+Although inbred strains have been of such paramount importance to mouse genetics and were begun 
+so early in the development of the subject, the first nomenclature committee dealt not with inbred strains but with mouse 
+gene nomenclature. It was formed as early as 1939, when there were only 31 known gene loci and seven linkage groups. This 
+early formation of a nomenclature committee was an important factor in its success since, if nomenclature is allowed to 
+develop in an organized way for any length of time, it becomes very difficult to gain the acceptance of scientists for 
+the changes necessary to produce order. Present day geneticists thus owe a considerable debt to the foresight of those 
+who took part in organizing the first committee. One of the prime movers was G.D. Snell.
+
+<P>Another important factor in the success of any nomenclature committee is the wide dissemination of its findings and 
+in this respect also the first committee made a very wise move in founding the <I>Mouse News Letter</I>, which first appeared 
+in 1949, and is still a major organ today for disseminating information on mouse genetical nomenclature.
+
+<P>Inbred strains as such first entered the nomenclature scene in 1952 when a Committee on Standardized Nomenclature for 
+Inbred Strains of Mice was formed. This group succeeded in gaining wide acceptance not only on the nomenclature for inbred 
+strains, but also on the genetic criteria for the establishment of new inbred strains and for congenic strains, which are 
+now of such great importance and had then recently been introduced, with G.D. Snell again a leading figure. Like the 
+Committee on Gene Nomenclature, the Committee on Inbred Strain Nomenclature attached much importance to the dissemination 
+of its findings and began the listing of inbred strains and their nomenclature in <I>Cancer Research</I> which has been 
+carried out regularly by Joan Staats since then (
+<A HREF="#ref29-3">3</A>).
+
+<P>in 1958 the two committees for nomenclature of inbred strains and for gene nomenclature were merged to form the 
+Committee on Standardized Genetic Nomenclature for Mice which is the body responsible for coordinating and regulating 
+all problems concerned with the nomenclature of strains, genes, and chromosome anomalies of the mouse today. The merging 
+of the strain and gene nomenclature committees into a single body was of course highly appropriate, as the contribution of 
+inbred strains, congenic strains, and recombinant strains to knowledge of gene loci has been so great. There were in 1977 
+approximately 545 gene loci with known variants (
+<A HREF="#ref29-4">4</A>), and of these Staats (
+<A HREF="#ref29-3">3</A>) listed over 120, or 22%, as being polymorphic in inbred strains.
+
+<P>In 1971 the Committee on Standardized Genetic Nomenclature for Mice (hereafter called the Nomenclature Committee) sought 
+and gained affiliation with the International Committee on Laboratory Animals, which is a dependent body of UNESCP and WHO. 
+Hence, the Nomenclature Committee has official international status. Its members are all scientists working actively in the 
+field. They are drawn from a number of different countries and represent as many areas of expertise in mouse genetics as possible.
+
+<P>The work is carried out largely by correspondence, with occasional meetings timed to coincide with international genetics meetings. 
+When particular problems arise <I>ad hoc</I> subcommittees may be formed to prepare recommendations which are then circulated to 
+scientists active in the area of concern for their comments. Finally the members of the Committee vote on the recommendations (
+<a href="javascript:windowt292 = window.open('../tables/table29-2.shtml', 'windowt292', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt292.focus()">Table 2</A>).
+
+<P>The present rules for nomenclature fall under three main headings:
+
+<OL>
+<LI>Inbred strains (including congenic and recombinant inbred strains).</LI>
+<LI>Gene nomenclature.</LI>
+<LI>Designation of chromosome anomalies.</LI>
+</OL>
+
+However, it is clear that knowledge of these three areas is closely interrelated, and one must in fact consider all parts of the 
+nomenclature together (
+<A HREF="#ref29-5">5</A>).
+
+<P>From time to time it is necessary to make changes or additions to the rules. In drawing up its suggestions the Committee bears 
+in mind various principles:
+
+<OL>
+<LI>The nomenclature must be simple to use.</LI>
+<LI>There should be no ambiguity.</LI>
+<LI>The symbols should convey the maximum information.</LI>
+<LI>The nomenclature must have general acceptance.</LI>
+<LI>The system must be adaptable to future advances in knowledge.</LI>
+</OL>
+
+<P>In dealing with simplicity in use, a consideration to be borne in mind is that the symbols should be suitable for use in computerized 
+information retrieval systems, with minimum of modification. Some computers do not handle lower case letters. However, the use of upper 
+and lower case initial letters of gene symbols to indicate dominance or recessivity is standard practice for all organisms (
+<A HREF="#ref29-8">8</A>, 
+<A HREF="#ref29-9">9</A>, 
+<A HREF="#ref29-10">10</A>, 
+<A HREF="#ref29-11">11</A>, 
+<A HREF="#ref29-12">12</A>), and more modern computers do handle lower case letters, and hence mouse nomenclature follows the standard practice. 
+On the other hand, subscripts and superscripts are still difficult to handle by computer and hence these are kept to a minimum.
+
+<P>An example of the need to avoid ambiguity lies in the use of substrain symbols for inbred strains. Some of the well known strains have 
+now been inbred for approaching 200 generations. Bailey (
+<A HREF="#ref29-13">13</A>) has shown that different branches of these strains may come to differ genetically quite considerably as a result of 
+mutational drift, and with the increasing knowledge of polymorphisms in inbred strains more and more differences among substrains are 
+in fact being found. Thus, it is important that different workers aiming for comparable results should use not only the same strain but 
+the same substrain, and the symbolism should be so devised that it is clear which substrain was used. It is likely that changes will be 
+made in the rules for inbred strain nomenclature in the near future to make the designation of substrains clearer.
+
+<P>A further likely change, aimed at providing maximum information, is in the symbolism for congenic lines. Bailey (
+<A HREF="#ref29-14">14</A>) has pioneered the system of including in the name of the strain symbols for both the differential allele(s) and the 
+donor strain which provided the allele, <I>e.g.</I>, B10.129-<I>H-12<SUP>b</SUP></I>, a strain with the genetic background of C57BL/10Sn 
+(= B10) but which differs from that strain in a differential allele (<I>H-12<SUP>b</SUP></I>) derived from strain 129/J. This system clearly 
+provides more information than one in which only the donor strain of the differential allele is listed, since if the donor strain is known it 
+may be possible to predict which alleles at neighboring loci have been carried along in the differential chromosomal segment. Consequently, 
+Bailey's nomenclature is likely to be recommended in future.
+
+<P>Conversely, to promote simplicity in use, the inclusion of many details of manipulative processes such as fostering or egg transfer 
+is likely to be discouraged. Obviously, information on such processes is valuable as an indication of the likely presence or absence of 
+vertically transmitted viruses, etc. However, when the original rules were formulated, no one envisaged that strains would be subjected 
+to more than one, or perhaps two, such processes. Now, with the widespread use of fostering in SPF techniques some strains have been 
+fostered many times, and to include such details in the name makes the symbol unwieldy. The advent of freeze preservation as another 
+manipulative process makes the process even worse. Therefore, the Committee is likely to recommend that in future only the most recent 
+manipulative process should be mentioned in the name.
+
+<P>The Committee is of course reluctant to make changes to avoid any risks of confusion and ambiguity, and because frequent changes might 
+not be generally acceptable to scientists. However, the points already mentioned provide examples of the ways in which scientific advances 
+force the need for change.
+
+<P>It may be profitable to try to foresee what changes may be necessary in nomenclature and the work of the Nomenclature Committee in 
+the future. First, one may expect to see a continuing very rapid growth in knowledge of the field. The number of known gene loci in the 
+mouse is showing exponential growth at present, with numbers almost doubling in 10 years (
+<a href="javascript:windowf291 = window.open('../figures/figure29-1.shtml', 'windowf291', 'width=650,height=700,resizable=yes,scrollbars=yes'); windowf291.focus()">Figure 1</A>). 
+The number of mapped loci and the numbers of loci known to be polymorphic in inbred strains are likewise 
+increasing very rapidly (
+<A HREF="#ref29-3">3</A>, 
+<A HREF="#ref29-15">15</A>).
+
+<P>This means that computer storage of the information on these matters is now essential. It also means much increased work for those 
+who undertake the collection of the information for the Committee. Joan Staats has been the secretary of the Committee and has collected 
+and collated all the information on inbred strains since the first listing in 1952. Tony Searle has been editor of 
+<I>Mouse News Letter</I>, and thereby a collector of information on gene loci since 1969. A great debt is owed to both of them for 
+this work, and perhaps the Committee should consider what might be the difficulties of replacing them if and when they should wish 
+to retire, in view of the ever-increasing work load.
+
+<P>Not only may one expect to see many more known gene loci, but the knowledge of these loci is likely to become far more detailed. 
+There have been reports already of variants which are believed to involve operators, or cis-acting regulators, of structural loci (
+<A HREF="#ref29-16">16</A>), and many more of these are likely to be found. Gene complexes, too, will probably need to be incorporated in the 
+nomenclature. At present the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex is the only well established gene complex (
+<A HREF="#ref29-17">17</A>), but there are other possible candidates, such as the closely linked genes 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97571" target="_blank"><I>Ph</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98213" target="_blank"><I>Rw</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96677" target="_blank"><I>W</I></A> on chromosome 5 (
+<A HREF="#ref29-18">18</A>).
+
+<P>Knowledge of genetic mapping is also likely to become far more detailed, the location of gene loci relative to chromosomal G-bands 
+will become known, possibly with the aid of polymorphisms of G-bands in inbred strains. This more detailed mapping may mean that in 
+congenic strains, not merely a differential allele, but the full length of the transferred chromosomal segment may be known. Thus, at 
+some time in the future it may be necessary to change the symbolism for congenics once again, to incorporate this information. Certainly 
+the symbols for chromosome anomalies are likely to be changed quite soon to give details of exact positions of chromosome breaks. Yet 
+another possibility is that variants may be found in repetitive DNA, but this point is highly speculative at present (
+<A HREF="#ref29-19">19</A>).
+
+<P>The points mentioned so far have concerned mouse genetics <I>sensu stricto</I>, but there are at least two ways in which the 
+Committee is likely to have to broaden its field of interest. On the one hand, there is the question of uniformity of nomenclature 
+among species. There is widespread interest in the evolution and phylogeny of gene loci and, particularly in the case of structural 
+loci for enzymes, homologous loci have been studied not only in mouse, man, and various species of mammals, but also in birds, fish, and insects (
+<A HREF="#ref29-20">20</A>, 
+<A HREF="#ref29-21">21</A>, 
+<A HREF="#ref29-22">22</A>, 
+<A HREF="#ref29-23">23</A>). There is obviously a need for liaison among the nomenclature committees for various organisms and possibly the 
+International Genetics Federation could play a role here.
+
+<P>Since the nomenclature of mouse genetics is so well organized, relative to that in some other species, perhaps wider dissemination 
+of the work of the mouse Nomenclature Committee would be valuable. Certainly there is a great need for this wider dissemination of 
+information to those who work with mice but are not geneticists. Genetics is now such a central subject in biology, and the mouse 
+is such a widely used organism, that genetic variants are being used, and new variants are being discovered, in such disparate fields 
+as biochemistry, cancer research, endocrinology, immunology, virology, and so on. Unfortunately many workers in these fields are not 
+fully conversant with genetic terminology, and particularly with mouse genetics nomenclature. Thus, the Nomenclature Committee has an 
+important role in the future, not only in keeping abreast with probable rapid advances in knowledge, but also in disseminating its 
+information as widely as possible in the biological field.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref29-1"></A>
+<P>1. Snell, G.D. (1974). Mouse News Letter <B>50</B>: 7.
+
+<A NAME="ref29-2"></A>
+<P>2. Staats, J. (1966). In <I>Biology of the Laboratory Mouse</I>, 
+2nd. Ed. (E.L. Green, ed.), p. 45. McGraw-Hill, New York.
+
+<A NAME="ref29-3"></A>
+<P>3. Staats, J. (1976). Cancer Res. <B>36</B>: 4333.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54208" target="_blank">MGI</A></I>.
+<!-- MGI:54208 -->
+
+<A NAME="ref29-4"></A>
+<P>4. Searle, A.G. (1977). Mouse News Letter <B>56</B>: 4.
+
+<A NAME="ref29-5"></A>
+<P>5. Lyon, M.F. (1977). Immunogenetics <B>5</B>: 393.
+
+<A NAME="ref29-6"></A>
+<P>6. Committee on Genetic Symbols and Nomenclature (1957). International Union of Biological Sciences Series B No. 30, p. 1.
+
+<A NAME="ref29-7"></A>
+<P>7. Committee on Standardized Nomenclature for Inbred Strains of Mice (1952). Cancer Res. <B>12</B>: 602.
+
+<A NAME="ref29-8"></A>
+<P>8. Committee on Standardized Genetic Nomenclature for Mice (1963). J. Hered. <B>54</B>: 159.
+
+<A NAME="ref29-9"></A>
+<P>9. Committee on Standardized Genetic Nomenclature for Mice (1972). J. Hered. <B>63</B>: 69.
+
+<A NAME="ref29-10"></A>
+<P>10. Committee on Standardized Genetic Nomenclature for Mice (1973). Biochem. Genet. <B>9</B>: 369.
+
+<A NAME="ref29-11"></A>
+<P>11. Committee on Standardized Genetic Nomenclature for Mice (1974). Mouse News Letter <B>51</B>: 2. 
+
+<A NAME="ref29-12"></A>
+<P>12. Committee on Standardized Genetic Nomenclature for Mice. (1976). Mouse News Letter <B>54</B>: 2.
+
+<A NAME="ref29-13"></A>
+<P>
+<A HREF="bailey.shtml">13</A>. Bailey, D.W., (1978). In 
+<A HREF="bailey.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+<A NAME="ref29-14"></A>
+<P>14. Bailey, D.W. (1977). Inbred Strains of Mice <B>10</B>: 26.
+
+<A NAME="ref29-15"></A>
+<P>15. Roderick, T.H., and Davisson, M.T. (1977). Ann. Rep. Jackson Lab. <B>48</B>: 49.
+
+<A NAME="ref29-16"></A>
+<P>16. Paigen, K., Swank, R.T., Tomino, S., and Ganschow, R.E. (1975). J. Cell Physiol. <B>85</B>: 379.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54006" target="_blank">MGI</A></I>.
+<!-- MGI:54006 -->
+
+<A NAME="ref29-17"></A>
+<P>17. Klein, J., Bach, F.H., Festenstein, F., McDevitt, H.O., Shreffler, D.C., Snell, G.D., and Stimpfling, J.H. (1974). Immunogenetics <B>1</B>: 184.
+
+<A NAME="ref29-18"></A>
+<P>18. Searle, A.G., and Truslove, G.M. (1970). Genet. Res. <B>15</B>: 227.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53660" target="_blank">MGI</A></I>.
+<!-- MGI:53660 -->
+
+<A NAME="ref29-19"></A>
+<P>19. Lyon, M.F., and Mason, I. (1977). Genet. Res. <B>29</B>: 255.
+
+<A NAME="ref29-20"></A>
+<P>20. Harris, H. (1975). <I>The Principles of Human Biochemical Genetics</I>, 2nd Ed. North Holland, Amsterdam.
+
+<A NAME="ref29-21"></A>
+<P>21. Lush, I.E. (1966). <I>The Biochemical Genetics of Vertebrates Except Man</I>. North Holland, Amsterdam.
+
+<A NAME="ref29-22"></A>
+<P>22. Masters, C.J., and Holmes, R.S. (1972). Biol. Rev. <B>47</B>: 309.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4563847" target="_blank">PubMed</A></I>.
+<!-- PMID: 4563847 -->
+
+<A NAME="ref29-23"></A>
+<P>23. Courtright, J.B. (1976). Adv. Genet. <B>18</B>: 249.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->782201" target="_blank">PubMed</A></I>.
+<!-- PMID: 782201 -->
+
+<A NAME="ref29-24"></A>
+<P>24. Dunn, L.C., Gr&#252;neberg, H., and Snell, G.D. (1940). J. Hered. <B>31</B>: 505.
+
+<DIV Align="center"><H4> <A HREF="morse2.shtml">Previous</A> <A HREF="rosenstreich.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

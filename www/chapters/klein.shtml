@@ -1,0 +1,553 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="ivanyi2.shtml">Previous</A> <A HREF="callahan.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 49 -->
+
+<H2>Characterization of H-2 Haplotypes in Wild Mice</H2>
+
+<H3>Jan Klein<BR>
+William K. Duncan<BR>
+Edward K. Wakeland<BR>
+Zofia Zaleska-Rutczynska<BR>
+Huei-Jen S. Huang<BR>
+Ellen Hsu<BR><BR>
+Department of Immunogenetics<BR>
+The Max Planck Institute for Biology<BR>
+Tubingen, Federal Republic of Germany</H3>
+
+<P>For someone who is accustomed to going almost daily to the animal room with a shopping list of mice needed for 
+experiments, it is hard to imagine that there had been a time when no inbred strains existed. It is even more 
+difficult to envision how the world would have looked had inbred strains never been invented. Although the resourceful 
+human mind would probably have found ways to eventually arrive at our present level of knowledge even without the 
+strains, such an alternate course, no doubt, would have been much more arduous. Among the disciplines hardest hit 
+by the lack of inbred strains would have been immunogenetics and, in particular, transplantation genetics. We would 
+have learned about the existence of histocompatibility genes without the strains, but how we would have accumulated 
+all the current knowledge about the individual genes, particularly the genes in the major histocompatibility complex, 
+we cannot even guess. We are, therefore, happy to join in this tribute to the pioneers who initiated inbreeding of 
+mouse strains. They have put into our hands a tool which for contemporary biology is as indispensable as the 
+scintillation counter, the pH meter, or the Sephadex column. They have enabled the construction of new scientific 
+disciplines probing into new territories of modern biology. For all this we are extremely grateful and it is our 
+pleasure to share with them today some of the excitement that they have helped to generate.
+
+<P>The work that we are going to describe started with inbred-strain analysis but it soon led us to the original 
+source of all such strains -- the wild mice. It concerns the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex, the major histocompatibility complex of the mouse (
+<a href="javascript:windowf491 = window.open('../figures/figure49-1.shtml', 'windowf491', 'width=1000,height=300,resizable=yes,scrollbars=yes'); windowf491.focus()">Figure 1</A>). 
+When we began the work some ten years ago, Peter Gorer, Bernard Amos, Gustavo Hoecker, 
+and George Snell had already established that among the inbred strains there were some ten alleles, or haplotypes 
+as they are now referred to, at this complex locus (for review see reference 
+<A HREF="#ref49-1">1</A>). This degree of genetic variability was surprising since only two or three alleles were known at 
+all other loci identified at that time. Was this variability of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex a true polymorphism or was it 
+merely the result of chance fixation? And if the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex was more polymorphic than other loci, what was 
+then the meaning of the polymorphism, and how did the polymorphism relate to the function of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci? What was the function of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex anyway? These questions were provocative enough to stimulate our interest in the study of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> variability.
+
+<A NAME="wild_H-2"></A>
+<P><CENTER>Wild Mice Typing with Inbred Reagents</CENTER>
+
+<P>The first step in this study was to trap wild mice in farm buildings, bring them into the laboratory, and type 
+them with antisera defining individual antigens controlled by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex. All such antisera available 
+to us at that time were produced by crossimmunization of inbred strains and they defined H-2 antigens of the 
+inbred strains. The typing of the wild mice with the antisera established two important facts, but provided only 
+partial answers to our original questions (
+<a href="javascript:windowf492 = window.open('../figures/figure49-2.shtml', 'windowf492', 'width=650,height=1100,resizable=yes,scrollbars=yes'); windowf492.focus()">Figure 2</A>). 
+The two facts were, first, that some antisera were broadly reactive with wild mice, 
+while others reacted with such mice hardly at all (
+<A HREF="#ref49-2">2</A>), and second, that two mice from a single locality resembled each other in their H-2 antigens 
+more closely than mice from different localities (
+<A HREF="#ref49-3">3</A>, 
+<A HREF="#ref49-4">4</A>). The broadly cross-reactive antisera were against H-2 antigens which were also shared by many 
+inbred strains and which we therefore designated as public (
+<A HREF="#ref49-2">2</A>). The reactivity pattern of these antisera suggested that the wild mice carried 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes different from those present in the inbred strains, but we could not be completely sure about this 
+conclusion because it is the private(the most restricted antigen) that unambiguously characterizes a haplotype. 
+The antisera tot eh private H-2 antigens reacted hardly at all with the wild mice, and if they did, it often turned 
+out that the reactivity was caused by a previously undetected public antigen. When antibodies to the new antigen 
+were removed by absorption, the antiserum ceased to react with the particular wild mouse while it still reacted 
+with the inbred strain carrying the private antigen. It was a tantalizing finding: all we could get was a hint 
+that wild mice possessed 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes absent in inbred strains, but we could neither prove this variability 
+nor could we determine how many new haplotypes were present among the mice.
+
+<P>The finding of locality-dependent diversification of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes was interesting and it fit well 
+with observations made earlier by ecologists about the social structure of the mouse populations. Mice apparently 
+live in small family units (demes) which are relatively isolated and migration from one unit to another is probably rare (
+<A HREF="#ref49-5">5</A>, 
+<A HREF="#ref49-6">6</A>). The similarity of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes within a single locality could be, therefore, the 
+result of the genetic isolation of the families.
+
+<A NAME="H-2_congenic"></A>
+<P><CENTER>Production of B10.W Congenic Lines</CENTER>
+
+<P>The ambiguity of wild-mice typing with antisera prepared against inbred 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes convinced us that the way of going about characterizing wild 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>
+haplotypes was to produce antisera against antigens controlled 
+by these haplotypes. This may sound like a simple thing to do, but in fact there were problems with the approach. First 
+of all, there was the question of how to get enough material for immunization. A single wild mouse was not going to 
+provide enough tissue for the large number of injections necessary to produce an H-2 antiserum. Then, there was the 
+problem of how to test the antiserum when the donor of the immunizing tissue was no longer available. And finally, 
+we feared that immunization with so genetically heterogeneous a donor as the wild mouse would produce a mixture of 
+antibodies that would take us forever to sort out.
+
+<P>Because of these problems we decided to use a different approach. We resolved to isolate a sample of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes from wild mice and place them on the well-defined genetic background of an inbred strain. In other words, 
+we wanted to do what George Snell did earlier with so many inbred 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes -- to produce 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+congenic lines. Because most of Snell's congenic lines were on the background of strain C57BL/10Sn, or B10 for short, 
+we decided to use this strain for the crossing with wild mice, and to produce a series of B10.W congenic lines (where 
+W stands for "wild"). It was then that we got the first taste of what it was like in the pioneering days of inbred 
+and congenic strain production! For the task of producing 30 or 40 B10.W lines looks simple on paper, but in reality 
+one has to overcome all kinds of mishaps to get the mice through the ten or 12 generations of backcrossing required 
+for congenic line production. Now, more than ever, we can appreciate what was involved when the entire program of 
+inbred-strain production was begun!
+
+<P>To produce the B10.W lines, we took advantage of the fact that in the middle of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex is a locus coding for a serum protein, the serum serological substance or Ss (
+<a href="javascript:windowf491 = window.open('../figures/figure49-1.shtml', 'windowf491', 'width=1000,height=300,resizable=yes,scrollbars=yes'); windowf491.focus()">Figure 1</A>, reference 
+<A HREF="#ref49-7">7</A>). Because most wild mice carry the <I>Ss<SUP>h</SUP></I> allele at this locus, while some inbred 
+strains carry the <I>Ss<SUP>l</SUP></I> allele, in the B10.W-production system we would backcross repeatedly to 
+an <I>Ss<SUP>l</SUP> Ss<SUP>l</SUP></I> strain (B10.BR) and always select for further mating animals carrying the 
+<I>Ss<SUP>h</SUP></I> allele and thus presumably the wild-derived alleles at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci on both sides of <I>Ss</I> (
+<a href="javascript:windowf493 = window.open('../figures/figure49-3.shtml', 'windowf493', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf493.focus()">Figure 3</A>).
+
+<P>We started the project with some 80 B10. W lines; now, some ten years later, when the project is almost completed, 
+we ended up with 35 lines. The others were all lost because of poor breeding performance.
+
+<P><CENTER>Typing of B10.W Lines</CENTER>
+
+<P>Once the production of the B10.W lines was completed, we took the next step -- to analyze their 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes. 
+To this end we tested the lines with a battery of antisera defining all the known private H-2 antigens. We then immunized 
+inbred strains [usually the (A x B10)F<SUB>1</SUB> hybrids] with B10.W tissues, produced anti-B10.W sera, and tested the 
+antisera against all inbred strains carrying different 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes, and against all other B10.W lines. Finally, 
+we did an absorption analysis with all strains and all antisera that were positive in a direct test. The analysis consisted 
+of absorbing each positive antiserum with each positive strain and testing on all positive strains. Although we tried to 
+avoid the production of antibodies to public H-2 antigens in the anti-B10.W sera by choosing the A strain as one of the 
+parents of the F<SUB>1</SUB> hybrid recipient (the <I>H-2<SUP>a</SUP></I> haplotype of strain A codes for most of the known 
+public antigens), we were not completely successful. The broad cross-reactivity of the anti-B10.W indicated that there 
+were many more public antigens than were previously defined and that wild mice carried a number of public antigens absent 
+in inbred strains. Because we were interested only in antigens that characterize the new public antigens. On the contrary, 
+we tried to remove the anti-public antibodies from our antisera and to restrict the reactivity pattern of the antisera 
+as much as we could.
+
+<A NAME="wild_T"></A>
+<P>The analysis of all the B10.W strains has not been completed yet. Thus far, however, we have been able to identify 
+20 new 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes and 25 new H-2 antigens (
+<a href="javascript:windowt491 = window.open('../tables/table49-1.shtml', 'windowt491', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt491.focus()">Table 1</A>), 
+all of which are absent in the inbred strains (
+<A HREF="#ref49-8">8</A>, 
+<A HREF="#ref49-9">9</A>, 
+<A HREF="#ref49-10">10</A>, 
+<A HREF="#ref49-11">11</A>, 
+<A HREF="#ref49-12">12</A>, 
+<A HREF="#ref49-13">13</A>). We designated the new haplotypes <I>H-2<SUP>w1</SUP></I> through <I>H-2<SUP>w20</SUP></I> and the 
+new antigens H-2.101 through H-2.125. In addition, we identified three new 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes in strains carrying alleles at the 
+<I>t</I> locus (
+<A HREF="#ref49-11">11</A>) which is positioned in the same chromosome as 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+and which affects embryonic and sperm development (
+<A HREF="#ref49-14">14</A>). These haplotypes we designated according to the 
+<I>t</I> 
+allele they carry, that is, 
+<I>H-2<SUP>twl</SUP></I>, 
+<I>H-2<SUP>t12</SUP></I>, and 
+<I>H-2<SUP>tw5</SUP></I>.
+
+<P><CENTER>Haplotype Counting</CENTER>
+
+<P>
+<a href="javascript:windowt492 = window.open('../tables/table49-2.shtml', 'windowt492', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt492.focus()">Table 2</A> 
+lists all of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes -- inbred or wild -- identified thus far. The total number is 109. Some of these haplotypes, however, share alleles at both 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> (they differ at other loci of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex not discussed in this communication). If we exclude these shared haplotypes, we still end up with an 
+impressive number of 68 different haplotypes. Thus, among inbred strains and wild mice, 68 different combinations of alleles 
+at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> loci have already been identified.
+
+<P>Some of the haplotypes in 
+<a href="javascript:windowt492 = window.open('../tables/table49-2.shtml', 'windowt492', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt492.focus()">Table 2</A> 
+are recombinants, that is, they possess alleles at 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> or 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> 
+loci also present in 
+other haplotypes but in different combinations. Much of the variability of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex is thus generated by combinatorial means with alleles at the two 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci existing in many different combinations. Theoretically, the 
+number of different <I>h-2K-H-2D</I> combinations equals the number of alleles at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> 
+locus multiplied by the number of alleles at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> 
+locus. The alleles at the two loci are listed in 
+<a href="javascript:windowt493 = window.open('../tables/table49-3.shtml', 'windowt493', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt493.focus()">Table 3</A>: 
+there are 37 of them at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> 
+locus and 32 at 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A>. 
+The total number of possible 
+<I>H-2K-H-2D</I> combinations generated by the known alleles is, therefore, 1,184.
+
+<P>As mentioned earlier, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex contains several loci in addition to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A>. The 
+total number of loci composing the complex is not yet known, but ten loci have already been identified (
+<a href="javascript:windowf491 = window.open('../figures/figure49-1.shtml', 'windowf491', 'width=1000,height=300,resizable=yes,scrollbars=yes'); windowf491.focus()">Figure 1</A>). 
+Although most other 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci are probably far less polymorphic in comparison with 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A>, 
+they do contain multiple alleles. And so, even if one assumes that there are just a few alleles at other 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci, the number of possible 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes reaches almost astronomical proportions.
+
+<P><CENTER>Determining Phenotypic Frequencies of H-2 Antigens</CENTER>
+
+<P>The development of the B10.W lines was meant to be just a springboard for our analysis of wild mouse populations. Because 
+the private inbred H-2 antigens were so poorly represented among wild mice, we hoped to identify private antigens of wild mice 
+by means of our B10.W lines. As 
+<a href="javascript:windowt491 = window.open('../tables/table49-1.shtml', 'windowt491', 'width=1200,height=800,resizable=yes,scrollbars=yes'); windowt491.focus()">Table 1</A> 
+shows, we have succeeded in doing so. Once we produced antisera defining new private or semi-private 
+H-2 antigens, we went back to wild mouse populations with this considerably enriched battery of typing reagents to determine 
+the frequencies of individual H-2 antigens. This time the battery contained antisera against 36 H-2 antigens (
+<a href="javascript:windowt494 = window.open('../tables/table49-4.shtml', 'windowt494', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt494.focus()">Table 4</A>), 
+of which about one-half were characterized as private and the rest as semi-private (the latter 
+being shared by a limited number of strains available to us).
+
+<P>So far we have typed 70 wild mice, but the work continues and data on a much large panel should be available soon. The 
+mice were trapped at the different localities in Texas, most of them in various farm buildings; only a few were trapped in 
+the fields (One should bear in mind that the wild mice from which our B10.W lines were developed were trapped in Michigan 
+and thus represented a geographically very distant population with regard to the Texas mice).
+
+<P>To calculate phenotypic frequencies of the 36 H-2 antigens defined by our battery of antisera, we also used the panel 
+of B10.W lines and took each line as a representative of one wild mouse. The total number of wild mice typed is therefore 
+90 (70 trapped mice and 20 B10.W lines).
+
+<P>The calculations of phenotypic frequencies were carried out by dividing the number of mice typed as positive for a 
+given antigen by the number of mice tested (
+<A HREF="#ref49-90">90</A>). The frequencies calculated in this manner are subject to several qualifications.
+
+<P>In the first place, we ignored the fact the groups of mice came from the same localities and that the presence in a 
+given locality of several mice positive for a given antigen probably reflected close blood-relationship among such mice. The 
+justification for ignoring the origin of the mice was our hope that in a large sample covering wide geographical area the 
+local effects on antigen frequencies would be minimized. However, the sample described here might not have been large enough 
+and local effects might have biased our antigen-frequency calculations.
+
+<P>In the second place, we did not take into consideration the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+zygosity of the wild mice. A mouse typed as negative for a given antigen does not pose any problem in this respect, 
+but a positive mouse could be either homo- or heterozygous for the antigen. We are in a process of establishing the frequency of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+heterozygosity among wild mice and once we have the figure, we should be able to use it as a correction factor in our frequency estimates. For the calculations in 
+<a href="javascript:windowt494 = window.open('../tables/table49-4.shtml', 'windowt494', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt494.focus()">Table 4</A>, 
+such a factor has not yet been introduced and the data should be therefore viewed with this fact 
+in mind. It is also important to realize that the data in 
+<a href="javascript:windowt494 = window.open('../tables/table49-4.shtml', 'windowt494', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt494.focus()">Table 4</A> 
+represent <U>phenotypic</U> and not gene frequencies.
+
+<P>The third qualification concerns the pooling of data on wild mice and B10.W line typing. Each B10.W line is, in fact, 
+not equivalent to one wild mouse because it carries only one of the two 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotypes of the original wild mouse 
+from which it was derived. Consequently, by typing wild mice we test for two haplotypes (provided that the mouse is an 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+heterozygote), while by typing B10.W lines we test for only one haplotype. However, since in most instances 
+the antigen frequencies calculated separately for wild mice and B10.W lines do not differ significantly, the pooling of 
+the data is probably justified.
+
+<P>The last qualification concerns the specificity of the reagents in the typing battery. Each antiserum, before it was 
+included in the battery, was extensively analyzed against panels of inbred strains and B10.W lines and absorbed so that 
+it reacted only against a given antigen, but we could never be sure that it did not contain additional antibodies. Such 
+antibodies might have escaped our detection when the antiserum was tested against the strain panels, but they might have 
+emerged when the serum was tested on wild mice. In one or two instances we know that this actually did happen. For example, 
+antiserum detecting antigen H-2.16 was monospecific in our panel tests, that is, it reacted only with strains carrying H-2.16 
+and no other mice. But when  the antiserum was tested against our sample of 70 wild mice, it reacted with an unexpectedly 
+high number of them. Furthermore, some mice positive with this antiserum were also positive for several other private H-2 
+antigens and this observations, of course, aroused our suspicion that the anti-H-2.16 might not be monospecific after all. 
+And indeed, when the antiserum was absorbed by some of the positive wild mice, the reactivity against these mice was removed 
+but the serum still reacted with H-2.16 positive strains. Apparently, despite all efforts to make it monospecific, the 
+antiserum still contained at least two antibodies, one against antigen H-2.16 and another against a public antigen which is 
+present in H-2.16-positive strains and some wild mice, but absent in all other strains in our typing panels. Once we had 
+learned about the second antibody, we made sure that for future testing an anti-H-2.16 serum was used from which the antibody 
+was absorbed out, but we of course could not tell how many of the previously typed positive wild mice actually carried H-2.16 
+and how many reacted with the antiserum because of the presence of the previously unidentified antibody to the public antigen. 
+We solved this problem by ignoring the results obtained with the antiserum before its complexity was discovered.
+
+<P>This example, however, raises the question of how many of our other typing antisera are complex in a similar way. To answer 
+this question we would have to do absorption analysis with each positive mouse, but such analysis with so many reagents and 
+so many mice to test is not humanly possible. We do, however, spot check all the antisera by absorbing them with wild mice and 
+testing them for their monospecificity, and we check, of course, all antisera for additional antibodies when our suspicion is 
+aroused. But despite all these precautions, one must first consider the antigen-frequency data in 
+<a href="javascript:windowt494 = window.open('../tables/table49-4.shtml', 'windowt494', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt494.focus()">Table 4</A> 
+as possibly overestimated. The frequencies of at least some of the antigens might be actually lower 
+than our preliminary data indicate.
+
+<A NAME="allele_frequency"></A>
+<P><CENTER>Evaluation of H-2 Antigen Frequencies</CENTER>
+
+<P>Among the private H-2 antigens in 
+<a href="javascript:windowt494 = window.open('../tables/table49-4.shtml', 'windowt494', 'width=600,height=900,resizable=yes,scrollbars=yes'); windowt494.focus()">Table 4</A> 
+the following are detected by antisera which we have no reason 
+to suspect as containing more than one antibody: H-2.2, 4, 15, 17, 18, 19, 20, 21, 23, 26, 30, 31, 32, 33, 106, 108, 109, 
+110, 111, 112, 113, and 114. The other antigens are either semi-private ones or antigens defined by antisera that might 
+contain additional antibodies. Several points can be made about these preliminary data.
+
+<P>The most frequent among the "clean" private antigens is H-2.31 which was found in six wild mice and three B10.W strains 
+(phenotypic frequency of some 10%). At the opposite end of this scale are antigens H-2.15 and H-2.18 which we have not found 
+in any of the typed wild mice and which are also absent in all the B10.W lines. The antigens are carried by inbred strains 
+and one might speculate that these strains were derived from wild mice unrelated to the population of wild mice that we 
+are currently typing.
+
+<P>The majority of the clean private antigens occur in the Texas wild mice and in the B10.W lines with frequencies ranging 
+from 1 to 5%. If we assume -- as our data suggest -- that aside from H-2.31, there are not very many frequently occurring 
+H-2 antigens and that the average H-2 antigen frequency is 2%, then we may estimate that the population we are presently 
+testing may contain some 50 antigens controlled by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> 
+locus and another 50 antigens controlled by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> 
+locus. Barring linkage disequilibrium, these numbers would then lead to the estimate of 50<SUP>2</SUP> or 2,500 haplotypes 
+(or more precisely <I>H-2K-H-2D</I> allelic combinations).
+
+<P>It is interesting to compare these estimates with the frequencies of antigens controlled by the human homologue of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex -- the <I>HLA</I> system. There are now some 15 antigens known to be controlled by the <I>HLA-A</I> locus 
+and another 20 antigens controlled by the <I>HLA-B</I> locus (
+<A HREF="#ref49-15">15</A>). About half of these HLA antigens occur in frequencies similar to the phenotypic frequency of H-2.31 
+(<I>i.e.</I>, 10 to 20%), while the other half of <I>HLA</I> antigens occurs in frequencies of 5% or less, that is, frequencies 
+similar to those of the majority of H-2 antigens. In other words, in the <I>HLA</I> system there seem to be more antigens 
+occurring in high frequencies than in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex. This difference between the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+and <I>HLA</I> systems 
+could mean one of two things: either some of the HLA antisera defining the more common antigens are not truly monospecific 
+and the difference between 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+and <I>HLA</I> is the consequence of differences in methodologies, or the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex is more polymorphic than the <I>HLA</I> system.
+
+<P>Some 43% of the wild mice in our sample failed to react with any of the antisera in our battery. These "blanks" indicate 
+the presence in the wild mice of H-2 antigens against which we have not yet made antisera. Thus there are probably more 
+antigens than we have been able to identify so far, and search for these antigens is in progress.
+
+<P>One can also expect that mice from other parts of the world might have still different antigens. A comparison of North 
+American, European, and Asiatic mice might provide some interesting results in this respect.
+
+<P><CENTER>CONCLUSION</CENTER>
+
+<P>In addition to providing, for the first time, information about H-2 antigen frequencies and about the extent of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+polymorphisms, our wild mice studies are proving to be useful in other areas of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+immunogenetics, primarily as a source of new 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+variants. Several of our B10.W lines turned out to be 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+recombinants, carrying haplotypes that are 
+new combinations of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></A> 
+alleles present in other strains. Such an enrichment of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> recombinant 
+collection should be helpful for all kinds of H-2 mapping studies.
+
+<P>Other B10.W strains seem to carry alleles which are similar to but not identical with alleles carried by other strains. The 
+difference between these alleles is very likely the consequence of recent mutations. Comparison -- particularly a biochemical 
+one -- of such natural variants should provide much needed information as to how the variability of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+loci is generated.
+
+<P>And so in our studies we have traveled the full circle: we began with inbred strains, extended from there to wild mice, 
+and now with our B10.W lines we have come back to inbred strains again. And we have been able to travel the circle in such a 
+relatively short time only because we has a solid foundations in the lines produced by the fathers of mouse inbreeding.
+
+<P><CENTER>ACKNOWLEDGEMENTS</CENTER>
+
+<P>We thank Mr. Wayne Bundy for breeding most of the strains mentioned in this communication, and Ms. Jeanne Lively for secretarial help.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref49-1"></A>
+<P>1. Klein, J. (1975). <I>Biology of the Mouse Histocompatibility-2 Complex</I> Springer-Verlag, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78369" target="_blank">MGI</A></I>.
+<!-- MGI:78369 -->
+
+<A NAME="ref49-2"></A>
+<P>2. Klein, J. (1971). Nature <B>229</B>: 635.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4925469" target="_blank">PubMed</A></I>.
+<!-- PMID: 4925469 -->
+
+<A NAME="ref49-3"></A>
+<P>3. Klein, J. (1970). Science <B>168</B>: 1362.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5444268" target="_blank">PubMed</A></I>.
+<!-- PMID: 5444268 -->
+
+<A NAME="ref49-4"></A>
+<P>4. Klein, J., and Bailey, D. (1971). Genetics <B>68</B>: 287.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4938727" target="_blank">PubMed</A></I>.
+<!-- PMID: 4938727 -->
+
+<A NAME="ref49-5"></A>
+<P>5. Crowcroft, P.L. (1955). J. Mammal. <B>36</B>: 299.
+
+<A NAME="ref49-6"></A>
+<P>6. Reimer, J., and Petras, M. (1967). J. Mammal. <B>48</B>: 88.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->6045185" target="_blank">PubMed</A></I>.
+<!-- PMID: 6045185 -->
+
+<A NAME="ref49-7"></A>
+<P>7. Shreffler, D. (1964). Genetics <B>49</B>: 973.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->14181489" target="_blank">PubMed</A></I>.
+<!-- PMID: 14181489 -->
+
+<A NAME="ref49-8"></A>
+<P>8. Klein, J. (1972). Transplantation <B>13</B>: 291.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4112150" target="_blank">PubMed</A></I>.
+<!-- PMID: 4112150 -->
+
+<A NAME="ref49-9"></A>
+<P>9. Klein, J. (1975). Immunogenetics <B>2</B>: 297.
+
+<A NAME="ref49-10"></A>
+<P>10. Hauptfeld, M., and Klein, J. (1976). Immunogenetics <B>3</B>: 603.
+
+<A NAME="ref49-11"></A>
+<P>11. Hammerberg, C., Klein, J., Artzt, K., and Bennett, D. (1976). Transplantation <B>21</B>: 199.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->941210" target="_blank">PubMed</A></I>.
+<!-- PMID: 941210 -->
+
+<A NAME="ref49-12"></A>
+<P>12. Zaleska-Rutczynska, Z., and Klein, J. (1977). J. Immunol. <B>119</B>: 1903.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->915286" target="_blank">PubMed</A></I>.
+<!-- PMID: 915286 -->
+
+<A NAME="ref49-13"></A>
+<P>13. Klein, J., and Zaleska-Rutczynska, Z. (1977). J. Immunol. <B>119</B>: 1912.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->334976" target="_blank">PubMed</A></I>.
+<!-- PMID: 334976 -->
+
+<A NAME="ref49-14"></A>
+<P>14. Klein, J., and Hammerberg, C. (1977). Immunol. Rev. <B>33</B>: 70.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54260" target="_blank">MGI</A></I>.
+<!-- MGI:54260 -->
+
+<A NAME="ref49-15"></A>
+<P>15. Snell, G., Dausset, J., and Natherson, S.G. (1977). <I>Histocompatibility</I>. Academic Press, New York.
+
+
+<DIV Align="center"><H4> <A HREF="ivanyi2.shtml">Previous</A> <A HREF="callahan.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

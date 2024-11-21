@@ -1,0 +1,558 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="klein.shtml">Previous</A> <A HREF="../subjectindex.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 50 -->
+
+<H2>Four Major Endogenous Retrovirus Classes Each Genetically Transmitted in Various Species of <I>Mus</I></H2>
+
+<H3>Robert Callahan<BR>
+George J. Todaro<BR><BR>
+Laboratory of Viral Carcinogenesis<BR>
+National Cancer Institute<BR>
+National Institutes of Health<BR>
+Bethesda, Maryland</H3>
+
+<P>Several properties of endogenous retroviruses (
+<A HREF="#ref50-1">1</A>) make them useful reagents for the study of evolutionary relationships among species. In a variety of mammalian 
+and avian systems it has been demonstrated that endogenous viral gene sequences are transmitted through the germline and are 
+present in the normal cellular DNA in multiple copies (
+<A HREF="#ref50-2">2</A>, 
+<A HREF="#ref50-3">3</A>). As such, they are subjected to the same evolutionary pressures as are cellular DNA sequences. Because, in 
+some species, these viruses can be isolated and transmitted in cell culture, it is possible to readily purify their genomes 
+as well as the proteins produced by the viral RNA. We have previously taken advantage of this property of endogenous primate 
+type C viruses to study the evolutionary relationship between primates (
+<A HREF="#ref50-4">4</A>, 
+<A HREF="#ref50-5">5</A>); similar studies have also been performed with other endogenous mammalian type C and type B viruses (
+<A HREF="#ref50-6">6</A>, 
+<A HREF="#ref50-7">7</A>, 
+<A HREF="#ref50-8">8</A>). One surprising result of some of the above studies was that transmission of type C viruses does not occur 
+between the germlines of distantly related species (
+<A HREF="#ref50-9">9</A>, 
+<A HREF="#ref50-10">10</A>). In other cases, type C viruses are found only in certain animals and in certain tissues of a species and 
+is the result of infection.
+
+<A NAME="relationship_primate_virus"></A>
+<P>In the latter category are the viruses isolated from one woolley monkey with a fibrosarcoma (
+<A HREF="#ref50-11">11</A>, 
+<A HREF="#ref50-12">12</A>) and from several gibbons, both normal and leukemic (
+<A HREF="#ref50-13">13</A>, 
+<A HREF="#ref50-14">14</A>, 
+<A HREF="#ref50-15">15</A>). DNA transcripts of the viral RNA show homology to rodent and not to primate cellular DNA; in particular, 
+transcripts would hybridize most extensively to the cellular DNAs of various <I>Mus</I> species (
+<A HREF="#ref50-6">6</A>). To define more precisely the origin of the woolly monkey-gibbon group of infectious type C viruses, various 
+species of Southeast Asian mice were surveyed for their endogenous type C viruses. Since the gibbons were the primate species 
+that showed widespread infection by this group of viruses, Southeast Asian members of the family Muridae were studied for 
+viruses which may be present that might best account for the transmissible leukemia virus of gibbons (
+<A HREF="#ref50-16">16</A>).
+
+<A NAME="C-I_subclass"></A><A NAME="C-II_subclass"></A>
+<P>In this report, we describe the properties of the various endogenous retroviruses of Southeast Asian species of <I>Mus</I>. 
+These animals, we have found, readily release distinct groups of retroviridae. On the basis of biological and biochemical criteria, 
+two subclasses of endogenous type C viruses could be distinguished. One subclass (C-I) is related to the woolly monkey-gibbon ape 
+infectious primate type C viruses; the other subclass (C-II) is more closely related to laboratory murine leukemia viruses (MuLVs) 
+that are commonly isolated from inbred strains and feral populations of <I>M. musculus</I> (
+<A HREF="#ref50-6">6</A>, 
+<A HREF="#ref50-17">17</A>). In addition, a novel class of endogenous retroviruses (designated M432) could be distinguished which is 
+unrelated by immunological and molecular hybridization criteria to all other classes of retroviruses (
+<A HREF="#ref50-8">8</A>, 
+<A HREF="#ref50-18">18</A>) and type B particles have been identified in the milk of <I>M. cervicolor</I> mice which are morphologically 
+and antigenically related to <I>M. musculus</I> mammary tumor virus (MMTV) (
+<A HREF="#ref50-19">19</A>).
+
+<P>Using viral reverse transcripts we have determined the number of endogenous retrovirus-related sequences in various members of 
+the genus <I>Mus</I>. Taken together, the total complement of retroviral sequences represents a significant portion of the cellular 
+genome, approximately 0.04%. The three classes of viral sequences we have studied (C-I, C-II, and M432) appear to be conserved to 
+different extents, suggesting differing evolutionary pressures on each.
+
+<P><CENTER>Phylogenetic Relationship of the Southeast Asian Species of <I>Mus</I></CENTER>
+
+<P>
+<a href="javascript:windowt501 = window.open('../tables/table50-1.shtml', 'windowt501', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt501.focus()">Table 1</A> 
+lists the species of <I>Mus</I> which have been studied as well as their origin. The mice were initially 
+trapped by Dr. J. Marshall in different provinces of Thailand, except <I>M. dunni</I> from India and <I>M. musculus molossinus</I> from Japan (
+<A HREF="#ref50-20">20</A>). Recently, random-bred colonies of certain of these species have been established in laboratories in the United States.
+
+<A NAME="cervicolor"></A><A NAME="shortridgei"></A><A NAME="caroli"></A><A NAME="cervicolor"></A><A NAME="cookii"></A><A NAME="dunni"></A><A NAME="castaneus"></A><A NAME="molossinus"></A><A NAME="pahari"></A>
+<P>Using <I>M. cervicolor</I> as the point of reference, the evolutionary relationships of the different species were determined. 
+Radioactive nonrepetitive cellular DNA was prepared from a tissue culture cell line derived from <I>M. cervicolor</I> lung tissue (
+<A HREF="#ref50-6">6</A>). The labeled DNA was used as a probe to measure nucleic acid sequence homology between the nonrepetitive DNA of 
+<I>M. cervicolor</I> and cellular DNA extracted from pooled organs of different rodents. 
+<a href="javascript:windowt502 = window.open('../tables/table50-2.shtml', 'windowt502', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt502.focus()">Table 2</A> 
+lists the final extent of hybridization (at a C<SUB>0</SUB>t of 2 x 10<SUP>4</SUP>) and the &Delta;T<SUB>m</SUB>R 
+of the hybrid. The &Delta;T<SUB>m</SUB>R is a measure of the thermal stability of the hybrids formed and is the index of the base-pair 
+mismatch between the DNAs of the species being tested. The results reveal a broad range of homology between the <I>M. cervicolor</I> 
+cellular genome and those of the other murine species. By these criteria, <I>M. cervicolor cervicolor</I>, the subspecies 
+<I>M. cervicolor popaeus</I>, and <I>M. cookii</I> are all closely related. Of the other species tested, <I>M. caroli</I>, <I>M. musculus</I>, 
+and <I>M. dunni</I> are more distantly related to <I>M. cervicolor</I>. The two least related species are <I>M. pahari</I> and 
+<I>M. shortridgei</I>. Labeled nonrepetitive cellular DNA from <I>M. shortridgei</I>, however, when hybridized to mouse, rat, and hamster 
+cellular DNAs, showed more homology to mouse DNA than to either rat or hamster, consistent with it being a member of the genus <I>Mus</I> 
+(data not shown). The evolutionary relationship of various <I>Mus</I> species with <I>Mus cervicolor</I> as the point of reference is 
+summarized in the phylogenetic tree of the Muridae family shown in 
+<a href="javascript:windowf501 = window.open('../figures/figure50-1.shtml', 'windowf501', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowf501.focus()">Figure 1</A>. 
+This is based on the final extent of hybridization of nonrepetitive cellular DNA, since it is difficult to 
+assign time scales to the divergence points in the absence of paleontological references.
+
+<P><CENTER>Properties of Endogenous Retroviruses Isolated from Southeast Asian Species of <I>Mus</I></CENTER>
+
+<P>Three different classes of endogenous retroviruses have been isolated from Asian species of <I>Mus</I>. These viruses were obtained 
+either from tissue culture cell lines which spontaneously release virus or by induction of tissue culture cell lines with the pyrimidine 
+analog, BUdR, followed by mixed cell cultivation with sensitive cell lines chosen for their permissiveness for the replication of retroviruses.
+
+<P>On the basis of biological and biochemical criteria, two subclasses of type C virus could be identified. Subclass C-I replicates only 
+in nonmurine tissue culture cell lines, whereas subclass C-II can replicate in cell lines derived from different species of the genus 
+<I>Mus</I>. 
+<a href="javascript:windowt503 = window.open('../tables/table50-3.shtml', 'windowt503', 'width=700,height=700,resizable=yes,scrollbars=yes'); windowt503.focus()">Table 3</A> 
+shows the host ranges of representatives of each subclass, isolated from <I>M. cervicolor</I> tissue culture cells. 
+By immunological criteria, the viral-associated proteins of the two subclasses are readily distinguishable. The major structural 
+protein p30 of the C-I subclass competes in a woolly monkey-gibbon ape group-specific radioimmunoassay (
+<A HREF="#ref50-17">17</A>), whereas the respective proteins of the C-II subclass show no competition (
+<a href="javascript:windowf502 = window.open('../figures/figure50-2.shtml', 'windowf502', 'width=1300,height=1000,resizable=yes,scrollbars=yes'); windowf502.focus()">Figure 2A</A>). 
+In this assay, the slope of the competition curve can be used as a measure of relatedness between the 
+labeled test antigen and the competing protein. Thus, by this criterion, the p30 proteins of the type C-I viruses exhibit varying 
+degrees of relatedness to the test protein derived from the woolly monkey virus, with the <I>M. shortridgei</I> virus being the most 
+distantly related. Other than the various isolates of MuLV from feral and inbred strains of <I>M. musculus</I>, the only other members 
+of the C-II subclass are virus isolates we have obtained from <I>M. cervicolor</I> and <I>M. cookii</I> cell cultures. The 
+viral-associated p30 proteins of this subclass compete in a <I>m. musculus</I> MuLV group-specific radioimmunoassay, albeit the 
+<I>M. cervicolor</I> and <I>M. cookii</I> viral proteins compete with a reduced slope (
+<a href="javascript:windowf502 = window.open('../figures/figure50-2.shtml', 'windowf502', 'width=1300,height=1000,resizable=yes,scrollbars=yes'); windowf502.focus()">Figure 2B</A>). 
+Although the p30 proteins of these two subclasses of viruses can be distinguished by their unique 
+antigenic determinants, they do share other determinants in common. This can be demonstrated by using a rodent interspecies 
+assay in which the p30 proteins of both subclasses of murine type C viruses compete with the test antigen, 
+while the rat type C viral protein does not (
+<a href="javascript:windowf502 = window.open('../figures/figure50-2.shtml', 'windowf502', 'width=1300,height=1000,resizable=yes,scrollbars=yes'); windowf502.focus()">Figure 2C</A>). 
+A similar pattern between the two subclasses of viruses can be demonstrated by the ability of antisera 
+against the viral-associated reverse transcriptase of the woolly monkey virus or R-MuLV to inhibit enzymatic 
+activity of the respective subclass of viruses (
+<A HREF="#ref50-6">6</A>, 
+<A HREF="#ref50-21">21</A>).
+
+<P>Approximately half of the viral genome of type C viruses is believed to contain the coding sequences for the viral structural 
+proteins (the <I>gag</I> proteins) and reverse transcriptase (the <I>pol</I> gene product) (
+<A HREF="#ref50-22">22</A>). Using labeled viral cDNA probes representing the entire viral genome, the relationship between the 
+<I>M. cervicolor</I> C-I and C-II subclass virogenes was measured (data not shown). In agreement with the immunological data, 
+the C-I and C-II virogenes share very little nucleic acid homology (approximately 10% under the conditions used). Moreover, the 
+<I>M. cervicolor</I> C-I probe hybridizes partially with the <I>M. cookii</I> and <I>M. caroli</I> C-I viral RNAs and to a lesser 
+extent with <I>M. dunni</I> and <I>M. shortridgei</I> as well as SSAV and GALV-1 viral RNAs. In contrast to these results, the 
+<I>M. cervicolor</I> C-II probe did not hybridize appreciably with either of the viruses from <I>M. cookii</I> or <I>M. musculus</I>; 
+this suggests that the C-II subclass of virogenes has been less evolutionarily conserved than the virogenes of the C-I subclass.
+
+<P>A third class of endogenous retroviruses has been isolated from two Asian rodents, <I>M. cervicolor</I> and <I>M. caroli</I>. 
+Members of this class so far have only replicated in cell culture lines derived from <I>M. musculus</I> (
+<a href="javascript:windowt503 = window.open('../tables/table50-3.shtml', 'windowt503', 'width=700,height=700,resizable=yes,scrollbars=yes'); windowt503.focus()">Table 3</A>). 
+They share certain morphological and biochemical properties in common with <I>M. musculus</I> type B mammary 
+tumor virus. Cells producing these viruses contain cytoplasmic A particles and budding forms contain doughnut-shaped nucleoids (
+<a href="javascript:windowf503 = window.open('../figures/figure50-3.shtml', 'windowf503', 'width=1300,height=800,resizable=yes,scrollbars=yes'); windowf503.focus()">Figure 3</A>). 
+However, the mature particles lack the characteristic surface spikes of MMTV and have a centrally located 
+nucleoid. This group of viruses contains two envelope glycoproteins (gp65, gp32), a major internal protein (p24), 
+as well as p16 and a phosphoprotein (p12). The viral-associated reverse transcriptase, with a molecular weight of 70,000 daltons, 
+is smaller than the <I>M. musculus</I> type B viral enzyme (
+<A HREF="#ref50-23">23</A>) although both share a preference for magnesium to fulfill their divalent cation requirement for activity (
+<A HREF="#ref50-8">8</A>).
+
+<P>Antisera raised against the <I>M. cervicolor</I> p24 protein show a partial cross-reactivity with the corresponding protein 
+of the <I>M. caroli</I> virus (M832) (
+<a href="javascript:windowf504 = window.open('../figures/figure50-4.shtml', 'windowf504', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf504.focus()">Figure 4</A>). 
+In this assay, MMTV, bovine leukemia virus (BLV), Rauscher MuLV (R-MuLV), the Mason-Pfizer monkey 
+virus (MPMV), and both <I>M. cervicolor</I> type C viruses all fail to compete with the test antigen. Similar results were 
+obtained with antisera prepared against the <I>M. cervicolor</I> M432 viral-associated reverse transcriptase. In addition, 
+by molecular hybridization criteria, the <I>M. cervicolor</I> M432 viral genes are unrelated to <I>M. musculus</I> MMTV, 
+both murine type C viral subclasses, as well as MPMV and BLV (
+<A HREF="#ref50-8">8</A>).
+
+<a href="javascript:windowt504 = window.open('../tables/table50-4.shtml', 'windowt504', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt504.focus()">Table 4</A> 
+summarizes the classes of viral isolates obtained from each species. With the one exception, <I>M. musculus</I>, 
+viruses of the type C subclass C-I have been isolated from every species tested. Type C subclass C-II viruses have been isolated from 
+only <I>M. musculus</I>, <I>M. cervicolor</I>, and <I>M. cookii</I>. The M432-related viruses have been isolated from <I>M. cervicolor</I> 
+and <I>M. caroli</I>, while the type B class contains viral isolates from <I>M. musculus</I>. A virus morphologically and antigenically 
+related to the MTV subclass of viruses has recently been observed in the milk of <I>M. cervicolor</I> mice (
+<A HREF="#ref50-19">19</A>).
+
+<P><CENTER>Conservation of Retroviral Genes in the Cellular Genome of Rodents</CENTER>
+
+<P>The cellular DNA of Asian species of <I>Mus</I> were examined for the presence of nucleic acid sequences related to the genomes of the 
+<I>M. cervicolor</I> C-I, C-II, and M432 subclasses of viruses. 
+<a href="javascript:windowt505 = window.open('../tables/table50-5.shtml', 'windowt505', 'width=700,height=900,resizable=yes,scrollbars=yes'); windowt505.focus()">Table 5</A> 
+summarizes the final extents of hybridization and the thermal stabilities of the hybrids formed with DNA from the 
+listed species and labeled <I>M. cervicolor</I> viral DNA transcripts synthesized in the endogenous polymerase reaction. As shown, 
+viral-related nucleic acid sequences corresponding to the three subclasses could be detected in all of the species of <I>Mus</I> as 
+well as more distantly related rodents. All three viral DNA probes hybridized most extensively and with the highest thermal stability 
+to cellular DNA from <I>Mus cervicolor</I> tissues. The extent to which the viral sequences were detected in other related <I>Mus</I> 
+species depended both on the genetic distance from <I>M. cervicolor</I> DNA, as determined by the nonrepetitive cellular DNA hybridization studies (see 
+<a href="javascript:windowt502 = window.open('../tables/table50-2.shtml', 'windowt502', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt502.focus()">Table 2</A>) 
+and on the viral subclass. Thus the <I>M. cervicolor</I> C-I and M432 subclasses of virogenes are conserved 
+with a pattern similar to the nonrepetitive cellular DNA of this species. The fact that the final extents of hybridization and thermal 
+stabilities of the hybrids formed decrease in parallel indicates that the partial homologies detected are not the result of the 
+conservation of discrete, contiguous regions of the viral genome. Rather, it suggests that the differences are due to base-pair 
+substitution throughout much of the viral genome. The virogene sequences related to the <I>M. cervicolor</I> C-II subclass appear 
+much more species-specific. In species more distantly related to <I>M. cervicolor</I> than <I>M. cookii</I>, only low levels of homology 
+can be detected. A similar result has been found using viral DNA probe from <I>M. musculus</I> C-II viruses (either BALB/c 
+ecotropic or BALB/c xenotropic viruses) (
+<A HREF="#ref50-6">6</A>). Thus, there seems to be less rigorous evolutionary conservation of virogene sequences for this subclass of type C viruses.
+
+<P><CENTER>Quantitation of the Endogenous Virogenes Corresponding to the Different Classes of Retroviruses</CENTER>
+
+<P>It has been shown in a number of mammalian and avian species that the genomes of endogenous retroviruses are represented 
+in the cellular DNA in multiple copies. Using labeled viral DNA, the frequency of viral-related sequences of each <I>M. cervicolor</I> 
+viral subclass was measured. Both the type C-I and C-II virogenes are reiterated approximately six times per haploid cellular genome, 
+while the type M432 virogenes are reiterated approximately 25 times (
+<a href="javascript:windowf505 = window.open('../figures/figure50-5.shtml', 'windowf505', 'width=650,height=800,resizable=yes,scrollbars=yes'); windowf505.focus()">Figure 5</A>). 
+Recently, Morris <I>et al.</I> have estimated that there are at least 25 copies of type B virogenes (MMTV) 
+per haploid genome in <I>M. cervicolor</I> (
+<A HREF="#ref50-7">7</A>). The summaries of our estimates of the reiteration frequency of each subclass of virogenes as well as mouse ribosomal RNA genes (
+<A HREF="#ref50-24">24</A>) are compared in 
+<a href="javascript:windowt506 = window.open('../tables/table50-6.shtml', 'windowt506', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt506.focus()">Table 6</A>. 
+The approximate genetic complexity of a single viral genome is 10,000 base pairs and that of the cellular 
+genome is 1.5 x 10<SUP>9</SUP> base pairs/haploid genome (
+<A HREF="#ref50-25">25</A>). Thus at least 0.04% of the <I>M. cervicolor</I> cellular genome contains the genetic information for endogenous 
+retroviral-associated proteins. This value is comparable to the genetic complexity of the structural genes coding for 28S and 
+18S ribosomal RNAs. It is therefore fair to conclude that the retroviral genes represent a significant portion of the cellular 
+genome. However, these represent minimal estimates as additional subclasses of retroviruses may yet be isolated from one or more of these <I>Mus</I> species.
+
+<P><CENTER>CONCLUSIONS</CENTER>
+
+<P>On the basis of nucleic acid homology, it has been possible to establish the evolutionary relationships between 
+a variety of Southeast Asian species of <I>Mus</I> (
+<A HREF="#ref50-6">6</A>, 
+<A HREF="#ref50-26">26</A>). We have placed the species of <I>Mus</I> so far examined into three groups based on the nucleic 
+acid homology they share with the point of reference, the <I>M. cervicolor</I> cellular genome. On this basis, 
+<I>M. cervicolor cervicolor</I>, <I>M. cervicolor popaeus</I>, and <I>M. cookii</I> are highly related, whereas 
+<I>M. carolii</I>, <I>M. dunni</I>, and <I>M. musculus</I> are a somewhat more distantly related group. The 
+<I>M. pahari</I> and <I>M. shortridgei</I> cellular genomes share the least homology with that of <I>M. cervicolor</I>.
+
+<P>The <I>Mus</I> cellular genome contains the genetic information for type B, at least two subclasses of type C, and a 
+novel class (M432) of endogenous retroviral genes. Each of the four classes is present in the cellular genome in multiple 
+copies. In <I>M. cervicolor</I> the total complement of endogenous retroviral sequences accounts for a minimum of 0.04% 
+of the cellular genome. This calculation takes into account only the genetic information corresponding to the viral-associated 
+structural proteins. Additional genetic information would be required to account for the various mechanisms the cell 
+has evolved to regulate the expression of these virogenes. Although the absolute copy number of a given subclass of virogenes 
+may vary with the species of <I>Mus</I>, it is apparent that they represent a significant portion of the cellular genome.
+
+<P>The evolutionary conservation of these classes of endogenous retroviral genes is not uniform. The most highly conserved 
+is subclass C-I which has evolved at a rate comparable to the nonrepetitive cellular DNA sequences. The M432 class of virogenes, 
+although highly conserved, seems to have evolved at a faster rate than the C-I subclass. The C-II subclass is the least conserved. 
+By nucleic hybridization there is little homology between the <I>M. cervicolor</I> type C-II virogenes within members of this 
+species and even less in more distantly related species. Similarly, the various viral isolates of type C-II from <I>M. musculus</I> 
+also share varying degrees of nucleic acid homology between their genomes (
+<A HREF="#ref50-27">27</A>, 
+<A HREF="#ref50-28">28</A>). The relationship between members of this subclass is more easily demonstrated by the shared unique antigenic 
+determinants of the p30 and reverse transcriptase proteins.
+
+<P>The existence of two subclasses of endogenous type C virogenes in the murine cellular genome is not unique to the genus <I>Mus</I>. 
+By the criteria of nucleic acid hybridization, the rat cellular genome contains two subclasses of unrelated endogenous type C virogenes (
+<A HREF="#ref50-29">29</A>, 
+<A HREF="#ref50-30">30</A>). The domestic cat and the Old World monkey genomes (
+<A HREF="#ref50-5">5</A>, 
+<A HREF="#ref50-31">31</A>) also have been shown to harbor multiple copies of two or more distinctly related retroviral genomes. The 
+extensive genetic and immunologic data available in the mouse (<I>Mus musculus</I>) and its close relatives (
+<A HREF="#ref50-20">20</A>, 
+<A HREF="#ref50-32">32</A>) make it especially attractive for studies on the evolution and function of these viral gene sequences.
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref50-1"></A>
+<P>1. Dalton, A.J., Melnick, J.L., Bauer, H., Beaudreau, G., Bentvelzen, P., Bolognesi, D., Gallo, R., Graffi, A., 
+Haguenau, F., Heston, W., Huebner, R., Rowe, W., and Todaro, G.J. (1974). Intervirology <B>4</B>: 201.
+
+<A NAME="ref50-2"></A>
+<P>2. Todaro, G.J., Benveniste, R.E., Callahan, R., Lieber, M.M., and Sherr, C.J. (1974). 
+Cold Spring Harbor Symp. Quant. Biol. <B>39</B>: 1159.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->50895" target="_blank">PubMed</A></I>.
+<!-- PMID: 50895 -->
+
+<A NAME="ref50-3"></A>
+<P>3. Aaronson, S.A., and Stephenson, J.R. (1976). Biochim. Biophys. Acta <B>458</B>: 323.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->62589" target="_blank">PubMed</A></I>.
+<!-- PMID: 62589 -->
+
+<A NAME="ref50-4"></A>
+<P>4. Benveniste, R.E., and Todaro, G.J. (1976). Nature <B>261</B>: 101.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->179013" target="_blank">PubMed</A></I>.
+<!-- PMID: 179013 -->
+
+<A NAME="ref50-5"></A>
+<P>5. Todaro, G.J., Benveniste, R.E., Sherwin, S.A., and Sherr, C.J. (1978) Cell <B>13</B>: 775.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->207440" target="_blank">PubMed</A></I>.
+<!-- PMID: 207440 -->
+
+<A NAME="ref50-6"></A>
+<P>6. Benveniste, R.E., Callahan, R. Sherr, C.J., Chapman, V. , and Todaro, G.J. (1977). J. Virol. <B>21:</B> 849.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->66330" target="_blank">PubMed</A></I>.
+<!-- PMID: 66330 -->
+
+<A NAME="ref50-7"></A>
+<P>7. Morris, V.L., Medeiros, E., Ringold, G.M., Bishop, J.M., and Varmus, H.E. (1977). J. Mol. Biol. <B>114</B>: 73.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->198552" target="_blank">PubMed</A></I>.
+<!-- PMID: 198552 -->
+
+<A NAME="ref50-8"></A>
+<P>8. Callahan, R., Sherr, C.J., and Todaro, G.J. (1977). Virology <B>80</B>: 401.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->70107" target="_blank">PubMed</A></I>.
+<!-- PMID: 70107 -->
+
+<A NAME="ref50-9"></A>
+<P>9. Benveniste, R.E., and Todaro, G.J. (1974). Nature <B>252</B>: 456.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4372546" target="_blank">PubMed</A></I>.
+<!-- PMID: 4372546 -->
+
+<A NAME="ref50-10"></A>
+<P>10. Benveniste, R.E., Sherr, C.J., and Todaro, G.J. (1975). Science <B>190</B>: 886.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->52892" target="_blank">PubMed</A></I>.
+<!-- PMID: 52892 -->
+
+<A NAME="ref50-11"></A>
+<P>11. Theilen, G.H., Gould, D., Fowler, M., and Dungworth, D.L. (1971). J. Natl. Cancer Inst. <B>47</B>: 881.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4328953" target="_blank">PubMed</A></I>.
+<!-- PMID: 4328953 -->
+
+<A NAME="ref50-12"></A>
+<P>12. Wolfe, L.G., Deinhart, F., Theilen, G.H., Rabin, H., Kawakami, T., and Bustad, L.K. (1971). J. Natl. Cancer Inst. <B>47</B>: 1115.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5001258" target="_blank">PubMed</A></I>.
+<!-- PMID: 5001258 -->
+
+<A NAME="ref50-13"></A>
+<P>13. Kawakami, T., Huff, S.D., Buckley, P.M., Dungworth, D.L., Snyder, S.P., and Gilden, R.V. (1972). Nature New Biol. <B>235</B>: 170.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4501200" target="_blank">PubMed</A></I>.
+<!-- PMID: 4501200 -->
+
+<A NAME="ref50-14"></A>
+<P>14. Kawakami, T.G., and Buckley, P.M. (1974). Transplant. Proc. <B>6</B>: 193.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4133972" target="_blank">PubMed</A></I>.
+<!-- PMID: 4133972 -->
+
+<A NAME="ref50-15"></A>
+<P>15. Lieber, M.M., Sherr, C.J., Benveniste, R.E., and Todaro, G.J. (1975). Virology <B>66</B>: 616.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->50668" target="_blank">PubMed</A></I>.
+<!-- PMID: 50668 -->
+
+<A NAME="ref50-16"></A>
+<P>16. Charman, H.P., Kim, N., White, M., Marquardt, H., Gilden, R.V., and Kawakami, T. (1975). J. Natl. Cancer Inst. <B>55</B>: 1419.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->173868" target="_blank">PubMed</A></I>.
+<!-- PMID: 173868 -->
+
+<A NAME="ref50-17"></A>
+<P>17. Lieber, M.M., Sherr, C.J., Todaro, G.J., Benveniste, R.E., Callahan, R., and Coon, H.G. (1975). Proc. Natl. Acad. Sci. USA <B>72</B>: 2315.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->49058" target="_blank">PubMed</A></I>.
+<!-- PMID: 49058 -->
+
+<A NAME="ref50-18"></A>
+<P>18. Callahan, R., Benveniste, R.E., Sherr, C.J., Schidlovsky, G., and Todaro, G.J. (1976). Proc. Natl. Acad. Sci. USA <B>73</B>: 3579.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->62362" target="_blank">PubMed</A></I>.
+<!-- PMID: 62362 -->
+
+<A NAME="ref50-19"></A>
+<P>19. Schlom, J., Hand, P., Teramoto, Y.A., Callahan, R., and Todaro, G., and Schidlovsky, G. (1978). J. Natl. Cancer Inst. <B>61</B>: 1509.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->82634" target="_blank">PubMed</A></I>.
+<!-- PMID: 82634 -->
+
+<A NAME="ref50-20"></A>
+<P>20. Marshall, J.T. (1977). Bull. Amer. Mus. Nat. Hist. <B>158</B>: 173.
+
+<A NAME="ref50-21"></A>
+<P>21. Sherr, C.J., Fedele, L.A., Benveniste, R.E., and Todaro, G.J. (1975). J. Virol. <B>15</B>: 1440.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->49443" target="_blank">PubMed</A></I>.
+<!-- PMID: 49443 -->
+
+<A NAME="ref50-22"></A>
+<P>22. Baltimore, D. (1974). Cold Spring Harbor Symp. Quant. Biol. <B>39</B>: 1187.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->50896" target="_blank">PubMed</A></I>.
+<!-- PMID: 50896 -->
+
+<A NAME="ref50-23"></A>
+<P>23. Dion, A., Vaidya, A., Font, G.S., and Moore, D.H. (1974). J. Virol. <B>14</B>: 40.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4134465" target="_blank">PubMed</A></I>.
+<!-- PMID: 4134465 -->
+
+<A NAME="ref50-24"></A>
+<P>24. Gaubatz, J., and Cutler, R.G. (1975). Biochemistry <B>14</B>: 760.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->1115771" target="_blank">PubMed</A></I>.
+<!-- PMID: 1115771 -->
+
+<A NAME="ref50-25"></A>
+<P>25. Laird, C. (1971) Chromosoma <B>32</B>: 378.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4995642" target="_blank">PubMed</A></I>.
+<!-- PMID: 4995642 -->
+
+<A NAME="ref50-26"></A>
+<P>26. Rice, N.R., and Strauss, N.A., (1973). Proc. Natl. Acad. Sci. USA <B>70</B>: 3546.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4519644" target="_blank">PubMed</A></I>.
+<!-- PMID: 4519644 -->
+
+<A NAME="ref50-27"></A>
+<P>27. Callahan, R., Benveniste, R.E., Lieber, M.M., and Todaro, G.J. (1974). J. Virol. <B>14</B>: 1394.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4372403" target="_blank">PubMed</A></I>.
+<!-- PMID: 4372403 -->
+
+<A NAME="ref50-28"></A>
+<P>28. Callahan, R., Lieber, M.M, and Todaro, G.J. (1975). J. Virol. <B>15</B>: 1378.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->167191" target="_blank">PubMed</A></I>.
+<!-- PMID: 167191 -->
+
+<A NAME="ref50-29"></A>
+<P>29. Scolnick, E.M., Goldberg, R.J., and Williams, D. (1976). J. Virol. <B>18</B>: 559.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->178897" target="_blank">PubMed</A></I>.
+<!-- PMID: 178897 -->
+
+<A NAME="ref50-30"></A>
+<P>30. Scolnick, E.M., Williams, D., Maryak, J., Vass, W., Goldberg, R.J., and Parks, W.P. (1976). J. Virol. <B>20</B>: 570.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->62849" target="_blank">PubMed</A></I>.
+<!-- PMID: 62849 -->
+
+<A NAME="ref50-31"></A>
+<P>31. Benveniste, R.E., and Todaro, G.J. Primate and Human Cancer Meeting, San Antonio, Texas, in press.
+
+<A NAME="ref50-32"></A>
+<P>32. Chapman, V.M., and Shows, T.B. (1976). Nature <B>259</B>: 665.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54095" target="_blank">MGI</A></I>.
+<!-- MGI:54095 -->
+
+<A NAME="ref50-33"></A>
+<P>33. Benveniste, R.E., Heinemann, R., Wilson, G.L., Callahan, R., and Todaro, G.J. (1974). J. Virol. <B>14</B>: 56.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4365323" target="_blank">PubMed</A></I>.
+<!-- PMID: 4365323 -->
+
+<A NAME="ref50-34"></A>
+<P>34. Benveniste, R.E., and Todaro, G.J. (1974). Proc. Natl. Acad. Sci. USA <B>71</B>: 4513.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4373709" target="_blank">PubMed</A></I>.
+<!-- PMID: 4373709 -->
+
+<A NAME="ref50-35"></A>
+<P>35. Ando, T. (1966). Biochim. Biophys. Acta <B>114</B>: 158.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4287053" target="_blank">PubMed</A></I>.
+<!-- PMID: 4287053 -->
+
+<A NAME="ref50-36"></A>
+<P>36. Benveniste, R.E., and Scolnick, E.M. (1973). Virology <B>51</B>: 370.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4120907" target="_blank">PubMed</A></I>.
+<!-- PMID: 4120907 -->
+
+<A NAME="ref50-37"></A>
+<P>37. Britten, R.J., and Kohne, D.E. (1968). Science <B>161</B>: 529.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4874239" target="_blank">PubMed</A></I>.
+<!-- PMID: 4874239 -->
+
+<A NAME="ref50-38"></A>
+<P>38. Britten, R.J., and Smith, J. (1970). Carnegie Inst. Washington Yearbook <B>68</B>: 378.
+
+<A NAME="ref50-39"></A>
+<P>39. Kohne, D.E. (1970). Q. Rev. Biophys. <B>3</B>: 327.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4989149" target="_blank">PubMed</A></I>.
+<!-- PMID: 4989149 -->
+
+<A NAME="ref50-40"></A>
+<P>40. Jainchill, J.L., Aaronson, S.A., and Todaro, G.J. (1969). J. Virol. <B>4</B>: 549-553.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4311790" target="_blank">PubMed</A></I>.
+<!-- PMID: 4311790 -->
+
+<A NAME="ref50-41"></A>
+<P>41. Benveniste, R.E., and Todaro, G.J. (1977). Proc. Natl. Acad. Sci. USA <B>74</B>: 4557.
+
+<A NAME="ref50-42"></A>
+<P>42. Hartley, J.W., and Rowe, W.P. (1975). Virology <B>65</B>: 128.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->167514" target="_blank">PubMed</A></I>.
+<!-- PMID: 167514 -->
+
+<A NAME="ref50-43"></A>
+<P>43. Birnstiel, M., Chipchase, M., and Speirs, J. (1971). Progr. Nucleic Acids Res. Mol. Biol. <B>11</B>: 351.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5004308" target="_blank">PubMed</A></I>.
+<!-- PMID: 5004308 -->
+
+<DIV Align="center"><H4> <A HREF="klein.shtml">Previous</A> <A HREF="../subjectindex.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

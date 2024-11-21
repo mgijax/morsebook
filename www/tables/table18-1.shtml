@@ -1,0 +1,245 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 18-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 18 -->
+
+<CENTER>
+<H3>TABLE 1. Gene Classes in Enzyme Control</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+<TR>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>Type</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Examples</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Structural</TD>
+<TD>&nbsp;</TD>
+<TD>Many, see (
+<A HREF="#ref18-6">6</A>)</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Processing</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Modification</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96917" target="_blank"><I>Map-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Map-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Apl</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Turnover</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:107361" target="_blank"><I>Ce</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Localization</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95432" target="_blank"><I>Eg</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Organelle</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:107448" target="_blank"><I>bg</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2177742" target="_blank"><I>le</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2177763" target="_blank"><I>ep</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1333879" target="_blank"><I>pe</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1927580" target="_blank"><I>pa</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2180307" target="_blank"><I>mr</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2181763" target="_blank"><I>ru</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Regulatory</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Systemic</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96853" target="_blank"><I>Lv</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bgs</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Effector response</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gur</I></A>, (rennin)
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Receptors</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88064" target="_blank"><I>Tfm</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105043" target="_blank"><I>Ah</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Temporal</TD>
+<TD COLSPAN=3>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Proximate</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gut</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88151" target="_blank"><I>Bgt</I></A>, 
+<I>Int</I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88075" target="_blank"><I>Asr-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;&nbsp;Distant</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98478" target="_blank"><I>Tag</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98478" target="_blank"><I>Tem</I></A>, 
+<I>Rec</I>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>Unknown</TD>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97522" target="_blank"><I>Pd</I></A>
+</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+
+
+
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref18-6"></A>
+<P>6. Chapman, V.M., Paigen, K., Siracusa, L., and Womack, J. (1979). In <I>Biological Handbooks III. Inbred and Genetically Defined Strains of Laboratory Animals</I>, p. 80. 
+Fed. Amer. Soc. Exp. Biol.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:83849" target="_blank">MGI</A></I>.
+<!-- MGI:83849 -->
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+

@@ -1,0 +1,603 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 11-4</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 11 -->
+
+<H3>TABLE 4. CR Strains Produced, in Conjunction with Ralph Graff, by Backcrossing Marker Genes onto the C57BL/10Sn Background<SUP>a</SUP></H3>
+
+<CENTER>
+
+<TABLE>
+
+<TR><TD COLSPAN=11><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>Strain<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>Short<BR>symbol</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER>Generation</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>N<BR>equivalent</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER>Genotype</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER>References</TD>
+</TR>
+
+<TR><TD COLSPAN=11><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.C(28NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>28NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F53</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE8F53</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>c</SUP> Ir-2<SUP>?</SUP> H-13<SUP>?</SUP> A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-28">28</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.C-<I>H-3<SUP>c</SUP></I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>28NX/2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F27N3F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A> 
+<A HREF="#ref11-39">39</A> 
+<A HREF="#ref11-40">40</A><SUP>
+<A HREF="#b">b</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.C-<I>H-13<SUP>a</SUP></I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>28NX/3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F27N3F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>we H-13<SUP>a</SUP> A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Unpublished<SUP>
+<A HREF="#b">b</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.CE(30NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>30NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N7G4F46</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE9F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>Ir-2<SUP>b</SUP> H-13<SUP>b</SUP> A<SUP>w</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-22">22</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-38">38</A> 
+<A HREF="#ref11-39">39</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.CE(62NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>62NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F12N1F4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F4</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>c<SUP>e</SUP> H-1<SUP>not a, b, or c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-36">36</A><SUP>
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>C10.C3H(29NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>29NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6G6F10N3R1F26</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE12F26</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-13<SUP>c</SUP> A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-24">24</A> 
+<A HREF="#ref11-34">34</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.C3H(40NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6G6F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6G6F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped<SUP>
+<A HREF="#d">d</A></SUP></TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>Hbb<SUP>d</SUP> H-1<SUP>a</SUP> H-x<SUP>b</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-22">22</A> 
+<A HREF="#ref11-26">26</A> 
+<A HREF="#ref11-28">28</A> 
+<A HREF="#ref11-34">34</A><SUP>
+<A HREF="#d">d</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.FS(63NX)/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>63NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>p H-4<SUP>?</SUP> c<SUP>ch</SUP> sh-1 Hbb<SUP>?</SUP> H-1<SUP>b</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-36">36</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.KR(35NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>35NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F27</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>d</SUP> Ir-2<SUP>?</SUP> H-13<SUP>c</SUP> A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.KR-<I>H-3<SUP>d</SUP></I>/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>35NX/2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F27N3F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>d</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A> 
+<A HREF="#ref11-39">39</A><SUP>
+<A HREF="#e">e</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.KR-<I>H-13<SUP>c</SUP> A</I>/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>35NX/3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F27N3F27</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>we H-13<SUP>c</SUP> A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-38">38</A><SUP>
+<A HREF="#e">e</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.LP(36NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>36NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b?</SUP> Ir-2<SUP>?</SUP> H-13<SUP>c</SUP> A<SUP>w</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-18">18</A> 
+<A HREF="#ref11-22">22</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.LP-<I>H-13<SUP>b</SUP> A<SUP>w</SUP></I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>36NX/2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N8F17N1R1N2F25</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>Ir-2<SUP>?</SUP> H-13<SUP>b</SUP> A<SUP>w</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-38">38</A><SUP>
+<A HREF="#f">f</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.P(61NX)/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>61NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F14N1F3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F3</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>Hbb<SUP>?</SUP> H-1<SUP>not a, b, or c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-36">36</A><SUP>
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.PA-<I>H-3<SUP>e</SUP></I>/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>B10.PA</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N11F18</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F18</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>pa H-3<SUP>e</SUP> a<SUP>t</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A> 
+<A HREF="#ref11-39">39</A><SUP>
+<A HREF="#g">g</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.SEC(64NX)/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>64NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F16N1F1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F1</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>H-1<SUP>not a, b, or c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-36">36</A><SUP>
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.SM(65NX)/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>65NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F13N1F2N1F2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE12F2</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>H-1<SUP>not a, b, or c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-36">36</A><SUP>
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.SWR(38NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>38NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6F1N3F20</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>? A</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Unpublished</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.UW(69NX)/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>69NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6F4N2F44</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE8F</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> we un a<SUP>t</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-18">18</A> 
+<A HREF="#ref11-24">24</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A> 
+<A HREF="#ref11-36">36</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.UW-<I>a</I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>69NX/2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6F4N2F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> we un</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-18">18</A> 
+<A HREF="#ref11-20">20</A> 
+<A HREF="#ref11-24">24</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A><SUP>
+<A HREF="#h">h</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.UW-<I>H-3<SUP>b</SUP> we</I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>69NX/3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6F4N2F8R3F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> we</I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-24">24</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A><SUP>
+<A HREF="#h">h</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.UW-<I>H-3<SUP>b</SUP></I>/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>69NX/4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N6F4N2F8R3F</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Dropped</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-24">24</A> 
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-35">35</A><SUP>
+<A HREF="#h">h</A></SUP></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>B10.WB(66NX)/Grf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>66NX</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>N10F12N1F4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>NE11F4</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>Hbb<SUP>?</SUP> H-1<SUP>not a, b, or c</SUP></I></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+<A HREF="#ref11-34">34</A> 
+<A HREF="#ref11-36">36</A><SUP>
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR><TD COLSPAN=11><HR></TD></TR>
+
+</TABLE>
+</CENTER>
+
+<A NAME="a"></A>
+<P><SUP>a</SUP>See 
+<a href="javascript:windowt112 = window.open('table11-2.shtml#a', 'windowt112', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt112.focus()">footnote a, Table 2</A>. 
+The strains "Dropped" are not maintained at The Jackson Laboratory or by Dr. Graff in St. Louis. 
+It is possible that some of them are maintained elsewhere.
+
+<A NAME="b"></A>
+<P><SUP>b</SUP>Strains B10.C-<I>H-3<SUP>c</SUP></I> and B10.C-<I>H-13<SUP>?</SUP></I> were derived from strains B10.C(28NX) as a result 
+of crossing over following matings of B10.C(28NX) to B10-<I>we<SUP>Bkr</SUP></I> (
+<A HREF="#ref11-35">35</A> and unpublished). B10-<I>we<SUP>Bkr</SUP></I> is a C57BL/10Sn gongenic carrying a mutation to 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98947" target="_blank"><I>we</I></A> which 
+occurred in B10.129(21M). B10.129(21M) was at NE11 at the time B10-<I>we<SUP>Bkr</SUP></I> was separated.
+
+<A NAME="c"></A>
+<P><SUP>c</SUP>These 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> 
+strains were started at The Jackson Laboratory and completed by D. Ralph Graff in St. Louis. They were produced by using 
+B10.129(5M)/n (<I>c H-1<SUP>b</SUP></I>) as the first parent. The presence in this strain of the seventh chromosome gene, <I>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank">c</A></I> 
+(albinism), made it easy to follow the introduction of <I>c</I> alleles which served as markers for introducing <I>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank">H-1</A></I>.
+
+<A NAME="d"></A>
+<P><SUP>d</SUP>Strain B10.C3H(40NX) was split off from strains B10.C3H(29NX) at N6G6 (unpublished). It has been dropped in Bar Harbor 
+but may be maintained at the Institute of Molecular Genetics in Prague.
+
+<A NAME="e"></A>
+<P><SUP>e</SUP>Strains B10.KR-<I>H-3<SUP>d</SUP></I> and B10.KR-<I>H-13<SUP>c</SUP> A</I> were derived from strain B10.KR(35NX) as a 
+result of crossing over following matings of B10.KR(35NX) to B10-<I>we<SUP>Bkr</SUP></I> (
+<A HREF="#ref11-35">35</A> and unpublished; see 
+<A HREF="#b">footnote b</A>).
+
+<A NAME="f"></A>
+<P><SUP>f</SUP>Strain B10.LP-<I>H-13<SUP>b</SUP>A<SUP>w</SUP></I> was derived from B10.LP(36NX) following a mating to C57BL/10Sn at N8F17 
+and a mating to B10.UW at N8F17N1. It carries the <I>H-3<SUP>a</SUP></I> allele of B10 instead of the <I>H-3<SUP>b</SUP></I> allele of LP, 
+but when the loss of <I>H-3<SUP>b</SUP></I> occurred is unknown. It should be noted that these B10.LP strains in Table 4 are derived 
+from a cross distinct from that which gave rise to the B10.LP strains listed in Table 2.
+
+<A NAME="g"></A>
+<P><SUP>g</SUP>Strain B10.PA-<I>H-3<SUP>e</SUP></I> was previously called B10-<I>pa H-3<SUP>e</SUP> a<SUP>t</SUP></I>. It was derived 
+by repeated backcrossing of <I>pa H-3<SUP>e</SUP> We Un</I> from B6-<I>pa</I>/Re to strain B10.UW (
+<A HREF="#ref11-35">35</A>). The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1855941" target="_blank"><I>a<SUP>t</SUP></I></A> allele in 
+B10.PA-<I>H-3<SUP>e</SUP></I> was derived from B10.UW.
+
+<A NAME="h"></A>
+<P><SUP>h</SUP>Strain B10.UW-<I>H-3<SUP>b</SUP> we</I> was originally called B10.UW-<I>we H-3<SUP>b</SUP></I>. It was derived from 
+B10.UW(69NX).
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref11-18"></A>
+<P>18. Snell, G.D., and Bunker, H.P. (1964). Transplantation <B>2:</B> 743.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48658" target="_blank">MGI</A></I>.
+<!-- MGI:48658 -->
+
+<A NAME="ref11-20"></A>
+<P>20. Snell, G.D., and Bunker, H.P. (1965). Transplantation <B>3:</B> 235.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48840" target="_blank">MGI</A></I>.
+<!-- MGI:48840 -->
+
+<A NAME="ref11-22"></A>
+<P>22. Graff, R.J., Silvers, W.K., Billingham, R.E., Hildemann, W.H., and Snell, G.D. (1966). Transplantation <B>4:</B> 605.
+
+
+<A NAME="ref11-24"></A>
+<P>24. Snell, G.D., Cudkowicz, G., and Bunker, H. (1967). Transplanation <B>5:</B> 492.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53514" target="_blank">MGI</A></I>.
+<!-- MGI:53514 -->
+
+<A NAME="ref11-26"></A>
+<P>26. Graff, R.J., and Snell, G.D. (1968). Transplantation <B>6:</B> 598.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53561" target="_blank">MGI</A></I>.
+<!-- MGI:53561 -->
+
+<A NAME="ref11-28"></A>
+<P>28. Hilgert, I., and Snell, G.D. (1969). Transplantation <B>7:</B> 401.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4890907" target="_blank">PubMed</A></I>.
+<!-- PMID: 4890907 -->
+
+<A NAME="ref11-34"></A>
+<P>34. Graff, R.J., and Bailey, D.W. (1973). Transplant. Rev. <B>15:</B> 26.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53892" target="_blank">MGI</A></I>.
+<!-- MGI:53892 -->
+
+<A NAME="ref11-35"></A>
+<P>35. Graff, R.J., Brown, D., and Snell, G.D. (1973). Transplant. Rev. <B>15:</B> 299.
+
+<A NAME="ref11-36"></A>
+<P>36. Klein, J. (1973). Transplantation <B>15:</B> 137.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4711011" target="_blank">PubMed</A></I>.
+<!-- PMID: 4711011 -->
+
+<A NAME="ref11-38"></A>
+<P>38. Snell, G.D., and Bailey, D.W. (1974). <I>Congenic Resistant and Recombinant Inbred Strains of Mice Available Through the Production Department.</I> 
+Mimeographed, The Production Department, The Jackson Laboratory, Bar Harbor.
+
+<A NAME="ref11-39"></A>
+<P>39. Gasser, D.L. (1976). Immunogenetics <B>3:</B> 271.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52926" target="_blank">MGI</A></I>.
+<!-- MGI:52926 -->
+
+<A NAME="ref11-40"></A>
+<P>40. Cherry, M. (1977). Inbred Strains of Mice <B>10:</B> 28.
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

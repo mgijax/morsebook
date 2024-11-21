@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>User's Guide</title>
+	<meta name="generator" content="BBEdit 7.0.3" />
+</head>
+<body>
+
+<H2>A User's Guide to <I>Origins of Inbred Mice</I></H2>
+
+<H3>Introduction</H3>
+
+<P>The purpose of this User's Guide is to assist you in using all of the features of the electronic version of 
+<I>Origins of Inbred Mice</I>.
+
+<H3>Navigation</H3>
+
+<P>There are several ways to navigate through this book:
+
+<UL>
+<LI>The Table of Contents</LI>
+<LI>The Subject Index</LI>
+<LI>The abbreviated Table of Contents in the left column of most pages</LI>
+<LI>The <B>Previous</B> and <B>Next</B> links at the top and bottom of most pages</LI>
+<LI>Internal links within the body of the text</LI>
+</UL>
+
+<P>The 
+<A HREF="contents.shtml">Table of Contents</A> lists Chapter headings. Click on any link in the Table of Contents to go 
+to that section of the text.
+
+<P>The 
+<A HREF="frames/framesubjectindex.shtml">Subject Index</A> list topics alphabetically. Click on any link to go to that Table, Figure, or section of the text.
+
+<P>See 
+<A HREF="frames/frame1.shtml">Chapter 1</A> for an example of the abbreviated Table of Contents and the Previous and Next links.
+
+<H3>Special Features</H3>
+
+<P><B>References:</B> Citations within the body of the text are linked to the appropriate reference 
+in the <B>References</B> section. Many of the references are also in the body of literature curated 
+by Mouse Genome Informatics. These will have a link to the citation in MGI below the citation in the 
+<B>References</B> section. Clicking the link to MGI will take you to the references detail page at MGI. For example,  
+<A HREF="frames/framekeeler.shtml">Keeler (1931)</A> is also curated at MGI. Clicking the link to MGI lets you search for 
+Genes, Markers and Phenotypes, Marker Mapping Information, or Molecular Probes and Segments in MGI 
+from this reference. This page also links to the citation in PubMed. Other references are not curated 
+at MGI, but are curated in PubMed. For example, 
+<A HREF="frames/framepotter.shtml">Potter and Lieberman (1967)</A> is such a citation. Clicking the link to 
+PubMed take you to the page containing the Abstract and several useful search features: click 
+<B>Related Articles</B> to see references that may be more up to date, or 
+<B>Books</B> to see chapters from reference works related to the subject of the reference.
+
+<P><B>Genes and Alleles:</B> All mouse genes mentioned in the text are linked to MGI pages containing 
+information on those genes, including current nomenclature. The link may be to a Gene Detail page, 
+such as that for the gene referred to in the text as the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank">albino (c)</A> locus. 
+The link may also be to an Allele Detail page, such as that for the  
+<A HREF="<!--#include file='include/mgi_acc.html'--> MGI:1856305" target="_blank"><I>c<SUP>6H</SUP></I></A> allele.
+
+<P><B>Tables:</B> Clicking a reference to a Table within the text will cause that Table to appear 
+in a new browser window (see, for example, Table 
+<A HREF="javascript:windowt111 = window.open('tables/table11-1.shtml', 'windowt111', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt111.focus()">11-1</A>). 
+All Tables are listed on the 
+<A HREF="frames/frametables.shtml">Tables</A> page.
+
+<P><B>Figures:</B> Clicking a reference to a Figure within the text will cause that Figure to 
+appear in a new browser window (see, for example, Figure
+<A HREF="javascript:windowf151 = window.open('figures/figure15-1.shtml', 'windowf151', 'width=650,height=500,resizable=yes,scrollbars=yes'); windowf151.focus()">15-1</A>). 
+All Figures are listed on the 
+<A HREF="frames/framefigures.shtml">Figures</A> page.
+
+<P><B>Subject Index:</B> The  
+<A HREF="frames/framesubjectindex.shtml">Subject Index</A> from the book has links to the relevant section of the text, 
+or to tables and figures, in place of the page numbers found in the book as it was originally published.
+
+<H3>A Note on Printing</H3>
+
+<P>To print a section of the text of this book from your browser, you will have to navigate to that 
+section using the Table of Contents. Use the abbreviated Table of Contents in the left column to go 
+to the Table of Contents. From there, select the section that you would like to print. When that 
+section appears in your browser window, click the frame containing that section to select it, then 
+use your browser's <B>Print Frame</B> function.
+
+To print a Table or Figure, select the browser window in which it appears and use your browser's 
+<B>Print</B> function.
+
+<H3>Further Assistance</H3>
+
+<P>Please send questions and comments to 
+<A HREF="<!--#include file='include/mgi_support.html'-->">User Support</A>.
+
+</body>
+</html>

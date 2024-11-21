@@ -1,0 +1,428 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice  - Table 16-3</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 16 -->
+
+<CENTER>
+<H3>TABLE 3. Thirty-three Loci Which Constitute the Genetic Profiles</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>Chromosome</TD>
+<TD>&nbsp;</TD>
+<TD>Locus</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>Locus description</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96413" target="_blank"><I>Id-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Isocitrate dehydrogenase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Dipeptidase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96031" target="_blank"><I>Hc</I></TD>
+<TD>&nbsp;</TD>
+<TD>Hemolytic complement</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88271" target="_blank"><I>Cs-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Catalase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" target="_blank"><I>a</I></TD>
+<TD>&nbsp;</TD>
+<TD>Non-agouti</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88269" target="_blank"><I>Car-2</I></TD>
+<TD>&nbsp;</TD>
+<TD>Carbonic anhydrase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96853" target="_blank"><I>Lv</I></TD>
+<TD>&nbsp;</TD>
+<TD>&delta;-aminolevulinate dehydratase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97233" target="_blank"><I>Mup-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Major urinary protein</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881" target="_blank"><I>b</I></TD>
+<TD>&nbsp;</TD>
+<TD>Brown</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Glucose-6-phosphate dehydrogenase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>5</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97564" target="_blank"><I>Pgm-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Phosphoglucomutase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>5</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95872" target="_blank"><I>Gus</I></TD>
+<TD>&nbsp;</TD>
+<TD>Glucuronidase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88346" target="_blank"><I>Ly-2</I></TD>
+<TD>&nbsp;</TD>
+<TD>Lymphocyte antigen</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88347" target="_blank"><I>Ly-3</I></TD>
+<TD>&nbsp;</TD>
+<TD>Lymphocyte antigen</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98724" target="_blank"><I>wa-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Waved</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96766" target="_blank"><I>Ldr-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Lactate dehydrogenase regulator</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Glucose phosphate isomerase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank"><I>c</I></TD>
+<TD>&nbsp;</TD>
+<TD>Albino</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></TD>
+<TD>&nbsp;</TD>
+<TD>Hemoglobin &beta;-chain</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>8</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Esterase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>9</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98747" target="_blank"><I>Thy-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Thymus cell antigen</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>9</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105976" target="_blank"><I>d</I></TD>
+<TD>&nbsp;</TD>
+<TD>Dilute</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>9</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97043" target="_blank"><I>Mod-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Malic enzyme</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>9</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98821" target="_blank"><I>Trf</I></TD>
+<TD>&nbsp;</TD>
+<TD>Transferrin</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>11</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" target="_blank"><I>Hba</I></TD>
+<TD>&nbsp;</TD>
+<TD>Hemoglobin &alpha;-chain</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>11</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></TD>
+<TD>&nbsp;</TD>
+<TD>Esterase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>14</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95421" target="_blank"><I>Es-10</I></TD>
+<TD>&nbsp;</TD>
+<TD>Esterase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>14</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:102720" target="_blank"><I>s</I></TD>
+<TD>&nbsp;</TD>
+<TD>Piebald</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>17</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:3040519" target="_blank"><I>H-2K</I></TD>
+<TD>&nbsp;</TD>
+<TD>Histocompatibility</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>17</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H-2D</I></TD>
+<TD>&nbsp;</TD>
+<TD>Histocompatibility</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>17</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></TD>
+<TD>&nbsp;</TD>
+<TD>Thymus leukemia antigen</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>17</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88364" target="_blank"><I>Ce-2</I></TD>
+<TD>&nbsp;</TD>
+<TD>Catalase</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>19</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88340" target="_blank"><I>Ly-1</I></TD>
+<TD>&nbsp;</TD>
+<TD>Lymphocyte antigen</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

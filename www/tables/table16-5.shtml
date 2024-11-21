@@ -1,0 +1,362 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 16-5</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 16 -->
+
+<CENTER>
+<H3>TABLE 5. Computer Listing of Gene Similarities and Differences<BR>for Inbred Strains C57BL/10, NBL, and DBA/2</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+
+<TR><TD COLSPAN=9 ALIGN=CENTER>Genetic Profile</TD></TR>
+<TR><TD COLSPAN=9 ALIGN=CENTER>Strain Differences</TD></TR>
+<TR><TD COLSPAN=9>&nbsp;</TD></TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>C57BL/10</TD>
+<TD>&nbsp;</TD>
+<TD>NBL</TD>
+<TD>&nbsp;</TD>
+<TD>DBA/2</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+
+<TR>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96413" target="_blank"><I>Id-1</I></A>
+</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97541" target="_blank"><I>Dip-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96031" target="_blank"><I>Hc</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97233" target="_blank"><I>Mup-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881" target="_blank"><I>b</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>B</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:2140356" target="_blank"><I>Gpd-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>c</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97564" target="_blank"><I>Pgm-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88346" target="_blank"><I>Ly-2</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88347" target="_blank"><I>Ly-3</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95797" target="_blank"><I>Gpi-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>s</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95420" target="_blank"><I>Es-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97043" target="_blank"><I>Mod-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" target="_blank"><I>Es-3</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>c</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95904" target="_blank"><I>H-2K</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:1933561" target="_blank"><I>H2-D</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>d</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>c</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>c</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88364" target="_blank"><I>Ce-2</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>&nbsp;</TD>
+<TD>
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88340" target="_blank"><I>Ly-1</I></A>
+</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>b</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER>a</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR><TD COLSPAN=9><HR></TD></TR>
+
+</TABLE>
+
+</CENTER>
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

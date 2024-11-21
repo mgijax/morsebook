@@ -1,0 +1,648 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<DIV Align="center"><H4> <A HREF="schlom.shtml">Previous</A> <A HREF="old.shtml">Next</A></H4></DIV>
+
+<!-- Chapter 24 -->
+
+<H2>Minor Histocompatibility Genes and Their Antigens<SUP>
+<A HREF="#footnote1">1</A></SUP></H2>
+
+<H3>Ralph J. Graff<BR><BR>
+
+Waldheim Department of Surgery<BR>
+Jewish Hospital of St. Louis<BR>
+Washington University School of Medicine<BR>
+St. Louis, Missouri</H3>
+
+<P>Progress in transplantation immunogenetics has depended heavily on the development of inbred mouse strains. The earliest observations 
+indicating that acceptance of allografts was at least partially heritable were made in closed mouse colonies. With the production of inbred 
+mouse strains, the basic principles of transplantation immunogenetics developed more readily: outstanding examples were the finding that 
+the acceptance of allografts is a polygenic trait, and that histocompatibility genes can be isolated in congenic strain pairs.
+
+<P>Since the present report will deal with histocompatibility genes and their antigens, particularly the minor histocompatibility genes and 
+antigens, it would be appropriate to define these terms. Histocompatibility antigens (H-antigens) are found on a broad distribution of tissues 
+and immunological reaction against them results in the rejection of antigen-bearing tissues. This definition excludes tissue-specific antigens 
+such as the blood group antigens (the Ea series in the mouse) and the lymphocyte antigens (the Ly series in the mouse). In addition, it excludes 
+modulating antigens -- antigens that evoke immunological reactions not resulting in tissue rejection (TL in the mouse). The term minor H-antigen 
+is complementary to the term major H-antigen. The major H-antigens are under the genetic control of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>  
+complex, a group of closely linked genes on chromosome 17. The minor H-antigens are controlled by genes scattered throughout the remainder 
+of the chromosomes in addition to four genes located on chromosome 17.
+
+<P><CENTER>Estimates of the Number of H-Loci</CENTER>
+
+<P>The role of genetics in transplantation was first suggested by Loeb (
+<A HREF="#ref24-1">1</A>) and Tyzzer (
+<A HREF="#ref24-2">2</A>), but it remained for Little (
+<A HREF="#ref24-3">3</A>) in his classical publication, "A Possible Mendelian Explanation for a Type of Inheritance Apparently Non-Mendelian in Nature," 
+to hypothesize that the susceptibility or resistance to the growth of an allograft was under the control of multiple genes, subsequently named 
+histocompatibility genes by Snell (
+<A HREF="#ref24-4">4</A>). In a later publication, Little and Tyzzer (
+<A HREF="#ref24-5">5</A>) produced F<SUB>2</SUB> mice from the initial cross of a Japanese waltzing mouse and a common house mouse. They used the 
+acceptance or rejection of a Japanese waltzing mouse tumor by the F<SUB>2</SUB> mice to estimate that the Japanese waltzing mouse and the 
+common house mouse differed by 14-15 H-genes. The technique suffered from two shortcomings: 1) because of the large number of H-genes by 
+which the parental strains differed, very few grafts were accepted and the resultant error was great, and 2) the technique allowed only 
+one opportunity for crossover; therefore multiple closely linked H-genes behaved as one gene. Bailey and Mobraaten (
+<A HREF="#ref24-6">6</A>) minimized these two shortcomings by basing their estimates on the survival of skin grafted between partially inbred 
+mice and from multiple backcrossed mice to parental strain mice. In both cases the number of surviving skin grafts and the opportunities 
+for crossovers are increased manyfold. Using these techniques Bailey and Mobraaten estimated that strains BALB/cBy and C57BL/6By differ 
+by 28 or 29 H-genes.
+
+<P>To determine if Bailey's estimate, which was significantly larger than previous estimates, was typical of other strain combinations, we 
+have tested additional strain pairs. We used the multiple backcross technique to estimate the number of genes by which DBA/2J and B10.D2 
+differ (these two strains both possess the <I>H-2<SUP>d</SUP></I> haplotype). These strains were crossed and female offspring backcrossed 
+to B10.D2 males for multiple generations. Skin was grafted to B10.D2 males from females of backcross generations N4 through N8. If the skin 
+grafts were not rejected within 100 days, whenever possible a second B10.D2 male was immunized with 5 x 10<SUP>6</SUP> spleen cells from 
+the female donor, skin grafted, and scored for 250 days. The formula L = s<SUP>n-1</SUP> was used to estimate the number of histocompatibility 
+differences between DBA/2J and B10.D2 (L = number of H-genes, n = the generation in which all grafts of a given line were accepted). Based 
+on the responses of unimmunized hosts an H-gene difference of 28 genes was estimated. Based on the responses of immunized hosts an H-gene 
+difference of 63 genes was estimated. In order to estimate the number of H-differences by which C57BL/6J and DBA/2J differ, orthotopic tail 
+skin grafts were exchanged between unimmunized, sex-matched, full siblings of 16 sublines derived from a C57BL/6J-DBA/2J cross. These sublines 
+had been through 13 to 17 sibling matings. The grafts were scored for 100 days. Using the formula S = (3/4)<SUP>rL</SUP> (5/8)<SUP>vL</SUP> 
+(S = surviving fraction, r and v are constants dependent on the generation number), it was estimated that these strains differed by 34 H-genes 
+(28 in males, 39 in females) (
+<A HREF="#ref24-7">7</A>). Similarly the number of H-genes by which C57BL/6J and C3H/HeJ differ was estimated to be 32 (37 in males, 27 in females) (
+<A HREF="#ref24-7">7</A>). These results for strain combinations B10.D2 - DBA/2J, C57BL/6J - DBA/2J, and C57BL/6J - C3H/HeJ are of the same order of 
+magnitude as Bailey's estimate for C57BL/6By - BALB/cBy. It is likely that the counts of 28 to 34 for histocompatibility differences between 
+unrelated strains are representative.
+
+<P>Estimates of the total number of H-genes also can be made from the frequency of H-gene mutations, Based on the ratio of H-gene mutation 
+(as determined by rejection of skin grafts exchanged between F<SUB>1</SUB>'s) to the mutation rate of other genes, Bailey (
+<A HREF="#ref24-8">8</A>) estimated a total of 720 H-genes. By another method, based on lost type mutations and the number of H-gene differences 
+between the strains being tested, he estimated 430 H-genes. Bailey explained extremely large estimates by the facts that they reflect 
+non-polymorphic (silent) as well as polymorphic H-loci, that they are not dependent on gene segregation and thereby not affected by linkage, 
+and that there may be more than one mutation site at each locus.
+
+<P><CENTER>Isolation, Mapping, and Allelism of Weak Loci</CENTER>
+
+<A NAME="listing"></A>
+<P>It was possible to identify and study the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+locus in inbred mouse strains which differed by many non-<I>H-2</I> loci as well as by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> locus because of the strength of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+antigens and because specific antibodies could be produced against H-2 antigens which could then be used for identification. The 
+relative weakness of the non-H-2 antigens and their failure to stimulate good antisera has necessitated the isolation of non-
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>  genes in congenic mouse strains for identification. Through the use of congenic strains 35 minor histocompatibility loci have been 
+reported in addition to loci on the X and Y chromosomes (the latter two not requiring congenic strains). 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95993" target="_blank"><I>H-4</I></A>,  
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96006" target="_blank"><I>H-7</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96007" target="_blank"><I>H-8</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96008" target="_blank"><I>H-9</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95883" target="_blank"><I>H-10</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95884" target="_blank"><I>H-11</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95885" target="_blank"><I>H-12</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> were described by Snell and co-workers (
+<A HREF="#ref24-9">9</A>, 
+<A HREF="#ref24-10">10</A>, 
+<A HREF="#ref24-11">11</A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95887" target="_blank"><I>H-15</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95888" target="_blank"><I>H-16</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95889" target="_blank"><I>H-17</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95890" target="_blank"><I>H-18</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95892" target="_blank"><I>H-19</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95967" target="_blank"><I>H-20</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95968" target="_blank"><I>H-21</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95969" target="_blank"><I>H-22</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95970" target="_blank"><I>H-23</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95971" target="_blank"><I>H-24</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95972" target="_blank"><I>H-25</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95973" target="_blank"><I>H-26</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95974" target="_blank"><I>H-27</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95975" target="_blank"><I>H-28</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95976" target="_blank"><I>H-29</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95978" target="_blank"><I>H-30</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95982" target="_blank"><I>H-34</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95983" target="_blank"><I>H-35</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95984" target="_blank"><I>H-36</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95985" target="_blank"><I>H-37</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95986" target="_blank"><I>H-38</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96291" target="_blank"><I>H-X</I></A> by Bailey (
+<A HREF="#ref24-12">12</A>, 
+<A HREF="#ref24-13">13</A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95979" target="_blank"><I>H-31</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95980" target="_blank"><I>H-32</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95981" target="_blank"><I>H-33</I></A> by Flaherty and co-workers (
+<A HREF="#ref24-14">14</A>, 
+<A HREF="#ref24-15">15</A>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:106031" target="_blank"><I>H-39</I></A> by Artzt (
+<A HREF="#ref24-16">16</A>) and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96296" target="_blank"><I>H-Y</I></A> by Eichwald (
+<A HREF="#ref24-17">17</A>) (
+<a href="javascript:windowt241 = window.open('../tables/table24-1.shtml', 'windowt241', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt241.focus()">Table 1</A>). 
+Sixteen of these loci have been mapped on eight chromosomes (
+<a href="javascript:windowf241 = window.open('../figures/figure24-1.shtml', 'windowf241', 'width=1200,height=1000,resizable=yes,scrollbars=yes'); windowf241.focus()">Figure 1</A>). 
+As many as eight additional H-genes have been demonstrated by the rejection of skin grafts exchanged 
+between non-histocompatibility congenic strains (
+<A HREF="#ref24-18">18</A>). The temporary designations and the congenic strains are indicated in 
+<a href="javascript:windowt242 = window.open('../tables/table24-2.shtml', 'windowt242', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt242.focus()">Table 2</A>. 
+<I>H-(JS)</I>, <I>H-(Lt)</I>, and <I>H-(tn)</I> have not been proven to be distinct from one another; 
+<I>H-(go)</I> and <I>H-(pi)</I> have not been proven to be distinct from one another; and none of these potential loci have been proven 
+to be distinct from the previously described unmapped H-genes.
+
+<P>Although many congenic strains have been produced for the purpose of defining new <I>H</I>-loci, relatively few have been produced 
+to define additional alleles of the known loci. Six alleles of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A> locus, four alleles each of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> loci, three alleles each of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96007" target="_blank"><I>H-8</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95884" target="_blank"><I>H-11</I></A>, and 
+two alleles of each of the remaining <I>H</I>-loci have been isolated in congenic strain pairs (
+<A HREF="#ref24-9">9</A>, 
+<A HREF="#ref24-10">10</A>, 
+<A HREF="#ref24-11">11</A>, 
+<A HREF="#ref24-12">12</A>, 
+<A HREF="#ref24-13">13</A>, 
+<A HREF="#ref24-14">14</A>, 
+<A HREF="#ref24-15">15</A>, 
+<A HREF="#ref24-19">19</A>, 
+<A HREF="#ref24-20">20</A>, 
+<A HREF="#ref24-21">21</A>, 
+<A HREF="#ref24-21">22</A>, 
+<A HREF="#ref24-23">23</A>, 
+<A HREF="#ref24-24">24</A>, 
+<A HREF="#ref24-25">25</A>, 
+<A HREF="#ref24-26">26</A>; Graff, unpublished data).
+
+<P><CENTER>The Cellular Immune Response to Non-H-2 Antigens</CENTER>
+
+<P>The most frequently used technique to study the cellular immune response to non-H-2 antigens has been allograft rejection. The first 
+allografts to be used were tumor, which proved to be a technically easy but insensitive test. Skin grafting techniques were found to be 
+more sensitive because the hosts could be observed for rejection for prolonged periods, whereas tumor recipients would have succumbed. Two 
+major techniques of skin grafting have been used, the grafting of skin onto the flank (
+<A HREF="#ref24-27">27</A>) and the grafting of tail skin orthotopically (
+<A HREF="#ref24-28">28</A>). Median survival times (MST's) tend to be shorter with the orthotopic tail skin technique, probably because the grafts are smaller.
+
+<P>The magnitude of the immune response by a particular host to a given antigen depends on the degree of "differentness" of the antigen 
+(immunogenicity) and the immune responsiveness of the host. Data are being accumulated documenting variation in host responsiveness to 
+a given antigen. In 1969 Graff and Snell (
+<A HREF="#ref24-26">26</A>) noted a variation in the immune capability of a group of F<SUB>1</SUB> mice as indicated by their ability to reject 
+non-<I>H-2</I> disparate skin grafts. Subsequent studies have indicated that genes in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex control the speeds of rejection of non-<I>H-2</I> disparate skin grafts. The immune response to H-Y by female mice has been shown to be under the control of an 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>-linked gene (
+<A HREF="#ref24-29">29</A>, 
+<A HREF="#ref24-30">30</A>). To study the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>-linked genetic control of immune responsiveness to non-H-2 antigens, Wettstein and Haughton 
+are producing groups of "double congenic" strains. These strains are developed in groups of at least four strains. All of the strains are 
+on a C57BL/10 background, two of the strains share one 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> haplotype and differ at a given non-<I>H-2</I> locus, and the 
+other two share a second 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> haplotype and possess the same non-<I>H-2</I> difference. With these groups of double congenic mice, 
+Wettstein and Haughton (
+<A HREF="#ref24-31">31</A>, 
+<A HREF="#ref24-32">32</A>) have demonstrated that the magnitude of the allograft rejection reaction against the H-4.2 and H-7.2 antigens is effected by the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> haplotype of the host, indicating the existence of immune response genes in the <I>H-2</I> complex. Through the use of 
+crossover strains it appears that the immune response genes for different non-H-2 antigens may be located in different places in the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex.
+
+<A NAME="immunogenicity"></A>
+<P>To properly study the immunogenicity of histocompatibility antigens, variations in host immune responsiveness must be minimized. This can most 
+effectively be accomplished by using only one host strain in a given experiment. If this is not possible, one should use host strains with a 
+common background and preferably the same 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+haplotype. The subsequently described studies have been carried out with these guidelines 
+in mind. The total immunogenicity (as indicated by skin allograft rejection) of the antigens of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> complex plus adjacent histocompatibility 
+genes has been shown to be about equal to the cumulative non-H-2 immunogenicity (
+<a href="javascript:windowt243 = window.open('../tables/table24-3.shtml', 'windowt243', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt243.focus()">Table 3</A>). 
+The individual non-H-2 antigens are weaker, falling on a continuum from the strong H-4<SUP>b</SUP> antigen (which is 
+slightly weaker than H-2D) to the extremely weak H-9 antigens. Great variations exist in the strengths of the antigens controlled by the alleles 
+of many of the loci (
+<a href="javascript:windowt243 = window.open('../tables/table24-3.shtml', 'windowt243', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt243.focus()">Table 3</A>) (
+<A HREF="#ref24-20">20</A>, 
+<A HREF="#ref24-21">21</A>). As data accumulate on the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex, it is apparent that the "H-2 immunogenicity" is really the cumulative immunogenicity 
+of multiple histocompatibility antigens. In addition to the immunogenicity of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95904" target="_blank"><I>H-2K</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95895" target="_blank"><I>H-2A</I></A>, <I>H-2C</I>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95896" target="_blank"><I>H-2D</I></A>, there are now added 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95979" target="_blank"><I>H-31</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95980" target="_blank"><I>H-32</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95981" target="_blank"><I>H-33</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:106031" target="_blank"><I>H-39</I></A>. It would appear 
+that when the appropriate crossover and congenic strains are produced the immunogenicity of the individual antigens of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex and adjacent genes may prove to be comparable to that of the individual non-H-2 antigens.
+
+<P>To quantitate more accurately the cellular immune response to histocompatibility antigens of varying strengths, B10.A mice were injected with 
+varying numbers of lymphocytes differing at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+locus, and C57BL/10Sn mice were injected with varying numbers of lymphocytes differing at the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95993" target="_blank"><I>H-4</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96006" target="_blank"><I>H-7</I></A>, and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> 
+loci. The B10.A and C57BL/10Sn mice were then grafted with skin from the lymphocyte 
+donors at varying intervals thereafter. The speed of rejection of the skin grafts was taken as an indication of the level of immunity. A first 
+set rejection was taken to indicate that the antigen dose was too small to be recognized (a subthreshold dose); a second set rejection was taken 
+to indicate that an immunizing dose had been given; prolonged survival was taken to indicate that the immune system had been overwhelmed (I avoid 
+the word "tolerance" because I wish to make no implications concerning mechanism). The responses of mice tested one week after antigen challenge 
+indicated that the ability to immunize and overwhelm relates directly to immunogenicity: the weaker the antigen, the larger the amount of antigen 
+needed to immunize and the smaller the amount of antigen needed to overwhelm. With H-2 antigens and the strongest non-H-2 antigens, small doses of 
+allogenic lymphocytes sensitized (as indicated by accelerated rejection of subsequent skin grafts) and the largest doses used did not produce 
+non-reactivity. With weaker antigens the threshold immunizing dose increased and the dose producing non-reactivity decreased until, with extremely 
+weak antigens, no single dose sensitized and relatively small numbers of cells overwhelmed (
+<A HREF="#ref24-33">33</A>, 
+<A HREF="#ref24-34">34</A>).
+
+<P>Following the injection of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+disparate lymphocytes the immune response to the H-2 antigen was apparent one day later, peaked three 
+days later, and waned 14 days later, persisting in a low grade manner for 98 days. Following the injection of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95993" target="_blank"><I>H-4</I></A> disparate lymphocytes the 
+immune response to the H-4 antigens appeared two days later, peaked four days later, and waned at 14 days, persisting at a moderate level until 
+98 days. Following the injection of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96006" target="_blank"><I>H-7</I></A> 
+disparate lymphocytes the immune response to the H-7 antigen first appeared seven days later and reached a 
+persistent maximum at 28 days, persisting at that high level for 98 days. Following the injection of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A> disparate lymphocytes the immune response 
+to the H-13 antigen was suppressed for 14 days. Immunity first appeared 35 days after injection and disappeared by day 56 (
+<a href="javascript:windowf242 = window.open('../figures/figure24-2.shtml', 'windowf242', 'width=800,height=700,resizable=yes,scrollbars=yes'); windowf242.focus()">Figure 2</A>). 
+This assay has the limitation of being very slow (the length of the assay is the duration of the graft survival time) and 
+relatively inaccurate in estimating latency. Nevertheless, comparisons between the patterns of the responses to antigens of different strengths 
+can be made. Clearly, the weaker the antigen the longer the latent period. As in previous studies of Snell <I>et al.</I> (
+<A HREF="#ref24-35">35</A>) using Winn's assay, strong cellular immunity to H-2 antigens is short lived. If cellular immunity persists at a high level only 
+as long as antigen is present, the short duration of strong cellular immunity against H-2 antigens and the long duration of cellular immunity 
+against H-4 and H-7 antigens may reflect the rate of clearance of the antigen. The fluctuating response against the weak H-13 antigen probably 
+reflects the small size of the clone capable of responding.
+
+<P>The immunogenicity of transplantation antigens can be cumulative under some circumstances and not cumulative under others. The immunogenic 
+relationship between multiple transplantation antigens on a single cell has been studied using congenic strains differing at one or more <I>H</I>-loci (
+<A HREF="#ref24-36">36</A>). The immune response against a cell containing two antigens theoretically can be directed at either or both antigens; if the 
+magnitude of the immune response against both antigens is no stronger than the magnitude of the response to the stronger antigen alone, then it 
+can be said that the weaker antigen has made no contribution to total immunogenicity and there is no cumulative effect. if, however, the magnitude 
+of the response to the double difference is stronger than the response to the stronger antigen alone, then it can be stated that there is a cumulative 
+effect. When grafts were exchanged between strains differing by two loci, the greatest cumulative effects were noted when the rejection rates were 
+of similar magnitudes. If the immunogenicities of the individual antigens were different, no cumulative effect was noted. If a third antigen was 
+added to two others, its immunogenicity contributed only if there was a similarity in the rates of rejection of the single and double differences. 
+It would appear that if one continues to add weaker antigens, they would be cumulative only as long as the rate of rejection of the multiple differences 
+was sufficiently similar to the rate of rejection of the last antigen to be added. Although B10.D2 and DBA/2 differ by about 34 minor H-antigens, it 
+is probable that only the two or three of the strongest antigens affect the magnitude of the immune response. These observations held true whether 
+H-2 antigens were involved or not. The mechanism of the cumulative effect is not known. It has been hypothesized (
+<A HREF="#ref24-36">36</A>) that if two antigens of disparate immunogenicity existed on the same cell, the stronger antigen would lead to sensitization and 
+cell destruction before the weak antigen could trigger an immune response in its clone. If the immunogenicities were similar, both clones would be 
+triggered. Nothing is known about the mechanisms of immunologic destruction of cells bearing single antigenic differences versus cells bearing 
+multiple differences. The observed results can be explained on the basis of independent action on each antigen. This does not mean that an effect 
+beyond this independent action does not exist (
+<A HREF="#ref24-37">37</A>).
+
+<P>The H-2 antigens elicit near-maximal responses which obliterate many characteristics of allograft rejection that are apparent with the weaker 
+responses to non-H-2 antigens. Although the size of grafts exchanged across H-2 barriers does not affect graft rejection, the size of grafts exchanged 
+across non-H-2 barriers does. Both the ability to sensitize and the time required for graft destruction are size dependent with larger grafts sensitizing 
+more rapidly and taking longer to reject (
+<A HREF="#ref24-38">38</A>, 
+<A HREF="#ref24-39">39</A>). Rejection of grafts from hemi-allogeneic donors occurs significantly more slowly that rejection of grafts from totally allogeneic donors (
+<A HREF="#ref24-40">40</A>). These observations tend to indicate that both the affector and the effector mechanisms are dose dependent. The female immune response is 
+often stronger than the male response to the same antigen (reviewed in 
+<A HREF="#ref24-41">41</A>). This is quite apparent in the immune response to many non-H-2 antigens as indicated by shorter MST's in females than in males. This 
+difference is obliterated following gonadectomy and adrenalectomy. In fact, the strength of male rejection and to a lesser extent the strength of female 
+rejection were greater than the strength of unaltered mice. It has been hypothesized that the strengthened immune response was due to the removal of 
+endogenous immunosuppressive adrenal and gonadal steroids and that the difference between male and female rejection times was due to quantitative and 
+qualitative differences in the endogenous male and female adrenal and gonadal steroids.
+
+<P><CENTER><I>In Vitro</I> Assays for Non-H-2 Antigens</CENTER>
+
+<P>Until recently, <I>in vitro</I> assays generally have been unsuccessful in demonstrating non-H-2 antigens. Perhaps as a result of improved technology, 
+positive results have been obtained. Tests using humoral immune techniques to demonstrate non-H-2 transplantation antigens have rarely been successful. Winn, Stevens, and Snell (
+<A HREF="#ref24-42">42</A>) produced hemolytic antibodies directed against H-1 and H-3 antigens. Snell and Graff (unpublished data) produced monospecific 
+hemagglutinating antibodies directed against H-1 and H-7 by exchanging skin grafts between congenic strains differing by these genes and, following rejection, 
+injecting donor strain lymphocytes. The hemagglutinating antibodies produced had extremely high titers but lost activity rapidly following freezing. 
+Subsequent attempts to produce these antisera were unsuccessful. Zink and Heyner (
+<A HREF="#ref24-43">43</A>) produced polyspecific non-H-2 antisera by injecting B10.D2/n spleen and lymph node cells into (BALB/cJxDBA/2J)F<SUB>1</SUB> mice. 
+Anti H-3 and H-8 activity was demonstrated using hemagglutination, immunofluorescence, and mixed hemabsorption techniques with B10.LP-<I>a</I> and B10.D2(57N) 
+target cells, respectively. It is of particular note that none of these studies have been able to demonstrate lymphocytotoxic activity. 
+The indirect radioimmunoassay has been used successfully to demonstrate TL antigen (
+<A HREF="#ref24-44">44</A>) and tumor-specific antigens (
+<A HREF="#ref24-45">45</A>). In pilot studies in our laboratory target cells were reacted with putative antisera and either <SUP>125</SUP>I-labeled 
+goat-anti-mouse globulin or <SUP>125</SUP>I-labeled staphylococcal protein A as binding agents. Although early studies were encouraging, we have not yet 
+succeeded in applying this technique to non-H-2 antigens.
+
+<P>Although Mangi and Mardiney (
+<A HREF="#ref24-46">46</A>) have reported weak mixed lymphocyte reaction to individual non-H-2 antigens, most investigators have been unsuccessful in 
+doing so. Recent personal communications have indicated success (Wettstein personal communication) and failure (Dunlop, personal communication) with 
+this technique. The cell-mediated lysis (CML) assay has proven more effective, Gordon <I>et al.</I> (
+<A HREF="#ref24-47">47</A>) using CML against the H-Y antigen and Bevan (
+<A HREF="#ref24-48">48</A>) using CML against H-3, H-13, H-7, and H-8 antigens.
+
+
+<P><CENTER>CONCLUSION</CENTER>
+
+<P>In summary, many polymorphic cell membrane structures under the control of multiple genes scattered throughout the genome are specifically 
+recognizable by the immune system. Although these structures are collectively called by the name histocompatibility antigens, and the controlling 
+genes are collectively called by the name histocompatibility genes, they may have no more in common than being membrane structures that are 
+immunologically recognizable. Actually we know nothing about the functions of these structures, which may be different from one another and 
+different from the functioning of the antigens of the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A> 
+complex. Although these studies were stimulated by a need to know about 
+allograft rejection and histoincompatibility, the knowledge gained may have greater implications for cell biology in general and the function 
+of the cell membrane specifically.
+
+<HR>
+<A NAME="footnote1"></A><SUP>1</SUP>Supported by U.S. Public Health Service Research Grant AI 07437 from the National 
+Institute of Allergy and Infectious Diseases and Veterans Administration Grant MRIS #3177.
+<HR>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref24-1"></A>
+<P>1. Loeb, L. (1901). J. Med. Res. <B>1:</B> 28.
+
+<A NAME="ref24-2"></A>
+<P>2. Tyzzer, E.E. (1909). J. Med. Res. <B>21:</B> 519.
+
+<A NAME="ref24-3"></A>
+<P>3. Little, C.C. (1914). Science <B>40:</B> 904.
+
+<A NAME="ref24-4"></A>
+<P>4. Snell, G.D. (1948). J. Genet. <B>49:</B> 7.
+
+<A NAME="ref24-5"></A>
+<P>5. Little, C.C, and Tyzzer, E.E. (1916). J. Med. Res. <B>33:</B> 393.
+
+<A NAME="ref24-6"></A>
+<P>6. Bailey, D.W., and Mobraaten, L.E. (1969). Transplantation <B>7:</B> 394.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4890906" target="_blank">PubMed</A></I>.
+<!-- PMID: 4890906 -->
+
+<A NAME="ref24-7"></A>
+<P>7. Graff, R.J., and Brown, D.H. (1978). Immunogenetics 7: 413.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52930" target="_blank">MGI</A></I>.
+<!-- MGI:52930-->
+
+<A NAME="ref24-8"></A>
+<P>8. Bailey, D.W. (1970). Transplant. Proc. <B>2:</B> 32.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5521745" target="_blank">PubMed</A></I>.
+<!-- PMID: 5521745 -->
+
+<A NAME="ref24-9"></A>
+<P>9. Snell, G.D., and Stevens, L.C. (1961). Immunology <B>4:</B> 366.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48661" target="_blank">MGI</A></I>.
+<!-- MGI:48661 -->
+
+<A NAME="ref24-10"></A>
+<P>10. Snell, G.D., and Bunker, H.P. (1964). Transplantation <B>2:</B> 743.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48658" target="_blank">MGI</A></I>.
+<!-- MGI:48658 -->
+
+<A NAME="ref24-11"></A>
+<P>11. Snell, G.D., and Bunker, H.P. (1965). Transplantation <B>3:</B> 235.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:48840" target="_blank">MGI</A></I>.
+<!-- MGI:48840 -->
+
+<A NAME="ref24-12"></A>
+<P>12. Bailey, D.W. (1963). Transplantation <B>1:</B> 70.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61353" target="_blank">MGI</A></I>.
+<!-- MGI:61353 -->
+
+<A NAME="ref24-13"></A>
+<P>13. Bailey, D.W. (1975). Immunogenetics <B>2:</B> 249.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52913" target="_blank">MGI</A></I>.
+<!-- MGI:52913 -->
+
+<A NAME="ref24-14"></A>
+<P>14. Flaherty, L., and Wachtel, S.S. (1975). Immunogenetics <B>2:</B> 81.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52925" target="_blank">MGI</A></I>.
+<!-- MGI:52925 -->
+
+<A NAME="ref24-15"></A>
+<P>15. Flaherty, L. (1975). Immunogenetics <B>2:</B> 325.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52923" target="_blank">MGI</A></I>.
+<!-- MGI:52923 -->
+
+<A NAME="ref24-16"></A>
+<P>16. Artzt, K., Hamburger, L., and Flaherty, L. (1977). Immunogenetics <B>5:</B> 477.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52911" target="_blank">MGI</A></I>.
+<!-- MGI:52911 -->
+
+<A NAME="ref24-17"></A>
+<P>17. Eichwald, E.J., and Silmser, C.R. (1955). Transplant. Bull. <B>2:</B> 148.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->12334405" target="_blank">PubMed</A></I>.
+<!-- PMID: 12334405 -->
+
+<A NAME="ref24-18"></A>
+<P>18. Bailey, D.W., and Bunker, H.P. (1972). Mouse News Letter <B>47:</B> 18.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:61715" target="_blank">MGI</A></I>.
+<!-- MGI:61715 -->
+
+<A NAME="ref24-19"></A>
+<P>19. Graff, R.J., Brown, D., and Snell, G.D. (1973). Transplant. Proc. <B>5:</B> 299.
+
+<A NAME="ref24-20"></A>
+<P>20. Graff, R.J., Hildemann, W.H., and Snell, G.D. (1966). Transplantation <B>4:</B> 425.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53505" target="_blank">MGI</A></I>.
+<!-- MGI:53505 -->
+
+<A NAME="ref24-21"></A>
+<P>21. Graff, R.J., and Snell, G.D. (1968). Transplantation <B>6:</B> 598.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53561" target="_blank">MGI</A></I>.
+<!-- MGI:53561 -->
+
+<A NAME="ref24-22"></A>
+<P>22. Hildemann, W.H. (1970). Transplant. Rev. <B>3:</B> 5.
+
+<A NAME="ref24-23"></A>
+<P>23. Hildemann, W.H., and Cooper, E.L. (1967). Transplantation <B>5:</B> 707.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4862327" target="_blank">PubMed</A></I>.
+<!-- PMID: 4862327 -->
+
+<A NAME="ref24-24"></A>
+<P>24. Snell, G.D., Graff, R.J., and Cherry, M. (1971). Transplantation <B>11:</B> 525.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53681" target="_blank">MGI</A></I>.
+<!-- MGI:53681 -->
+
+<A NAME="ref24-25"></A>
+<P>25. Gasser, D.L. (1976). Immunogenetics <B>3:</B> 271.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52926" target="_blank">MGI</A></I>.
+<!-- MGI:52926 -->
+
+<A NAME="ref24-26"></A>
+<P>26. Graff, R.J., and Snell, G.D. (1969). Transplantation <B>8:</B> 861.
+
+<A NAME="ref24-27"></A>
+<P>27. Billingham, R.E., and Silvers, W.K. (1960). In <I>Transplantation of Tissues and Cells</I>, p. 149. Wistar, Philadelphia.
+
+<A NAME="ref24-28"></A>
+<P>28. Bailey, D.W., and Usama, B. (1960). Transplant. Bull. <B>7:</B> 424.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13795836" target="_blank">PubMed</A></I>.
+<!-- PMID: 13795836 -->
+
+<A NAME="ref24-29"></A>
+<P>29. Bailey, D.W., and Hoste, J. (1971). Transplantation <B>11:</B> 404.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4934351" target="_blank">PubMed</A></I>.
+<!-- PMID: 4934351 -->
+
+<A NAME="ref24-30"></A>
+<P>30. Gasser, D.L., and Silvers, W.K. (1971). Transplantation <B>12:</B> 412.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:72506" target="_blank">MGI</A></I>.
+<!-- MGI:72506 -->
+
+<A NAME="ref24-31"></A>
+<P>31. Wettstein, P.J., and Haughton, G. (1977). Immunogenetics <B>4:</B> 65.
+
+<A NAME="ref24-32"></A>
+<P>32. Wettstein, P.J., and Haughton, G. (1977). Immunogenetics <B>5:</B> 85.
+
+<A NAME="ref24-33"></A>
+<P>33. Graff, R.J. (1971). In <I>Immunogenetics of the H-2 System</I> (Liblice-Prague, ed.), p. 293. Karger, Basel.
+
+<A NAME="ref24-34"></A>
+<P>34. Graff, R.J. (1971). Curr. Top. Surg. Res. <B>3:</B> 363.
+
+<A NAME="ref24-35"></A>
+<P>35. Snell, G.D., Winn, H.J., and Kandutsch, A.D. (1961). J. Immunol. <B>87:</B> 1.
+
+<A NAME="ref24-36"></A>
+<P>36. Graff, R.J., Silvers, W.K., Billingham, R.E., Hildemann, W.H., and Snell, G.D. (1966). Transplantation <B>4:</B> 605.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5339407" target="_blank">PubMed</A></I>.
+<!-- PMID: 5339407 -->
+
+<A NAME="ref24-37"></A>
+<P>37. Bailey, D.W. (1971). Transplantation <B>11:</B> 419.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->5558921" target="_blank">PubMed</A></I>.
+<!-- PMID: 5558921 -->
+
+<A NAME="ref24-38"></A>
+<P>38. Lapp, W.S., and Bliss, J.Q. (1966). Transplantation <B>4:</B> 754.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4866728" target="_blank">PubMed</A></I>.
+<!-- PMID: 4866728 -->
+
+<A NAME="ref24-39"></A>
+<P>39. Lappe, M.A., Graff, R.J., and Snell, G.D. (1969). Transplantation <B>7:</B> 372.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4890904" target="_blank">PubMed</A></I>.
+<!-- PMID: 4890904 -->
+
+<A NAME="ref24-40"></A>
+<P>40. Galton, M. (1967). Transplantation <B>5:</B> 154.
+
+<A NAME="ref24-41"></A>
+<P>41. Graff, R.J., Lappe, M.A., and Snell, G.D. (1969). Transplantation <B>7:</B> 105.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4884914" target="_blank">PubMed</A></I>.
+<!-- PMID: 4884914 -->
+
+<A NAME="ref24-42"></A>
+<P>42. Winn, H., Stevens, L.C., and Snell, G.D. (1958). Transplant. Bull. <B>5:</B> 18.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->13530183" target="_blank">PubMed</A></I>.
+<!-- PMID: 13530183 -->
+
+<A NAME="ref24-43"></A>
+<P>43. Zink, G.L., and Heyner, S. (1977). Immunogenetics <B>4:</B> 257.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:60327" target="_blank">MGI</A></I>.
+<!-- MGI:60327 -->
+
+<A NAME="ref24-44"></A>
+<P>44. Esmon, N.L., and Little, J.R. (1976). J. Immunol. <B>117:</B> 911.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->956660" target="_blank">PubMed</A></I>.
+<!-- PMID: 956660 -->
+
+<A NAME="ref24-45"></A>
+<P>45. Ting, C.C., and Herberman, R.B. (1971). Transplant. Proc. <B>3:</B> 873.
+
+<A NAME="ref24-46"></A>
+<P>46. Mangi, R.J., and Mardiney, M.R., Jr. (1971). Transplant. Proc. <B>3:</B> 873.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4937984" target="_blank">PubMed</A></I>.
+<!-- PMID: 4937984 -->
+
+<A NAME="ref24-47"></A>
+<P>47. Gordon, R.D., Simpson, E., and Samuelson, L.E. (1975). J. Exp. Med. <B>142:</B> 1108.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54069" target="_blank">MGI</A></I>.
+<!-- MGI:54069 -->
+
+<A NAME="ref24-48"></A>
+<P>48. Bevan, M. (1976). Immunogenetics <B>3:</B> 177.
+
+<DIV Align="center"><H4> <A HREF="schlom.shtml">Previous</A> <A HREF="old.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

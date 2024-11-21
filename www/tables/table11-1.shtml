@@ -1,0 +1,465 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 11-1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 11 -->
+
+<H3>TABLE 1. Inbred Strains Used in the Production of Congenic Resistant (CR) Strains</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>Strain<SUP>
+<A HREF="#a">a</A></SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Short<BR>Symbol</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN=CENTER VALIGN=BOTTOM>Genotype<SUP>
+<A HREF="#b">b</A>, 
+<A HREF="#c">c</A></SUP></TD>
+</TR>
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>A/WySn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>A</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+(17) <I>H-2<SUP>a</SUP> Tla<SUP>a</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP> </I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>AKR/J</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>AKR</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>
+(17) <I>H-2<SUP>k</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>b</SUP> Apl<SUP>b</SUP> </I>
+<I> Ly-2<SUP>a</SUP> </I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>BALB/c</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>C</TD>
+<TD>&nbsp;</TD>
+<TD>
+(2) <I>H-3<SUP>c</SUP> Ir-2<SUP>b</SUP> H-13<SUP>not a or b</SUP> A </I><BR>
+(7) <I>c Hbb<SUP>d</SUP> H-1<SUP>b</SUP> </I><BR>
+(9) <I>Thy-1<SUP>b</SUP> Fv-2<SUP>s</SUP> H-7<SUP>b</SUP> </I><BR>
+(17) <I>H-2<SUP>d</SUP> Tla<SUP>c</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP> </I><BR>
+<I>H-9<SUP>b</SUP> </I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>CBA</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>CBA</TD>
+<TD>&nbsp;</TD>
+<TD>(19) <I>Ly-1<SUP>b</SUP> </I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>CE/J</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>CE</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>b</SUP> H-13<SUP>b</SUP> A<SUP>w</SUP></I><BR>
+(7) <I>H-4<SUP>not a or b</SUP> c<SUP>e</SUP> Hbb<SUP>s</SUP> H-1<SUP>a, b, or c</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>C3H/HeDiSn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>C3H</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> H-13<SUP>c</SUP> A </I><BR>
+(7) <I>H-4<SUP>a</SUP> C Hbb<SUP>d</SUP> H-1<SUP>a</SUP> </I><BR>
+(17) <I>H-2<SUP>k</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>b</SUP> Apl<SUP>b</SUP> </I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>C57BL/6By</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>B6</TD>
+<TD>&nbsp;</TD>
+<TD>Same as C57BL/10Sn except <I>H-9<SUP>not a or b</SUP></I>, a difference at an <I>H</I> locus on chromosome 4, and an <I>Ea</I> difference.</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>C57BL/10Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>B10</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>a</SUP> Ir-2<SUP>a</SUP> We Un H-13<SUP>a</SUP> a<I><BR>
+(6) <I>Ly-2,3<SUP>b</SUP></I><BR>
+(7) <I>P H-4<SUP>a</SUP> C Hbb<SUP>s</SUP> H-1<SUP>c</SUP></I><BR>
+(9) <I>Thy-1<SUP>b</SUP> Fv-2<SUP>r</SUP> H-7<SUP>a</SUP></I><BR>
+(17) <I>H-2<SUP>b</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP></I><BR>
+<I>Ea-2<SUP>b</SUP></I><BR>
+<I>Ea-7<SUP>b</SUP></I><BR>
+<I>Hc<SUP>1</SUP></I><BR>
+<I>H-8<SUP>a</SUP></I><BR>
+<I>H-9<SUP>a</SUP></I><BR>
+<I>H-10<SUP>a</SUP></I><BR>
+<I>H-11<SUP>a</SUP></I><BR>
+<I>H-12<SUP>a</SUP></I><BR>
+<I>Mlv-1<SUP>b</SUP></I><BR>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>DA/HuSn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>DA</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>qp</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>b</SUP> Apl<SUP>?</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>DBA/1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>D1</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>q</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>?</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>DBA/2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>D2</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>Hbb<SUP>d</SUP> H-1<SUP>a</SUP></I><BR>
+(17) <I>H-2<SUP>d</SUP> Tla<SUP>c</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP></I><BR>
+<I>Hc<SUP>0</SUP></I><BR>
+<I>H-8<SUP>b</SUP></I><BR>
+<I>H-11<SUP>?</SUP></I><BR>
+<I>Mlv-1<SUP>a</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>FS/Ei</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>FS</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>p H-4<SUP>?</SUP> c<SUP>ch</SUP> sh-1 Hbb<SUP>d</SUP> H-1<SUP>?</SUP> fr</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>HTG/SFSN</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>HTG</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>g</SUP> Tla<SUP>b</SUP> Pgk<SUP>?</SUP> Apl<SUP>?</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>JK/Sf</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>JK</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>j</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>?</SUP> Apl<SUP>?</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>KR/Di</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>KR</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>d</SUP> Ir-2<SUP>?</SUP> H-13<SUP>c</SUP> A</I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>LG/Ckc</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>LG/CKC</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>ar</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>LP</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>LP</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> H-13<SUP>b</SUP> A<SUP>w</SUP></I><BR>
+(17) <I>H-2<SUP>b(or bc)</SUP> Tla<SUP>c</SUP> Pgk-2<SUP>c</SUP> Apl<SUP>b</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>P/Sn</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>P</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>p H-4<SUP>?</SUP> C Hbb<SUP>d</SUP> H-1<SUP>?</SUP></I><BR>
+(17) <I>H-2<SUP>p</SUP> Tla<SUP>?</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>PA/Re</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>B6-<I>pa</I></TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>pa H-3<SUP>?</SUP> H-13<SUP>?</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>PL/J</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>PL</TD>
+<TD>&nbsp;</TD>
+<TD>(6) <I>Ly-2,3<SUP>a</SUP></I><BR>
+(9) <I>Thy-1<SUP>a</SUP></I><BR>
+(17) <I>H-2<SUP>u</SUP> Tla<SUP>a</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>RIII</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>RIII</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>r</SUP> Tla<SUP>?</SUP> Pgk-2<SUP>b</SUP> Apl<SUP>?</SUP></I><BR>
+<I>E-a<SUP>2</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>SEC</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>SEC</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>H-4<SUP>?</SUP> c<SUP>ch</SUP> Hbb<SUP>s</SUP> H-1<SUP>not a, b, or c</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>SM/J</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>SM</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>H-4<SUP>?</SUP> C Hbb<SUP>s</SUP> H-1<SUP>not a, b, or c</SUP></I><BR>
+(17) <I>H-2<SUP>v</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>a</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>ST/bJ</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>ST</TD>
+<TD>&nbsp;</TD>
+<TD>(17) <I>H-2<SUP>k</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>b</SUP> Apl<SUP>b</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>UW/Le</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>UW</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> we un H-13<SUP>a</SUP> a<SUP>t</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>WB/Re</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>WB</TD>
+<TD>&nbsp;</TD>
+<TD>(7) <I>H-4<SUP>not a or b</SUP> C Hbb<SUP>d</SUP> H-1<SUP>a</SUP></I><BR>
+(17) <I>H-2<SUP>ja</SUP> Tla<SUP>b</SUP> Pgk-2<SUP>a</SUP> Apl<SUP>b</SUP></I></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>129</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=TOP>129</TD>
+<TD>&nbsp;</TD>
+<TD>(2) <I>H-3<SUP>b</SUP> Ir-2<SUP>?</SUP> H-13<SUP>b</SUP> A<SUP>w</SUP></I><BR>
+(7) <I>p H-4<SUP>b</SUP> c Hbb<SUP>d</SUP> H-1<SUP>b</SUP></I><BR>
+(17) <I>H-2<SUP>bc</SUP> Tla<SUP>c</SUP> Pgk-2<SUP>c</SUP> Apl<SUP>b</SUP></I><BR>
+<I>H-10<SUP>b</SUP></I><BR>
+<I>H-11<SUP>b</SUP></I><BR>
+<I>H-12<SUP>b</SUP></I><BR>
+<I>Ea-7<SUP>a</SUP></I></TD>
+</TR>
+
+<TR><TD COLSPAN=5><HR></TD></TR>
+
+<TR><TD COLSPAN=5>
+<P><I>Legend to Table 1</I>
+
+<A NAME="a"></A>
+<P><SUP>a</SUP>The strains listed are those inbred strains which entered, either as first or second parent, 
+into the production of the congenic strains shown in Tables 
+<a href="javascript:windowt112 = window.open('table11-2.shtml', 'windowt112', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt112.focus()">2</A>, 
+<a href="javascript:windowt113 = window.open('table11-3.shtml', 'windowt113', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt113.focus()">3</A>, 
+<a href="javascript:windowt114 = window.open('table11-4.shtml', 'windowt114', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt114.focus()">4</A>, and 
+<a href="javascript:windowt115 = window.open('table11-5.shtml', 'windowt115', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt115.focus()">5</A>. In the case of some of the early strains, especially those in 
+<a href="javascript:windowt112 = window.open('table11-2.shtml', 'windowt112', 'width=800,height=1000,resizable=yes,scrollbars=yes'); windowt112.focus()">Table 2</A>, the subtrain used is unknown and is therefore not indicated. Where more than one 
+substrain is used, as in the case of C57BL/6, the currently most relevant is shown.
+
+<A NAME="b"></A>
+<P><SUP>b</SUP>The loci listed for each inbred strain are, with the exception of a few linked loci, those 
+at which differences occur between one or more congenics and the inbred strain. Chromosome numbers, where 
+known, are indicated in parentheses. Genes closest to the centromere are given at the left of each group 
+of linked genes. Loci whose relative positions are undetermined are bracketed. The references from which 
+information concerning genotype have been taken are: 
+<A HREF="#ref11-34">34</A> (information re 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882" target="_blank"><I>H-1</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95886" target="_blank"><I>H-13</I></A>, strain KR), 
+<A HREF="#ref11-35">35</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95977" target="_blank"><I>H-3</I></A>), 
+<A HREF="#ref11-39">39</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96584" target="_blank"><I>Ir-2</I></A>), 
+<A HREF="#ref11-41">41</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A>), 
+<A HREF="#ref11-43">43</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97563" target="_blank"><I>Pgk-2</I></A>), 
+<A HREF="#ref11-44">44</A> (linkage of 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:99614" target="_blank"><I>Fv-2</I></A> and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96006" target="_blank"><I>H-7</I></A>), 
+<A HREF="#ref11-58">58</A> (non-<I>H-2</I> alleles), 
+<A HREF="#ref11-59">59</A> (non-<I>H-2</I> alleles), 
+<A HREF="#ref11-60">60</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" target="_blank"><I>a</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" target="_blank"><I>c</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" target="_blank"><I>Hbb</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96031" target="_blank"><I>Hc</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" target="_blank"><I>H-2</I></A>, 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" target="_blank"><I>p</I></A>), 
+<A HREF="#ref11-62">62</A> (strains FS and UW), 
+<A HREF="#ref11-63">63</A> (does BALB/c have fifth 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95950" target="_blank"><I>Tla</I></A> allele?), 
+<A HREF="#ref11-64">64</A> (
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97305" target="_blank"><I>Apl</I></A>), 
+<A HREF="#ref11-65">65</A> (<I>Ea</I> difference between B6 and B10).
+
+<A NAME="c"></A>
+<P><SUP>c</SUP>The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97563" target="_blank"><I>Pgk-2</I></A> 
+allele of strain 129 differs in different sublines. The allele in the subline which we have used appears to have been <I>Pgk-2<SUP>c</SUP></I>.
+</TD></TR>
+
+
+</TABLE>
+
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref11-34"></A>
+<P>34. Graff, R.J., and Bailey, D.W. (1973). Transplant. Rev. <B>15:</B> 26.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:53892" target="_blank">MGI</A></I>.
+<!-- MGI:53892 -->
+
+<A NAME="ref11-35"></A>
+<P>35. Graff, R.J., Brown, D., and Snell, G.D. (1973). Transplant. Rev. <B>15:</B> 299.
+
+<A NAME="ref11-39"></A>
+<P>39. Gasser, D.L. (1976). Immunogenetics <B>3:</B> 271.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52926" target="_blank">MGI</A></I>.
+<!-- MGI:52926 -->
+
+<A NAME="ref11-41"></A>
+<P>41. Flaherty, L., Sullivan, K., and Zimmerman, D. (1977). J. Immunol. <B>119:</B> 571.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54322" target="_blank">MGI</A></I>.
+<!-- MGI:54322 -->
+
+<A NAME="ref11-43"></A>
+<P>43. Eicher, E.M., Cherry, M., and Flaherty, L. (1978). Mol. Gen. Genet. <B>158:</B> 225.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:54419" target="_blank">MGI</A></I>.
+<!-- MGI:54419 -->
+
+<A NAME="ref11-44"></A>
+<P>44. Bailey, D.W., and Lilly, F. (1978). Personal communication.
+
+<A NAME="ref11-58"></A>
+<P>58. Graff, R.J., and Snell, G.D. (1969). Transplantation <B>8:</B> 861.
+
+<A NAME="ref11-59"></A>
+<P>59. Graff, R.J., Polinsky, S.L., and Snell, G.D. (1971). Transplantation <B>11:</B> 56.
+<BR><I>See also 
+<A HREF="<!--#include file='include/url_pubmed.html'-->4927308" target="_blank">PubMed</A></I>.
+<!-- PMID: 4927308 -->
+
+<A NAME="ref11-60"></A>
+<P>60. Snell, G.D., and Cherry, M. (1972). In <I>Viruses and Host Genome in Oncogenesis</I> (P. Emmelot and P. Bentvetzen, eds.), p. 221. North-Holland Publ. Amsterdam.
+
+<A NAME="ref11-62"></A>
+<P>62. Lane, P.W. (1974). <I>Lists of Mutations and Mutant Stocks of the Mouse.</I> Mimeographed, The Jackson Laboratory, Bar Harbor.
+
+<A NAME="ref11-63"></A>
+<P>63. Snell, G.D., Dausset, J., and Nathenson, S. (1976). <I>Histocompatibility.</I> Academic Press, New York.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:78490" target="_blank">MGI</A></I>.
+<!-- MGI:78490 -->
+
+<A NAME="ref11-64"></A>
+<P>64. Lally, P.A., and Shows, F.B. (1977). Genetics <B>87:</B> 305.
+
+<P>
+<A HREF="cherry.shtml">65</A>. Cherry, M., Bailey, D.W., and Snell, G.D. (1978). In 
+<A HREF="cherry.shtml"><I>Origins of Inbred Mice</I></A> (H.C. Morse III, ed.). Academic Press, New York.
+
+
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,214 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Origins of Inbred Mice - Table 26-2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 7.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<!-- Chapter 26 -->
+
+<CENTER>
+<H3>TABLE 2. Comparison of BALB/cBy to BALB/cFla</H3>
+
+<TABLE>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+<TR>
+<TD>Name</TD>
+<TD>&nbsp;</TD>
+<TD>Strain combination</TD>
+<TD>&nbsp;</TD>
+<TD>BALB/cBy</TD>
+<TD>&nbsp;</TD>
+<TD>BALB/cFla</TD>
+</TR>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>D-4</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>(B10.AKM x 129) anti-B10.A</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/160</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/160</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>D'</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>BALB/c-<I>H-2<SUP>db</SUP></I> anti-BALB/c</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/160</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/160</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>TL</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>(A-<I>Tla<SUP>b</SUP></I> x B6) anti-ASL1</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/400</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/400</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>D-28</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>(B10.BR x A.CA) anti-A.SW<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/100</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/300</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>Qa-2</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>B6.K1 anti-ERLD</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>0</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/200</TD>
+</TR>
+
+<TR>
+<TD VALIGN=BOTTOM>Qa-3</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>B6.K1 anti-E abs. with EL4<SUP>c</SUP></TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>0</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>1/100</TD>
+</TR>
+
+<TR><TD COLSPAN=7 ALIGN=CENTER><TABLE>
+
+<TR>
+<TD COLSPAN=5 ALIGN=CENTER><U>Skin grafting</U></TD>
+</TR>
+
+<TR>
+<TD ALIGN=CENTER>Recipient</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>Donor</TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN=CENTER>Rejection times (days)<SUP>d</SUP></TD>
+</TR>
+
+<TR>
+<TD><HR></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><HR></TD>
+<TD>&nbsp;&nbsp;&nbsp;</TD>
+<TD><HR></TD>
+</TR>
+
+
+<TR>
+<TD>BALB/cBy</TD>
+<TD>&nbsp;</TD>
+<TD>BALB/cFla</TD>
+<TD>&nbsp;</TD>
+<TD>24,24,24,26,26,26,28,--,--,--</TD>
+</TR>
+
+<TR>
+<TD>BALB/cFla</TD>
+<TD>&nbsp;</TD>
+<TD>BALB/cBy</TD>
+<TD>&nbsp;</TD>
+<TD>27,27,32,32,cr,--,--,--,--</TD>
+</TR>
+
+</TABLE></TD></TR>
+
+<TR><TD COLSPAN=7><HR></TD></TR>
+
+<TR><TD COLSPAN=7>
+
+<P><SUP>a</SUP>Target cell = lymph node lymphocytes for all sera except anti-TL. Target cell
+<BR>for anti-TL serum = thymocytes.
+
+<P><SUP>b</SUP>This antiserum was found to contain anti-Qa-2 (and/or Qa-3) activity -- hence
+<BR>the difference between BALB/cBy and BALB/cFla (
+<A HREF="#ref26-6">6</A>).
+
+<P><SUP>c</SUP>For method of absorption, see 
+<A HREF="#ref26-6">reference 6</A>.
+
+<P><SUP>d</SUP>Observation time = 100 days; cr= graft underwent crisis; -- = not rejected.
+
+</TD></TR>
+
+</TABLE>
+
+</CENTER>
+<P><CENTER>REFERENCES</CENTER>
+
+<A NAME="ref26-6"></A>
+<P>6. Flaherty, L., Zimmerman, D., and Hansen, T.H. (1978). Immunogenetics <B>6</B>: 245.
+<BR><I>See also 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:52929" target="_blank">MGI</A></I>.
+<!-- MGI:52929 -->
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+
