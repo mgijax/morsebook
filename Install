@@ -3,7 +3,6 @@
 # Program: Install
 # Purpose: Install script for the Morse Book
 # Assumptions: that this script is run from the directory which contains it
-#   (the morsebook installation directory)
 
 ###--- Global Variables ---###
 
@@ -51,51 +50,10 @@ ln -s $python_path python
 tar xvfp morsebook.tar
 
 ###--- Generate the include directory ----------------------------###
-mkdir include
+mkdir -p include
 gen_includes
-
-###--- Create include links and update permissions ---------------###
 cd www
-
 ln -s ../include/ include
-chmod 750 *
-chgrp www *
-
-for name in `ls`
-do
-    if [ -d $name ]; then
-        if [ $name != include ]; then
-            if [ $name != CVS ]; then
-                cd $name
-                ln -s ../../include/ include
-                chmod 750 *
-                chgrp www *
-                cd $TOP
-            fi
-        fi
-    fi
-done
-
+cd ..
 chmod -f 750 *
 chgrp -f www *
-
-
-#
-# Warranty Disclaimer and Copyright Notice
-# 
-#  THE JACKSON LABORATORY MAKES NO REPRESENTATION ABOUT THE SUITABILITY OR 
-#  ACCURACY OF THIS SOFTWARE OR DATA FOR ANY PURPOSE, AND MAKES NO WARRANTIES, 
-#  EITHER EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY AND FITNESS FOR A 
-#  PARTICULAR PURPOSE OR THAT THE USE OF THIS SOFTWARE OR DATA WILL NOT 
-#  INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS, OR OTHER RIGHTS.  
-#  THE SOFTWARE AND DATA ARE PROVIDED "AS IS".
-# 
-#  This software and data are provided to enhance knowledge and encourage 
-#  progress in the scientific community and are to be used only for research 
-#  and educational purposes.  Any reproduction or use for commercial purpose 
-#  is prohibited without the prior express written permission of the Jackson 
-#  Laboratory.
-# 
-# Copyright © 1996, 1999, 2002 by The Jackson Laboratory
-# All Rights Reserved
-#
